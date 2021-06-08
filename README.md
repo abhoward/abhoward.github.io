@@ -3,7 +3,7 @@
 
 Below are visualizations based on data from The Animajor 2021.
 
-### Hero Win Rates
+### [Hero Win Rates](https://abhoward.github.io/hero-win-rates.html)
 
 ### First Pick Wins: Radiant vs Dire
 
