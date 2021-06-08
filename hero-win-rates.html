@@ -21,7 +21,7 @@
 
 
             Highcharts.setOptions({"global": {}, "lang": {"thousandsSep": ","}});
-            var option = {"chart": {"renderTo": "container", "type": "column", "height": 750, "width": 2250}, "colors": {}, "credits": {"enabled": false}, "drilldown": {}, "exporting": {}, "labels": {}, "legend": {"verticalAlign": "top"}, "loading": {}, "navigation": {}, "pane": {}, "plotOptions": {"spline": {"zones": [{"value": 0.5, "color": "#f56969"}]}}, "series": {}, "subtitle": {}, "title": {"text": "Hero Win Rate"}, "tooltip": {"shared": true, "pointFormatter": function() {
+            var option = {"chart": {"renderTo": "container", "type": "column"}, "colors": {}, "credits": {"enabled": false}, "drilldown": {}, "exporting": {}, "labels": {}, "legend": {"verticalAlign": "top"}, "loading": {}, "navigation": {}, "pane": {}, "plotOptions": {"spline": {"zones": [{"value": 0.5, "color": "#f56969"}]}}, "series": {}, "subtitle": {}, "title": {"text": "Hero Win Rate"}, "tooltip": {"shared": true, "pointFormatter": function() {
             var value;
             if (this.series.name == "Win Rate") {
                 value = this.y*100;
