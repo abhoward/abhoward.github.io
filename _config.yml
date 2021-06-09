@@ -5,10 +5,3 @@ author: "Alec Howard"
 description: "A place to look at extremely cool and not uncool graphs made by some guy who likes Dota too much"
 date_format: "%Y-%m-%d"
 url: "https://www.abhoward.github.io"
-
-# Build Settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
