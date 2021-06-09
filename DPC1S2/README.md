@@ -41,7 +41,7 @@
 ## **[Pick Order: Dire vs Radiant](pick-order-dire-rad.html "Click to view graph in full"){:target="_blank"}**
 
 ### Preview:
-<iframe src="pick-order-dire-rad.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="pick-order-dire-rad.html" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 #### Summary:
 - Out of 87 matches, Radiant got first pick only 21 times (~27%).
@@ -50,7 +50,7 @@
 ## **[Pick Order: Wins vs Losses](pick-order-wins-losses.html "Click to view graph in full"){:target="_blank"}**
 
 ### Preview:
-<iframe src="pick-order-wins-losses.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="pick-order-wins-losses.html" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
 
 #### Summary:
 - Having first pick alone doesn't seem to make much of a difference, with 44 wins vs 43 losses.
