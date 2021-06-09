@@ -1,3 +1,7 @@
+<form action="https://www.abhoward.github.io">
+    <input type="submit" value="Back"/>
+</form>
+
 <button name="button" onclick="https://www.abhoward.github.io">Back</button>
 
 # Animajor Stats & Graphs:
