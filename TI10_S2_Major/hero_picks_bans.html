@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link href="https://www.highcharts.com/highslide/highslide.css" rel="stylesheet" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/heatmap.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/exporting.js"></script>
+    </head>
+    <body style="margin:0;padding:0">
+                <div id="container" style="width:2500px;height:1250px;">Loading....</div>
+
+
+    <script>
+        $(function(){
+
+
+
+
+
+            Highcharts.setOptions({"global": {}, "lang": {"thousandsSep": ","}});
+            var option = {"chart": {"renderTo": "container", "type": "column", "height": 1250, "width": 2500}, "colors": {}, "credits": {"enabled": false}, "drilldown": {}, "exporting": {}, "labels": {}, "legend": {"verticalAlign": "top"}, "loading": {}, "navigation": {}, "pane": {}, "plotOptions": {"series": {"stacking": "normal", "events": {"legendItemClick": function(event) {
+                    var s = this.chart.series;
+                    for(i = 0; i < s.length; i++) {
+                      if (this == s[i] && this.visible == true && s[1 - i].visible == true) {
+                        s[i].update({dataSorting: {enabled: true, sortKey: 'y', matchByName: true}});
+                        s[1 - i].update({dataSorting: {enabled: true, sortKey: 'y', matchByName: false}});
+                        s[1 - i].setData(s[1 - i].data, true, {duration: 1000});
+                        s[i].setVisible(false);
+                      }
+                      else if (this == s[i] && this.visible == false && s[1 - i].visible == true) {
+                        s[1 - i].update({dataSorting: {enabled: true, sortKey: 'this.point.stack'}});
+                        s[i].update({dataSorting: {enabled: true, sortKey: 'this.point.stack'}});
+                        s[1 - i].setData(s[1 - i].data, true, {duration: 1000});
+                        s[i].setVisible(true);
+                      }
+                      else if (this == s[i] && this.visible == true && s[1 - i].visible == false) {
+                      }
+                      else if (this == s[i] && this.visible == false && s[1 - i].visible == false) {
+                      }
+                    }
+  					return false;
+                }}}}, "series": {}, "subtitle": {}, "title": {"text": "Kyiv Major 2021 Wildcard + Group Stage Hero Stats"}, "tooltip": {"shared": true}, "dataSorting": {}, "xAxis": {"type": "category", "title": {"text": "Hero"}}, "yAxis": [{"min": 0, "max": 89, "title": {"text": "Number of Appearances"}, "plotLines": [{"id": "Total Matches", "color": "#2a9cd1", "width": 2, "value": 87, "dashStyle": "dash", "zIndex": 2, "label": {"text": "Total Matches", "x": 0, "y": -10}}]}]};
+
+
+ 
+
+            var chart = new Highcharts.Chart(option);
+
+            var data = [{"data": [["Mars", 43], ["Ancient Apparition", 29], ["Templar Assassin", 25], ["Nyx Assassin", 20], ["Broodmother", 9], ["Faceless Void", 17], ["Ursa", 16], ["Puck", 24], ["Viper", 11], ["Timbersaw", 13], ["Morphling", 17], ["Enchantress", 20], ["Lion", 32], ["Snapfire", 32], ["Terrorblade", 12], ["Wraith King", 14], ["Leshrac", 14], ["Dragon Knight", 21], ["Phantom Lancer", 9], ["Phoenix", 22], ["Tiny", 19], ["Spectre", 13], ["Doom", 12], ["Ember Spirit", 10], ["Dark Seer", 13], ["Magnus", 17], ["Dark Willow", 19], ["Lina", 15], ["Batrider", 4], ["Invoker", 15], ["Lifestealer", 7], ["Storm Spirit", 9], ["Io", 2], ["Razor", 6], ["Tidehunter", 6], ["Grimstroke", 16], ["Axe", 13], ["Winter Wyvern", 13], ["Void Spirit", 8], ["Clockwerk", 14], ["Death Prophet", 5], ["Oracle", 8], ["Bristleback", 8], ["Earth Spirit", 12], ["Monkey King", 7], ["Juggernaut", 6], ["Slardar", 5], ["Legion Commander", 4], ["Treant Protector", 11], ["Centaur Warrunner", 8], ["Medusa", 6], ["Venomancer", 3], ["Elder Titan", 11], ["Warlock", 9], ["Bloodseeker", 5], ["Shadow Demon", 7], ["Phantom Assassin", 5], ["Drow Ranger", 4], ["Anti-Mage", 3], ["Troll Warlord", 3], ["Luna", 6], ["Abaddon", 6], ["Hoodwink", 6], ["Gyrocopter", 5], ["Kunkka", 4], ["Shadow Shaman", 7], ["Disruptor", 7], ["Rubick", 6], ["Pangolier", 4], ["Sand King", 3], ["Chaos Knight", 2], ["Beastmaster", 5], ["Underlord", 2], ["Lycan", 1], ["Windranger", 5], ["Naga Siren", 3], ["Shadow Fiend", 4], ["Tusk", 4], ["Skywrath Mage", 3], ["Mirana", 3], ["Lone Druid", 3], ["Sven", 2], ["Witch Doctor", 2], ["Slark", 2], ["Bane", 2], ["Dazzle", 2], ["Omniknight", 2], ["Queen of Pain", 1], ["Pugna", 1], ["Night Stalker", 1], ["Arc Warden", 1], ["Enigma", 0], ["Nature's Prophet", 0], ["Crystal Maiden", 1], ["Huskar", 1], ["Jakiro", 1], ["Chen", 1], ["Riki", 0], ["Earthshaker", 0], ["Pudge", 0], ["Vengeful Spirit", 0], ["Zeus", 0], ["Lich", 0], ["Tinker", 0], ["Sniper", 0], ["Necrophos", 0], ["Clinkz", 0], ["Bounty Hunter", 0], ["Weaver", 0], ["Spirit Breaker", 0], ["Alchemist", 0], ["Silencer", 0], ["Outworld Destroyer", 0], ["Brewmaster", 0], ["Meepo", 0], ["Ogre Magi", 0], ["Undying", 0], ["Keeper of the Light", 0], ["Visage", 0], ["Techies", 0], ["Dawnbreaker", 0]], "type": "column", "id": "Hero Picks", "color": "rgba(19, 143, 255, 0.75)", "dataSorting": {"enabled": true, "sortKey": "this.point.stackTotal"}, "name": "Hero Picks"}, {"data": [["Mars", 35], ["Ancient Apparition", 48], ["Templar Assassin", 50], ["Nyx Assassin", 54], ["Broodmother", 57], ["Faceless Void", 40], ["Ursa", 41], ["Puck", 31], ["Viper", 37], ["Timbersaw", 33], ["Morphling", 27], ["Enchantress", 23], ["Lion", 10], ["Snapfire", 9], ["Terrorblade", 25], ["Wraith King", 22], ["Leshrac", 22], ["Dragon Knight", 12], ["Phantom Lancer", 24], ["Phoenix", 10], ["Tiny", 13], ["Spectre", 18], ["Doom", 18], ["Ember Spirit", 20], ["Dark Seer", 16], ["Magnus", 11], ["Dark Willow", 8], ["Lina", 11], ["Batrider", 21], ["Invoker", 9], ["Lifestealer", 16], ["Storm Spirit", 13], ["Io", 20], ["Razor", 15], ["Tidehunter", 15], ["Grimstroke", 4], ["Axe", 6], ["Winter Wyvern", 6], ["Void Spirit", 11], ["Clockwerk", 4], ["Death Prophet", 13], ["Oracle", 9], ["Bristleback", 8], ["Earth Spirit", 3], ["Monkey King", 8], ["Juggernaut", 9], ["Slardar", 10], ["Legion Commander", 11], ["Treant Protector", 3], ["Centaur Warrunner", 6], ["Medusa", 8], ["Venomancer", 10], ["Elder Titan", 1], ["Warlock", 1], ["Bloodseeker", 5], ["Shadow Demon", 2], ["Phantom Assassin", 4], ["Drow Ranger", 5], ["Anti-Mage", 6], ["Troll Warlord", 6], ["Luna", 2], ["Abaddon", 2], ["Hoodwink", 2], ["Gyrocopter", 3], ["Kunkka", 4], ["Shadow Shaman", 0], ["Disruptor", 0], ["Rubick", 1], ["Pangolier", 3], ["Sand King", 4], ["Chaos Knight", 5], ["Beastmaster", 1], ["Underlord", 4], ["Lycan", 5], ["Windranger", 0], ["Naga Siren", 2], ["Shadow Fiend", 0], ["Tusk", 0], ["Skywrath Mage", 1], ["Mirana", 0], ["Lone Druid", 0], ["Sven", 1], ["Witch Doctor", 1], ["Slark", 1], ["Bane", 0], ["Dazzle", 0], ["Omniknight", 0], ["Queen of Pain", 1], ["Pugna", 1], ["Night Stalker", 1], ["Arc Warden", 1], ["Enigma", 2], ["Nature's Prophet", 2], ["Crystal Maiden", 0], ["Huskar", 0], ["Jakiro", 0], ["Chen", 0], ["Riki", 1], ["Earthshaker", 0], ["Pudge", 0], ["Vengeful Spirit", 0], ["Zeus", 0], ["Lich", 0], ["Tinker", 0], ["Sniper", 0], ["Necrophos", 0], ["Clinkz", 0], ["Bounty Hunter", 0], ["Weaver", 0], ["Spirit Breaker", 0], ["Alchemist", 0], ["Silencer", 0], ["Outworld Destroyer", 0], ["Brewmaster", 0], ["Meepo", 0], ["Ogre Magi", 0], ["Undying", 0], ["Keeper of the Light", 0], ["Visage", 0], ["Techies", 0], ["Dawnbreaker", 0]], "type": "column", "id": "Hero Bans", "color": "rgba(255, 210, 61, 0.75)", "dataSorting": {"enabled": false}, "name": "Hero Bans"}];
+            var dataLen = data.length;
+            for (var ix = 0; ix < dataLen; ix++) {
+                chart.addSeries(data[ix]);
+            }
+ 
+
+
+
+
+
+
+
+        
+    });
+        </script>
+
+    </body>
+</html>
