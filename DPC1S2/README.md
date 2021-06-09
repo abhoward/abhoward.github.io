@@ -34,19 +34,19 @@
   - Nyx Assassin (54 bans)
   - Templar Assassin (50 bans)
 
-## **[Pick Order: Dire vs Radiant](pick_order_dire_rad.html "Click to view graph in full"){:target="_blank"}**
+## **[Pick Order: Dire vs Radiant](pick-order-dire-rad.html "Click to view graph in full"){:target="_blank"}**
 
 ### Preview:
-<iframe src="first-picks.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="pick-order-dire-rad.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 
 #### Summary:
 - Out of 87 matches, Radiant got first pick only 21 times (~27%).
   - Implies that if one team choosees first pick, the other will choose Radiant, and vice versa.
 
-## **[Pick Order: Wins vs Losses](pick_order_wins_losses.html "Click to view graph in full"){:target="_blank"}**
+## **[Pick Order: Wins vs Losses](pick-order-wins-losses.html "Click to view graph in full"){:target="_blank"}**
 
 ### Preview:
-<iframe src="first-picks.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="firstpick-order-wins-lossespicks.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 
 #### Summary:
 - Having first pick alone doesn't seem to make much of a difference, with 44 wins vs 43 losses.
