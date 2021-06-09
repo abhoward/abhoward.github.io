@@ -1,4 +1,4 @@
-<button name="button" onclick="../">Home Page</button>
+<button name="button" onclick="https://www.abhoward.github.io">Back</button>
 
 # Animajor Stats & Graphs:
 ###### _Note that all summaries do not include playoffs yet_
