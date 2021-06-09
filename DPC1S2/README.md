@@ -1,5 +1,5 @@
 # Animajor Stats & Graphs:
-## [Win Rates by Hero](https://abhoward.github.io/DPC1S2_Major/hero-win-rates.html)
+## [Win Rates by Hero](hero-win-rates.html)
 
 #### Summary:
 - Heroes with 100% winrate: 
@@ -15,6 +15,6 @@
   - Phantom Lancer (22%, 2/9 wins)
   - Morphling (35%, 6/17 wins)
 
-## [Hero Picks & Bans](https://abhoward.github.io/DPC1S2_Major/hero-picks-bans.html)
+## [Hero Picks & Bans](hero-picks-bans.html)
 
-## [First Picks Wins & Losses](https://abhoward.github.io/DPC1S2_Major/first-picks.html)
+## [First Picks Wins & Losses](first-picks.html)
