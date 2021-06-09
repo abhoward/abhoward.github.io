@@ -1,3 +1,7 @@
+# Site Settings
 theme: jekyll-theme-midnight
-title: Alec's Very Cool and Not Bad Graphs
-description: A place to look at extremely cool and not uncool graphs made by some guy who likes Dota too much
+title: "Alec's Very Cool and Not Bad Graphs"
+author: "Alec Howard"
+description: "A place to look at extremely cool and not uncool graphs made by some guy who likes Dota too much"
+date_format: "%Y-%m-%d"
+url: "https://www.abhoward.github.io"
