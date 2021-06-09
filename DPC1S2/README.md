@@ -1,8 +1,8 @@
 # Animajor Stats & Graphs:
-## [Win Rates by Hero](hero-win-rates.html)
+## **[Win Rates by Hero](hero-win-rates.html "Click to view graph in full"){:target="_blank"}**
 
 ### Preview:
-<iframe src="hero-win-rates.html" width="125%" height="750" frameborder="0" scrolling="no"></iframe>
+<iframe src="hero-win-rates.html" width="100%" height="750" frameborder="0" scrolling="no"></iframe>
 
 #### Summary:
 - Heroes with 100% winrate: 
@@ -18,7 +18,11 @@
   - Phantom Lancer (22%, 2/9 wins)
   - Morphling (35%, 6/17 wins)
 
-## [Hero Picks & Bans](hero-picks-bans.html)
+## **[Hero Picks & Bans](hero-picks-bans.html "Click to view graph in full"){:target="_blank"}**
+
+### Preview:
+<iframe src="hero-picks-bans.html" width="100%" height="750" frameborder="0" scrolling="no"></iframe>
+
 #### Summary: 
 - Most Picked Heroes (Out of 87 Games):
   - Mars (43 picks)
@@ -29,7 +33,11 @@
   - Nyx Assassin (54 bans)
   - Templar Assassin (50 bans)
 
-## [First Pick Stats](first-picks.html)
+## **[First Pick Stats](first-picks.html "Click to view graph in full"){:target="_blank"}**
+
+### Preview:
+<iframe src="first-picks.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+
 #### Summary:
 - Out of 87 matches, Radiant got first pick only 21 times (~27%).
 - Having first pick alone doesn't seem to make much of a difference, with 44 wins vs 43 losses.
