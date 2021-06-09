@@ -46,7 +46,7 @@
 ## **[Pick Order: Wins vs Losses](pick-order-wins-losses.html "Click to view graph in full"){:target="_blank"}**
 
 ### Preview:
-<iframe src="firstpick-order-wins-lossespicks.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+<iframe src="firstpick-order-wins-losses-picks.html" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 
 #### Summary:
 - Having first pick alone doesn't seem to make much of a difference, with 44 wins vs 43 losses.
