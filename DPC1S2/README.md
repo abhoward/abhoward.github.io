@@ -2,7 +2,7 @@
 ## [Win Rates by Hero](hero-win-rates.html)
 
 ### Preview:
-<iframe src="/hero-win-rates.html" width="125%" height="750" frameborder="0" scrolling="no"></iframe>
+<iframe src="hero-win-rates.html" width="125%" height="750" frameborder="0" scrolling="no"></iframe>
 
 #### Summary:
 - Heroes with 100% winrate: 
