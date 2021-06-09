@@ -21,7 +21,7 @@
 
 
             Highcharts.setOptions({"global": {}, "lang": {"thousandsSep": ","}});
-            var option = {"chart": {"renderTo": "container", "type": "column", "height": 1250, "width": 2500}, "colors": {}, "credits": {"enabled": false}, "drilldown": {}, "exporting": {}, "labels": {}, "legend": {"verticalAlign": "top"}, "loading": {}, "navigation": {}, "pane": {}, "plotOptions": {"series": {"stacking": "normal", "events": {"legendItemClick": function(event) {
+            var option = {"chart": {"renderTo": "container", "type": "column"}, "colors": {}, "credits": {"enabled": false}, "drilldown": {}, "exporting": {}, "labels": {}, "legend": {"verticalAlign": "top"}, "loading": {}, "navigation": {}, "pane": {}, "plotOptions": {"series": {"stacking": "normal", "events": {"legendItemClick": function(event) {
                     var s = this.chart.series;
                     for(i = 0; i < s.length; i++) {
                       if (this == s[i] && this.visible == true && s[1 - i].visible == true) {
