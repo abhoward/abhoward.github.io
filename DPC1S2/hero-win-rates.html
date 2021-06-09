@@ -21,7 +21,7 @@
 
 
             Highcharts.setOptions({"global": {}, "lang": {"thousandsSep": ","}});
-            var option = {"chart": {"renderTo": "container", "type": "column", "height": 1000, "width": 2000}, "colors": {}, "credits": {"enabled": false}, "drilldown": {}, "exporting": {}, "labels": {}, "legend": {"verticalAlign": "top"}, "loading": {}, "navigation": {}, "pane": {}, "plotOptions": {"spline": {"zones": [{value: 0.25, color: '#f56969'}, {value: 0.5, color: '#d8db53'}, {value: 0.9, color: '#1ac73d'}, {value: 1.01, color: '#1a48c7'}]}}, "series": {}, "subtitle": {"text": "Click the legend items to filter data. Source: opendota.com.<br><i>Excludes matches <code>6025172903</code>, <code>6023211594</code> and <code>6023110186</code> due to lack of data.</i>"}, "title": {"text": "Hero Win Rate"}, "tooltip": {"shared": true, "pointFormatter": function() {
+            var option = {"chart": {"renderTo": "container", "type": "column"}, "colors": {}, "credits": {"enabled": false}, "drilldown": {}, "exporting": {}, "labels": {}, "legend": {"verticalAlign": "top"}, "loading": {}, "navigation": {}, "pane": {}, "plotOptions": {"spline": {"zones": [{value: 0.25, color: '#f56969'}, {value: 0.5, color: '#d8db53'}, {value: 0.9, color: '#1ac73d'}, {value: 1.01, color: '#1a48c7'}]}}, "series": {}, "subtitle": {"text": "Click the legend items to filter data. Source: opendota.com.<br><i>Excludes matches <code>6025172903</code>, <code>6023211594</code> and <code>6023110186</code> due to lack of data.</i>"}, "title": {"text": "Hero Win Rate"}, "tooltip": {"shared": true, "pointFormatter": function() {
             var value;
             if (this.series.name == "Win Rate") {
                 value = this.y*100;
