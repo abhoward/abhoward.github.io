@@ -1,7 +1,8 @@
 # Animajor Stats & Graphs:
 ## [Win Rates by Hero](hero-win-rates.html)
 
-<iframe src="https://abhoward.github.io/DPC1S2/hero-win-rates.html" width="150%" height="750" frameborder="0" scrolling="no"></iframe>
+### Preview:
+<iframe src="/hero-win-rates.html" width="125%" height="750" frameborder="0" scrolling="no"></iframe>
 
 #### Summary:
 - Heroes with 100% winrate: 
