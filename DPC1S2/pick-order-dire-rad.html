@@ -26,13 +26,13 @@
             var option = {"chart": {"renderTo": "container", "type": "pie"}, "colors": {}, "credits": {"enabled": false}, "drilldown": {}, "exporting": {}, "labels": {}, "legend": {}, "loading": {}, "navigation": {}, "pane": {}, "plotOptions": {"series": {"dataLabels": {"enabled": true, "format": "{point.name}: {point.y:.1f}%"}}, "pie": {"allowPointSelect": true, "cursor": "pointer", "colors": ["rgba(184, 60, 51, 0.75)", "rgba(56, 171, 48, 0.75)"], "dataLabels": {"enabled": true, "format": "{point.percentage:.1f}%", "distance": -50, "color": "black"}}}, "series": {}, "subtitle": {"text": "Click the slices to view wins vs losses. Source: opendota.com.<br><i>Excludes matches <code>6025172903</code>, <code>6023211594</code> and <code>6023110186</code> due to lack of data.</i>"}, "title": {"text": "Pick Order: Dire vs Radiant"}, "tooltip": {"headerFormat": "<b><span style=\"font-size:11px\">{series.name}</span></b><br>", "pointFormat": "<span style=\"color:{point.color}\">{point.name}</span>: <b>{point.y}</b><br/>"}, "dataSorting": {}, "xAxis": {}, "yAxis": {}};
 
 
-            var drilldowndata = [{"data": [["Losses", 9], ["Wins", 12]], "type": "pie", "name": "With First Pick and Radiant", "id": "With First Pick and Radiant"}, {"data": [["Losses", 34], ["Wins", 36]], "type": "pie", "name": "With First Pick and Dire", "id": "With First Pick and Dire"}];
+            var drilldowndata = [{"data": [["Losses", 9], ["Wins", 12]], "type": "pie", "name": "With First Pick and Radiant", "id": "With First Pick and Radiant"}, {"data": [["Losses", 37], ["Wins", 38]], "type": "pie", "name": "With First Pick and Dire", "id": "With First Pick and Dire"}];
             option.drilldown.series = drilldowndata;
  
 
             var chart = new Highcharts.Chart(option);
 
-            var data = [{"data": [{"name": "Dire", "y": 70, "drilldown": "With First Pick and Dire"}, {"name": "Radiant", "y": 21, "drilldown": "With First Pick and Radiant"}], "type": "pie", "id": "First Picks", "name": "Number of First Picks"}];
+            var data = [{"data": [{"name": "Dire", "y": 75, "drilldown": "With First Pick and Dire"}, {"name": "Radiant", "y": 21, "drilldown": "With First Pick and Radiant"}], "type": "pie", "id": "First Picks", "name": "Number of First Picks"}];
             var dataLen = data.length;
             for (var ix = 0; ix < dataLen; ix++) {
                 chart.addSeries(data[ix]);
