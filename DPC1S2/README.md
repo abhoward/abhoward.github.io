@@ -24,4 +24,4 @@
   - Broodmother (57 bans)
   - Nyx Assassin (54 bans)
   - Templar Assassin (50 bans)
-## [First Picks Stats](first-picks.html)
+## [First Pick Stats](first-picks.html)
