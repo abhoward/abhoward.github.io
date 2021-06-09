@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <link href="https://www.highcharts.com/highslide/highslide.css" rel="stylesheet" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/heatmap.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/exporting.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/drilldown.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/drilldown.js"></script>
+    </head>
+    <body style="margin:0;padding:0">
+                <div id="container" style="">Loading....</div>
+
+
+    <script>
+        $(function(){
+
+
+
+
+
+            Highcharts.setOptions({"global": {}, "lang": {}});
+            var option = {"chart": {"renderTo": "container", "type": "pie"}, "colors": {}, "credits": {"enabled": false}, "drilldown": {}, "exporting": {}, "labels": {}, "legend": {}, "loading": {}, "navigation": {}, "pane": {}, "plotOptions": {"series": {"dataLabels": {"enabled": true, "format": "{point.name}: {point.y:.1f}%"}}, "pie": {"allowPointSelect": true, "cursor": "pointer", "colors": ["rgba(184, 60, 51, 0.75)", "rgba(56, 171, 48, 0.75)"], "dataLabels": {"enabled": true, "format": "{point.percentage:.1f}%", "distance": -50, "color": "black"}}}, "series": {}, "subtitle": {"text": "Click the slices to view dire vs radiant. Source: opendota.com.<br><i>Excludes matches <code>6025172903</code>, <code>6023211594</code> and <code>6023110186</code> due to lack of data.</i>"}, "title": {"text": "Pick Order: Wins vs Losses"}, "tooltip": {"headerFormat": "<b><span style=\"font-size:11px\">{series.name}</span></b><br>", "pointFormat": "<span style=\"color:{point.color}\">{point.name}</span>: <b>{point.y}</b><br/>"}, "dataSorting": {}, "xAxis": {}, "yAxis": {}};
+
+
+            var drilldowndata = [{"data": [["Dire", 34], ["Radiant", 12]], "type": "pie", "name": "Wins With First Pick", "id": "Wins With First Pick"}, {"data": [["Dire", 36], ["Radiant", 9]], "type": "pie", "name": "Losses With First Pick", "id": "Losses With First Pick"}];
+            option.drilldown.series = drilldowndata;
+ 
+
+            var chart = new Highcharts.Chart(option);
+
+            var data = [{"data": [{"name": "Losses", "y": 45, "drilldown": "Losses With First Pick"}, {"name": "Wins", "y": 46, "drilldown": "Wins With First Pick"}], "type": "pie", "id": "First Picks", "name": "With First Pick"}];
+            var dataLen = data.length;
+            for (var ix = 0; ix < dataLen; ix++) {
+                chart.addSeries(data[ix]);
+            }
+ 
+
+
+
+
+
+
+
+        
+    });
+        </script>
+
+    </body>
+</html>
