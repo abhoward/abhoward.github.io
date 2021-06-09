@@ -1,6 +1,5 @@
 # Animajor Stats & Graphs:
 ## [Win Rates by Hero](hero-win-rates.html)
-
 #### Summary:
 - Heroes with 100% winrate: 
   - Antimage (3 wins)
@@ -16,5 +15,13 @@
   - Morphling (35%, 6/17 wins)
 
 ## [Hero Picks & Bans](hero-picks-bans.html)
-
+#### Summary: 
+- Most Picked Heroes (Out of 87 Games):
+  - Mars (43 picks)
+  - Lion (32 picks)
+  - Snapfire (32 picks)
+- Most Banned Heroes (Out of 87 Games):
+  - Broodmother (57 bans)
+  - Nyx Assassin (54 bans)
+  - Templar Assassin (50 bans)
 ## [First Picks Wins & Losses](first-picks.html)
