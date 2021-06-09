@@ -1,10 +1,5 @@
-# Animajor 2021 Stats
-###### _Source: [`opendota.com`](https://www.opendota.com)_
+# Professional Dota 2 Graphs & Stats 
 
-Below are visualizations based on data from The Animajor 2021.
+Below you can find various visualizations based on data and statistics from Dota 2 professional matches. This will be updated as more Dota 2 professional matches/tournaments are played. Unless stated otherwise all data is sourced from [OpenDota](https://www.opendota.com) and visualized with [Highcharts](https://www.highcharts.com/).
 
-### [Hero Win Rates](https://abhoward.github.io/hero-win-rates.html)
-
-### First Pick Wins: Radiant vs Dire
-
-### Hero Picks and Bans
+##### [DPC Season 2 Stats & Graphs](https://abhoward.github.io/DPC1S2_Major)
