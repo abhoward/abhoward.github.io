@@ -25,3 +25,7 @@
   - Nyx Assassin (54 bans)
   - Templar Assassin (50 bans)
 ## [First Pick Stats](first-picks.html)
+#### Summary:
+- Out of 87 matches, Radiant got first pick only 24% of the time.
+- Having first pick alone doesn't seem to make much of a difference, with 44 wins vs 43 losses.
+  - With that said, Radiant had a better win-rate with first pick then Dire (57% vs 51%).
