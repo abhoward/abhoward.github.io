@@ -1,4 +1,4 @@
-<form action="https://www.abhoward.github.io/">
+<form action="https://abhoward.github.io/">
     <input type="submit" value="Back"/>
 </form>
 
