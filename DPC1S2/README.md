@@ -1,3 +1,5 @@
+<button name="button" onclick="../">Home Page</button>
+
 # Animajor Stats & Graphs:
 ###### _Note that all summaries do not include playoffs yet_
 ## **[Win Rates by Hero](hero-win-rates.html "Click to view graph in full"){:target="_blank"}**
