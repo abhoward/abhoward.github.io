@@ -1,6 +1,6 @@
 <form action="https://abhoward.github.io/">
     <input type="submit" value="Back"/>
-</form>
+</form><br>
 
 # Animajor Stats & Graphs:
 ###### _Note that all summaries do not include playoffs yet_
