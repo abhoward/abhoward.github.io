@@ -7,4 +7,3 @@ url: "https://abhoward.github.io"
 theme: "jekyll-theme-midnight"
 plugins: 
   - jekyll-seo-tag
-show_last_edit_time: true
