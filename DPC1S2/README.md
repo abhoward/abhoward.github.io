@@ -1,6 +1,4 @@
-<form>
-    <button formaction="https://abhoward.github.io">Back</button>
-</form>
+<button onclick="location.href='https://abhoward.github.io'" type="button">Back</button>
 
 # Animajor Stats & Graphs:
 ###### _Note that all summaries do not include playoffs yet_
