@@ -4,5 +4,6 @@ author: "Alec Howard"
 description: "A place to look at very cool and extremely useful stats and graphs made by some guy who likes Dota too much"
 date_format: "%Y-%m-%d"
 url: "https://abhoward.github.io"
+theme: "jekyll-theme-midnight"
 plugins: 
   - jekyll-seo-tag
