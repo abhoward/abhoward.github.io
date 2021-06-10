@@ -4,4 +4,8 @@
 
 a {
   color: #2cf5ff;
+  
+  &:hover {
+    background-color: #107ead;
+  }
 }
