@@ -2,10 +2,27 @@
 ---
 @import "{{ site.theme}}";
 
+body {
+  color: #c9d1d9;
+  background: #0d1117;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:#ffffff;
+}
+
 a {
   color: #2cf5ff;
   
   &:hover {
     color: #107ead;
+  }
+}
+
+section {
+  #title {
+    p {
+      color: #aaccff;
+    }
   }
 }
