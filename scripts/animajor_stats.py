@@ -18,7 +18,7 @@ print('Initializing data extraction from OpenDota API...')
 load_dotenv()
 API_KEY = os.getenv('API_KEY')
 
-save_file_path = "..\\data\\{}"
+save_file_path = "..\\data\\DPC1S2\\animajor\\{}"
 dfs_to_convert = {}
 
 api = 'https://api.opendota.com/api'
@@ -135,6 +135,18 @@ hero_counts['drilldown_picks'] = hero_counts['hero_name']
 
 dfs_to_convert['hero_counts'] = hero_counts
 
+hero_picks = hero_counts[['hero_name', 'hero_picks']]
+hero_picks['drilldown'] = hero_picks['hero_name'] + ' Picks'
+hero_picks = hero_picks.rename(columns = {'hero_name': 'name', 'hero_picks': 'y'})
+
+dfs_to_convert['hero_picks'] = hero_picks
+
+hero_bans = hero_counts[['hero_name', 'hero_bans']]
+hero_bans['drilldown'] = hero_bans['hero_name'] + ' Bans'
+hero_bans = hero_bans.rename(columns = {'hero_name': 'name', 'hero_bans': 'y'})
+
+dfs_to_convert['hero_bans'] = hero_bans
+
 # --- TEAM SPECIFIC PICKS & BANS --- # 
 
 print('Creating data transformation for team specific picks and bans...')
@@ -179,6 +191,16 @@ total_team_pbs.sort_values(by = 'total', ascending = False, inplace = True)
 total_team_pbs.reset_index(drop = True, inplace = True)
 
 dfs_to_convert['total_team_pbs'] = total_team_pbs
+
+team_picks_and_bans = []
+
+for hero in sorted(total_team_pbs['hero_name'].unique()):
+    temp_df = total_team_pbs[total_team_pbs['hero_name'] == hero]
+    team_picks_and_bans.append({'name': hero, 'id': hero + ' Picks', 'data': temp_df[['team', 'picks_for']].to_numpy().tolist()})
+    team_picks_and_bans.append({'name': hero, 'id': hero + ' Bans', 'data': temp_df[['team', 'bans_against']].to_numpy().tolist()})
+
+with open(save_file_path.format('team_picks_and_bans.json'), 'w+', encoding='utf-8') as f:
+    json.dump(team_picks_and_bans, f, ensure_ascii=False, indent=4)
 
 # --- HERO WINS & LOSSES --- #
 
@@ -231,7 +253,7 @@ fps_dict = {'rad_fps': radiant_first_picks_num, 'dire_fps': dire_first_picks_num
 
 print('Storing pick order data...')
 
-with open(save_file_path.format('fps_dict.json'), 'w', encoding='utf-8') as f:
+with open(save_file_path.format('fps_dict.json'), 'w+', encoding='utf-8') as f:
     json.dump(fps_dict, f, ensure_ascii=False, indent=4)
 
 # --- MATCH LENGTH --- #
@@ -258,7 +280,7 @@ for i in range(len(match_lengths)):
 
 print('Storing match length data...')
 
-with open(save_file_path.format('time_list.json'), 'w', encoding='utf-8') as f:
+with open(save_file_path.format('time_list.json'), 'w+', encoding='utf-8') as f:
     json.dump(time_list, f, ensure_ascii=False, indent=4)
 
 for name, df in dfs_to_convert.items():

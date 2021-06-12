@@ -1,0 +1,617 @@
+[
+    {
+        "match": "Quincy Crew vs T1",
+        "y": 123,
+        "name": 2347
+    },
+    {
+        "match": "Quincy Crew vs T1",
+        "y": 122,
+        "name": 2575
+    },
+    {
+        "match": "T1 vs Quincy Crew",
+        "y": 121,
+        "name": 2527
+    },
+    {
+        "match": "PSG.LGD vs Nigma",
+        "y": 120,
+        "name": 2099
+    },
+    {
+        "match": "PSG.LGD vs Nigma",
+        "y": 119,
+        "name": 2175
+    },
+    {
+        "match": "Nigma vs PSG.LGD",
+        "y": 118,
+        "name": 2087
+    },
+    {
+        "match": "TNC Predator vs Evil Geniuses",
+        "y": 117,
+        "name": 3378
+    },
+    {
+        "match": "TNC Predator vs Evil Geniuses",
+        "y": 116,
+        "name": 3106
+    },
+    {
+        "match": "Evil Geniuses vs TNC Predator",
+        "y": 115,
+        "name": 1745
+    },
+    {
+        "match": "Team Spirit vs Vici Gaming",
+        "y": 114,
+        "name": 1656
+    },
+    {
+        "match": "Team Spirit vs Vici Gaming",
+        "y": 113,
+        "name": 2710
+    },
+    {
+        "match": "NoPing Esports vs Evil Geniuses",
+        "y": 112,
+        "name": 1711
+    },
+    {
+        "match": "NoPing Esports vs Evil Geniuses",
+        "y": 111,
+        "name": 1896
+    },
+    {
+        "match": "Evil Geniuses vs NoPing Esports",
+        "y": 110,
+        "name": 2221
+    },
+    {
+        "match": "Virtus.pro vs Vici Gaming",
+        "y": 109,
+        "name": 2392
+    },
+    {
+        "match": "Virtus.pro vs Vici Gaming",
+        "y": 108,
+        "name": 1990
+    },
+    {
+        "match": "Virtus.pro vs Vici Gaming",
+        "y": 107,
+        "name": 2451
+    },
+    {
+        "match": "Alliance vs Team Spirit",
+        "y": 106,
+        "name": 1752
+    },
+    {
+        "match": "Alliance vs Team Spirit",
+        "y": 105,
+        "name": 2023
+    },
+    {
+        "match": "Team Spirit vs Alliance",
+        "y": 104,
+        "name": 2545
+    },
+    {
+        "match": "TNC Predator vs Team Aster",
+        "y": 103,
+        "name": 2301
+    },
+    {
+        "match": "TNC Predator vs Team Aster",
+        "y": 102,
+        "name": 3367
+    },
+    {
+        "match": "Team Aster vs TNC Predator",
+        "y": 101,
+        "name": 2540
+    },
+    {
+        "match": "Virtus.pro vs Nigma",
+        "y": 100,
+        "name": 2041
+    },
+    {
+        "match": "Nigma vs Virtus.pro",
+        "y": 99,
+        "name": 2266
+    },
+    {
+        "match": "NoPing Esports vs Quincy Crew",
+        "y": 98,
+        "name": 2450
+    },
+    {
+        "match": "NoPing Esports vs Quincy Crew",
+        "y": 97,
+        "name": 2075
+    },
+    {
+        "match": "Quincy Crew vs NoPing Esports",
+        "y": 96,
+        "name": 1238
+    },
+    {
+        "match": "Nigma vs Virtus.pro",
+        "y": 95,
+        "name": 3493
+    },
+    {
+        "match": "PSG.LGD vs Alliance",
+        "y": 94,
+        "name": 1997
+    },
+    {
+        "match": "Alliance vs PSG.LGD",
+        "y": 93,
+        "name": 2203
+    },
+    {
+        "match": "Team Aster vs T1",
+        "y": 92,
+        "name": 1458
+    },
+    {
+        "match": "T1 vs Team Aster",
+        "y": 91,
+        "name": 2031
+    },
+    {
+        "match": "Team Spirit vs Team Liquid",
+        "y": 90,
+        "name": 2682
+    },
+    {
+        "match": "Evil Geniuses vs Team Liquid",
+        "y": 89,
+        "name": 2029
+    },
+    {
+        "match": "Evil Geniuses vs Team Liquid",
+        "y": 88,
+        "name": 1806
+    },
+    {
+        "match": "beastcoast vs Nigma",
+        "y": 87,
+        "name": 1620
+    },
+    {
+        "match": "Nigma vs beastcoast",
+        "y": 86,
+        "name": 1757
+    },
+    {
+        "match": "Team Spirit vs TNC Predator",
+        "y": 85,
+        "name": 2514
+    },
+    {
+        "match": "TNC Predator vs Team Spirit",
+        "y": 84,
+        "name": 3868
+    },
+    {
+        "match": "PSG.LGD vs Vici Gaming",
+        "y": 83,
+        "name": 3913
+    },
+    {
+        "match": "PSG.LGD vs Vici Gaming",
+        "y": 82,
+        "name": 2125
+    },
+    {
+        "match": "Team Spirit vs Team Liquid",
+        "y": 81,
+        "name": 1908
+    },
+    {
+        "match": "Nigma vs Evil Geniuses",
+        "y": 80,
+        "name": 2132
+    },
+    {
+        "match": "Evil Geniuses vs Nigma",
+        "y": 79,
+        "name": 1783
+    },
+    {
+        "match": "Team Spirit vs Team Liquid",
+        "y": 78,
+        "name": 2354
+    },
+    {
+        "match": "TNC Predator vs Team Liquid",
+        "y": 77,
+        "name": 2700
+    },
+    {
+        "match": "Team Spirit vs beastcoast",
+        "y": 76,
+        "name": 1938
+    },
+    {
+        "match": "Team Liquid vs TNC Predator",
+        "y": 75,
+        "name": 1923
+    },
+    {
+        "match": "beastcoast vs Team Spirit",
+        "y": 74,
+        "name": 2434
+    },
+    {
+        "match": "PSG.LGD vs Evil Geniuses",
+        "y": 73,
+        "name": 2031
+    },
+    {
+        "match": "Nigma vs Vici Gaming",
+        "y": 72,
+        "name": 1437
+    },
+    {
+        "match": "Evil Geniuses vs PSG.LGD",
+        "y": 71,
+        "name": 2212
+    },
+    {
+        "match": "Nigma vs Vici Gaming",
+        "y": 70,
+        "name": 988
+    },
+    {
+        "match": "PSG.LGD vs TNC Predator",
+        "y": 69,
+        "name": 2518
+    },
+    {
+        "match": "beastcoast vs Vici Gaming",
+        "y": 68,
+        "name": 1736
+    },
+    {
+        "match": "TNC Predator vs PSG.LGD",
+        "y": 67,
+        "name": 2509
+    },
+    {
+        "match": "beastcoast vs Vici Gaming",
+        "y": 66,
+        "name": 2532
+    },
+    {
+        "match": "PSG.LGD vs Team Liquid",
+        "y": 65,
+        "name": 1971
+    },
+    {
+        "match": "TNC Predator vs Nigma",
+        "y": 64,
+        "name": 2548
+    },
+    {
+        "match": "PSG.LGD vs Team Liquid",
+        "y": 63,
+        "name": 2072
+    },
+    {
+        "match": "Nigma vs TNC Predator",
+        "y": 62,
+        "name": 2924
+    },
+    {
+        "match": "Evil Geniuses vs Vici Gaming",
+        "y": 61,
+        "name": 2461
+    },
+    {
+        "match": "Team Spirit vs PSG.LGD",
+        "y": 60,
+        "name": 2427
+    },
+    {
+        "match": "Evil Geniuses vs Vici Gaming",
+        "y": 59,
+        "name": 1902
+    },
+    {
+        "match": "Team Spirit vs PSG.LGD",
+        "y": 58,
+        "name": 1997
+    },
+    {
+        "match": "Nigma vs Team Liquid",
+        "y": 57,
+        "name": 2034
+    },
+    {
+        "match": "TNC Predator vs beastcoast",
+        "y": 56,
+        "name": 1503
+    },
+    {
+        "match": "Nigma vs Team Liquid",
+        "y": 55,
+        "name": 2549
+    },
+    {
+        "match": "beastcoast vs TNC Predator",
+        "y": 54,
+        "name": 1778
+    },
+    {
+        "match": "Team Spirit vs Vici Gaming",
+        "y": 53,
+        "name": 3113
+    },
+    {
+        "match": "beastcoast vs Evil Geniuses",
+        "y": 52,
+        "name": 2932
+    },
+    {
+        "match": "Team Spirit vs Vici Gaming",
+        "y": 51,
+        "name": 2915
+    },
+    {
+        "match": "Evil Geniuses vs beastcoast",
+        "y": 50,
+        "name": 2130
+    },
+    {
+        "match": "TNC Predator vs Vici Gaming",
+        "y": 49,
+        "name": 1844
+    },
+    {
+        "match": "Team Spirit vs Nigma",
+        "y": 48,
+        "name": 2594
+    },
+    {
+        "match": "Vici Gaming vs TNC Predator",
+        "y": 47,
+        "name": 2730
+    },
+    {
+        "match": "Nigma vs Team Spirit",
+        "y": 46,
+        "name": 2352
+    },
+    {
+        "match": "Team Liquid vs Vici Gaming",
+        "y": 45,
+        "name": 2287
+    },
+    {
+        "match": "Nigma vs PSG.LGD",
+        "y": 44,
+        "name": 2083
+    },
+    {
+        "match": "Nigma vs PSG.LGD",
+        "y": 43,
+        "name": 2084
+    },
+    {
+        "match": "Team Liquid vs Vici Gaming",
+        "y": 42,
+        "name": 2345
+    },
+    {
+        "match": "beastcoast vs PSG.LGD",
+        "y": 41,
+        "name": 1697
+    },
+    {
+        "match": "Evil Geniuses vs Team Spirit",
+        "y": 40,
+        "name": 2147
+    },
+    {
+        "match": "Team Spirit vs Evil Geniuses",
+        "y": 39,
+        "name": 1340
+    },
+    {
+        "match": "beastcoast vs PSG.LGD",
+        "y": 38,
+        "name": 2549
+    },
+    {
+        "match": "Team Liquid vs beastcoast",
+        "y": 37,
+        "name": 2496
+    },
+    {
+        "match": "TNC Predator vs Evil Geniuses",
+        "y": 36,
+        "name": 2955
+    },
+    {
+        "match": "Team Liquid vs beastcoast",
+        "y": 35,
+        "name": 2546
+    },
+    {
+        "match": "Evil Geniuses vs TNC Predator",
+        "y": 34,
+        "name": 1800
+    },
+    {
+        "match": "Nigma vs INVICTUS GAMING",
+        "y": 33,
+        "name": 1693
+    },
+    {
+        "match": "Team Secret vs INVICTUS GAMING",
+        "y": 32,
+        "name": 2077
+    },
+    {
+        "match": "INVICTUS GAMING vs Team Secret",
+        "y": 31,
+        "name": 1775
+    },
+    {
+        "match": "Team Secret vs Nigma",
+        "y": 30,
+        "name": 2624
+    },
+    {
+        "match": "AS Monaco Gambit vs INVICTUS GAMING",
+        "y": 29,
+        "name": 1123
+    },
+    {
+        "match": "Nigma vs Team Secret",
+        "y": 28,
+        "name": 1870
+    },
+    {
+        "match": "INVICTUS GAMING vs AS Monaco Gambit",
+        "y": 27,
+        "name": 1938
+    },
+    {
+        "match": "Nigma vs Execration",
+        "y": 26,
+        "name": 1500
+    },
+    {
+        "match": "INVICTUS GAMING vs Vici Gaming",
+        "y": 25,
+        "name": 1511
+    },
+    {
+        "match": "INVICTUS GAMING vs Vici Gaming",
+        "y": 24,
+        "name": 1174
+    },
+    {
+        "match": "Execration vs Nigma",
+        "y": 23,
+        "name": 1765
+    },
+    {
+        "match": "AS Monaco Gambit vs Vici Gaming",
+        "y": 22,
+        "name": 2113
+    },
+    {
+        "match": "Team Secret vs Execration",
+        "y": 21,
+        "name": 1554
+    },
+    {
+        "match": "Execration vs Team Secret",
+        "y": 20,
+        "name": 2007
+    },
+    {
+        "match": "AS Monaco Gambit vs Vici Gaming",
+        "y": 19,
+        "name": 2590
+    },
+    {
+        "match": "INVICTUS GAMING vs Nigma",
+        "y": 18,
+        "name": 3074
+    },
+    {
+        "match": "Execration vs Vici Gaming",
+        "y": 17,
+        "name": 2762
+    },
+    {
+        "match": "Execration vs Vici Gaming",
+        "y": 16,
+        "name": 2350
+    },
+    {
+        "match": "INVICTUS GAMING vs Nigma",
+        "y": 15,
+        "name": 2569
+    },
+    {
+        "match": "Team Secret vs Vici Gaming",
+        "y": 14,
+        "name": 1971
+    },
+    {
+        "match": "AS Monaco Gambit vs Execration",
+        "y": 13,
+        "name": 1756
+    },
+    {
+        "match": "Execration vs AS Monaco Gambit",
+        "y": 12,
+        "name": 2172
+    },
+    {
+        "match": "Team Secret vs Vici Gaming",
+        "y": 11,
+        "name": 3775
+    },
+    {
+        "match": "INVICTUS GAMING vs Execration",
+        "y": 10,
+        "name": 2044
+    },
+    {
+        "match": "Nigma vs AS Monaco Gambit",
+        "y": 9,
+        "name": 3120
+    },
+    {
+        "match": "Execration vs INVICTUS GAMING",
+        "y": 8,
+        "name": 2200
+    },
+    {
+        "match": "AS Monaco Gambit vs Nigma",
+        "y": 7,
+        "name": 2004
+    },
+    {
+        "match": "AS Monaco Gambit vs Team Secret",
+        "y": 6,
+        "name": 2434
+    },
+    {
+        "match": "Vici Gaming vs Nigma",
+        "y": 5,
+        "name": 1904
+    },
+    {
+        "match": "AS Monaco Gambit vs Team Secret",
+        "y": 4,
+        "name": 3395
+    },
+    {
+        "match": "Team Secret vs AS Monaco Gambit",
+        "y": 3,
+        "name": 2285
+    },
+    {
+        "match": "Nigma vs Vici Gaming",
+        "y": 2,
+        "name": 3311
+    },
+    {
+        "match": "Team Secret vs AS Monaco Gambit",
+        "y": 1,
+        "name": 3112
+    }
+]

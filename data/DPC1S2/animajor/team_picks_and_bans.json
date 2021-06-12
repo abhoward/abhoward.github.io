@@ -1,0 +1,8410 @@
+[
+    {
+        "name": "Abaddon",
+        "id": "Abaddon Picks",
+        "data": [
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                3.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon",
+        "id": "Abaddon Bans",
+        "data": [
+            [
+                "Team Aster",
+                4.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition",
+        "id": "Ancient Apparition Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                10.0
+            ],
+            [
+                "Nigma",
+                6.0
+            ],
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                4.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "beastcoast",
+                4.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "NoPing Esports",
+                3.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                2.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition",
+        "id": "Ancient Apparition Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                5.0
+            ],
+            [
+                "Nigma",
+                8.0
+            ],
+            [
+                "Team Spirit",
+                10.0
+            ],
+            [
+                "Evil Geniuses",
+                5.0
+            ],
+            [
+                "Execration",
+                4.0
+            ],
+            [
+                "TNC Predator",
+                5.0
+            ],
+            [
+                "INVICTUS GAMING",
+                5.0
+            ],
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                4.0
+            ],
+            [
+                "Team Secret",
+                4.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage",
+        "id": "Anti-Mage Picks",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage",
+        "id": "Anti-Mage Bans",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden",
+        "id": "Arc Warden Picks",
+        "data": [
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden",
+        "id": "Arc Warden Bans",
+        "data": [
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe",
+        "id": "Axe Picks",
+        "data": [
+            [
+                "PSG.LGD",
+                5.0
+            ],
+            [
+                "Team Liquid",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe",
+        "id": "Axe Bans",
+        "data": [
+            [
+                "PSG.LGD",
+                5.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Bane",
+        "id": "Bane Picks",
+        "data": [
+            [
+                "Team Secret",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Bane",
+        "id": "Bane Bans",
+        "data": [
+            [
+                "Team Secret",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider",
+        "id": "Batrider Picks",
+        "data": [
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                3.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider",
+        "id": "Batrider Bans",
+        "data": [
+            [
+                "beastcoast",
+                7.0
+            ],
+            [
+                "NoPing Esports",
+                5.0
+            ],
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                4.0
+            ],
+            [
+                "Team Spirit",
+                4.0
+            ],
+            [
+                "Nigma",
+                3.0
+            ],
+            [
+                "T1",
+                3.0
+            ],
+            [
+                "Team Liquid",
+                3.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster",
+        "id": "Beastmaster Picks",
+        "data": [
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster",
+        "id": "Beastmaster Bans",
+        "data": [
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker",
+        "id": "Bloodseeker Picks",
+        "data": [
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker",
+        "id": "Bloodseeker Bans",
+        "data": [
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback",
+        "id": "Bristleback Picks",
+        "data": [
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback",
+        "id": "Bristleback Bans",
+        "data": [
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother",
+        "id": "Broodmother Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother",
+        "id": "Broodmother Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                28.0
+            ],
+            [
+                "Evil Geniuses",
+                10.0
+            ],
+            [
+                "TNC Predator",
+                7.0
+            ],
+            [
+                "Team Secret",
+                5.0
+            ],
+            [
+                "Team Liquid",
+                5.0
+            ],
+            [
+                "PSG.LGD",
+                5.0
+            ],
+            [
+                "Execration",
+                4.0
+            ],
+            [
+                "INVICTUS GAMING",
+                4.0
+            ],
+            [
+                "Virtus.pro",
+                2.0
+            ],
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner",
+        "id": "Centaur Warrunner Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner",
+        "id": "Centaur Warrunner Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight",
+        "id": "Chaos Knight Picks",
+        "data": [
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight",
+        "id": "Chaos Knight Bans",
+        "data": [
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Chen",
+        "id": "Chen Picks",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Chen",
+        "id": "Chen Bans",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk",
+        "id": "Clockwerk Picks",
+        "data": [
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk",
+        "id": "Clockwerk Bans",
+        "data": [
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Quincy Crew",
+                2.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Crystal Maiden",
+        "id": "Crystal Maiden Picks",
+        "data": [
+            [
+                "Team Secret",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Crystal Maiden",
+        "id": "Crystal Maiden Bans",
+        "data": [
+            [
+                "Team Secret",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer",
+        "id": "Dark Seer Picks",
+        "data": [
+            [
+                "Nigma",
+                3.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer",
+        "id": "Dark Seer Bans",
+        "data": [
+            [
+                "Nigma",
+                6.0
+            ],
+            [
+                "AS Monaco Gambit",
+                4.0
+            ],
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "Quincy Crew",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow",
+        "id": "Dark Willow Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                8.0
+            ],
+            [
+                "Nigma",
+                4.0
+            ],
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow",
+        "id": "Dark Willow Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dazzle",
+        "id": "Dazzle Picks",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Dazzle",
+        "id": "Dazzle Bans",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet",
+        "id": "Death Prophet Picks",
+        "data": [
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet",
+        "id": "Death Prophet Bans",
+        "data": [
+            [
+                "Team Spirit",
+                5.0
+            ],
+            [
+                "Vici Gaming",
+                5.0
+            ],
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor",
+        "id": "Disruptor Picks",
+        "data": [
+            [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor",
+        "id": "Disruptor Bans",
+        "data": [
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom",
+        "id": "Doom Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                6.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom",
+        "id": "Doom Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                7.0
+            ],
+            [
+                "Execration",
+                5.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight",
+        "id": "Dragon Knight Picks",
+        "data": [
+            [
+                "Nigma",
+                10.0
+            ],
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "Evil Geniuses",
+                4.0
+            ],
+            [
+                "Vici Gaming",
+                5.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "T1",
+                3.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight",
+        "id": "Dragon Knight Bans",
+        "data": [
+            [
+                "Nigma",
+                5.0
+            ],
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "Evil Geniuses",
+                3.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "Alliance",
+                4.0
+            ],
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger",
+        "id": "Drow Ranger Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger",
+        "id": "Drow Ranger Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                4.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit",
+        "id": "Earth Spirit Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                6.0
+            ],
+            [
+                "Evil Geniuses",
+                3.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit",
+        "id": "Earth Spirit Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan",
+        "id": "Elder Titan Picks",
+        "data": [
+            [
+                "Quincy Crew",
+                3.0
+            ],
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Nigma",
+                3.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan",
+        "id": "Elder Titan Bans",
+        "data": [
+            [
+                "Quincy Crew",
+                3.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit",
+        "id": "Ember Spirit Picks",
+        "data": [
+            [
+                "Evil Geniuses",
+                6.0
+            ],
+            [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "Quincy Crew",
+                2.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit",
+        "id": "Ember Spirit Bans",
+        "data": [
+            [
+                "Evil Geniuses",
+                3.0
+            ],
+            [
+                "INVICTUS GAMING",
+                5.0
+            ],
+            [
+                "Team Liquid",
+                4.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress",
+        "id": "Enchantress Picks",
+        "data": [
+            [
+                "Team Liquid",
+                3.0
+            ],
+            [
+                "Nigma",
+                5.0
+            ],
+            [
+                "TNC Predator",
+                6.0
+            ],
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "Evil Geniuses",
+                3.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Aster",
+                2.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress",
+        "id": "Enchantress Bans",
+        "data": [
+            [
+                "Team Liquid",
+                8.0
+            ],
+            [
+                "Nigma",
+                4.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                5.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "Virtus.pro",
+                4.0
+            ],
+            [
+                "Quincy Crew",
+                3.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enigma",
+        "id": "Enigma Picks",
+        "data": [
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enigma",
+        "id": "Enigma Bans",
+        "data": [
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void",
+        "id": "Faceless Void Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                7.0
+            ],
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Alliance",
+                2.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void",
+        "id": "Faceless Void Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                12.0
+            ],
+            [
+                "PSG.LGD",
+                6.0
+            ],
+            [
+                "Nigma",
+                6.0
+            ],
+            [
+                "beastcoast",
+                5.0
+            ],
+            [
+                "Execration",
+                5.0
+            ],
+            [
+                "Evil Geniuses",
+                5.0
+            ],
+            [
+                "TNC Predator",
+                5.0
+            ],
+            [
+                "Team Liquid",
+                4.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                2.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "Virtus.pro",
+                2.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke",
+        "id": "Grimstroke Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                6.0
+            ],
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "Alliance",
+                2.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke",
+        "id": "Grimstroke Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter",
+        "id": "Gyrocopter Picks",
+        "data": [
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter",
+        "id": "Gyrocopter Bans",
+        "data": [
+            [
+                "NoPing Esports",
+                4.0
+            ],
+            [
+                "Nigma",
+                3.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink",
+        "id": "Hoodwink Picks",
+        "data": [
+            [
+                "NoPing Esports",
+                3.0
+            ],
+            [
+                "Evil Geniuses",
+                3.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink",
+        "id": "Hoodwink Bans",
+        "data": [
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Huskar",
+        "id": "Huskar Picks",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Huskar",
+        "id": "Huskar Bans",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker",
+        "id": "Invoker Picks",
+        "data": [
+            [
+                "Nigma",
+                9.0
+            ],
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker",
+        "id": "Invoker Bans",
+        "data": [
+            [
+                "Nigma",
+                10.0
+            ],
+            [
+                "Team Spirit",
+                4.0
+            ],
+            [
+                "NoPing Esports",
+                3.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Io",
+        "id": "Io Picks",
+        "data": [
+            [
+                "Nigma",
+                4.0
+            ]
+        ]
+    },
+    {
+        "name": "Io",
+        "id": "Io Bans",
+        "data": [
+            [
+                "Nigma",
+                23.0
+            ]
+        ]
+    },
+    {
+        "name": "Jakiro",
+        "id": "Jakiro Picks",
+        "data": [
+            [
+                "Team Spirit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Jakiro",
+        "id": "Jakiro Bans",
+        "data": [
+            [
+                "Team Spirit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut",
+        "id": "Juggernaut Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                4.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut",
+        "id": "Juggernaut Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "Execration",
+                3.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka",
+        "id": "Kunkka Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka",
+        "id": "Kunkka Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                3.0
+            ],
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander",
+        "id": "Legion Commander Picks",
+        "data": [
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander",
+        "id": "Legion Commander Bans",
+        "data": [
+            [
+                "PSG.LGD",
+                4.0
+            ],
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac",
+        "id": "Leshrac Picks",
+        "data": [
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "Alliance",
+                2.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac",
+        "id": "Leshrac Bans",
+        "data": [
+            [
+                "beastcoast",
+                9.0
+            ],
+            [
+                "Team Liquid",
+                4.0
+            ],
+            [
+                "Vici Gaming",
+                4.0
+            ],
+            [
+                "INVICTUS GAMING",
+                3.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Team Aster",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer",
+        "id": "Lifestealer Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer",
+        "id": "Lifestealer Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                7.0
+            ],
+            [
+                "Evil Geniuses",
+                6.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina",
+        "id": "Lina Picks",
+        "data": [
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "Vici Gaming",
+                4.0
+            ],
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                3.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina",
+        "id": "Lina Bans",
+        "data": [
+            [
+                "PSG.LGD",
+                5.0
+            ],
+            [
+                "Vici Gaming",
+                4.0
+            ],
+            [
+                "Team Spirit",
+                4.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Team Aster",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion",
+        "id": "Lion Picks",
+        "data": [
+            [
+                "Nigma",
+                9.0
+            ],
+            [
+                "Evil Geniuses",
+                9.0
+            ],
+            [
+                "INVICTUS GAMING",
+                5.0
+            ],
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "Team Spirit",
+                5.0
+            ],
+            [
+                "Vici Gaming",
+                3.0
+            ],
+            [
+                "beastcoast",
+                3.0
+            ],
+            [
+                "Quincy Crew",
+                3.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion",
+        "id": "Lion Bans",
+        "data": [
+            [
+                "Nigma",
+                3.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lone Druid",
+        "id": "Lone Druid Picks",
+        "data": [
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lone Druid",
+        "id": "Lone Druid Bans",
+        "data": [
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna",
+        "id": "Luna Picks",
+        "data": [
+            [
+                "Nigma",
+                3.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                3.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna",
+        "id": "Luna Bans",
+        "data": [
+            [
+                "Nigma",
+                4.0
+            ],
+            [
+                "Team Spirit",
+                4.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lycan",
+        "id": "Lycan Picks",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lycan",
+        "id": "Lycan Bans",
+        "data": [
+            [
+                "Nigma",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus",
+        "id": "Magnus Picks",
+        "data": [
+            [
+                "TNC Predator",
+                6.0
+            ],
+            [
+                "PSG.LGD",
+                4.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus",
+        "id": "Magnus Bans",
+        "data": [
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                4.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars",
+        "id": "Mars Picks",
+        "data": [
+            [
+                "Nigma",
+                12.0
+            ],
+            [
+                "Team Spirit",
+                8.0
+            ],
+            [
+                "Vici Gaming",
+                8.0
+            ],
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "INVICTUS GAMING",
+                3.0
+            ],
+            [
+                "Evil Geniuses",
+                5.0
+            ],
+            [
+                "beastcoast",
+                4.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Team Aster",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Virtus.pro",
+                2.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars",
+        "id": "Mars Bans",
+        "data": [
+            [
+                "Nigma",
+                7.0
+            ],
+            [
+                "Team Spirit",
+                5.0
+            ],
+            [
+                "Vici Gaming",
+                3.0
+            ],
+            [
+                "PSG.LGD",
+                6.0
+            ],
+            [
+                "INVICTUS GAMING",
+                5.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "beastcoast",
+                3.0
+            ],
+            [
+                "Team Liquid",
+                3.0
+            ],
+            [
+                "AS Monaco Gambit",
+                4.0
+            ],
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa",
+        "id": "Medusa Picks",
+        "data": [
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa",
+        "id": "Medusa Bans",
+        "data": [
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana",
+        "id": "Mirana Picks",
+        "data": [
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana",
+        "id": "Mirana Bans",
+        "data": [
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King",
+        "id": "Monkey King Picks",
+        "data": [
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Team Secret",
+                3.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King",
+        "id": "Monkey King Bans",
+        "data": [
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "beastcoast",
+                3.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling",
+        "id": "Morphling Picks",
+        "data": [
+            [
+                "Nigma",
+                3.0
+            ],
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                4.0
+            ],
+            [
+                "AS Monaco Gambit",
+                3.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling",
+        "id": "Morphling Bans",
+        "data": [
+            [
+                "Nigma",
+                7.0
+            ],
+            [
+                "PSG.LGD",
+                6.0
+            ],
+            [
+                "Team Liquid",
+                5.0
+            ],
+            [
+                "Vici Gaming",
+                3.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren",
+        "id": "Naga Siren Picks",
+        "data": [
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren",
+        "id": "Naga Siren Bans",
+        "data": [
+            [
+                "Evil Geniuses",
+                4.0
+            ],
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet",
+        "id": "Nature's Prophet Picks",
+        "data": [
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet",
+        "id": "Nature's Prophet Bans",
+        "data": [
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos",
+        "id": "Necrophos Picks",
+        "data": [
+            [
+                "Quincy Crew",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos",
+        "id": "Necrophos Bans",
+        "data": [
+            [
+                "Quincy Crew",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker",
+        "id": "Night Stalker Picks",
+        "data": [
+            [
+                "TNC Predator",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker",
+        "id": "Night Stalker Bans",
+        "data": [
+            [
+                "TNC Predator",
+                3.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin",
+        "id": "Nyx Assassin Picks",
+        "data": [
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "Vici Gaming",
+                3.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                3.0
+            ],
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                3.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin",
+        "id": "Nyx Assassin Bans",
+        "data": [
+            [
+                "TNC Predator",
+                12.0
+            ],
+            [
+                "Vici Gaming",
+                11.0
+            ],
+            [
+                "beastcoast",
+                11.0
+            ],
+            [
+                "Team Spirit",
+                8.0
+            ],
+            [
+                "Execration",
+                5.0
+            ],
+            [
+                "INVICTUS GAMING",
+                4.0
+            ],
+            [
+                "PSG.LGD",
+                4.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Omniknight",
+        "id": "Omniknight Picks",
+        "data": [
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Omniknight",
+        "id": "Omniknight Bans",
+        "data": [
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle",
+        "id": "Oracle Picks",
+        "data": [
+            [
+                "Team Liquid",
+                6.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle",
+        "id": "Oracle Bans",
+        "data": [
+            [
+                "Team Liquid",
+                7.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier",
+        "id": "Pangolier Picks",
+        "data": [
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier",
+        "id": "Pangolier Bans",
+        "data": [
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin",
+        "id": "Phantom Assassin Picks",
+        "data": [
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin",
+        "id": "Phantom Assassin Bans",
+        "data": [
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer",
+        "id": "Phantom Lancer Picks",
+        "data": [
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer",
+        "id": "Phantom Lancer Bans",
+        "data": [
+            [
+                "TNC Predator",
+                7.0
+            ],
+            [
+                "Nigma",
+                6.0
+            ],
+            [
+                "beastcoast",
+                3.0
+            ],
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "Vici Gaming",
+                5.0
+            ],
+            [
+                "Evil Geniuses",
+                3.0
+            ],
+            [
+                "NoPing Esports",
+                4.0
+            ],
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
+                "Virtus.pro",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix",
+        "id": "Phoenix Picks",
+        "data": [
+            [
+                "Nigma",
+                5.0
+            ],
+            [
+                "Vici Gaming",
+                4.0
+            ],
+            [
+                "PSG.LGD",
+                6.0
+            ],
+            [
+                "Team Spirit",
+                4.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix",
+        "id": "Phoenix Bans",
+        "data": [
+            [
+                "Nigma",
+                5.0
+            ],
+            [
+                "Vici Gaming",
+                4.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck",
+        "id": "Puck Picks",
+        "data": [
+            [
+                "Nigma",
+                5.0
+            ],
+            [
+                "Vici Gaming",
+                5.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "Team Secret",
+                3.0
+            ],
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck",
+        "id": "Puck Bans",
+        "data": [
+            [
+                "Nigma",
+                9.0
+            ],
+            [
+                "Vici Gaming",
+                8.0
+            ],
+            [
+                "Evil Geniuses",
+                8.0
+            ],
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "Team Secret",
+                4.0
+            ],
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "AS Monaco Gambit",
+                4.0
+            ],
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Quincy Crew",
+                3.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                2.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna",
+        "id": "Pugna Picks",
+        "data": [
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna",
+        "id": "Pugna Bans",
+        "data": [
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain",
+        "id": "Queen of Pain Picks",
+        "data": [
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain",
+        "id": "Queen of Pain Bans",
+        "data": [
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor",
+        "id": "Razor Picks",
+        "data": [
+            [
+                "Nigma",
+                3.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor",
+        "id": "Razor Bans",
+        "data": [
+            [
+                "Nigma",
+                4.0
+            ],
+            [
+                "beastcoast",
+                4.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "Team Aster",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "Quincy Crew",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Riki",
+        "id": "Riki Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Riki",
+        "id": "Riki Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick",
+        "id": "Rubick Picks",
+        "data": [
+            [
+                "Nigma",
+                4.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick",
+        "id": "Rubick Bans",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King",
+        "id": "Sand King Picks",
+        "data": [
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King",
+        "id": "Sand King Bans",
+        "data": [
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon",
+        "id": "Shadow Demon Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                3.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon",
+        "id": "Shadow Demon Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Fiend",
+        "id": "Shadow Fiend Picks",
+        "data": [
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Fiend",
+        "id": "Shadow Fiend Bans",
+        "data": [
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman",
+        "id": "Shadow Shaman Picks",
+        "data": [
+            [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman",
+        "id": "Shadow Shaman Bans",
+        "data": [
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage",
+        "id": "Skywrath Mage Picks",
+        "data": [
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage",
+        "id": "Skywrath Mage Bans",
+        "data": [
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar",
+        "id": "Slardar Picks",
+        "data": [
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar",
+        "id": "Slardar Bans",
+        "data": [
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "Team Liquid",
+                4.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Slark",
+        "id": "Slark Picks",
+        "data": [
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Slark",
+        "id": "Slark Bans",
+        "data": [
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire",
+        "id": "Snapfire Picks",
+        "data": [
+            [
+                "PSG.LGD",
+                4.0
+            ],
+            [
+                "Team Liquid",
+                5.0
+            ],
+            [
+                "TNC Predator",
+                7.0
+            ],
+            [
+                "Vici Gaming",
+                5.0
+            ],
+            [
+                "beastcoast",
+                4.0
+            ],
+            [
+                "AS Monaco Gambit",
+                3.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire",
+        "id": "Snapfire Bans",
+        "data": [
+            [
+                "PSG.LGD",
+                5.0
+            ],
+            [
+                "Team Liquid",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre",
+        "id": "Spectre Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                5.0
+            ],
+            [
+                "Nigma",
+                6.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre",
+        "id": "Spectre Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                9.0
+            ],
+            [
+                "Nigma",
+                3.0
+            ],
+            [
+                "PSG.LGD",
+                5.0
+            ],
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "Evil Geniuses",
+                4.0
+            ],
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Team Aster",
+                3.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Alliance",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit",
+        "id": "Storm Spirit Picks",
+        "data": [
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
+                "Vici Gaming",
+                4.0
+            ],
+            [
+                "AS Monaco Gambit",
+                3.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit",
+        "id": "Storm Spirit Bans",
+        "data": [
+            [
+                "Evil Geniuses",
+                5.0
+            ],
+            [
+                "INVICTUS GAMING",
+                4.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven",
+        "id": "Sven Picks",
+        "data": [
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven",
+        "id": "Sven Bans",
+        "data": [
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin",
+        "id": "Templar Assassin Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                6.0
+            ],
+            [
+                "TNC Predator",
+                5.0
+            ],
+            [
+                "PSG.LGD",
+                4.0
+            ],
+            [
+                "Team Liquid",
+                6.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                2.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin",
+        "id": "Templar Assassin Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                9.0
+            ],
+            [
+                "TNC Predator",
+                7.0
+            ],
+            [
+                "PSG.LGD",
+                8.0
+            ],
+            [
+                "Team Liquid",
+                4.0
+            ],
+            [
+                "AS Monaco Gambit",
+                8.0
+            ],
+            [
+                "Evil Geniuses",
+                6.0
+            ],
+            [
+                "Nigma",
+                4.0
+            ],
+            [
+                "beastcoast",
+                4.0
+            ],
+            [
+                "INVICTUS GAMING",
+                5.0
+            ],
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "Virtus.pro",
+                2.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                3.0
+            ],
+            [
+                "Alliance",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade",
+        "id": "Terrorblade Picks",
+        "data": [
+            [
+                "Evil Geniuses",
+                5.0
+            ],
+            [
+                "Nigma",
+                4.0
+            ],
+            [
+                "Team Spirit",
+                4.0
+            ],
+            [
+                "Vici Gaming",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade",
+        "id": "Terrorblade Bans",
+        "data": [
+            [
+                "Evil Geniuses",
+                11.0
+            ],
+            [
+                "Nigma",
+                7.0
+            ],
+            [
+                "Team Spirit",
+                7.0
+            ],
+            [
+                "Vici Gaming",
+                7.0
+            ],
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "Team Aster",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter",
+        "id": "Tidehunter Picks",
+        "data": [
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter",
+        "id": "Tidehunter Bans",
+        "data": [
+            [
+                "Team Spirit",
+                5.0
+            ],
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "Nigma",
+                3.0
+            ],
+            [
+                "Execration",
+                3.0
+            ],
+            [
+                "Team Secret",
+                3.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw",
+        "id": "Timbersaw Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                4.0
+            ],
+            [
+                "Evil Geniuses",
+                4.0
+            ],
+            [
+                "beastcoast",
+                3.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                3.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw",
+        "id": "Timbersaw Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                12.0
+            ],
+            [
+                "Evil Geniuses",
+                11.0
+            ],
+            [
+                "beastcoast",
+                6.0
+            ],
+            [
+                "Alliance",
+                5.0
+            ],
+            [
+                "Nigma",
+                4.0
+            ],
+            [
+                "INVICTUS GAMING",
+                3.0
+            ],
+            [
+                "Quincy Crew",
+                4.0
+            ],
+            [
+                "Team Aster",
+                4.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny",
+        "id": "Tiny Picks",
+        "data": [
+            [
+                "Team Spirit",
+                5.0
+            ],
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "beastcoast",
+                3.0
+            ],
+            [
+                "Team Liquid",
+                3.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny",
+        "id": "Tiny Bans",
+        "data": [
+            [
+                "Team Spirit",
+                4.0
+            ],
+            [
+                "NoPing Esports",
+                3.0
+            ],
+            [
+                "Execration",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector",
+        "id": "Treant Protector Picks",
+        "data": [
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                3.0
+            ],
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector",
+        "id": "Treant Protector Bans",
+        "data": [
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord",
+        "id": "Troll Warlord Picks",
+        "data": [
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord",
+        "id": "Troll Warlord Bans",
+        "data": [
+            [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk",
+        "id": "Tusk Picks",
+        "data": [
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk",
+        "id": "Tusk Bans",
+        "data": [
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord",
+        "id": "Underlord Picks",
+        "data": [
+            [
+                "Team Spirit",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord",
+        "id": "Underlord Bans",
+        "data": [
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying",
+        "id": "Undying Picks",
+        "data": [
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying",
+        "id": "Undying Bans",
+        "data": [
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa",
+        "id": "Ursa Picks",
+        "data": [
+            [
+                "Nigma",
+                5.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "PSG.LGD",
+                3.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa",
+        "id": "Ursa Bans",
+        "data": [
+            [
+                "Nigma",
+                10.0
+            ],
+            [
+                "Vici Gaming",
+                7.0
+            ],
+            [
+                "TNC Predator",
+                6.0
+            ],
+            [
+                "PSG.LGD",
+                5.0
+            ],
+            [
+                "Evil Geniuses",
+                7.0
+            ],
+            [
+                "Team Secret",
+                6.0
+            ],
+            [
+                "Team Spirit",
+                4.0
+            ],
+            [
+                "Virtus.pro",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Team Aster",
+                2.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer",
+        "id": "Venomancer Picks",
+        "data": [
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer",
+        "id": "Venomancer Bans",
+        "data": [
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                3.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                3.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper",
+        "id": "Viper Picks",
+        "data": [
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                4.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "beastcoast",
+                3.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Quincy Crew",
+                2.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper",
+        "id": "Viper Bans",
+        "data": [
+            [
+                "Team Spirit",
+                11.0
+            ],
+            [
+                "Evil Geniuses",
+                8.0
+            ],
+            [
+                "TNC Predator",
+                7.0
+            ],
+            [
+                "beastcoast",
+                5.0
+            ],
+            [
+                "AS Monaco Gambit",
+                3.0
+            ],
+            [
+                "PSG.LGD",
+                5.0
+            ],
+            [
+                "NoPing Esports",
+                4.0
+            ],
+            [
+                "Nigma",
+                4.0
+            ],
+            [
+                "Virtus.pro",
+                4.0
+            ],
+            [
+                "Alliance",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit",
+        "id": "Void Spirit Picks",
+        "data": [
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                3.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit",
+        "id": "Void Spirit Bans",
+        "data": [
+            [
+                "INVICTUS GAMING",
+                5.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Warlock",
+        "id": "Warlock Picks",
+        "data": [
+            [
+                "INVICTUS GAMING",
+                3.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                2.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Warlock",
+        "id": "Warlock Bans",
+        "data": [
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Windranger",
+        "id": "Windranger Picks",
+        "data": [
+            [
+                "Virtus.pro",
+                2.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Windranger",
+        "id": "Windranger Bans",
+        "data": [
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern",
+        "id": "Winter Wyvern Picks",
+        "data": [
+            [
+                "Team Spirit",
+                4.0
+            ],
+            [
+                "Nigma",
+                4.0
+            ],
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
+                "Alliance",
+                2.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern",
+        "id": "Winter Wyvern Bans",
+        "data": [
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "Nigma",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor",
+        "id": "Witch Doctor Picks",
+        "data": [
+            [
+                "beastcoast",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor",
+        "id": "Witch Doctor Bans",
+        "data": [
+            [
+                "beastcoast",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King",
+        "id": "Wraith King Picks",
+        "data": [
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                3.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "beastcoast",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King",
+        "id": "Wraith King Bans",
+        "data": [
+            [
+                "Vici Gaming",
+                6.0
+            ],
+            [
+                "Team Spirit",
+                4.0
+            ],
+            [
+                "Nigma",
+                6.0
+            ],
+            [
+                "Team Secret",
+                4.0
+            ],
+            [
+                "beastcoast",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Virtus.pro",
+                2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ]
+        ]
+    }
+]
