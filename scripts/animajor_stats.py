@@ -60,7 +60,7 @@ print('Extracting detailed match data...')
 
 for match_id in animajor_matches['match_id'].tolist():
     if match_id not in excluded_match_ids:
-        match_link = '{}/matches/{}?api_key=df4c6289-1f6a-412d-84c5-26fc5aa67f53'.format(api, match_id)
+        match_link = '{}/matches/{}?api_key={}'.format(api, match_id, API_KEY)
         r = requests.get(match_link)
         data = json.loads(r.text)
 
