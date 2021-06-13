@@ -18,15 +18,18 @@ print('Initializing data extraction from OpenDota API...')
 load_dotenv()
 API_KEY = os.getenv('API_KEY')
 
+# instantiating a counter to track how many calls we make to opendota's API
+api_counter = 0
+
 save_file_path = "..\\data\\DPC1S2\\animajor\\{}"
-save_file_path = "..\\data\\{}"
 dfs_to_convert = {}
+jsons_to_upload = {}
 
 api = 'https://api.opendota.com/api'
-
 link = '{}/proMatches?api_key={}'.format(api, API_KEY)
 
 r = requests.get(link)
+api_counter += 1
 data = json.loads(r.text)
 df = pd.DataFrame(data)
 
@@ -34,18 +37,20 @@ df = pd.DataFrame(data)
 
 print('Pulling all relevant matches...')
 
-animajor_start = 1622513391
+# time at which the first match of the animajor started
+start_time = 1622513391
 
-while df[-1::]['start_time'].iloc[0] > animajor_start:
+while df[-1::]['start_time'].iloc[0] > start_time:
     print('Appending new set of data ending in match_id: {}'.format(df[-1::]['match_id'].iloc[0]))
     temp_link = '{}&less_than_match_id={}'.format(link, df[-1::]['match_id'].iloc[0])
     r = requests.get(temp_link)
+    api_counter += 1
     data = json.loads(r.text)
     df = df.append(pd.DataFrame(data))
 
 # --- ANIMAJOR DATA FILTER--- #
 
-# animajor ID
+# animajor league ID
 league_id = 12964 
 
 animajor_matches = df[df['leagueid'] == league_id]
@@ -63,6 +68,7 @@ for match_id in animajor_matches['match_id'].tolist():
     if match_id not in excluded_match_ids:
         match_link = '{}/matches/{}?api_key={}'.format(api, match_id, API_KEY)
         r = requests.get(match_link)
+        api_counter += 1
         data = json.loads(r.text)
 
         draft_timings_df = pd.DataFrame(data['draft_timings'])
@@ -94,6 +100,7 @@ print('Extracting hero data...')
 heroes_link = '{}/heroes'.format(api)
 
 r = requests.get(heroes_link)
+api_counter += 1
 data = json.loads(r.text)
 heroes_df = pd.DataFrame(data)
 heroes = heroes_df[['id', 'localized_name', 'primary_attr']]
@@ -197,15 +204,14 @@ team_picks_and_bans = []
 
 for hero in sorted(total_team_pbs['hero_name'].unique()):
     temp_df = total_team_pbs[total_team_pbs['hero_name'] == hero]
-    team_picks_and_bans.append({'name': hero, 'id': hero + ' Picks', 'data': temp_df[['team', 'picks_for']].to_numpy().tolist()})
-    team_picks_and_bans.append({'name': hero, 'id': hero + ' Bans', 'data': temp_df[['team', 'bans_against']].to_numpy().tolist()})
+    team_picks_and_bans.append({'name': hero + ' Picks For', 'id': hero + ' Picks', 'data': temp_df[['team', 'picks_for']].to_numpy().tolist()})
+    team_picks_and_bans.append({'name': hero + ' Bans Against', 'id': hero + ' Bans', 'data': temp_df[['team', 'bans_against']].to_numpy().tolist()})
 
-with open(save_file_path.format('team_picks_and_bans.json'), 'w+', encoding='utf-8') as f:
-    json.dump(team_picks_and_bans, f, ensure_ascii=False, indent=4)
+jsons_to_upload['team_picks_and_bans'] = team_picks_and_bans
 
-# --- HERO WINS & LOSSES --- #
+# --- HERO WIN RATES --- #
 
-print('Creating data transformation for hero wins and losses...')
+print('Creating data transformation for hero win rates...')
 
 sql_query = """
 SELECT  heroes.localized_name AS hero_name,
@@ -233,7 +239,17 @@ total_hero_wins = hero_wins.groupby('hero_name')['match_won'].agg(['sum', 'count
 total_hero_wins['win_rate'] = total_hero_wins['matches_won'] / total_hero_wins['matches_played']
 total_hero_wins.sort_values(by = ['matches_played', 'matches_won'], ascending = False, inplace = True)
 
-dfs_to_convert['total_hero_wins'] = total_hero_wins
+hero_matches_played = total_hero_wins[['hero_name', 'matches_played']]
+hero_matches_won = total_hero_wins[['hero_name', 'matches_won']]
+hero_win_rates = total_hero_wins[['hero_name', 'win_rate']]
+
+hero_matches_played = hero_matches_played.rename(columns = {'hero_name': 'name', 'matches_played': 'y'}).reset_index(drop = True)
+hero_matches_won = hero_matches_won.rename(columns = {'hero_name': 'name', 'matches_won': 'y'}).reset_index(drop = True)
+hero_win_rates = hero_win_rates.rename(columns = {'hero_name': 'name', 'hero_win_rates': 'y'}).reset_index(drop = True)
+
+dfs_to_convert['hero_matches_played'] = hero_matches_played
+dfs_to_convert['hero_matches_won'] = hero_matches_won
+dfs_to_convert['hero_win_rates'] = hero_win_rates
 
 # --- RADIANT VS DIRE PICK ORDERS --- # 
 
@@ -252,11 +268,7 @@ dire_rad = len(first_picks[(first_picks['winning_team'] == 'Dire') & (first_pick
 
 fps_dict = {'rad_fps': radiant_first_picks_num, 'dire_fps': dire_first_picks_num, 'wins_fps': wins_first_picks_num, 'losses_fps': losses_first_picks_num, 'rad_fps_rad_wins': rad_rad, 'dire_fps_rad_wins': rad_dire, 'dire_fps_dire_wins': dire_dire, 'rad_fps_dire_wins': dire_rad}
 
-print('Storing pick order data...')
-
-with open(save_file_path.format('fps_dict.json'), 'w+', encoding='utf-8') as f:
-with open(save_file_path.format('fps_dict.json'), 'w', encoding='utf-8') as f:
-    json.dump(fps_dict, f, ensure_ascii=False, indent=4)
+jsons_to_upload['fps_dict'] = fps_dict
 
 # --- MATCH LENGTH --- #
 
@@ -280,12 +292,25 @@ for i in range(len(match_lengths)):
     name = series['name']
     time_list.append({'match': name, 'y': int(running_total), 'name': int(duration)})
 
-print('Storing match length data...')
+jsons_to_upload['time_list'] = time_list
 
-with open(save_file_path.format('time_list.json'), 'w+', encoding='utf-8') as f:
-with open(save_file_path.format('time_list.json'), 'w', encoding='utf-8') as f:
-    json.dump(time_list, f, ensure_ascii=False, indent=4)
+# --- FILE CREATION --- #
+
+print('Converting dataframes to JSON files and saving them...')
 
 for name, df in dfs_to_convert.items():
-    print('Storing {} python data...'.format(name))
+    print('Writing {} to JSON file...'.format(name))
     df.to_json(save_file_path.format('{}.json'.format(name)), orient = 'records')
+
+print('Saving JSON files...')
+
+for name, data in jsons_to_upload.items():
+    file_name = '{}.json'.format(name)
+
+    print('Writing {} to JSON file...'.format(file_name))
+
+    with open(save_file_path.format(file_name), 'w+', encoding = 'utf-8') as f:
+        json.dump(data, f, ensure_ascii = False, indent = 4)
+
+print('Number of API requests: {}'.format(api_counter))
+print('Cost of API requests: ${}'.format((api_counter / 10000)))
