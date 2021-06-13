@@ -33,6 +33,9 @@
                         'verticalAlign': 'top'
                     },
                     'plotOptions': {
+                        'series': {
+                            'grouping': false
+                        },
                         'spline': {
                             'zones': [
                                 {
@@ -105,25 +108,17 @@
                             'type': 'column',
                             'name': 'Matches Played',
                             'color': 'rgba(0, 156, 173, 0.45)',
-                            'pointPadding': 0,
-                            'pointWidth': 10,
-                            'groupPadding': 0,
-                            'borderWidth': 0,
                             'data': heroMatchesPlayed
                         },
                         {
                             'type': 'column',
                             'name': 'Matches Won',
                             'color': 'rgba(0, 156, 173, 1)',
-                            'pointPadding': 0,
-                            'pointWidth': 10,
-                            'groupPadding': 1,
-                            'borderWidth': 0,
                             'data': heroMatchesWon
                         },
                         {
                             'type': 'spline',
-                            'name': 'Matches Won',
+                            'name': 'Win Rate',
                             'color': 'rgba(72, 219, 119, 1)',
                             'yAxis': 1,
                             'lineWidth': 0,

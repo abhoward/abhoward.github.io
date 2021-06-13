@@ -17,8 +17,6 @@
                 var matchTimes = data1[0];
                 var numList = data2[0]['number_list'];
 
-                console.log(matchTimes);
-
                 var total = 0;
 
                 for(var i = 0; i < matchTimes.length; i++) {
@@ -58,17 +56,24 @@
                                 'enabled': true,
                                 'useHTML': true,
                                 'align': 'left',
-                                // 'format': function () {
-                                //     var str = this.match;
-                                //     var teams = str.split(" vs ");
+                                'formatter': function () {
+                                    var str = this.point.match;
+                                    var teams = str.split(" vs ");
 
-                                //     <div style="width: 20px; height: 20px; margin-left: 0px"> 
-                                //         <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" style="width: 100%; height: 100%">
-                                //     </div>
-                                //     <div style="width: 20px; height: 20px; margin-left: 0px">
-                                //         <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" style="width: 100%; height: 100%">
-                                //     </div>
-                                // }
+                                    var team1 = teams[0].replace(' ', '_').toLowerCase();
+                                    var team2 = teams[1].replace(' ', '_').toLowerCase();
+
+                                    var team1Link = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/team_logos/' + team1 + '.png';
+                                    var team2Link = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/team_logos/' + team2 + '.png';
+
+                                    console.log(team1Link);
+                                    console.log(team2Link);
+
+                                    return '<div style="width: 20px; height: 20px; margin-left: 0px">' +  
+                                        '<img src="' + team1Link + '" style="width: 100%; height: 100%"></div>' + 
+                                    '<div style="width: 20px; height: 20px; margin-left: 0px">' + 
+                                        '<img src="' + team2Link + '" style="width: 100%; height: 100%"></div>';
+                                }
                             }
                         }
                     },
@@ -84,7 +89,6 @@
                         'headerFormat': ''
                     },
                     'xAxis': {
-                        'min': 0,
                         'type': 'category',
                         'categories': numList,
                         'title': {
