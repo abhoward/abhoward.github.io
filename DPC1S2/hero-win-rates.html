@@ -2,63 +2,155 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <link href="https://www.highcharts.com/highslide/highslide.css" rel="stylesheet" />
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
         <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
-        <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js.js"></script>
-        <script type="text/javascript" src="https://code.highcharts.com/modules/heatmap.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js"></script>
         <script type="text/javascript" src="https://code.highcharts.com/modules/exporting.js"></script>
     </head>
     <body style="margin:0;padding:0">
-                <div id="container" style="width:100%;height:750px">Loading....</div>
+        <div id="container" style="width:100%;height:750px">Loading....</div>
+        <script>
+            var heroMatchesPlayedLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/DPC1S2/animajor/hero_matches_played.json';
+            var heroMatchesWonLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/DPC1S2/animajor/hero_matches_won.json';
+            var heroWinRatesLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/DPC1S2/animajor/hero_win_rates.json';
 
+            function createHighchart(data1, data2, data3) {
+                var heroMatchesPlayed = data1[0];
+                var heroMatchesWon = data2[0];
+                var heroWinRates = data3[0];
 
-    <script>
-        $(function(){
-
-
-
-
-
-            Highcharts.setOptions({"global": {}, "lang": {"thousandsSep": ","}});
-            var option = {"chart": {"renderTo": "container", "type": "column"}, "colors": {}, "credits": {"enabled": false}, "drilldown": {}, "exporting": {}, "labels": {}, "legend": {"verticalAlign": "top"}, "loading": {}, "navigation": {}, "pane": {}, "plotOptions": {"spline": {"zones": [{"value": 0.25, "color": "#f56969"}, {"value": 0.5, "color": "#d8db53"}, {"value": 0.9, "color": "#1ac73d"}, {"value": 1.01, "color": "#1a48c7"}]}}, "series": {}, "subtitle": {"text": "Click the legend items to filter data. Source: opendota.com.<br><i>Excludes matches <code>6025172903</code>, <code>6023211594</code> and <code>6023110186</code> due to lack of data.</i>"}, "title": {"text": "Hero Win Rate"}, "tooltip": {"shared": true, "pointFormatter": function() {
-            var value;
-            if (this.series.name == "Win Rate") {
-                value = this.y*100;
-                value = value.toFixed(2) + '%'
-            } else {
-                value = this.y.toLocaleString(undefined, {'minimumFractionDigits':0, 'maximumFractionDigits':0});
+                Highcharts.chart('container', {
+                    'chart': {
+                        'type': 'column'
+                    },
+                    'title': {
+                        'text': 'Hero Win Rates'
+                    },
+                    'subtitle': {
+                        'text': 'Click the legend items to filter data. Source: opendota.com.<br><i>Excludes matches <code>6025172903</code>, <code>6023211594</code> and <code>6023110186</code> due to lack of data.</i>'
+                    },
+                    'legend': {
+                        'verticalAlign': 'top'
+                    },
+                    'plotOptions': {
+                        'spline': {
+                            'zones': [
+                                {
+                                'value': 0.25, 
+                                'color': '#f56969'
+                                }, 
+                                {
+                                'value': 0.5, 
+                                'color': '#d8db53'
+                                }, 
+                                {'value': 0.9, 
+                                 'color': '#1ac73d'
+                                }, 
+                                {'value': 1.01, 
+                                 'color': '#1a48c7'
+                                }
+                            ]
+                        }
+                    },
+                    'tooltip': {
+                        'shared': true,
+                        'pointFormatter': function() {
+                            var value;
+                            if (this.series.name == "Win Rate") {
+                                value = this.y*100;
+                                value = value.toFixed(2) + '%'
+                            } else {
+                                value = this.y.toLocaleString(undefined, {'minimumFractionDigits':0, 'maximumFractionDigits':0});
+                            }
+                            if (typeof this.zone.color != "undefined") {
+                                return '<span style="color:' + this.zone.color + '">' + this.series.name + '</span>: <b>' + value + '</b><br />';
+                            } else {
+                                return '<span style="color:' + this.series.color + '">' + this.series.name + '</span>: <b>' + value + '</b><br />';
+                            }
+                        },
+                        'headerFormat': '<b>{point.key}</b><br>'
+                    },
+                    'xAxis': {
+                        'type': 'category',
+                        'title': {
+                            'text': 'Hero'
+                        }
+                    },
+                    'yAxis': [
+                        { // Primary Axis
+                            'min': 0,
+                            'title': {
+                                'text': 'Number of Matches'
+                            },
+                        },
+                        { // Secondary Axis
+                            'min': 0,
+                            'max': 1.0,
+                            'title': {
+                                'text': 'Win Rate'
+                            },
+                            'startOnTick': false,
+                            'endOnTick': false,
+                            'gridLineColor': 'transparent',
+                            'opposite': true,
+                            'labels': {
+                                'formatter': function () {
+                                    return this.value*100 + '%';
+                                }
+                            }
+                        }
+                    ],
+                    'series': [
+                        {
+                            'type': 'bar',
+                            'name': 'Matches Played',
+                            'color': 'rgba(0, 156, 173, 0.35)',
+                            'data': heroMatchesPlayed
+                        },
+                        {
+                            'type': 'column',
+                            'name': 'Matches Won',
+                            'color': 'rgba(0, 156, 173, 1)',
+                            'data': heroMatchesWon
+                        },
+                        {
+                            'type': 'spline',
+                            'name': 'Matches Won',
+                            'color': 'rgba(72, 219, 119, 1)',
+                            'yAxis': 1,
+                            'lineWidth': 0,
+                            'states': {
+                                'hover': {
+                                    'enabled': false
+                                }
+                            },
+                            'marker': {
+                                'symbol': 'diamond'
+                            },
+                            'data': heroWinRates
+                        }
+                    ]
+                });
             }
-            if (typeof this.zone.color != "undefined") {
-                return '<span style="color:' + this.zone.color + '">' + this.series.name + '</span>: <b>' + value + '</b><br />';
-            } else {
-                return '<span style="color:' + this.series.color + '">' + this.series.name + '</span>: <b>' + value + '</b><br />';
+
+            function ajaxCalls() {
+                return [
+                    $.ajax({
+                        url: heroMatchesPlayedLink,
+                        dataType: 'json'
+                    }),
+                    $.ajax({
+                        url: heroMatchesWonLink,
+                        dataType: 'json'
+                    }),
+                    $.ajax({
+                        url: heroWinRatesLink,
+                        dataType: 'json'
+                    })
+                ];
             }
-        }, "headerFormat": "<b>{point.key}</b><br>"}, "dataSorting": {}, "xAxis": {"type": "category", "categories": ["Mars", "Lion", "Snapfire", "Ancient Apparition", "Templar Assassin", "Puck", "Enchantress", "Dragon Knight", "Phoenix", "Magnus", "Nyx Assassin", "Tiny", "Dark Willow", "Faceless Void", "Morphling", "Ursa", "Winter Wyvern", "Leshrac", "Grimstroke", "Invoker", "Axe", "Wraith King", "Lina", "Spectre", "Terrorblade", "Viper", "Clockwerk", "Timbersaw", "Dark Seer", "Elder Titan", "Doom", "Earth Spirit", "Treant Protector", "Broodmother", "Ember Spirit", "Centaur Warrunner", "Warlock", "Storm Spirit", "Razor", "Abaddon", "Bristleback", "Phantom Lancer", "Void Spirit", "Luna", "Lifestealer", "Oracle", "Rubick", "Shadow Shaman", "Shadow Demon", "Medusa", "Hoodwink", "Mirana", "Death Prophet", "Kunkka", "Tidehunter", "Monkey King", "Disruptor", "Beastmaster", "Gyrocopter", "Juggernaut", "Windranger", "Slardar", "Batrider", "Bloodseeker", "Drow Ranger", "Phantom Assassin", "Pangolier", "Shadow Fiend", "Tusk", "Venomancer", "Legion Commander", "Skywrath Mage", "Troll Warlord", "Underlord", "Anti-Mage", "Lone Druid", "Naga Siren", "Sand King", "Slark", "Io", "Bane", "Chaos Knight", "Dazzle", "Omniknight", "Witch Doctor", "Night Stalker", "Sven", "Chen", "Undying", "Arc Warden", "Crystal Maiden", "Huskar", "Jakiro", "Lycan", "Pugna", "Queen of Pain"], "title": {"text": "Hero"}}, "yAxis": [{"min": 0, "title": {"text": "Number of Matches"}}, {"min": 0, "max": 1.0, "title": {"text": "Win Rate"}, "startOnTick": false, "endOnTick": false, "gridLineColor": "transparent", "opposite": true, "labels": {"formatter": function () {
-                  return this.value*100 + '%';
-            }}}]};
 
-
- 
-
-            var chart = new Highcharts.Chart(option);
-
-            var data = [{"data": [48, 40, 36, 33, 28, 27, 26, 24, 24, 23, 22, 22, 21, 20, 20, 19, 19, 17, 17, 16, 16, 16, 16, 15, 15, 15, 15, 14, 13, 12, 12, 12, 12, 11, 11, 11, 11, 10, 9, 9, 9, 9, 9, 8, 8, 8, 8, 8, 8, 8, 7, 7, 7, 7, 7, 7, 7, 6, 6, 6, 6, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1], "type": "bar", "id": "Matches Played", "color": "rgba(0, 156, 173, 0.35)", "name": "Matches Played"}, {"data": [27.0, 22.0, 19.0, 19.0, 17.0, 16.0, 14.0, 16.0, 16.0, 15.0, 12.0, 5.0, 10.0, 10.0, 8.0, 12.0, 11.0, 8.0, 7.0, 11.0, 8.0, 8.0, 6.0, 9.0, 9.0, 6.0, 5.0, 8.0, 5.0, 7.0, 6.0, 6.0, 5.0, 8.0, 5.0, 4.0, 4.0, 6.0, 6.0, 5.0, 2.0, 2.0, 1.0, 5.0, 4.0, 4.0, 3.0, 3.0, 2.0, 1.0, 6.0, 4.0, 3.0, 3.0, 3.0, 2.0, 1.0, 3.0, 3.0, 3.0, 2.0, 4.0, 3.0, 3.0, 3.0, 1.0, 3.0, 2.0, 2.0, 2.0, 1.0, 1.0, 1.0, 0.0, 3.0, 1.0, 1.0, 1.0, 0.0, 2.0, 1.0, 1.0, 1.0, 1.0, 1.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], "type": "column", "id": "Matches Won", "color": "rgba(0, 156, 173, 1)", "name": "Matches Won"}, {"data": [0.5625, 0.55, 0.5277777777777778, 0.5757575757575758, 0.6071428571428571, 0.5925925925925926, 0.5384615384615384, 0.6666666666666666, 0.6666666666666666, 0.6521739130434783, 0.5454545454545454, 0.22727272727272727, 0.47619047619047616, 0.5, 0.4, 0.631578947368421, 0.5789473684210527, 0.47058823529411764, 0.4117647058823529, 0.6875, 0.5, 0.5, 0.375, 0.6, 0.6, 0.4, 0.3333333333333333, 0.5714285714285714, 0.38461538461538464, 0.5833333333333334, 0.5, 0.5, 0.4166666666666667, 0.7272727272727273, 0.45454545454545453, 0.36363636363636365, 0.36363636363636365, 0.6, 0.6666666666666666, 0.5555555555555556, 0.2222222222222222, 0.2222222222222222, 0.1111111111111111, 0.625, 0.5, 0.5, 0.375, 0.375, 0.25, 0.125, 0.8571428571428571, 0.5714285714285714, 0.42857142857142855, 0.42857142857142855, 0.42857142857142855, 0.2857142857142857, 0.14285714285714285, 0.5, 0.5, 0.5, 0.3333333333333333, 0.8, 0.6, 0.6, 0.6, 0.2, 0.75, 0.5, 0.5, 0.5, 0.25, 0.25, 0.25, 0.0, 1.0, 0.3333333333333333, 0.3333333333333333, 0.3333333333333333, 0.0, 1.0, 0.5, 0.5, 0.5, 0.5, 0.5, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], "type": "spline", "id": "Win Rate", "color": "rgba(72, 219, 119, 1)", "yAxis": 1, "marker": {"symbol": "diamond"}, "name": "Win Rate", "lineWidth": 0, "states": {"hover": {"enabled": false}}}];
-            var dataLen = data.length;
-            for (var ix = 0; ix < dataLen; ix++) {
-                chart.addSeries(data[ix]);
-            }
- 
-
-
-
-
-
-
-
-        
-    });
+            $.when.apply($, ajaxCalls()).then(createHighchart);
         </script>
-
     </body>
 </html>

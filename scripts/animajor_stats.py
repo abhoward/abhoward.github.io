@@ -280,7 +280,7 @@ print('Creating data transformation for match lengths...')
 
 match_lengths = animajor_matches[['radiant_name', 'dire_name', 'radiant_win', 'duration']]
 match_lengths['name'] = match_lengths['radiant_name'] + ' vs ' + match_lengths['dire_name']
-match_length = match_lengths.sort_values(by = 'duration', ascending = True).reset_index(drop = True)
+match_lengths = match_lengths.sort_values(by = 'duration', ascending = True).reset_index(drop = True)
 match_lengths['running_total'] = range(len(match_lengths), 0, -1)
 
 num_list = {}
