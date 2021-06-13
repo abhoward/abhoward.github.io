@@ -245,7 +245,7 @@ hero_win_rates = total_hero_wins[['hero_name', 'win_rate']]
 
 hero_matches_played = hero_matches_played.rename(columns = {'hero_name': 'name', 'matches_played': 'y'}).reset_index(drop = True)
 hero_matches_won = hero_matches_won.rename(columns = {'hero_name': 'name', 'matches_won': 'y'}).reset_index(drop = True)
-hero_win_rates = hero_win_rates.rename(columns = {'hero_name': 'name', 'hero_win_rates': 'y'}).reset_index(drop = True)
+hero_win_rates = hero_win_rates.rename(columns = {'hero_name': 'name', 'win_rate': 'y'}).reset_index(drop = True)
 
 dfs_to_convert['hero_matches_played'] = hero_matches_played
 dfs_to_convert['hero_matches_won'] = hero_matches_won
