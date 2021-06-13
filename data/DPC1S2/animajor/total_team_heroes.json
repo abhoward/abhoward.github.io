@@ -35,19 +35,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Abaddon Matches Won",
@@ -85,19 +73,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Abaddon Win Rate",
@@ -205,19 +181,7 @@
                 "beastcoast",
                 4
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Ancient Apparition Matches Won",
@@ -275,19 +239,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Ancient Apparition Win Rate",
@@ -375,19 +327,7 @@
                 "PSG.LGD",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Anti-Mage Matches Won",
@@ -405,19 +345,7 @@
                 "PSG.LGD",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Anti-Mage Win Rate",
@@ -457,19 +385,7 @@
                 "Evil Geniuses",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Arc Warden Matches Won",
@@ -479,19 +395,7 @@
                 "Evil Geniuses",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Arc Warden Win Rate",
@@ -559,19 +463,7 @@
                 "Team Spirit",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Axe Matches Won",
@@ -617,19 +509,7 @@
                 "Team Spirit",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Axe Win Rate",
@@ -697,19 +577,7 @@
                 "Team Secret",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Bane Matches Won",
@@ -719,19 +587,7 @@
                 "Team Secret",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Bane Win Rate",
@@ -787,19 +643,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Batrider Matches Won",
@@ -833,19 +677,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Batrider Win Rate",
@@ -913,19 +745,7 @@
                 "beastcoast",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Beastmaster Matches Won",
@@ -947,19 +767,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Beastmaster Win Rate",
@@ -1023,19 +831,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Bloodseeker Matches Won",
@@ -1065,19 +861,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Bloodseeker Win Rate",
@@ -1133,19 +917,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Brewmaster Matches Won",
@@ -1159,19 +931,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Brewmaster Win Rate",
@@ -1227,19 +987,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Bristleback Matches Won",
@@ -1269,19 +1017,7 @@
                 "Vici Gaming",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Bristleback Win Rate",
@@ -1369,19 +1105,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Broodmother Matches Won",
@@ -1427,19 +1151,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Broodmother Win Rate",
@@ -1535,19 +1247,7 @@
                 "Virtus.pro",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Centaur Warrunner Matches Won",
@@ -1585,19 +1285,7 @@
                 "Virtus.pro",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Centaur Warrunner Win Rate",
@@ -1661,19 +1349,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Chaos Knight Matches Won",
@@ -1687,19 +1363,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Chaos Knight Win Rate",
@@ -1735,19 +1399,7 @@
                 "Nigma",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Chen Matches Won",
@@ -1757,19 +1409,7 @@
                 "Nigma",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Chen Win Rate",
@@ -1837,19 +1477,7 @@
                 "beastcoast",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Clockwerk Matches Won",
@@ -1895,19 +1523,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Clockwerk Win Rate",
@@ -1979,19 +1595,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Crystal Maiden Matches Won",
@@ -2005,19 +1609,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Crystal Maiden Win Rate",
@@ -2097,19 +1689,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Dark Seer Matches Won",
@@ -2163,19 +1743,7 @@
                 "Vici Gaming",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Dark Seer Win Rate",
@@ -2287,19 +1855,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Dark Willow Matches Won",
@@ -2345,19 +1901,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Dark Willow Win Rate",
@@ -2425,19 +1969,7 @@
                 "AS Monaco Gambit",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Dazzle Matches Won",
@@ -2447,19 +1979,7 @@
                 "AS Monaco Gambit",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Dazzle Win Rate",
@@ -2519,19 +2039,7 @@
                 "Virtus.pro",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Death Prophet Matches Won",
@@ -2569,19 +2077,7 @@
                 "Virtus.pro",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Death Prophet Win Rate",
@@ -2657,19 +2153,7 @@
                 "Team Spirit",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Disruptor Matches Won",
@@ -2695,19 +2179,7 @@
                 "Team Spirit",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Disruptor Win Rate",
@@ -2783,19 +2255,7 @@
                 "Vici Gaming",
                 7
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Doom Matches Won",
@@ -2833,19 +2293,7 @@
                 "Vici Gaming",
                 5
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Doom Win Rate",
@@ -2949,19 +2397,7 @@
                 "Virtus.pro",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Dragon Knight Matches Won",
@@ -3015,19 +2451,7 @@
                 "Virtus.pro",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Dragon Knight Win Rate",
@@ -3115,19 +2539,7 @@
                 "Team Spirit",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Drow Ranger Matches Won",
@@ -3149,19 +2561,7 @@
                 "Team Spirit",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Drow Ranger Win Rate",
@@ -3225,19 +2625,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Earth Spirit Matches Won",
@@ -3267,19 +2655,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Earth Spirit Win Rate",
@@ -3363,19 +2739,7 @@
                 "Virtus.pro",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Elder Titan Matches Won",
@@ -3417,19 +2781,7 @@
                 "Virtus.pro",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Elder Titan Win Rate",
@@ -3521,19 +2873,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Ember Spirit Matches Won",
@@ -3571,19 +2911,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Ember Spirit Win Rate",
@@ -3687,19 +3015,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Enchantress Matches Won",
@@ -3753,19 +3069,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Enchantress Win Rate",
@@ -3881,19 +3185,7 @@
                 "beastcoast",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Faceless Void Matches Won",
@@ -3943,19 +3235,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Faceless Void Win Rate",
@@ -4067,19 +3347,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Grimstroke Matches Won",
@@ -4129,19 +3397,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Grimstroke Win Rate",
@@ -4229,19 +3485,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Gyrocopter Matches Won",
@@ -4267,19 +3511,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Gyrocopter Win Rate",
@@ -4351,19 +3583,7 @@
                 "Team Spirit",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Hoodwink Matches Won",
@@ -4397,19 +3617,7 @@
                 "Team Spirit",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Hoodwink Win Rate",
@@ -4465,19 +3673,7 @@
                 "AS Monaco Gambit",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Huskar Matches Won",
@@ -4487,19 +3683,7 @@
                 "AS Monaco Gambit",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Huskar Win Rate",
@@ -4559,19 +3743,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Invoker Matches Won",
@@ -4609,19 +3781,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Invoker Win Rate",
@@ -4681,19 +3841,7 @@
                 "Nigma",
                 4
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Io Matches Won",
@@ -4703,19 +3851,7 @@
                 "Nigma",
                 3
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Io Win Rate",
@@ -4747,19 +3883,7 @@
                 "Team Spirit",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Jakiro Matches Won",
@@ -4769,19 +3893,7 @@
                 "Team Spirit",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Jakiro Win Rate",
@@ -4825,19 +3937,7 @@
                 "beastcoast",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Juggernaut Matches Won",
@@ -4859,19 +3959,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Juggernaut Win Rate",
@@ -4939,19 +4027,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Kunkka Matches Won",
@@ -4985,19 +4061,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Kunkka Win Rate",
@@ -5065,19 +4129,7 @@
                 "Team Liquid",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Legion Commander Matches Won",
@@ -5099,19 +4151,7 @@
                 "Team Liquid",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Legion Commander Win Rate",
@@ -5203,19 +4243,7 @@
                 "beastcoast",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Leshrac Matches Won",
@@ -5273,19 +4301,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Leshrac Win Rate",
@@ -5385,19 +4401,7 @@
                 "Vici Gaming",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Lifestealer Matches Won",
@@ -5427,19 +4431,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Lifestealer Win Rate",
@@ -5523,19 +4515,7 @@
                 "Vici Gaming",
                 5
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Lina Matches Won",
@@ -5577,19 +4557,7 @@
                 "Vici Gaming",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Lina Win Rate",
@@ -5713,19 +4681,7 @@
                 "beastcoast",
                 3
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Lion Matches Won",
@@ -5795,19 +4751,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Lion Win Rate",
@@ -5903,19 +4847,7 @@
                 "Team Secret",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Lone Druid Matches Won",
@@ -5929,19 +4861,7 @@
                 "Team Secret",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Lone Druid Win Rate",
@@ -6005,19 +4925,7 @@
                 "Virtus.pro",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Luna Matches Won",
@@ -6055,19 +4963,7 @@
                 "Virtus.pro",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Luna Win Rate",
@@ -6131,19 +5027,7 @@
                 "TNC Predator",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Lycan Matches Won",
@@ -6157,19 +5041,7 @@
                 "TNC Predator",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Lycan Win Rate",
@@ -6253,19 +5125,7 @@
                 "beastcoast",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Magnus Matches Won",
@@ -6323,19 +5183,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Magnus Win Rate",
@@ -6463,19 +5311,7 @@
                 "beastcoast",
                 4
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Mars Matches Won",
@@ -6533,19 +5369,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Mars Win Rate",
@@ -6653,19 +5477,7 @@
                 "Vici Gaming",
                 4
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Medusa Matches Won",
@@ -6703,19 +5515,7 @@
                 "Vici Gaming",
                 3
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Medusa Win Rate",
@@ -6795,19 +5595,7 @@
                 "Virtus.pro",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Mirana Matches Won",
@@ -6837,19 +5625,7 @@
                 "Virtus.pro",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Mirana Win Rate",
@@ -6921,19 +5697,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Monkey King Matches Won",
@@ -6963,19 +5727,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Monkey King Win Rate",
@@ -7071,19 +5823,7 @@
                 "Vici Gaming",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Morphling Matches Won",
@@ -7137,19 +5877,7 @@
                 "Vici Gaming",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Morphling Win Rate",
@@ -7233,19 +5961,7 @@
                 "PSG.LGD",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Naga Siren Matches Won",
@@ -7263,19 +5979,7 @@
                 "PSG.LGD",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Naga Siren Win Rate",
@@ -7327,19 +6031,7 @@
                 "T1",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Nature's Prophet Matches Won",
@@ -7361,19 +6053,7 @@
                 "T1",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Nature's Prophet Win Rate",
@@ -7417,19 +6097,7 @@
                 "TNC Predator",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Night Stalker Matches Won",
@@ -7439,19 +6107,7 @@
                 "TNC Predator",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Night Stalker Win Rate",
@@ -7527,19 +6183,7 @@
                 "Vici Gaming",
                 3
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Nyx Assassin Matches Won",
@@ -7593,19 +6237,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Nyx Assassin Win Rate",
@@ -7685,19 +6317,7 @@
                 "Team Liquid",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Omniknight Matches Won",
@@ -7711,19 +6331,7 @@
                 "Team Liquid",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Omniknight Win Rate",
@@ -7775,19 +6383,7 @@
                 "Virtus.pro",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Oracle Matches Won",
@@ -7813,19 +6409,7 @@
                 "Virtus.pro",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Oracle Win Rate",
@@ -7873,19 +6457,7 @@
                 "Evil Geniuses",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Outworld Devourer Matches Won",
@@ -7895,19 +6467,7 @@
                 "Evil Geniuses",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Outworld Devourer Win Rate",
@@ -7951,19 +6511,7 @@
                 "TNC Predator",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Pangolier Matches Won",
@@ -7985,19 +6533,7 @@
                 "TNC Predator",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Pangolier Win Rate",
@@ -8053,19 +6589,7 @@
                 "Team Spirit",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Phantom Assassin Matches Won",
@@ -8087,19 +6611,7 @@
                 "Team Spirit",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Phantom Assassin Win Rate",
@@ -8171,19 +6683,7 @@
                 "beastcoast",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Phantom Lancer Matches Won",
@@ -8221,19 +6721,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Phantom Lancer Win Rate",
@@ -8333,19 +6821,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Phoenix Matches Won",
@@ -8395,19 +6871,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Phoenix Win Rate",
@@ -8527,19 +6991,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Puck Matches Won",
@@ -8597,19 +7049,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Puck Win Rate",
@@ -8689,19 +7129,7 @@
                 "Team Liquid",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Pugna Matches Won",
@@ -8711,19 +7139,7 @@
                 "Team Liquid",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Pugna Win Rate",
@@ -8755,19 +7171,7 @@
                 "Execration",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Queen of Pain Matches Won",
@@ -8777,19 +7181,7 @@
                 "Execration",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Queen of Pain Win Rate",
@@ -8841,19 +7233,7 @@
                 "Team Aster",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Razor Matches Won",
@@ -8883,19 +7263,7 @@
                 "Team Aster",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Razor Win Rate",
@@ -8967,19 +7335,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Rubick Matches Won",
@@ -9009,19 +7365,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Rubick Win Rate",
@@ -9089,19 +7433,7 @@
                 "Team Liquid",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Sand King Matches Won",
@@ -9127,19 +7459,7 @@
                 "Team Liquid",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Sand King Win Rate",
@@ -9211,19 +7531,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Shadow Demon Matches Won",
@@ -9257,19 +7565,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Shadow Demon Win Rate",
@@ -9337,19 +7633,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Shadow Fiend Matches Won",
@@ -9371,19 +7655,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Shadow Fiend Win Rate",
@@ -9451,19 +7723,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Shadow Shaman Matches Won",
@@ -9497,19 +7757,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Shadow Shaman Win Rate",
@@ -9577,19 +7825,7 @@
                 "Team Aster",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Skywrath Mage Matches Won",
@@ -9611,19 +7847,7 @@
                 "Team Aster",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Skywrath Mage Win Rate",
@@ -9675,19 +7899,7 @@
                 "Vici Gaming",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Slardar Matches Won",
@@ -9705,19 +7917,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Slardar Win Rate",
@@ -9765,19 +7965,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Slark Matches Won",
@@ -9795,19 +7983,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Slark Win Rate",
@@ -9899,19 +8075,7 @@
                 "beastcoast",
                 4
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Snapfire Matches Won",
@@ -9973,19 +8137,7 @@
                 "beastcoast",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Snapfire Win Rate",
@@ -10097,19 +8249,7 @@
                 "beastcoast",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Spectre Matches Won",
@@ -10147,19 +8287,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Spectre Win Rate",
@@ -10239,19 +8367,7 @@
                 "Vici Gaming",
                 5
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Storm Spirit Matches Won",
@@ -10281,19 +8397,7 @@
                 "Vici Gaming",
                 5
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Storm Spirit Win Rate",
@@ -10353,19 +8457,7 @@
                 "Team Spirit",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Sven Matches Won",
@@ -10383,19 +8475,7 @@
                 "Team Spirit",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Sven Win Rate",
@@ -10479,19 +8559,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Templar Assassin Matches Won",
@@ -10545,19 +8613,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Templar Assassin Win Rate",
@@ -10665,19 +8721,7 @@
                 "Vici Gaming",
                 3
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Terrorblade Matches Won",
@@ -10719,19 +8763,7 @@
                 "Vici Gaming",
                 3
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Terrorblade Win Rate",
@@ -10823,19 +8855,7 @@
                 "Team Spirit",
                 3
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Tidehunter Matches Won",
@@ -10873,19 +8893,7 @@
                 "Team Spirit",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Tidehunter Win Rate",
@@ -10981,19 +8989,7 @@
                 "beastcoast",
                 3
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Timbersaw Matches Won",
@@ -11039,19 +9035,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Timbersaw Win Rate",
@@ -11163,19 +9147,7 @@
                 "beastcoast",
                 3
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Tiny Matches Won",
@@ -11229,19 +9201,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Tiny Win Rate",
@@ -11349,19 +9309,7 @@
                 "beastcoast",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Treant Protector Matches Won",
@@ -11403,19 +9351,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Treant Protector Win Rate",
@@ -11499,19 +9435,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Troll Warlord Matches Won",
@@ -11541,19 +9465,7 @@
                 "Vici Gaming",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Troll Warlord Win Rate",
@@ -11617,19 +9529,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Tusk Matches Won",
@@ -11651,19 +9551,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Tusk Win Rate",
@@ -11715,19 +9603,7 @@
                 "Team Spirit",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Underlord Matches Won",
@@ -11745,19 +9621,7 @@
                 "Team Spirit",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Underlord Win Rate",
@@ -11797,19 +9661,7 @@
                 "PSG.LGD",
                 3
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Undying Matches Won",
@@ -11819,19 +9671,7 @@
                 "PSG.LGD",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Undying Win Rate",
@@ -11907,19 +9747,7 @@
                 "Virtus.pro",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Ursa Matches Won",
@@ -11973,19 +9801,7 @@
                 "Virtus.pro",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Ursa Win Rate",
@@ -12073,19 +9889,7 @@
                 "beastcoast",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Venomancer Matches Won",
@@ -12107,19 +9911,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Venomancer Win Rate",
@@ -12191,19 +9983,7 @@
                 "beastcoast",
                 3
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Viper Matches Won",
@@ -12241,19 +10021,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Viper Win Rate",
@@ -12341,19 +10109,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Void Spirit Matches Won",
@@ -12391,19 +10147,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Void Spirit Win Rate",
@@ -12495,19 +10239,7 @@
                 "Team Spirit",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Warlock Matches Won",
@@ -12549,19 +10281,7 @@
                 "Team Spirit",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Warlock Win Rate",
@@ -12625,19 +10345,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Weaver Matches Won",
@@ -12647,19 +10355,7 @@
                 "Vici Gaming",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Weaver Win Rate",
@@ -12715,19 +10411,7 @@
                 "Virtus.pro",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Windranger Matches Won",
@@ -12761,19 +10445,7 @@
                 "Virtus.pro",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Windranger Win Rate",
@@ -12877,19 +10549,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Winter Wyvern Matches Won",
@@ -12947,19 +10607,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Winter Wyvern Win Rate",
@@ -13047,19 +10695,7 @@
                 "beastcoast",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Witch Doctor Matches Won",
@@ -13077,19 +10713,7 @@
                 "beastcoast",
                 1
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Witch Doctor Win Rate",
@@ -13181,19 +10805,7 @@
                 "beastcoast",
                 2
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Wraith King Matches Won",
@@ -13255,19 +10867,7 @@
                 "beastcoast",
                 0
             ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
+        ]
     },
     {
         "name": "Wraith King Win Rate",

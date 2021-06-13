@@ -298,8 +298,8 @@ total_team_heroes = []
 
 for hero in sorted(team_hero_wins['hero'].unique()):
     temp_df = team_hero_wins[team_hero_wins['hero'] == hero]
-    total_team_heroes.append({'name': hero + ' Matches Played', 'id': hero + ' Matches Played', 'data': temp_df[['team', 'matches_played']].to_numpy().tolist(), 'type': 'spline', 'yAxis': 1, 'lineWidth': 0, 'states': {'hover': {'enabled': False}}, 'marker': {'symbol': 'diamond', 'radius': 6}})
-    total_team_heroes.append({'name': hero + ' Matches Won', 'id': hero + ' Matches Won', 'data': temp_df[['team', 'matches_won']].to_numpy().tolist(), 'type': 'spline', 'yAxis': 1, 'lineWidth': 0, 'states': {'hover': {'enabled': False}}, 'marker': {'symbol': 'diamond', 'radius': 6}})
+    total_team_heroes.append({'name': hero + ' Matches Played', 'id': hero + ' Matches Played', 'data': temp_df[['team', 'matches_played']].to_numpy().tolist()})
+    total_team_heroes.append({'name': hero + ' Matches Won', 'id': hero + ' Matches Won', 'data': temp_df[['team', 'matches_won']].to_numpy().tolist()})
     total_team_heroes.append({'name': hero + ' Win Rate', 'id': hero + ' Win Rate', 'data': temp_df[['team', 'win_rate']].to_numpy().tolist(), 'type': 'spline', 'yAxis': 1, 'lineWidth': 0, 'states': {'hover': {'enabled': False}}, 'marker': {'symbol': 'diamond', 'radius': 6}})
 
 jsons_to_upload['total_team_heroes'] = total_team_heroes
