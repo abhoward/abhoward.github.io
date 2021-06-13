@@ -8,27 +8,27 @@
                 2.0
             ],
             [
-                "Team Aster",
-                0.0
-            ],
-            [
                 "NoPing Esports",
                 3.0
             ],
             [
-                "Vici Gaming",
-                2.0
+                "Team Aster",
+                0.0
             ],
             [
                 "Evil Geniuses",
                 2.0
             ],
             [
-                "beastcoast",
-                1.0
+                "Vici Gaming",
+                2.0
             ],
             [
                 "TNC Predator",
+                1.0
+            ],
+            [
+                "beastcoast",
                 1.0
             ],
             [
@@ -50,11 +50,15 @@
                 5.0
             ],
             [
+                "NoPing Esports",
+                1.0
+            ],
+            [
                 "Team Aster",
                 4.0
             ],
             [
-                "NoPing Esports",
+                "Evil Geniuses",
                 1.0
             ],
             [
@@ -62,15 +66,11 @@
                 1.0
             ],
             [
-                "Evil Geniuses",
+                "TNC Predator",
                 1.0
             ],
             [
                 "beastcoast",
-                1.0
-            ],
-            [
-                "TNC Predator",
                 1.0
             ],
             [
@@ -96,20 +96,12 @@
                 6.0
             ],
             [
+                "Evil Geniuses",
+                6.0
+            ],
+            [
                 "Team Spirit",
                 2.0
-            ],
-            [
-                "Evil Geniuses",
-                5.0
-            ],
-            [
-                "TNC Predator",
-                1.0
-            ],
-            [
-                "INVICTUS GAMING",
-                1.0
             ],
             [
                 "Execration",
@@ -118,6 +110,14 @@
             [
                 "beastcoast",
                 4.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
             ],
             [
                 "Team Liquid",
@@ -166,20 +166,12 @@
                 8.0
             ],
             [
-                "Team Spirit",
-                10.0
-            ],
-            [
                 "Evil Geniuses",
                 6.0
             ],
             [
-                "TNC Predator",
-                5.0
-            ],
-            [
-                "INVICTUS GAMING",
-                5.0
+                "Team Spirit",
+                10.0
             ],
             [
                 "Execration",
@@ -188,6 +180,14 @@
             [
                 "beastcoast",
                 2.0
+            ],
+            [
+                "INVICTUS GAMING",
+                5.0
+            ],
+            [
+                "TNC Predator",
+                5.0
             ],
             [
                 "Team Liquid",
@@ -228,6 +228,10 @@
         "id": "Anti-Mage Picks",
         "data": [
             [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
                 "Vici Gaming",
                 0.0
             ],
@@ -236,19 +240,15 @@
                 0.0
             ],
             [
-                "Evil Geniuses",
-                0.0
+                "PSG.LGD",
+                1.0
             ],
             [
                 "Execration",
                 1.0
             ],
             [
-                "PSG.LGD",
-                1.0
-            ],
-            [
-                "INVICTUS GAMING",
+                "TNC Predator",
                 0.0
             ],
             [
@@ -256,11 +256,11 @@
                 0.0
             ],
             [
-                "Quincy Crew",
+                "INVICTUS GAMING",
                 0.0
             ],
             [
-                "TNC Predator",
+                "Quincy Crew",
                 0.0
             ],
             [
@@ -274,6 +274,10 @@
         "id": "Anti-Mage Bans",
         "data": [
             [
+                "Evil Geniuses",
+                2.0
+            ],
+            [
                 "Vici Gaming",
                 2.0
             ],
@@ -282,19 +286,15 @@
                 2.0
             ],
             [
-                "Evil Geniuses",
-                2.0
+                "PSG.LGD",
+                1.0
             ],
             [
                 "Execration",
                 1.0
             ],
             [
-                "PSG.LGD",
-                1.0
-            ],
-            [
-                "INVICTUS GAMING",
+                "TNC Predator",
                 1.0
             ],
             [
@@ -302,11 +302,11 @@
                 1.0
             ],
             [
-                "Quincy Crew",
+                "INVICTUS GAMING",
                 1.0
             ],
             [
-                "TNC Predator",
+                "Quincy Crew",
                 1.0
             ],
             [
@@ -320,12 +320,12 @@
         "id": "Arc Warden Picks",
         "data": [
             [
-                "Team Secret",
-                0.0
-            ],
-            [
                 "Evil Geniuses",
                 1.0
+            ],
+            [
+                "Team Secret",
+                0.0
             ]
         ]
     },
@@ -334,12 +334,12 @@
         "id": "Arc Warden Bans",
         "data": [
             [
-                "Team Secret",
-                1.0
+                "Evil Geniuses",
+                2.0
             ],
             [
-                "Evil Geniuses",
-                0.0
+                "Team Secret",
+                1.0
             ]
         ]
     },
@@ -349,7 +349,7 @@
         "data": [
             [
                 "PSG.LGD",
-                6.0
+                7.0
             ],
             [
                 "Team Liquid",
@@ -376,11 +376,7 @@
                 1.0
             ],
             [
-                "Execration",
-                1.0
-            ],
-            [
-                "Nigma",
+                "Team Secret",
                 1.0
             ],
             [
@@ -388,7 +384,11 @@
                 1.0
             ],
             [
-                "Team Secret",
+                "Nigma",
+                1.0
+            ],
+            [
+                "Execration",
                 1.0
             ]
         ]
@@ -426,11 +426,7 @@
                 0.0
             ],
             [
-                "Execration",
-                0.0
-            ],
-            [
-                "Nigma",
+                "Team Secret",
                 0.0
             ],
             [
@@ -438,7 +434,11 @@
                 0.0
             ],
             [
-                "Team Secret",
+                "Nigma",
+                0.0
+            ],
+            [
+                "Execration",
                 0.0
             ]
         ]
@@ -476,8 +476,8 @@
                 4.0
             ],
             [
-                "TNC Predator",
-                2.0
+                "T1",
+                1.0
             ],
             [
                 "Nigma",
@@ -488,15 +488,15 @@
                 0.0
             ],
             [
-                "T1",
-                1.0
-            ],
-            [
-                "AS Monaco Gambit",
-                0.0
+                "TNC Predator",
+                2.0
             ],
             [
                 "Team Spirit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
                 0.0
             ],
             [
@@ -512,7 +512,7 @@
                 1.0
             ],
             [
-                "INVICTUS GAMING",
+                "Vici Gaming",
                 0.0
             ],
             [
@@ -520,7 +520,7 @@
                 0.0
             ],
             [
-                "Vici Gaming",
+                "INVICTUS GAMING",
                 0.0
             ],
             [
@@ -542,8 +542,8 @@
                 3.0
             ],
             [
-                "TNC Predator",
-                3.0
+                "T1",
+                4.0
             ],
             [
                 "Nigma",
@@ -554,15 +554,15 @@
                 5.0
             ],
             [
-                "T1",
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "Team Spirit",
                 4.0
             ],
             [
                 "AS Monaco Gambit",
-                4.0
-            ],
-            [
-                "Team Spirit",
                 4.0
             ],
             [
@@ -578,7 +578,7 @@
                 1.0
             ],
             [
-                "INVICTUS GAMING",
+                "Vici Gaming",
                 1.0
             ],
             [
@@ -586,7 +586,7 @@
                 1.0
             ],
             [
-                "Vici Gaming",
+                "INVICTUS GAMING",
                 1.0
             ],
             [
@@ -604,19 +604,19 @@
                 2.0
             ],
             [
-                "TNC Predator",
-                1.0
-            ],
-            [
                 "Nigma",
                 2.0
             ],
             [
-                "Alliance",
-                0.0
+                "TNC Predator",
+                1.0
             ],
             [
                 "Execration",
+                0.0
+            ],
+            [
+                "Alliance",
                 0.0
             ],
             [
@@ -634,19 +634,19 @@
                 1.0
             ],
             [
-                "TNC Predator",
-                1.0
-            ],
-            [
                 "Nigma",
                 0.0
             ],
             [
-                "Alliance",
+                "TNC Predator",
                 1.0
             ],
             [
                 "Execration",
+                1.0
+            ],
+            [
+                "Alliance",
                 1.0
             ],
             [
@@ -672,11 +672,11 @@
                 1.0
             ],
             [
-                "TNC Predator",
+                "Team Spirit",
                 0.0
             ],
             [
-                "Team Spirit",
+                "TNC Predator",
                 0.0
             ],
             [
@@ -684,11 +684,11 @@
                 1.0
             ],
             [
-                "Quincy Crew",
+                "Execration",
                 1.0
             ],
             [
-                "Execration",
+                "Quincy Crew",
                 1.0
             ]
         ]
@@ -710,11 +710,11 @@
                 1.0
             ],
             [
-                "TNC Predator",
+                "Team Spirit",
                 1.0
             ],
             [
-                "Team Spirit",
+                "TNC Predator",
                 1.0
             ],
             [
@@ -722,11 +722,11 @@
                 0.0
             ],
             [
-                "Quincy Crew",
+                "Execration",
                 0.0
             ],
             [
-                "Execration",
+                "Quincy Crew",
                 0.0
             ]
         ]
@@ -738,6 +738,10 @@
             [
                 "Vici Gaming",
                 1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
             ]
         ]
     },
@@ -747,6 +751,10 @@
         "data": [
             [
                 "Vici Gaming",
+                0.0
+            ],
+            [
+                "PSG.LGD",
                 0.0
             ]
         ]
@@ -764,6 +772,10 @@
                 2.0
             ],
             [
+                "Vici Gaming",
+                1.0
+            ],
+            [
                 "Execration",
                 1.0
             ],
@@ -772,15 +784,11 @@
                 1.0
             ],
             [
-                "Vici Gaming",
-                1.0
-            ],
-            [
-                "AS Monaco Gambit",
+                "PSG.LGD",
                 0.0
             ],
             [
-                "PSG.LGD",
+                "AS Monaco Gambit",
                 0.0
             ],
             [
@@ -810,6 +818,10 @@
                 1.0
             ],
             [
+                "Vici Gaming",
+                1.0
+            ],
+            [
                 "Execration",
                 1.0
             ],
@@ -818,15 +830,11 @@
                 1.0
             ],
             [
-                "Vici Gaming",
+                "PSG.LGD",
                 1.0
             ],
             [
                 "AS Monaco Gambit",
-                1.0
-            ],
-            [
-                "PSG.LGD",
                 1.0
             ],
             [
@@ -860,16 +868,12 @@
                 0.0
             ],
             [
-                "Team Liquid",
-                2.0
-            ],
-            [
                 "Team Secret",
                 2.0
             ],
             [
-                "Execration",
-                1.0
+                "Team Liquid",
+                2.0
             ],
             [
                 "PSG.LGD",
@@ -877,6 +881,10 @@
             ],
             [
                 "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "Execration",
                 1.0
             ],
             [
@@ -888,15 +896,7 @@
                 0.0
             ],
             [
-                "beastcoast",
-                0.0
-            ],
-            [
                 "Quincy Crew",
-                1.0
-            ],
-            [
-                "Team Aster",
                 1.0
             ],
             [
@@ -904,11 +904,19 @@
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "Team Aster",
+                1.0
+            ],
+            [
+                "beastcoast",
                 0.0
             ],
             [
                 "Alliance",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
                 0.0
             ]
         ]
@@ -923,23 +931,19 @@
             ],
             [
                 "Evil Geniuses",
-                14.0
+                16.0
             ],
             [
                 "TNC Predator",
                 7.0
             ],
             [
-                "Team Liquid",
-                5.0
-            ],
-            [
                 "Team Secret",
                 5.0
             ],
             [
-                "Execration",
-                4.0
+                "Team Liquid",
+                5.0
             ],
             [
                 "PSG.LGD",
@@ -947,6 +951,10 @@
             ],
             [
                 "INVICTUS GAMING",
+                4.0
+            ],
+            [
+                "Execration",
                 4.0
             ],
             [
@@ -958,15 +966,7 @@
                 2.0
             ],
             [
-                "beastcoast",
-                2.0
-            ],
-            [
                 "Quincy Crew",
-                1.0
-            ],
-            [
-                "Team Aster",
                 1.0
             ],
             [
@@ -974,11 +974,19 @@
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "Team Aster",
                 1.0
             ],
             [
+                "beastcoast",
+                2.0
+            ],
+            [
                 "Alliance",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
                 1.0
             ]
         ]
@@ -1000,20 +1008,20 @@
                 0.0
             ],
             [
-                "NoPing Esports",
-                1.0
-            ],
-            [
                 "Alliance",
-                1.0
-            ],
-            [
-                "Team Spirit",
                 1.0
             ],
             [
                 "INVICTUS GAMING",
                 2.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
             ],
             [
                 "Team Liquid",
@@ -1024,15 +1032,15 @@
                 0.0
             ],
             [
-                "Execration",
-                0.0
-            ],
-            [
                 "T1",
                 0.0
             ],
             [
                 "Team Secret",
+                0.0
+            ],
+            [
+                "Execration",
                 0.0
             ],
             [
@@ -1058,20 +1066,20 @@
                 2.0
             ],
             [
-                "NoPing Esports",
-                1.0
-            ],
-            [
                 "Alliance",
-                1.0
-            ],
-            [
-                "Team Spirit",
                 1.0
             ],
             [
                 "INVICTUS GAMING",
                 0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
             ],
             [
                 "Team Liquid",
@@ -1082,15 +1090,15 @@
                 1.0
             ],
             [
-                "Execration",
-                1.0
-            ],
-            [
                 "T1",
                 1.0
             ],
             [
                 "Team Secret",
+                1.0
+            ],
+            [
+                "Execration",
                 1.0
             ],
             [
@@ -1160,16 +1168,16 @@
         "id": "Clockwerk Picks",
         "data": [
             [
-                "Nigma",
-                3.0
-            ],
-            [
                 "PSG.LGD",
                 3.0
             ],
             [
+                "Nigma",
+                3.0
+            ],
+            [
                 "Evil Geniuses",
-                2.0
+                3.0
             ],
             [
                 "Quincy Crew",
@@ -1180,7 +1188,7 @@
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "beastcoast",
                 2.0
             ],
             [
@@ -1188,7 +1196,7 @@
                 2.0
             ],
             [
-                "beastcoast",
+                "AS Monaco Gambit",
                 2.0
             ],
             [
@@ -1206,11 +1214,11 @@
         "id": "Clockwerk Bans",
         "data": [
             [
-                "Nigma",
-                2.0
+                "PSG.LGD",
+                3.0
             ],
             [
-                "PSG.LGD",
+                "Nigma",
                 2.0
             ],
             [
@@ -1226,7 +1234,7 @@
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "beastcoast",
                 0.0
             ],
             [
@@ -1234,7 +1242,7 @@
                 0.0
             ],
             [
-                "beastcoast",
+                "AS Monaco Gambit",
                 0.0
             ],
             [
@@ -1252,11 +1260,11 @@
         "id": "Crystal Maiden Picks",
         "data": [
             [
-                "Team Secret",
+                "Vici Gaming",
                 1.0
             ],
             [
-                "Vici Gaming",
+                "Team Secret",
                 1.0
             ]
         ]
@@ -1266,11 +1274,11 @@
         "id": "Crystal Maiden Bans",
         "data": [
             [
-                "Team Secret",
+                "Vici Gaming",
                 0.0
             ],
             [
-                "Vici Gaming",
+                "Team Secret",
                 0.0
             ]
         ]
@@ -1288,15 +1296,11 @@
                 1.0
             ],
             [
-                "TNC Predator",
-                1.0
-            ],
-            [
                 "PSG.LGD",
                 1.0
             ],
             [
-                "Team Spirit",
+                "TNC Predator",
                 1.0
             ],
             [
@@ -1304,12 +1308,20 @@
                 1.0
             ],
             [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
                 "INVICTUS GAMING",
                 2.0
             ],
             [
-                "Quincy Crew",
-                1.0
+                "Evil Geniuses",
+                0.0
             ],
             [
                 "T1",
@@ -1320,23 +1332,19 @@
                 1.0
             ],
             [
-                "beastcoast",
-                0.0
-            ],
-            [
-                "Evil Geniuses",
-                0.0
-            ],
-            [
                 "Alliance",
                 0.0
             ],
             [
-                "Execration",
-                1.0
+                "beastcoast",
+                0.0
             ],
             [
                 "Team Secret",
+                1.0
+            ],
+            [
+                "Execration",
                 1.0
             ]
         ]
@@ -1354,19 +1362,23 @@
                 4.0
             ],
             [
-                "TNC Predator",
-                3.0
-            ],
-            [
                 "PSG.LGD",
                 3.0
             ],
             [
-                "Team Spirit",
-                2.0
+                "TNC Predator",
+                3.0
             ],
             [
                 "Vici Gaming",
+                2.0
+            ],
+            [
+                "Quincy Crew",
+                2.0
+            ],
+            [
+                "Team Spirit",
                 2.0
             ],
             [
@@ -1374,7 +1386,7 @@
                 1.0
             ],
             [
-                "Quincy Crew",
+                "Evil Geniuses",
                 2.0
             ],
             [
@@ -1386,23 +1398,19 @@
                 1.0
             ],
             [
-                "beastcoast",
-                1.0
-            ],
-            [
-                "Evil Geniuses",
-                1.0
-            ],
-            [
                 "Alliance",
                 1.0
             ],
             [
-                "Execration",
-                0.0
+                "beastcoast",
+                1.0
             ],
             [
                 "Team Secret",
+                0.0
+            ],
+            [
+                "Execration",
                 0.0
             ]
         ]
@@ -1440,11 +1448,7 @@
                 0.0
             ],
             [
-                "Team Secret",
-                1.0
-            ],
-            [
-                "Team Aster",
+                "beastcoast",
                 1.0
             ],
             [
@@ -1452,7 +1456,11 @@
                 1.0
             ],
             [
-                "beastcoast",
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Team Secret",
                 1.0
             ],
             [
@@ -1494,11 +1502,7 @@
                 1.0
             ],
             [
-                "Team Secret",
-                0.0
-            ],
-            [
-                "Team Aster",
+                "beastcoast",
                 0.0
             ],
             [
@@ -1506,7 +1510,11 @@
                 0.0
             ],
             [
-                "beastcoast",
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Secret",
                 0.0
             ],
             [
@@ -1540,16 +1548,16 @@
         "id": "Death Prophet Picks",
         "data": [
             [
+                "PSG.LGD",
+                4.0
+            ],
+            [
                 "Team Spirit",
                 2.0
             ],
             [
                 "Vici Gaming",
                 0.0
-            ],
-            [
-                "PSG.LGD",
-                3.0
             ],
             [
                 "Quincy Crew",
@@ -1564,27 +1572,27 @@
                 1.0
             ],
             [
-                "TNC Predator",
-                0.0
+                "Nigma",
+                1.0
             ],
             [
                 "Evil Geniuses",
                 0.0
             ],
             [
-                "Nigma",
-                1.0
+                "TNC Predator",
+                0.0
             ],
             [
                 "Team Liquid",
                 0.0
             ],
             [
-                "Virtus.pro",
+                "INVICTUS GAMING",
                 1.0
             ],
             [
-                "INVICTUS GAMING",
+                "Virtus.pro",
                 1.0
             ]
         ]
@@ -1594,16 +1602,16 @@
         "id": "Death Prophet Bans",
         "data": [
             [
+                "PSG.LGD",
+                3.0
+            ],
+            [
                 "Team Spirit",
                 5.0
             ],
             [
                 "Vici Gaming",
                 6.0
-            ],
-            [
-                "PSG.LGD",
-                2.0
             ],
             [
                 "Quincy Crew",
@@ -1618,27 +1626,27 @@
                 1.0
             ],
             [
-                "TNC Predator",
-                2.0
+                "Nigma",
+                1.0
             ],
             [
                 "Evil Geniuses",
                 2.0
             ],
             [
-                "Nigma",
-                1.0
+                "TNC Predator",
+                2.0
             ],
             [
                 "Team Liquid",
                 1.0
             ],
             [
-                "Virtus.pro",
+                "INVICTUS GAMING",
                 0.0
             ],
             [
-                "INVICTUS GAMING",
+                "Virtus.pro",
                 0.0
             ]
         ]
@@ -1648,12 +1656,16 @@
         "id": "Disruptor Picks",
         "data": [
             [
+                "INVICTUS GAMING",
+                2.0
+            ],
+            [
                 "Team Spirit",
                 2.0
             ],
             [
-                "INVICTUS GAMING",
-                2.0
+                "Nigma",
+                1.0
             ],
             [
                 "Execration",
@@ -1661,10 +1673,6 @@
             ],
             [
                 "AS Monaco Gambit",
-                1.0
-            ],
-            [
-                "Nigma",
                 1.0
             ]
         ]
@@ -1674,11 +1682,15 @@
         "id": "Disruptor Bans",
         "data": [
             [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
                 "Team Spirit",
                 0.0
             ],
             [
-                "INVICTUS GAMING",
+                "Nigma",
                 0.0
             ],
             [
@@ -1687,10 +1699,6 @@
             ],
             [
                 "AS Monaco Gambit",
-                0.0
-            ],
-            [
-                "Nigma",
                 0.0
             ]
         ]
@@ -1732,7 +1740,7 @@
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "TNC Predator",
                 0.0
             ],
             [
@@ -1740,11 +1748,11 @@
                 0.0
             ],
             [
-                "TNC Predator",
+                "Alliance",
                 0.0
             ],
             [
-                "Alliance",
+                "AS Monaco Gambit",
                 0.0
             ]
         ]
@@ -1767,7 +1775,7 @@
             ],
             [
                 "PSG.LGD",
-                2.0
+                3.0
             ],
             [
                 "Nigma",
@@ -1786,7 +1794,7 @@
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "TNC Predator",
                 1.0
             ],
             [
@@ -1794,11 +1802,11 @@
                 1.0
             ],
             [
-                "TNC Predator",
+                "Alliance",
                 1.0
             ],
             [
-                "Alliance",
+                "AS Monaco Gambit",
                 1.0
             ]
         ]
@@ -1852,11 +1860,11 @@
                 0.0
             ],
             [
-                "Quincy Crew",
+                "Virtus.pro",
                 1.0
             ],
             [
-                "Virtus.pro",
+                "Quincy Crew",
                 1.0
             ]
         ]
@@ -1910,11 +1918,11 @@
                 1.0
             ],
             [
-                "Quincy Crew",
+                "Virtus.pro",
                 0.0
             ],
             [
-                "Virtus.pro",
+                "Quincy Crew",
                 0.0
             ]
         ]
@@ -1924,12 +1932,12 @@
         "id": "Drow Ranger Picks",
         "data": [
             [
-                "Vici Gaming",
-                0.0
-            ],
-            [
                 "PSG.LGD",
                 3.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
             ],
             [
                 "INVICTUS GAMING",
@@ -1940,7 +1948,7 @@
                 0.0
             ],
             [
-                "Virtus.pro",
+                "Team Aster",
                 0.0
             ],
             [
@@ -1948,7 +1956,7 @@
                 0.0
             ],
             [
-                "Team Aster",
+                "Virtus.pro",
                 0.0
             ],
             [
@@ -1974,12 +1982,12 @@
         "id": "Drow Ranger Bans",
         "data": [
             [
-                "Vici Gaming",
-                4.0
+                "PSG.LGD",
+                2.0
             ],
             [
-                "PSG.LGD",
-                1.0
+                "Vici Gaming",
+                4.0
             ],
             [
                 "INVICTUS GAMING",
@@ -1990,7 +1998,7 @@
                 2.0
             ],
             [
-                "Virtus.pro",
+                "Team Aster",
                 1.0
             ],
             [
@@ -1998,7 +2006,7 @@
                 1.0
             ],
             [
-                "Team Aster",
+                "Virtus.pro",
                 1.0
             ],
             [
@@ -2029,14 +2037,14 @@
             ],
             [
                 "Evil Geniuses",
-                4.0
-            ],
-            [
-                "beastcoast",
-                1.0
+                5.0
             ],
             [
                 "Team Liquid",
+                1.0
+            ],
+            [
+                "beastcoast",
                 1.0
             ],
             [
@@ -2062,11 +2070,11 @@
                 0.0
             ],
             [
-                "beastcoast",
+                "Team Liquid",
                 1.0
             ],
             [
-                "Team Liquid",
+                "beastcoast",
                 1.0
             ],
             [
@@ -2104,7 +2112,7 @@
                 2.0
             ],
             [
-                "T1",
+                "Execration",
                 1.0
             ],
             [
@@ -2112,11 +2120,11 @@
                 1.0
             ],
             [
-                "Execration",
+                "Virtus.pro",
                 1.0
             ],
             [
-                "Virtus.pro",
+                "T1",
                 1.0
             ]
         ]
@@ -2146,7 +2154,7 @@
                 0.0
             ],
             [
-                "T1",
+                "Execration",
                 0.0
             ],
             [
@@ -2154,11 +2162,11 @@
                 0.0
             ],
             [
-                "Execration",
+                "Virtus.pro",
                 0.0
             ],
             [
-                "Virtus.pro",
+                "T1",
                 0.0
             ]
         ]
@@ -2188,24 +2196,24 @@
                 0.0
             ],
             [
-                "Nigma",
-                1.0
-            ],
-            [
                 "beastcoast",
                 1.0
             ],
             [
-                "Team Spirit",
+                "Nigma",
                 1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
             ],
             [
                 "AS Monaco Gambit",
                 0.0
             ],
             [
-                "TNC Predator",
-                0.0
+                "Team Spirit",
+                1.0
             ],
             [
                 "Team Secret",
@@ -2231,7 +2239,7 @@
         "data": [
             [
                 "Evil Geniuses",
-                4.0
+                5.0
             ],
             [
                 "INVICTUS GAMING",
@@ -2250,24 +2258,24 @@
                 4.0
             ],
             [
-                "Nigma",
-                2.0
-            ],
-            [
                 "beastcoast",
                 2.0
             ],
             [
-                "Team Spirit",
-                1.0
+                "Nigma",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
             ],
             [
                 "AS Monaco Gambit",
                 2.0
             ],
             [
-                "TNC Predator",
-                2.0
+                "Team Spirit",
+                1.0
             ],
             [
                 "Team Secret",
@@ -2297,7 +2305,7 @@
             ],
             [
                 "PSG.LGD",
-                4.0
+                5.0
             ],
             [
                 "Nigma",
@@ -2336,12 +2344,12 @@
                 2.0
             ],
             [
-                "INVICTUS GAMING",
-                1.0
-            ],
-            [
                 "Execration",
                 0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
             ],
             [
                 "Vici Gaming",
@@ -2398,12 +2406,12 @@
                 0.0
             ],
             [
-                "INVICTUS GAMING",
-                0.0
-            ],
-            [
                 "Execration",
                 1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
             ],
             [
                 "Vici Gaming",
@@ -2416,11 +2424,11 @@
         "id": "Enigma Picks",
         "data": [
             [
-                "Evil Geniuses",
+                "TNC Predator",
                 0.0
             ],
             [
-                "TNC Predator",
+                "Evil Geniuses",
                 0.0
             ]
         ]
@@ -2430,11 +2438,11 @@
         "id": "Enigma Bans",
         "data": [
             [
-                "Evil Geniuses",
+                "TNC Predator",
                 1.0
             ],
             [
-                "TNC Predator",
+                "Evil Geniuses",
                 1.0
             ]
         ]
@@ -2448,15 +2456,11 @@
                 8.0
             ],
             [
-                "Nigma",
-                2.0
-            ],
-            [
                 "PSG.LGD",
                 2.0
             ],
             [
-                "beastcoast",
+                "Nigma",
                 2.0
             ],
             [
@@ -2464,11 +2468,11 @@
                 1.0
             ],
             [
-                "Execration",
-                1.0
+                "beastcoast",
+                2.0
             ],
             [
-                "Team Liquid",
+                "Execration",
                 1.0
             ],
             [
@@ -2476,19 +2480,23 @@
                 0.0
             ],
             [
-                "Alliance",
-                2.0
+                "Team Liquid",
+                1.0
             ],
             [
                 "AS Monaco Gambit",
                 1.0
             ],
             [
+                "Alliance",
+                2.0
+            ],
+            [
                 "Quincy Crew",
                 0.0
             ],
             [
-                "Virtus.pro",
+                "T1",
                 0.0
             ],
             [
@@ -2496,7 +2504,7 @@
                 0.0
             ],
             [
-                "T1",
+                "Virtus.pro",
                 0.0
             ],
             [
@@ -2518,19 +2526,19 @@
                 13.0
             ],
             [
-                "Nigma",
-                6.0
-            ],
-            [
                 "PSG.LGD",
                 6.0
             ],
             [
-                "beastcoast",
-                5.0
+                "Nigma",
+                6.0
             ],
             [
                 "Evil Geniuses",
+                7.0
+            ],
+            [
+                "beastcoast",
                 5.0
             ],
             [
@@ -2538,27 +2546,27 @@
                 5.0
             ],
             [
-                "Team Liquid",
-                4.0
-            ],
-            [
                 "TNC Predator",
                 5.0
             ],
             [
-                "Alliance",
-                1.0
+                "Team Liquid",
+                4.0
             ],
             [
                 "AS Monaco Gambit",
                 2.0
             ],
             [
+                "Alliance",
+                1.0
+            ],
+            [
                 "Quincy Crew",
                 3.0
             ],
             [
-                "Virtus.pro",
+                "T1",
                 2.0
             ],
             [
@@ -2566,7 +2574,7 @@
                 2.0
             ],
             [
-                "T1",
+                "Virtus.pro",
                 2.0
             ],
             [
@@ -2592,12 +2600,12 @@
                 3.0
             ],
             [
-                "Execration",
-                2.0
-            ],
-            [
                 "Team Spirit",
                 3.0
+            ],
+            [
+                "Execration",
+                2.0
             ],
             [
                 "T1",
@@ -2612,11 +2620,7 @@
                 1.0
             ],
             [
-                "Team Secret",
-                1.0
-            ],
-            [
-                "Nigma",
+                "Team Liquid",
                 1.0
             ],
             [
@@ -2624,7 +2628,11 @@
                 1.0
             ],
             [
-                "Team Liquid",
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Secret",
                 1.0
             ]
         ]
@@ -2642,12 +2650,12 @@
                 2.0
             ],
             [
-                "Execration",
-                2.0
-            ],
-            [
                 "Team Spirit",
                 1.0
+            ],
+            [
+                "Execration",
+                2.0
             ],
             [
                 "T1",
@@ -2662,11 +2670,7 @@
                 0.0
             ],
             [
-                "Team Secret",
-                0.0
-            ],
-            [
-                "Nigma",
+                "Team Liquid",
                 0.0
             ],
             [
@@ -2674,7 +2678,11 @@
                 0.0
             ],
             [
-                "Team Liquid",
+                "Nigma",
+                0.0
+            ],
+            [
+                "Team Secret",
                 0.0
             ]
         ]
@@ -2700,11 +2708,11 @@
                 0.0
             ],
             [
-                "Team Spirit",
+                "beastcoast",
                 1.0
             ],
             [
-                "beastcoast",
+                "Team Spirit",
                 1.0
             ]
         ]
@@ -2730,11 +2738,11 @@
                 2.0
             ],
             [
-                "Team Spirit",
+                "beastcoast",
                 0.0
             ],
             [
-                "beastcoast",
+                "Team Spirit",
                 0.0
             ]
         ]
@@ -2765,7 +2773,7 @@
             ],
             [
                 "PSG.LGD",
-                1.0
+                2.0
             ],
             [
                 "Nigma",
@@ -2844,20 +2852,20 @@
                 1.0
             ],
             [
-                "Evil Geniuses",
-                1.0
-            ],
-            [
                 "Vici Gaming",
                 1.0
             ],
             [
-                "Execration",
+                "Evil Geniuses",
                 1.0
             ],
             [
                 "Virtus.pro",
                 0.0
+            ],
+            [
+                "Execration",
+                1.0
             ],
             [
                 "INVICTUS GAMING",
@@ -2873,6 +2881,10 @@
             ],
             [
                 "beastcoast",
+                0.0
+            ],
+            [
+                "PSG.LGD",
                 0.0
             ],
             [
@@ -2898,20 +2910,20 @@
                 3.0
             ],
             [
+                "Vici Gaming",
+                2.0
+            ],
+            [
                 "Evil Geniuses",
                 2.0
             ],
             [
-                "Vici Gaming",
+                "Virtus.pro",
                 2.0
             ],
             [
                 "Execration",
                 1.0
-            ],
-            [
-                "Virtus.pro",
-                2.0
             ],
             [
                 "INVICTUS GAMING",
@@ -2927,6 +2939,10 @@
             ],
             [
                 "beastcoast",
+                1.0
+            ],
+            [
+                "PSG.LGD",
                 1.0
             ],
             [
@@ -2988,19 +3004,7 @@
                 0.0
             ],
             [
-                "T1",
-                1.0
-            ],
-            [
-                "Team Liquid",
-                0.0
-            ],
-            [
                 "PSG.LGD",
-                0.0
-            ],
-            [
-                "Team Secret",
                 0.0
             ],
             [
@@ -3008,11 +3012,23 @@
                 0.0
             ],
             [
-                "AS Monaco Gambit",
+                "Team Liquid",
                 0.0
             ],
             [
                 "Evil Geniuses",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Team Secret",
                 0.0
             ],
             [
@@ -3042,19 +3058,7 @@
                 3.0
             ],
             [
-                "T1",
-                1.0
-            ],
-            [
-                "Team Liquid",
-                2.0
-            ],
-            [
                 "PSG.LGD",
-                2.0
-            ],
-            [
-                "Team Secret",
                 2.0
             ],
             [
@@ -3062,11 +3066,23 @@
                 2.0
             ],
             [
-                "AS Monaco Gambit",
+                "Team Liquid",
                 2.0
             ],
             [
                 "Evil Geniuses",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Team Secret",
                 2.0
             ],
             [
@@ -3100,11 +3116,11 @@
                 1.0
             ],
             [
-                "Virtus.pro",
+                "Execration",
                 1.0
             ],
             [
-                "Execration",
+                "Virtus.pro",
                 1.0
             ],
             [
@@ -3116,11 +3132,11 @@
                 0.0
             ],
             [
-                "Alliance",
+                "NoPing Esports",
                 1.0
             ],
             [
-                "NoPing Esports",
+                "Alliance",
                 1.0
             ]
         ]
@@ -3142,11 +3158,11 @@
                 2.0
             ],
             [
-                "Virtus.pro",
+                "Execration",
                 1.0
             ],
             [
-                "Execration",
+                "Virtus.pro",
                 1.0
             ],
             [
@@ -3158,11 +3174,11 @@
                 1.0
             ],
             [
-                "Alliance",
+                "NoPing Esports",
                 0.0
             ],
             [
-                "NoPing Esports",
+                "Alliance",
                 0.0
             ]
         ]
@@ -3184,11 +3200,7 @@
                 0.0
             ],
             [
-                "INVICTUS GAMING",
-                1.0
-            ],
-            [
-                "beastcoast",
+                "T1",
                 0.0
             ],
             [
@@ -3196,11 +3208,15 @@
                 0.0
             ],
             [
-                "T1",
+                "beastcoast",
                 0.0
             ],
             [
-                "Execration",
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "TNC Predator",
                 0.0
             ],
             [
@@ -3208,7 +3224,7 @@
                 0.0
             ],
             [
-                "TNC Predator",
+                "Execration",
                 0.0
             ],
             [
@@ -3238,11 +3254,7 @@
                 3.0
             ],
             [
-                "INVICTUS GAMING",
-                1.0
-            ],
-            [
-                "beastcoast",
+                "T1",
                 2.0
             ],
             [
@@ -3250,11 +3262,15 @@
                 2.0
             ],
             [
-                "T1",
+                "beastcoast",
                 2.0
             ],
             [
-                "Execration",
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "TNC Predator",
                 1.0
             ],
             [
@@ -3262,7 +3278,7 @@
                 1.0
             ],
             [
-                "TNC Predator",
+                "Execration",
                 1.0
             ],
             [
@@ -3296,11 +3312,19 @@
                 2.0
             ],
             [
+                "Execration",
+                2.0
+            ],
+            [
                 "INVICTUS GAMING",
                 1.0
             ],
             [
-                "Execration",
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Alliance",
                 2.0
             ],
             [
@@ -3308,24 +3332,16 @@
                 2.0
             ],
             [
-                "Alliance",
-                2.0
-            ],
-            [
-                "Evil Geniuses",
-                1.0
-            ],
-            [
                 "Team Aster",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
                 0.0
             ],
             [
                 "Nigma",
                 1.0
-            ],
-            [
-                "AS Monaco Gambit",
-                0.0
             ],
             [
                 "Virtus.pro",
@@ -3355,7 +3371,7 @@
             ],
             [
                 "PSG.LGD",
-                1.0
+                2.0
             ],
             [
                 "Vici Gaming",
@@ -3366,36 +3382,36 @@
                 4.0
             ],
             [
-                "INVICTUS GAMING",
-                3.0
-            ],
-            [
                 "Execration",
                 2.0
             ],
             [
-                "TNC Predator",
-                1.0
-            ],
-            [
-                "Alliance",
-                1.0
+                "INVICTUS GAMING",
+                3.0
             ],
             [
                 "Evil Geniuses",
                 2.0
             ],
             [
+                "Alliance",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
                 "Team Aster",
                 3.0
             ],
             [
-                "Nigma",
-                1.0
-            ],
-            [
                 "AS Monaco Gambit",
                 2.0
+            ],
+            [
+                "Nigma",
+                1.0
             ],
             [
                 "Virtus.pro",
@@ -3436,19 +3452,19 @@
                 1.0
             ],
             [
-                "Execration",
-                1.0
+                "PSG.LGD",
+                0.0
             ],
             [
                 "Team Spirit",
                 1.0
             ],
             [
-                "Team Liquid",
-                0.0
+                "Execration",
+                1.0
             ],
             [
-                "PSG.LGD",
+                "Team Liquid",
                 0.0
             ],
             [
@@ -3486,19 +3502,19 @@
                 2.0
             ],
             [
-                "Execration",
-                1.0
+                "PSG.LGD",
+                2.0
             ],
             [
                 "Team Spirit",
                 1.0
             ],
             [
-                "Team Liquid",
-                2.0
+                "Execration",
+                1.0
             ],
             [
-                "PSG.LGD",
+                "Team Liquid",
                 2.0
             ],
             [
@@ -3532,20 +3548,20 @@
                 2.0
             ],
             [
-                "TNC Predator",
-                2.0
-            ],
-            [
                 "Evil Geniuses",
-                3.0
+                4.0
             ],
             [
-                "Team Liquid",
+                "TNC Predator",
                 2.0
             ],
             [
                 "Team Aster",
                 1.0
+            ],
+            [
+                "Team Liquid",
+                2.0
             ],
             [
                 "AS Monaco Gambit",
@@ -3560,11 +3576,7 @@
                 2.0
             ],
             [
-                "Nigma",
-                0.0
-            ],
-            [
-                "NoPing Esports",
+                "T1",
                 0.0
             ],
             [
@@ -3572,7 +3584,11 @@
                 0.0
             ],
             [
-                "T1",
+                "Nigma",
+                0.0
+            ],
+            [
+                "NoPing Esports",
                 0.0
             ]
         ]
@@ -3587,27 +3603,27 @@
             ],
             [
                 "PSG.LGD",
-                6.0
+                7.0
             ],
             [
                 "Team Spirit",
                 4.0
             ],
             [
-                "TNC Predator",
-                2.0
-            ],
-            [
                 "Evil Geniuses",
                 1.0
             ],
             [
-                "Team Liquid",
-                1.0
+                "TNC Predator",
+                2.0
             ],
             [
                 "Team Aster",
                 2.0
+            ],
+            [
+                "Team Liquid",
+                1.0
             ],
             [
                 "AS Monaco Gambit",
@@ -3622,11 +3638,7 @@
                 0.0
             ],
             [
-                "Nigma",
-                1.0
-            ],
-            [
-                "NoPing Esports",
+                "T1",
                 1.0
             ],
             [
@@ -3634,7 +3646,11 @@
                 1.0
             ],
             [
-                "T1",
+                "Nigma",
+                1.0
+            ],
+            [
+                "NoPing Esports",
                 1.0
             ]
         ]
@@ -3645,19 +3661,19 @@
         "data": [
             [
                 "Evil Geniuses",
-                14.0
+                15.0
             ],
             [
                 "Nigma",
                 9.0
             ],
             [
-                "TNC Predator",
-                4.0
-            ],
-            [
                 "INVICTUS GAMING",
                 5.0
+            ],
+            [
+                "TNC Predator",
+                4.0
             ],
             [
                 "Team Spirit",
@@ -3684,19 +3700,11 @@
                 1.0
             ],
             [
+                "PSG.LGD",
+                0.0
+            ],
+            [
                 "Execration",
-                1.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "Team Aster",
-                1.0
-            ],
-            [
-                "Team Liquid",
                 1.0
             ],
             [
@@ -3705,6 +3713,18 @@
             ],
             [
                 "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Team Aster",
                 1.0
             ]
         ]
@@ -3722,12 +3742,12 @@
                 3.0
             ],
             [
-                "TNC Predator",
-                3.0
-            ],
-            [
                 "INVICTUS GAMING",
                 2.0
+            ],
+            [
+                "TNC Predator",
+                3.0
             ],
             [
                 "Team Spirit",
@@ -3754,19 +3774,11 @@
                 1.0
             ],
             [
+                "PSG.LGD",
+                1.0
+            ],
+            [
                 "Execration",
-                0.0
-            ],
-            [
-                "NoPing Esports",
-                0.0
-            ],
-            [
-                "Team Aster",
-                0.0
-            ],
-            [
-                "Team Liquid",
                 0.0
             ],
             [
@@ -3775,6 +3787,18 @@
             ],
             [
                 "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Team Aster",
                 0.0
             ]
         ]
@@ -3828,11 +3852,11 @@
                 1.0
             ],
             [
-                "Virtus.pro",
+                "NoPing Esports",
                 1.0
             ],
             [
-                "NoPing Esports",
+                "Virtus.pro",
                 1.0
             ],
             [
@@ -3848,11 +3872,11 @@
                 0.0
             ],
             [
-                "AS Monaco Gambit",
+                "TNC Predator",
                 1.0
             ],
             [
-                "TNC Predator",
+                "AS Monaco Gambit",
                 1.0
             ]
         ]
@@ -3878,11 +3902,11 @@
                 2.0
             ],
             [
-                "Virtus.pro",
+                "NoPing Esports",
                 1.0
             ],
             [
-                "NoPing Esports",
+                "Virtus.pro",
                 1.0
             ],
             [
@@ -3898,11 +3922,11 @@
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "TNC Predator",
                 0.0
             ],
             [
-                "TNC Predator",
+                "AS Monaco Gambit",
                 0.0
             ]
         ]
@@ -3920,7 +3944,7 @@
                 1.0
             ],
             [
-                "Evil Geniuses",
+                "Vici Gaming",
                 0.0
             ],
             [
@@ -3928,7 +3952,7 @@
                 0.0
             ],
             [
-                "Vici Gaming",
+                "Evil Geniuses",
                 0.0
             ]
         ]
@@ -3946,7 +3970,7 @@
                 2.0
             ],
             [
-                "Evil Geniuses",
+                "Vici Gaming",
                 1.0
             ],
             [
@@ -3954,7 +3978,7 @@
                 1.0
             ],
             [
-                "Vici Gaming",
+                "Evil Geniuses",
                 1.0
             ]
         ]
@@ -3980,14 +4004,6 @@
                 2.0
             ],
             [
-                "beastcoast",
-                2.0
-            ],
-            [
-                "Team Spirit",
-                2.0
-            ],
-            [
                 "T1",
                 1.0
             ],
@@ -3996,11 +4012,19 @@
                 1.0
             ],
             [
-                "Team Liquid",
-                1.0
+                "beastcoast",
+                2.0
+            ],
+            [
+                "Team Spirit",
+                2.0
             ],
             [
                 "Virtus.pro",
+                1.0
+            ],
+            [
+                "Team Liquid",
                 1.0
             ],
             [
@@ -4008,11 +4032,11 @@
                 0.0
             ],
             [
-                "Team Aster",
+                "Nigma",
                 1.0
             ],
             [
-                "Nigma",
+                "Team Aster",
                 1.0
             ],
             [
@@ -4042,14 +4066,6 @@
                 2.0
             ],
             [
-                "beastcoast",
-                1.0
-            ],
-            [
-                "Team Spirit",
-                1.0
-            ],
-            [
                 "T1",
                 2.0
             ],
@@ -4058,7 +4074,11 @@
                 2.0
             ],
             [
-                "Team Liquid",
+                "beastcoast",
+                1.0
+            ],
+            [
+                "Team Spirit",
                 1.0
             ],
             [
@@ -4066,15 +4086,19 @@
                 1.0
             ],
             [
+                "Team Liquid",
+                1.0
+            ],
+            [
                 "Evil Geniuses",
                 1.0
             ],
             [
-                "Team Aster",
+                "Nigma",
                 0.0
             ],
             [
-                "Nigma",
+                "Team Aster",
                 0.0
             ],
             [
@@ -4120,11 +4144,15 @@
                 2.0
             ],
             [
+                "NoPing Esports",
+                2.0
+            ],
+            [
                 "AS Monaco Gambit",
                 0.0
             ],
             [
-                "NoPing Esports",
+                "Execration",
                 2.0
             ],
             [
@@ -4132,15 +4160,11 @@
                 2.0
             ],
             [
-                "Execration",
+                "TNC Predator",
                 2.0
             ],
             [
                 "Virtus.pro",
-                2.0
-            ],
-            [
-                "TNC Predator",
                 2.0
             ],
             [
@@ -4190,27 +4214,27 @@
                 3.0
             ],
             [
-                "AS Monaco Gambit",
-                4.0
-            ],
-            [
                 "NoPing Esports",
                 2.0
             ],
             [
-                "Team Aster",
-                1.0
+                "AS Monaco Gambit",
+                4.0
             ],
             [
                 "Execration",
                 1.0
             ],
             [
-                "Virtus.pro",
-                0.0
+                "Team Aster",
+                1.0
             ],
             [
                 "TNC Predator",
+                0.0
+            ],
+            [
+                "Virtus.pro",
                 0.0
             ],
             [
@@ -4228,19 +4252,15 @@
         "id": "Medusa Picks",
         "data": [
             [
-                "Vici Gaming",
-                4.0
-            ],
-            [
                 "Evil Geniuses",
                 2.0
             ],
             [
-                "Team Secret",
-                1.0
+                "Vici Gaming",
+                4.0
             ],
             [
-                "Team Liquid",
+                "Team Secret",
                 1.0
             ],
             [
@@ -4256,11 +4276,11 @@
                 1.0
             ],
             [
-                "Execration",
-                0.0
+                "Team Liquid",
+                1.0
             ],
             [
-                "Quincy Crew",
+                "Virtus.pro",
                 0.0
             ],
             [
@@ -4268,7 +4288,15 @@
                 0.0
             ],
             [
-                "Virtus.pro",
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "Execration",
                 0.0
             ],
             [
@@ -4276,16 +4304,12 @@
                 1.0
             ],
             [
-                "NoPing Esports",
-                1.0
-            ],
-            [
                 "T1",
                 1.0
             ],
             [
-                "PSG.LGD",
-                0.0
+                "NoPing Esports",
+                1.0
             ]
         ]
     },
@@ -4294,20 +4318,16 @@
         "id": "Medusa Bans",
         "data": [
             [
-                "Vici Gaming",
-                1.0
-            ],
-            [
                 "Evil Geniuses",
                 3.0
             ],
             [
-                "Team Secret",
-                2.0
+                "Vici Gaming",
+                1.0
             ],
             [
-                "Team Liquid",
-                1.0
+                "Team Secret",
+                2.0
             ],
             [
                 "Nigma",
@@ -4322,15 +4342,7 @@
                 1.0
             ],
             [
-                "Execration",
-                1.0
-            ],
-            [
-                "Quincy Crew",
-                1.0
-            ],
-            [
-                "Team Spirit",
+                "Team Liquid",
                 1.0
             ],
             [
@@ -4338,11 +4350,23 @@
                 1.0
             ],
             [
-                "Team Aster",
-                0.0
+                "Team Spirit",
+                1.0
             ],
             [
-                "NoPing Esports",
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Team Aster",
                 0.0
             ],
             [
@@ -4350,8 +4374,8 @@
                 0.0
             ],
             [
-                "PSG.LGD",
-                1.0
+                "NoPing Esports",
+                0.0
             ]
         ]
     },
@@ -4360,12 +4384,12 @@
         "id": "Mirana Picks",
         "data": [
             [
-                "Team Spirit",
-                2.0
-            ],
-            [
                 "PSG.LGD",
                 3.0
+            ],
+            [
+                "Team Spirit",
+                2.0
             ],
             [
                 "Team Liquid",
@@ -4390,12 +4414,12 @@
         "id": "Mirana Bans",
         "data": [
             [
-                "Team Spirit",
-                1.0
-            ],
-            [
                 "PSG.LGD",
                 0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
             ],
             [
                 "Team Liquid",
@@ -4440,11 +4464,11 @@
                 1.0
             ],
             [
-                "Quincy Crew",
+                "Nigma",
                 0.0
             ],
             [
-                "Nigma",
+                "Quincy Crew",
                 0.0
             ],
             [
@@ -4482,11 +4506,11 @@
                 2.0
             ],
             [
-                "Quincy Crew",
+                "Nigma",
                 1.0
             ],
             [
-                "Nigma",
+                "Quincy Crew",
                 1.0
             ],
             [
@@ -4516,16 +4540,16 @@
                 1.0
             ],
             [
+                "Vici Gaming",
+                2.0
+            ],
+            [
                 "AS Monaco Gambit",
                 3.0
             ],
             [
                 "INVICTUS GAMING",
                 4.0
-            ],
-            [
-                "Vici Gaming",
-                2.0
             ],
             [
                 "T1",
@@ -4548,11 +4572,11 @@
                 0.0
             ],
             [
-                "Evil Geniuses",
+                "Alliance",
                 0.0
             ],
             [
-                "Alliance",
+                "Evil Geniuses",
                 0.0
             ],
             [
@@ -4582,16 +4606,16 @@
                 5.0
             ],
             [
+                "Vici Gaming",
+                3.0
+            ],
+            [
                 "AS Monaco Gambit",
                 2.0
             ],
             [
                 "INVICTUS GAMING",
                 1.0
-            ],
-            [
-                "Vici Gaming",
-                3.0
             ],
             [
                 "T1",
@@ -4614,11 +4638,11 @@
                 2.0
             ],
             [
-                "Evil Geniuses",
+                "Alliance",
                 1.0
             ],
             [
-                "Alliance",
+                "Evil Geniuses",
                 1.0
             ],
             [
@@ -4663,7 +4687,7 @@
         "data": [
             [
                 "Evil Geniuses",
-                6.0
+                7.0
             ],
             [
                 "TNC Predator",
@@ -4689,7 +4713,7 @@
         "data": [
             [
                 "Evil Geniuses",
-                3.0
+                5.0
             ],
             [
                 "NoPing Esports",
@@ -4812,12 +4836,12 @@
                 1.0
             ],
             [
-                "Execration",
-                2.0
-            ],
-            [
                 "PSG.LGD",
                 3.0
+            ],
+            [
+                "Execration",
+                2.0
             ],
             [
                 "INVICTUS GAMING",
@@ -4832,11 +4856,11 @@
                 1.0
             ],
             [
-                "Nigma",
+                "Evil Geniuses",
                 1.0
             ],
             [
-                "Evil Geniuses",
+                "Nigma",
                 1.0
             ],
             [
@@ -4844,11 +4868,11 @@
                 0.0
             ],
             [
-                "NoPing Esports",
+                "Team Aster",
                 1.0
             ],
             [
-                "Team Aster",
+                "NoPing Esports",
                 1.0
             ]
         ]
@@ -4874,12 +4898,12 @@
                 8.0
             ],
             [
-                "Execration",
-                5.0
+                "PSG.LGD",
+                6.0
             ],
             [
-                "PSG.LGD",
-                4.0
+                "Execration",
+                5.0
             ],
             [
                 "INVICTUS GAMING",
@@ -4894,11 +4918,11 @@
                 2.0
             ],
             [
-                "Nigma",
+                "Evil Geniuses",
                 2.0
             ],
             [
-                "Evil Geniuses",
+                "Nigma",
                 2.0
             ],
             [
@@ -4906,11 +4930,11 @@
                 1.0
             ],
             [
-                "NoPing Esports",
+                "Team Aster",
                 0.0
             ],
             [
-                "Team Aster",
+                "NoPing Esports",
                 0.0
             ]
         ]
@@ -4920,19 +4944,19 @@
         "id": "Omniknight Picks",
         "data": [
             [
-                "TNC Predator",
-                0.0
-            ],
-            [
                 "Vici Gaming",
                 0.0
             ],
             [
-                "PSG.LGD",
-                1.0
+                "TNC Predator",
+                0.0
             ],
             [
                 "Team Liquid",
+                1.0
+            ],
+            [
+                "PSG.LGD",
                 1.0
             ]
         ]
@@ -4942,19 +4966,19 @@
         "id": "Omniknight Bans",
         "data": [
             [
-                "TNC Predator",
-                1.0
-            ],
-            [
                 "Vici Gaming",
                 1.0
             ],
             [
-                "PSG.LGD",
-                0.0
+                "TNC Predator",
+                1.0
             ],
             [
                 "Team Liquid",
+                0.0
+            ],
+            [
+                "PSG.LGD",
                 0.0
             ]
         ]
@@ -4976,11 +5000,7 @@
                 2.0
             ],
             [
-                "Evil Geniuses",
-                0.0
-            ],
-            [
-                "Execration",
+                "T1",
                 0.0
             ],
             [
@@ -4988,7 +5008,11 @@
                 0.0
             ],
             [
-                "T1",
+                "Execration",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
                 0.0
             ],
             [
@@ -5018,11 +5042,7 @@
                 0.0
             ],
             [
-                "Evil Geniuses",
-                1.0
-            ],
-            [
-                "Execration",
+                "T1",
                 1.0
             ],
             [
@@ -5030,7 +5050,11 @@
                 1.0
             ],
             [
-                "T1",
+                "Execration",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
                 1.0
             ],
             [
@@ -5072,11 +5096,11 @@
                 2.0
             ],
             [
-                "Team Spirit",
+                "beastcoast",
                 0.0
             ],
             [
-                "beastcoast",
+                "Team Spirit",
                 0.0
             ],
             [
@@ -5102,11 +5126,11 @@
                 1.0
             ],
             [
-                "Team Spirit",
+                "beastcoast",
                 1.0
             ],
             [
-                "beastcoast",
+                "Team Spirit",
                 1.0
             ],
             [
@@ -5136,15 +5160,7 @@
                 2.0
             ],
             [
-                "AS Monaco Gambit",
-                0.0
-            ],
-            [
-                "Execration",
-                0.0
-            ],
-            [
-                "Team Secret",
+                "Virtus.pro",
                 0.0
             ],
             [
@@ -5152,7 +5168,15 @@
                 0.0
             ],
             [
-                "Virtus.pro",
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
                 0.0
             ],
             [
@@ -5178,15 +5202,7 @@
                 0.0
             ],
             [
-                "AS Monaco Gambit",
-                1.0
-            ],
-            [
-                "Execration",
-                1.0
-            ],
-            [
-                "Team Secret",
+                "Virtus.pro",
                 1.0
             ],
             [
@@ -5194,7 +5210,15 @@
                 1.0
             ],
             [
-                "Virtus.pro",
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
                 1.0
             ],
             [
@@ -5220,6 +5244,10 @@
                 0.0
             ],
             [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
                 "Nigma",
                 0.0
             ],
@@ -5230,10 +5258,6 @@
             [
                 "Team Spirit",
                 2.0
-            ],
-            [
-                "Evil Geniuses",
-                1.0
             ],
             [
                 "T1",
@@ -5252,6 +5276,10 @@
                 1.0
             ],
             [
+                "Team Secret",
+                1.0
+            ],
+            [
                 "Virtus.pro",
                 0.0
             ],
@@ -5260,8 +5288,8 @@
                 0.0
             ],
             [
-                "Team Secret",
-                1.0
+                "Team Aster",
+                0.0
             ],
             [
                 "Alliance",
@@ -5269,10 +5297,6 @@
             ],
             [
                 "AS Monaco Gambit",
-                0.0
-            ],
-            [
-                "Team Aster",
                 0.0
             ],
             [
@@ -5294,6 +5318,10 @@
                 7.0
             ],
             [
+                "Evil Geniuses",
+                5.0
+            ],
+            [
                 "Nigma",
                 6.0
             ],
@@ -5304,10 +5332,6 @@
             [
                 "Team Spirit",
                 3.0
-            ],
-            [
-                "Evil Geniuses",
-                4.0
             ],
             [
                 "T1",
@@ -5326,6 +5350,10 @@
                 2.0
             ],
             [
+                "Team Secret",
+                1.0
+            ],
+            [
                 "Virtus.pro",
                 2.0
             ],
@@ -5334,7 +5362,7 @@
                 2.0
             ],
             [
-                "Team Secret",
+                "Team Aster",
                 1.0
             ],
             [
@@ -5343,10 +5371,6 @@
             ],
             [
                 "AS Monaco Gambit",
-                1.0
-            ],
-            [
-                "Team Aster",
                 1.0
             ],
             [
@@ -5365,7 +5389,7 @@
             ],
             [
                 "PSG.LGD",
-                7.0
+                8.0
             ],
             [
                 "Vici Gaming",
@@ -5384,11 +5408,11 @@
                 2.0
             ],
             [
-                "INVICTUS GAMING",
+                "T1",
                 1.0
             ],
             [
-                "T1",
+                "INVICTUS GAMING",
                 1.0
             ],
             [
@@ -5419,7 +5443,7 @@
             ],
             [
                 "PSG.LGD",
-                2.0
+                3.0
             ],
             [
                 "Vici Gaming",
@@ -5438,11 +5462,11 @@
                 1.0
             ],
             [
-                "INVICTUS GAMING",
+                "T1",
                 1.0
             ],
             [
-                "T1",
+                "INVICTUS GAMING",
                 1.0
             ],
             [
@@ -5484,11 +5508,11 @@
                 4.0
             ],
             [
-                "PSG.LGD",
+                "Team Secret",
                 3.0
             ],
             [
-                "Team Secret",
+                "PSG.LGD",
                 3.0
             ],
             [
@@ -5520,11 +5544,11 @@
                 0.0
             ],
             [
-                "INVICTUS GAMING",
+                "Alliance",
                 0.0
             ],
             [
-                "Alliance",
+                "INVICTUS GAMING",
                 0.0
             ],
             [
@@ -5543,7 +5567,7 @@
         "data": [
             [
                 "Evil Geniuses",
-                10.0
+                12.0
             ],
             [
                 "Vici Gaming",
@@ -5558,11 +5582,11 @@
                 4.0
             ],
             [
-                "PSG.LGD",
+                "Team Secret",
                 4.0
             ],
             [
-                "Team Secret",
+                "PSG.LGD",
                 4.0
             ],
             [
@@ -5594,11 +5618,11 @@
                 2.0
             ],
             [
-                "INVICTUS GAMING",
+                "Alliance",
                 1.0
             ],
             [
-                "Alliance",
+                "INVICTUS GAMING",
                 1.0
             ],
             [
@@ -5624,16 +5648,16 @@
                 0.0
             ],
             [
-                "INVICTUS GAMING",
-                0.0
-            ],
-            [
                 "Alliance",
                 0.0
             ],
             [
                 "Team Liquid",
                 1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
             ]
         ]
     },
@@ -5650,16 +5674,16 @@
                 1.0
             ],
             [
-                "INVICTUS GAMING",
-                1.0
-            ],
-            [
                 "Alliance",
                 1.0
             ],
             [
                 "Team Liquid",
                 0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
             ]
         ]
     },
@@ -5728,19 +5752,19 @@
                 1.0
             ],
             [
+                "PSG.LGD",
+                2.0
+            ],
+            [
                 "Team Spirit",
                 0.0
             ],
             [
-                "PSG.LGD",
-                1.0
-            ],
-            [
-                "Vici Gaming",
+                "Team Liquid",
                 0.0
             ],
             [
-                "Team Liquid",
+                "Vici Gaming",
                 0.0
             ],
             [
@@ -5786,19 +5810,19 @@
                 2.0
             ],
             [
-                "Team Spirit",
-                3.0
-            ],
-            [
                 "PSG.LGD",
                 1.0
             ],
             [
-                "Vici Gaming",
-                2.0
+                "Team Spirit",
+                3.0
             ],
             [
                 "Team Liquid",
+                2.0
+            ],
+            [
+                "Vici Gaming",
                 2.0
             ],
             [
@@ -5901,7 +5925,7 @@
         "data": [
             [
                 "PSG.LGD",
-                2.0
+                3.0
             ],
             [
                 "Evil Geniuses",
@@ -5964,20 +5988,20 @@
                 3.0
             ],
             [
-                "Alliance",
-                1.0
-            ],
-            [
-                "PSG.LGD",
-                1.0
-            ],
-            [
                 "Team Liquid",
                 0.0
             ],
             [
                 "T1",
                 0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
             ],
             [
                 "beastcoast",
@@ -6006,20 +6030,20 @@
                 1.0
             ],
             [
-                "Alliance",
-                1.0
-            ],
-            [
-                "PSG.LGD",
-                1.0
-            ],
-            [
                 "Team Liquid",
                 2.0
             ],
             [
                 "T1",
                 2.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
             ],
             [
                 "beastcoast",
@@ -6056,7 +6080,7 @@
                 0.0
             ],
             [
-                "beastcoast",
+                "AS Monaco Gambit",
                 1.0
             ],
             [
@@ -6064,7 +6088,7 @@
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "beastcoast",
                 1.0
             ]
         ]
@@ -6086,7 +6110,7 @@
                 1.0
             ],
             [
-                "beastcoast",
+                "AS Monaco Gambit",
                 0.0
             ],
             [
@@ -6094,7 +6118,7 @@
                 0.0
             ],
             [
-                "AS Monaco Gambit",
+                "beastcoast",
                 0.0
             ]
         ]
@@ -6104,11 +6128,11 @@
         "id": "Shadow Shaman Picks",
         "data": [
             [
-                "Team Spirit",
+                "INVICTUS GAMING",
                 2.0
             ],
             [
-                "INVICTUS GAMING",
+                "Team Spirit",
                 2.0
             ],
             [
@@ -6121,6 +6145,10 @@
             ],
             [
                 "Evil Geniuses",
+                1.0
+            ],
+            [
+                "PSG.LGD",
                 1.0
             ],
             [
@@ -6138,11 +6166,11 @@
         "id": "Shadow Shaman Bans",
         "data": [
             [
-                "Team Spirit",
+                "INVICTUS GAMING",
                 0.0
             ],
             [
-                "INVICTUS GAMING",
+                "Team Spirit",
                 0.0
             ],
             [
@@ -6155,6 +6183,10 @@
             ],
             [
                 "Evil Geniuses",
+                0.0
+            ],
+            [
+                "PSG.LGD",
                 0.0
             ],
             [
@@ -6240,15 +6272,15 @@
                 2.0
             ],
             [
-                "TNC Predator",
-                0.0
-            ],
-            [
                 "AS Monaco Gambit",
                 0.0
             ],
             [
                 "beastcoast",
+                0.0
+            ],
+            [
+                "TNC Predator",
                 0.0
             ]
         ]
@@ -6274,15 +6306,15 @@
                 0.0
             ],
             [
-                "TNC Predator",
-                1.0
-            ],
-            [
                 "AS Monaco Gambit",
                 1.0
             ],
             [
                 "beastcoast",
+                1.0
+            ],
+            [
+                "TNC Predator",
                 1.0
             ]
         ]
@@ -6376,11 +6408,11 @@
                 1.0
             ],
             [
-                "Team Secret",
+                "Evil Geniuses",
                 2.0
             ],
             [
-                "Evil Geniuses",
+                "Team Secret",
                 2.0
             ],
             [
@@ -6392,11 +6424,11 @@
                 1.0
             ],
             [
-                "Execration",
+                "Nigma",
                 1.0
             ],
             [
-                "Nigma",
+                "Execration",
                 1.0
             ],
             [
@@ -6442,11 +6474,11 @@
                 1.0
             ],
             [
-                "Team Secret",
+                "Evil Geniuses",
                 0.0
             ],
             [
-                "Evil Geniuses",
+                "Team Secret",
                 0.0
             ],
             [
@@ -6458,11 +6490,11 @@
                 0.0
             ],
             [
-                "Execration",
+                "Nigma",
                 0.0
             ],
             [
-                "Nigma",
+                "Execration",
                 0.0
             ],
             [
@@ -6496,24 +6528,24 @@
                 2.0
             ],
             [
-                "Evil Geniuses",
-                0.0
-            ],
-            [
                 "beastcoast",
                 2.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
             ],
             [
                 "TNC Predator",
                 1.0
             ],
             [
-                "INVICTUS GAMING",
-                1.0
-            ],
-            [
                 "Team Aster",
                 0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
             ],
             [
                 "Execration",
@@ -6547,7 +6579,7 @@
             ],
             [
                 "PSG.LGD",
-                5.0
+                6.0
             ],
             [
                 "T1",
@@ -6558,24 +6590,24 @@
                 3.0
             ],
             [
-                "Evil Geniuses",
-                4.0
-            ],
-            [
                 "beastcoast",
                 2.0
+            ],
+            [
+                "Evil Geniuses",
+                4.0
             ],
             [
                 "TNC Predator",
                 2.0
             ],
             [
-                "INVICTUS GAMING",
-                2.0
-            ],
-            [
                 "Team Aster",
                 3.0
+            ],
+            [
+                "INVICTUS GAMING",
+                2.0
             ],
             [
                 "Execration",
@@ -6605,7 +6637,7 @@
             ],
             [
                 "Evil Geniuses",
-                2.0
+                3.0
             ],
             [
                 "INVICTUS GAMING",
@@ -6628,15 +6660,15 @@
                 1.0
             ],
             [
-                "Execration",
-                0.0
-            ],
-            [
                 "Nigma",
                 0.0
             ],
             [
                 "Quincy Crew",
+                0.0
+            ],
+            [
+                "Execration",
                 0.0
             ],
             [
@@ -6655,7 +6687,7 @@
             ],
             [
                 "Evil Geniuses",
-                5.0
+                6.0
             ],
             [
                 "INVICTUS GAMING",
@@ -6678,15 +6710,15 @@
                 1.0
             ],
             [
-                "Execration",
-                1.0
-            ],
-            [
                 "Nigma",
                 1.0
             ],
             [
                 "Quincy Crew",
+                1.0
+            ],
+            [
+                "Execration",
                 1.0
             ],
             [
@@ -6712,11 +6744,11 @@
                 0.0
             ],
             [
-                "PSG.LGD",
+                "beastcoast",
                 0.0
             ],
             [
-                "beastcoast",
+                "PSG.LGD",
                 0.0
             ],
             [
@@ -6742,11 +6774,11 @@
                 1.0
             ],
             [
-                "PSG.LGD",
+                "beastcoast",
                 1.0
             ],
             [
-                "beastcoast",
+                "PSG.LGD",
                 1.0
             ],
             [
@@ -6760,12 +6792,12 @@
         "id": "Templar Assassin Picks",
         "data": [
             [
-                "Vici Gaming",
-                6.0
-            ],
-            [
                 "PSG.LGD",
                 4.0
+            ],
+            [
+                "Vici Gaming",
+                6.0
             ],
             [
                 "TNC Predator",
@@ -6788,16 +6820,16 @@
                 0.0
             ],
             [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
                 "beastcoast",
                 1.0
             ],
             [
                 "Quincy Crew",
                 2.0
-            ],
-            [
-                "INVICTUS GAMING",
-                0.0
             ],
             [
                 "Team Spirit",
@@ -6830,12 +6862,12 @@
         "id": "Templar Assassin Bans",
         "data": [
             [
-                "Vici Gaming",
-                9.0
+                "PSG.LGD",
+                11.0
             ],
             [
-                "PSG.LGD",
-                10.0
+                "Vici Gaming",
+                9.0
             ],
             [
                 "TNC Predator",
@@ -6858,16 +6890,16 @@
                 8.0
             ],
             [
+                "INVICTUS GAMING",
+                5.0
+            ],
+            [
                 "beastcoast",
                 4.0
             ],
             [
                 "Quincy Crew",
                 3.0
-            ],
-            [
-                "INVICTUS GAMING",
-                5.0
             ],
             [
                 "Team Spirit",
@@ -6908,11 +6940,11 @@
                 3.0
             ],
             [
-                "Nigma",
+                "Team Spirit",
                 4.0
             ],
             [
-                "Team Spirit",
+                "Nigma",
                 4.0
             ],
             [
@@ -6921,7 +6953,7 @@
             ],
             [
                 "PSG.LGD",
-                1.0
+                2.0
             ],
             [
                 "Team Aster",
@@ -6944,11 +6976,11 @@
                 0.0
             ],
             [
-                "AS Monaco Gambit",
+                "Virtus.pro",
                 0.0
             ],
             [
-                "Virtus.pro",
+                "AS Monaco Gambit",
                 0.0
             ],
             [
@@ -6963,18 +6995,18 @@
         "data": [
             [
                 "Evil Geniuses",
-                13.0
+                14.0
             ],
             [
                 "Vici Gaming",
                 10.0
             ],
             [
-                "Nigma",
+                "Team Spirit",
                 7.0
             ],
             [
-                "Team Spirit",
+                "Nigma",
                 7.0
             ],
             [
@@ -7006,11 +7038,11 @@
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "Virtus.pro",
                 1.0
             ],
             [
-                "Virtus.pro",
+                "AS Monaco Gambit",
                 1.0
             ],
             [
@@ -7036,11 +7068,11 @@
                 1.0
             ],
             [
-                "Execration",
+                "Nigma",
                 1.0
             ],
             [
-                "Nigma",
+                "Execration",
                 1.0
             ],
             [
@@ -7060,6 +7092,10 @@
                 1.0
             ],
             [
+                "Alliance",
+                0.0
+            ],
+            [
                 "AS Monaco Gambit",
                 0.0
             ],
@@ -7069,10 +7105,6 @@
             ],
             [
                 "Team Liquid",
-                0.0
-            ],
-            [
-                "Alliance",
                 0.0
             ],
             [
@@ -7098,11 +7130,11 @@
                 4.0
             ],
             [
-                "Execration",
+                "Nigma",
                 3.0
             ],
             [
-                "Nigma",
+                "Execration",
                 3.0
             ],
             [
@@ -7122,6 +7154,10 @@
                 1.0
             ],
             [
+                "Alliance",
+                1.0
+            ],
+            [
                 "AS Monaco Gambit",
                 1.0
             ],
@@ -7131,10 +7167,6 @@
             ],
             [
                 "Team Liquid",
-                1.0
-            ],
-            [
-                "Alliance",
                 1.0
             ],
             [
@@ -7148,24 +7180,24 @@
         "id": "Timbersaw Picks",
         "data": [
             [
-                "Vici Gaming",
+                "Evil Geniuses",
                 7.0
             ],
             [
-                "Evil Geniuses",
-                6.0
+                "Vici Gaming",
+                7.0
             ],
             [
                 "beastcoast",
                 3.0
             ],
             [
-                "Nigma",
-                1.0
-            ],
-            [
                 "Alliance",
                 0.0
+            ],
+            [
+                "Nigma",
+                1.0
             ],
             [
                 "INVICTUS GAMING",
@@ -7204,11 +7236,11 @@
                 1.0
             ],
             [
-                "Team Liquid",
+                "Team Spirit",
                 0.0
             ],
             [
-                "Team Spirit",
+                "Team Liquid",
                 0.0
             ],
             [
@@ -7222,24 +7254,24 @@
         "id": "Timbersaw Bans",
         "data": [
             [
-                "Vici Gaming",
-                13.0
-            ],
-            [
                 "Evil Geniuses",
                 14.0
+            ],
+            [
+                "Vici Gaming",
+                13.0
             ],
             [
                 "beastcoast",
                 6.0
             ],
             [
-                "Nigma",
-                4.0
-            ],
-            [
                 "Alliance",
                 5.0
+            ],
+            [
+                "Nigma",
+                4.0
             ],
             [
                 "INVICTUS GAMING",
@@ -7278,11 +7310,11 @@
                 1.0
             ],
             [
-                "Team Liquid",
+                "Team Spirit",
                 1.0
             ],
             [
-                "Team Spirit",
+                "Team Liquid",
                 1.0
             ],
             [
@@ -7300,16 +7332,16 @@
                 5.0
             ],
             [
-                "TNC Predator",
-                4.0
+                "NoPing Esports",
+                2.0
             ],
             [
                 "Execration",
                 2.0
             ],
             [
-                "NoPing Esports",
-                2.0
+                "TNC Predator",
+                4.0
             ],
             [
                 "Nigma",
@@ -7366,16 +7398,16 @@
                 4.0
             ],
             [
-                "TNC Predator",
-                1.0
+                "NoPing Esports",
+                3.0
             ],
             [
                 "Execration",
                 3.0
             ],
             [
-                "NoPing Esports",
-                3.0
+                "TNC Predator",
+                1.0
             ],
             [
                 "Nigma",
@@ -7448,11 +7480,11 @@
                 2.0
             ],
             [
-                "Execration",
+                "Team Secret",
                 1.0
             ],
             [
-                "Team Liquid",
+                "Execration",
                 1.0
             ],
             [
@@ -7460,7 +7492,7 @@
                 1.0
             ],
             [
-                "Team Secret",
+                "Team Liquid",
                 1.0
             ]
         ]
@@ -7490,11 +7522,11 @@
                 0.0
             ],
             [
-                "Execration",
+                "Team Secret",
                 0.0
             ],
             [
-                "Team Liquid",
+                "Execration",
                 0.0
             ],
             [
@@ -7502,7 +7534,7 @@
                 0.0
             ],
             [
-                "Team Secret",
+                "Team Liquid",
                 0.0
             ]
         ]
@@ -7524,11 +7556,11 @@
                 0.0
             ],
             [
-                "Vici Gaming",
+                "AS Monaco Gambit",
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "Vici Gaming",
                 1.0
             ],
             [
@@ -7536,7 +7568,7 @@
                 0.0
             ],
             [
-                "beastcoast",
+                "TNC Predator",
                 0.0
             ],
             [
@@ -7544,7 +7576,7 @@
                 0.0
             ],
             [
-                "TNC Predator",
+                "beastcoast",
                 0.0
             ],
             [
@@ -7552,11 +7584,11 @@
                 1.0
             ],
             [
-                "Team Spirit",
+                "Team Secret",
                 1.0
             ],
             [
-                "Team Secret",
+                "Team Spirit",
                 1.0
             ]
         ]
@@ -7578,11 +7610,11 @@
                 2.0
             ],
             [
-                "Vici Gaming",
+                "AS Monaco Gambit",
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "Vici Gaming",
                 1.0
             ],
             [
@@ -7590,7 +7622,7 @@
                 1.0
             ],
             [
-                "beastcoast",
+                "TNC Predator",
                 1.0
             ],
             [
@@ -7598,7 +7630,7 @@
                 1.0
             ],
             [
-                "TNC Predator",
+                "beastcoast",
                 1.0
             ],
             [
@@ -7606,11 +7638,11 @@
                 0.0
             ],
             [
-                "Team Spirit",
+                "Team Secret",
                 0.0
             ],
             [
-                "Team Secret",
+                "Team Spirit",
                 0.0
             ]
         ]
@@ -7676,15 +7708,15 @@
                 1.0
             ],
             [
-                "Vici Gaming",
-                0.0
-            ],
-            [
                 "PSG.LGD",
                 0.0
             ],
             [
                 "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Vici Gaming",
                 0.0
             ],
             [
@@ -7710,15 +7742,15 @@
                 1.0
             ],
             [
-                "Vici Gaming",
-                1.0
-            ],
-            [
                 "PSG.LGD",
                 1.0
             ],
             [
                 "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Vici Gaming",
                 1.0
             ],
             [
@@ -7792,7 +7824,7 @@
                 1.0
             ],
             [
-                "Virtus.pro",
+                "INVICTUS GAMING",
                 1.0
             ],
             [
@@ -7800,7 +7832,7 @@
                 1.0
             ],
             [
-                "INVICTUS GAMING",
+                "Virtus.pro",
                 1.0
             ],
             [
@@ -7812,19 +7844,19 @@
                 0.0
             ],
             [
-                "NoPing Esports",
-                0.0
-            ],
-            [
-                "AS Monaco Gambit",
-                0.0
-            ],
-            [
                 "Team Liquid",
                 0.0
             ],
             [
                 "beastcoast",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
                 0.0
             ],
             [
@@ -7843,7 +7875,7 @@
             ],
             [
                 "PSG.LGD",
-                7.0
+                8.0
             ],
             [
                 "Vici Gaming",
@@ -7870,7 +7902,7 @@
                 3.0
             ],
             [
-                "Virtus.pro",
+                "INVICTUS GAMING",
                 2.0
             ],
             [
@@ -7878,7 +7910,7 @@
                 2.0
             ],
             [
-                "INVICTUS GAMING",
+                "Virtus.pro",
                 2.0
             ],
             [
@@ -7890,19 +7922,19 @@
                 2.0
             ],
             [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "AS Monaco Gambit",
-                1.0
-            ],
-            [
                 "Team Liquid",
                 1.0
             ],
             [
                 "beastcoast",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
                 1.0
             ],
             [
@@ -7928,19 +7960,11 @@
                 2.0
             ],
             [
-                "Evil Geniuses",
-                0.0
-            ],
-            [
                 "Team Liquid",
                 0.0
             ],
             [
-                "Team Spirit",
-                0.0
-            ],
-            [
-                "AS Monaco Gambit",
+                "Evil Geniuses",
                 0.0
             ],
             [
@@ -7949,6 +7973,14 @@
             ],
             [
                 "Team Secret",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
                 0.0
             ]
         ]
@@ -7970,20 +8002,12 @@
                 1.0
             ],
             [
-                "Evil Geniuses",
-                3.0
-            ],
-            [
                 "Team Liquid",
                 3.0
             ],
             [
-                "Team Spirit",
-                1.0
-            ],
-            [
-                "AS Monaco Gambit",
-                1.0
+                "Evil Geniuses",
+                3.0
             ],
             [
                 "Nigma",
@@ -7991,6 +8015,14 @@
             ],
             [
                 "Team Secret",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
                 1.0
             ]
         ]
@@ -8001,7 +8033,7 @@
         "data": [
             [
                 "Evil Geniuses",
-                4.0
+                5.0
             ],
             [
                 "Team Spirit",
@@ -8036,11 +8068,11 @@
                 0.0
             ],
             [
-                "Virtus.pro",
+                "NoPing Esports",
                 0.0
             ],
             [
-                "NoPing Esports",
+                "Virtus.pro",
                 0.0
             ],
             [
@@ -8052,15 +8084,11 @@
                 0.0
             ],
             [
-                "Team Aster",
-                0.0
-            ],
-            [
                 "Team Secret",
                 0.0
             ],
             [
-                "Team Liquid",
+                "Execration",
                 0.0
             ],
             [
@@ -8068,7 +8096,11 @@
                 0.0
             ],
             [
-                "Execration",
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Liquid",
                 0.0
             ]
         ]
@@ -8114,11 +8146,11 @@
                 4.0
             ],
             [
-                "Virtus.pro",
+                "NoPing Esports",
                 4.0
             ],
             [
-                "NoPing Esports",
+                "Virtus.pro",
                 4.0
             ],
             [
@@ -8130,15 +8162,11 @@
                 2.0
             ],
             [
-                "Team Aster",
-                1.0
-            ],
-            [
                 "Team Secret",
                 1.0
             ],
             [
-                "Team Liquid",
+                "Execration",
                 1.0
             ],
             [
@@ -8146,7 +8174,11 @@
                 1.0
             ],
             [
-                "Execration",
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Team Liquid",
                 1.0
             ]
         ]
@@ -8164,11 +8196,15 @@
                 3.0
             ],
             [
+                "beastcoast",
+                1.0
+            ],
+            [
                 "Quincy Crew",
                 2.0
             ],
             [
-                "beastcoast",
+                "Team Spirit",
                 1.0
             ],
             [
@@ -8176,7 +8212,7 @@
                 1.0
             ],
             [
-                "Team Spirit",
+                "Evil Geniuses",
                 1.0
             ],
             [
@@ -8184,15 +8220,11 @@
                 1.0
             ],
             [
-                "Evil Geniuses",
-                1.0
-            ],
-            [
-                "TNC Predator",
+                "PSG.LGD",
                 0.0
             ],
             [
-                "PSG.LGD",
+                "TNC Predator",
                 0.0
             ]
         ]
@@ -8210,15 +8242,11 @@
                 2.0
             ],
             [
-                "Quincy Crew",
-                1.0
-            ],
-            [
                 "beastcoast",
                 2.0
             ],
             [
-                "Team Secret",
+                "Quincy Crew",
                 1.0
             ],
             [
@@ -8226,7 +8254,7 @@
                 1.0
             ],
             [
-                "Execration",
+                "Team Secret",
                 1.0
             ],
             [
@@ -8234,11 +8262,15 @@
                 1.0
             ],
             [
-                "TNC Predator",
+                "Execration",
                 1.0
             ],
             [
                 "PSG.LGD",
+                1.0
+            ],
+            [
+                "TNC Predator",
                 1.0
             ]
         ]
@@ -8256,15 +8288,15 @@
                 1.0
             ],
             [
-                "PSG.LGD",
-                2.0
-            ],
-            [
                 "T1",
                 2.0
             ],
             [
                 "Execration",
+                2.0
+            ],
+            [
+                "PSG.LGD",
                 2.0
             ],
             [
@@ -8276,11 +8308,7 @@
                 0.0
             ],
             [
-                "TNC Predator",
-                1.0
-            ],
-            [
-                "Team Spirit",
+                "Alliance",
                 1.0
             ],
             [
@@ -8288,7 +8316,11 @@
                 1.0
             ],
             [
-                "Alliance",
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "TNC Predator",
                 1.0
             ]
         ]
@@ -8306,15 +8338,15 @@
                 1.0
             ],
             [
-                "PSG.LGD",
-                0.0
-            ],
-            [
                 "T1",
                 0.0
             ],
             [
                 "Execration",
+                0.0
+            ],
+            [
+                "PSG.LGD",
                 0.0
             ],
             [
@@ -8326,11 +8358,7 @@
                 1.0
             ],
             [
-                "TNC Predator",
-                0.0
-            ],
-            [
-                "Team Spirit",
+                "Alliance",
                 0.0
             ],
             [
@@ -8338,7 +8366,11 @@
                 0.0
             ],
             [
-                "Alliance",
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "TNC Predator",
                 0.0
             ]
         ]
@@ -8368,11 +8400,11 @@
         "id": "Windranger Picks",
         "data": [
             [
-                "Team Secret",
+                "Virtus.pro",
                 2.0
             ],
             [
-                "Virtus.pro",
+                "Team Secret",
                 2.0
             ],
             [
@@ -8380,15 +8412,7 @@
                 0.0
             ],
             [
-                "Team Spirit",
-                1.0
-            ],
-            [
-                "Quincy Crew",
-                1.0
-            ],
-            [
-                "Nigma",
+                "Evil Geniuses",
                 1.0
             ],
             [
@@ -8396,7 +8420,15 @@
                 1.0
             ],
             [
-                "Evil Geniuses",
+                "Nigma",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Team Spirit",
                 1.0
             ]
         ]
@@ -8406,11 +8438,11 @@
         "id": "Windranger Bans",
         "data": [
             [
-                "Team Secret",
+                "Virtus.pro",
                 0.0
             ],
             [
-                "Virtus.pro",
+                "Team Secret",
                 0.0
             ],
             [
@@ -8418,15 +8450,7 @@
                 1.0
             ],
             [
-                "Team Spirit",
-                0.0
-            ],
-            [
-                "Quincy Crew",
-                0.0
-            ],
-            [
-                "Nigma",
+                "Evil Geniuses",
                 0.0
             ],
             [
@@ -8434,7 +8458,15 @@
                 0.0
             ],
             [
-                "Evil Geniuses",
+                "Nigma",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Team Spirit",
                 0.0
             ]
         ]
@@ -8464,10 +8496,6 @@
                 3.0
             ],
             [
-                "Quincy Crew",
-                2.0
-            ],
-            [
                 "Team Liquid",
                 2.0
             ],
@@ -8476,15 +8504,19 @@
                 2.0
             ],
             [
+                "Quincy Crew",
+                2.0
+            ],
+            [
                 "Team Secret",
                 1.0
             ],
             [
-                "Alliance",
+                "Evil Geniuses",
                 2.0
             ],
             [
-                "Evil Geniuses",
+                "Alliance",
                 2.0
             ],
             [
@@ -8522,10 +8554,6 @@
                 1.0
             ],
             [
-                "Quincy Crew",
-                1.0
-            ],
-            [
                 "Team Liquid",
                 1.0
             ],
@@ -8534,15 +8562,19 @@
                 1.0
             ],
             [
+                "Quincy Crew",
+                1.0
+            ],
+            [
                 "Team Secret",
                 1.0
             ],
             [
-                "Alliance",
+                "Evil Geniuses",
                 0.0
             ],
             [
-                "Evil Geniuses",
+                "Alliance",
                 0.0
             ],
             [
@@ -8608,23 +8640,19 @@
                 3.0
             ],
             [
-                "beastcoast",
-                2.0
-            ],
-            [
                 "Team Secret",
                 1.0
+            ],
+            [
+                "beastcoast",
+                2.0
             ],
             [
                 "TNC Predator",
                 2.0
             ],
             [
-                "Execration",
-                2.0
-            ],
-            [
-                "Evil Geniuses",
+                "Virtus.pro",
                 1.0
             ],
             [
@@ -8632,8 +8660,12 @@
                 1.0
             ],
             [
-                "Virtus.pro",
+                "Evil Geniuses",
                 1.0
+            ],
+            [
+                "Execration",
+                2.0
             ],
             [
                 "T1",
@@ -8644,7 +8676,7 @@
                 2.0
             ],
             [
-                "PSG.LGD",
+                "AS Monaco Gambit",
                 1.0
             ],
             [
@@ -8652,7 +8684,7 @@
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "PSG.LGD",
                 1.0
             ]
         ]
@@ -8674,23 +8706,19 @@
                 4.0
             ],
             [
-                "beastcoast",
-                3.0
-            ],
-            [
                 "Team Secret",
                 4.0
+            ],
+            [
+                "beastcoast",
+                3.0
             ],
             [
                 "TNC Predator",
                 2.0
             ],
             [
-                "Execration",
-                1.0
-            ],
-            [
-                "Evil Geniuses",
+                "Virtus.pro",
                 2.0
             ],
             [
@@ -8698,8 +8726,12 @@
                 2.0
             ],
             [
-                "Virtus.pro",
+                "Evil Geniuses",
                 2.0
+            ],
+            [
+                "Execration",
+                1.0
             ],
             [
                 "T1",
@@ -8710,7 +8742,7 @@
                 0.0
             ],
             [
-                "PSG.LGD",
+                "AS Monaco Gambit",
                 0.0
             ],
             [
@@ -8718,7 +8750,7 @@
                 0.0
             ],
             [
-                "AS Monaco Gambit",
+                "PSG.LGD",
                 0.0
             ]
         ]

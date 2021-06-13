@@ -13,11 +13,13 @@
             var heroMatchesPlayedLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/DPC1S2/animajor/hero_matches_played.json';
             var heroMatchesWonLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/DPC1S2/animajor/hero_matches_won.json';
             var heroWinRatesLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/DPC1S2/animajor/hero_win_rates.json';
+            var totalTeamHeroesLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/DPC1S2/animajor/total_team_heroes.json';
 
-            function createHighchart(data1, data2, data3) {
+            function createHighchart(data1, data2, data3, data4) {
                 var heroMatchesPlayed = data1[0];
                 var heroMatchesWon = data2[0];
                 var heroWinRates = data3[0];
+                var totalTeamHeroes = data4[0];
 
                 Highcharts.chart('container', {
                     'chart': {
@@ -132,7 +134,18 @@
                             },
                             'data': heroWinRates
                         }
-                    ]
+                    ],
+                    'drilldown': {
+                        'drillUpButton': {
+                            'theme': {
+                                'fill': 'white',
+                                'stroke-width': 1,
+                                'stroke': 'silver',
+                                'r': 0
+                            }
+                        },
+                        'series': totalTeamHeroes,
+                    }
                 });
             }
 
@@ -148,6 +161,10 @@
                     }),
                     $.ajax({
                         url: heroWinRatesLink,
+                        dataType: 'json'
+                    }),
+                    $.ajax({
+                        url: totalTeamHeroesLink,
                         dataType: 'json'
                     })
                 ];

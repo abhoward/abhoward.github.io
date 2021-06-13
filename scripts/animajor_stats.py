@@ -243,6 +243,10 @@ hero_matches_played = total_hero_wins[['hero_name', 'matches_played']]
 hero_matches_won = total_hero_wins[['hero_name', 'matches_won']]
 hero_win_rates = total_hero_wins[['hero_name', 'win_rate']]
 
+hero_matches_played['drilldown'] = hero_matches_played['hero_name'] + ' Matches Played'
+hero_matches_won['drilldown'] = hero_matches_won['hero_name'] + ' Matches Won'
+hero_win_rates['drilldown'] = hero_win_rates['hero_name'] + ' Win Rate'
+
 hero_matches_played = hero_matches_played.rename(columns = {'hero_name': 'name', 'matches_played': 'y'}).reset_index(drop = True)
 hero_matches_won = hero_matches_won.rename(columns = {'hero_name': 'name', 'matches_won': 'y'}).reset_index(drop = True)
 hero_win_rates = hero_win_rates.rename(columns = {'hero_name': 'name', 'win_rate': 'y'}).reset_index(drop = True)
@@ -250,6 +254,41 @@ hero_win_rates = hero_win_rates.rename(columns = {'hero_name': 'name', 'win_rate
 dfs_to_convert['hero_matches_played'] = hero_matches_played
 dfs_to_convert['hero_matches_won'] = hero_matches_won
 dfs_to_convert['hero_win_rates'] = hero_win_rates
+
+print('Creating data transformation for team specific hero win rates...')
+
+# --- TEAM HERO WIN RATES --- #
+
+sql_query = """
+SELECT  picking_team AS team,
+        hero_name AS hero,
+        SUM(CASE 
+                WHEN picking_team = winning_team THEN 1
+                ELSE 0
+        END) AS matches_won,
+        SUM(CASE
+                WHEN picking_team != winning_team THEN 1
+                ELSE 0
+        END) AS matches_lost
+FROM team_pbs
+WHERE draft_type = 'pick'
+GROUP BY team, hero
+"""
+
+team_hero_wins = ps.sqldf(sql_query)
+
+team_hero_wins['matches_played'] = team_hero_wins['matches_won'] + team_hero_wins['matches_lost']
+team_hero_wins['win_rate'] = team_hero_wins['matches_won'] / team_hero_wins['matches_played']
+
+total_team_heroes = []
+
+for hero in sorted(team_hero_wins['hero'].unique()):
+    temp_df = team_hero_wins[team_hero_wins['hero'] == hero]
+    total_team_heroes.append({'name': hero + ' Matches Played', 'id': hero + ' Matches Played', 'data': temp_df[['team', 'matches_played']].to_numpy().tolist()})
+    total_team_heroes.append({'name': hero + ' Matches Won', 'id': hero + ' Matches Won', 'data': temp_df[['team', 'matches_won']].to_numpy().tolist()})
+    total_team_heroes.append({'name': hero + ' Win Rate', 'id': hero + ' Win Rate', 'data': temp_df[['team', 'win_rate']].to_numpy().tolist()})
+
+jsons_to_upload['total_team_heroes'] = total_team_heroes
 
 # --- RADIANT VS DIRE PICK ORDERS --- # 
 
