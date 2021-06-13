@@ -104,6 +104,7 @@ api_counter += 1
 data = json.loads(r.text)
 heroes_df = pd.DataFrame(data)
 heroes = heroes_df[['id', 'localized_name', 'primary_attr']]
+heroes = heroes.replace({'Outworld Destroyer': 'Outworld Devourer'})
 
 # --- HERO PICKS & BANS --- #
 
@@ -259,6 +260,19 @@ print('Creating data transformation for team specific hero win rates...')
 
 # --- TEAM HERO WIN RATES --- #
 
+# "type": 'spline',
+# 'yAxis': 1,
+# 'lineWidth': 0,
+# 'states': {
+#     'hover': {
+#         'enabled': false
+#     }
+# },
+# 'marker': {
+#     'symbol': 'diamond',
+#     'radius': 6
+# },
+
 sql_query = """
 SELECT  picking_team AS team,
         hero_name AS hero,
@@ -284,9 +298,9 @@ total_team_heroes = []
 
 for hero in sorted(team_hero_wins['hero'].unique()):
     temp_df = team_hero_wins[team_hero_wins['hero'] == hero]
-    total_team_heroes.append({'name': hero + ' Matches Played', 'id': hero + ' Matches Played', 'data': temp_df[['team', 'matches_played']].to_numpy().tolist()})
-    total_team_heroes.append({'name': hero + ' Matches Won', 'id': hero + ' Matches Won', 'data': temp_df[['team', 'matches_won']].to_numpy().tolist()})
-    total_team_heroes.append({'name': hero + ' Win Rate', 'id': hero + ' Win Rate', 'data': temp_df[['team', 'win_rate']].to_numpy().tolist()})
+    total_team_heroes.append({'name': hero + ' Matches Played', 'id': hero + ' Matches Played', 'data': temp_df[['team', 'matches_played']].to_numpy().tolist(), 'type': 'spline', 'yAxis': 1, 'lineWidth': 0, 'states': {'hover': {'enabled': False}}, 'marker': {'symbol': 'diamond', 'radius': 6}})
+    total_team_heroes.append({'name': hero + ' Matches Won', 'id': hero + ' Matches Won', 'data': temp_df[['team', 'matches_won']].to_numpy().tolist(), 'type': 'spline', 'yAxis': 1, 'lineWidth': 0, 'states': {'hover': {'enabled': False}}, 'marker': {'symbol': 'diamond', 'radius': 6}})
+    total_team_heroes.append({'name': hero + ' Win Rate', 'id': hero + ' Win Rate', 'data': temp_df[['team', 'win_rate']].to_numpy().tolist(), 'type': 'spline', 'yAxis': 1, 'lineWidth': 0, 'states': {'hover': {'enabled': False}}, 'marker': {'symbol': 'diamond', 'radius': 6}})
 
 jsons_to_upload['total_team_heroes'] = total_team_heroes
 
