@@ -110,19 +110,19 @@ heroes = heroes_df[['id', 'localized_name', 'primary_attr']]
 print('Creating data transformation for hero picks and bans...')
 
 sql_query = """
-SELECT  hero_stats.hero_id,
+SELECT  total_pbs.hero_id,
         heroes.localized_name AS hero_name,
         SUM(CASE 
-            WHEN hero_stats.pick = 1 THEN 1
+            WHEN total_pbs.is_pick = True THEN 1
             ELSE 0
         END) AS hero_picks,
         SUM(CASE 
-            WHEN hero_stats.pick = 0 THEN 1
+            WHEN total_pbs.is_pick = False THEN 1
             ELSE 0
         END) AS hero_bans
-FROM hero_stats
+FROM total_pbs
 JOIN heroes
-ON hero_stats.hero_id = heroes.id
+ON total_pbs.hero_id = heroes.id
 GROUP BY hero_id, heroes.localized_name
 """
 
@@ -255,18 +255,22 @@ dfs_to_convert['hero_win_rates'] = hero_win_rates
 
 print('Creating data transformation for radiant versus dire pick orders...')
 
-radiant_first_picks_num = len(first_picks[first_picks['team'] == 'Radiant'])
-dire_first_picks_num = len(first_picks[first_picks['team'] == 'Dire'])
+rad_fps = len(first_picks[first_picks['team'] == 'Radiant'])
+dire_fps = len(first_picks[first_picks['team'] == 'Dire'])
 
-wins_first_picks_num = len(first_picks[first_picks['team'] == first_picks['winning_team']])
-losses_first_picks_num = len(first_picks[first_picks['team'] != first_picks['winning_team']])
+rad_wins = len(first_picks[first_picks['winning_team'] == 'Radiant'])
+dire_wins = len(first_picks[first_picks['winning_team'] == 'Dire'])
+
+wins_fps = len(first_picks[first_picks['team'] == first_picks['winning_team']])
+losses_fps = len(first_picks[first_picks['team'] != first_picks['winning_team']])
 
 rad_rad = len(first_picks[(first_picks['winning_team'] == 'Radiant') & (first_picks['team'] == 'Radiant')])
 rad_dire = len(first_picks[(first_picks['winning_team'] == 'Radiant') & (first_picks['team'] == 'Dire')])
 dire_dire = len(first_picks[(first_picks['winning_team'] == 'Dire') & (first_picks['team'] == 'Dire')])
 dire_rad = len(first_picks[(first_picks['winning_team'] == 'Dire') & (first_picks['team'] == 'Radiant')])
 
-fps_dict = {'rad_fps': radiant_first_picks_num, 'dire_fps': dire_first_picks_num, 'wins_fps': wins_first_picks_num, 'losses_fps': losses_first_picks_num, 'rad_fps_rad_wins': rad_rad, 'dire_fps_rad_wins': rad_dire, 'dire_fps_dire_wins': dire_dire, 'rad_fps_dire_wins': dire_rad}
+fps_dict = {'rad_fps': rad_fps, 'dire_fps': dire_fps, 'wins_fps': wins_fps, 'losses_fps': losses_fps, 'rad_fps_rad_wins': rad_rad, 
+            'dire_fps_rad_wins': rad_dire, 'dire_fps_dire_wins': dire_dire, 'rad_fps_dire_wins': dire_rad, 'rad_wins': rad_wins, 'dire_wins': dire_wins}
 
 jsons_to_upload['fps_dict'] = fps_dict
 
@@ -275,14 +279,13 @@ jsons_to_upload['fps_dict'] = fps_dict
 print('Creating data transformation for match lengths...')
 
 match_lengths = animajor_matches[['radiant_name', 'dire_name', 'radiant_win', 'duration']]
-
-match_length = match_lengths.sort_values(by = 'duration', ascending = True) 
-
 match_lengths['name'] = match_lengths['radiant_name'] + ' vs ' + match_lengths['dire_name']
+match_length = match_lengths.sort_values(by = 'duration', ascending = True).reset_index(drop = True)
 match_lengths['running_total'] = range(len(match_lengths), 0, -1)
 
-max_duration = max(match_lengths['duration'])
-xaxis = np.linspace(0, max_duration + 300, max_duration + 301).tolist()
+num_list = {}
+max_duration = max(df['duration'])
+num_list['number_list'] = np.linspace(0, max_duration + 300, max_duration + 301).tolist()
 time_list = []
 
 for i in range(len(match_lengths)):
@@ -292,6 +295,7 @@ for i in range(len(match_lengths)):
     name = series['name']
     time_list.append({'match': name, 'y': int(running_total), 'name': int(duration)})
 
+jsons_to_upload['number_list'] = num_list
 jsons_to_upload['time_list'] = time_list
 
 # --- FILE CREATION --- #

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/exporting.js"></script>
+    </head>
+    <body style="margin:0;padding:0">
+        <div id="container" style="width:100%;height:750px">Loading....</div>
+        <script>
+            var matchTimesLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/DPC1S2/animajor/time_list.json';
+            var numListLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/number_list.json';
+
+            function createHighchart(data1, data2) {
+                var matchTimes = data1[0];
+                var numList = data2['number_list'];
+
+                var total = 0;
+
+                for(var i = 0; i < matchTimes.length; i++) {
+                    var obj = matchTimes[i];
+                    total += parseInt(obj['name']);
+                }
+
+                var avg = total / matchTimes.length;
+                var avgMinutes = Math.floor(avg / 60);
+                var avgSeconds = avg - (avgMinutes * 60);
+
+                if (avgSeconds == 0) {
+                    avgSeconds = '00';
+                }
+
+                var avgText = avgMinutes + ':' + avgSeconds;
+
+                Highcharts.chart('container', {
+                    'chart': {
+                        'type': 'areaspline'
+                    },
+                    'title': {
+                        'text': 'Match Lengths'
+                    },
+                    'subtitle': {
+                        'text': 'A visual representation of how long matches lasted. Source: opendota.com.<br><i>Excludes matches <code>6025172903</code>, <code>6023211594</code> and <code>6023110186</code> due to lack of data.</i>'
+                    },
+                    'legend': {
+                        'verticalAlign': 'top'
+                    },
+                    'plotOptions': {
+                        'areaspline': {
+                            'fillOpacity': 0.5
+                        },
+                        'series': {
+                            'dataLabels': {
+                                'enabled': true,
+                                'useHTML': true,
+                                'align': 'left',
+                                // 'format': function () {
+                                //     var str = this.match;
+                                //     var teams = str.split(" vs ");
+
+                                //     <div style="width: 20px; height: 20px; margin-left: 0px"> 
+                                //         <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" style="width: 100%; height: 100%">
+                                //     </div>
+                                //     <div style="width: 20px; height: 20px; margin-left: 0px">
+                                //         <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" style="width: 100%; height: 100%">
+                                //     </div>
+                                // }
+                            }
+                        }
+                    },
+                    'tooltip': {
+                        'useHTML': true,
+                        'pointFormatter': function() {
+                            var match = this.match;
+                            var duration = parseInt(this.name);
+                            var minutes = Math.floor(duration / 60);
+                            var seconds = duration - (minutes * 60);
+                            return '<b>' + match + '<b><br><span style="color:' + this.series.color + '">' + this.series.name + '</span>: <b>' + minutes + ':' + seconds + '</b><br />';
+                        },
+                        'headerFormat': ''
+                    },
+                    'xAxis': {
+                        'min': 0,
+                        'type': 'category',
+                        'categories': numList,
+                        'title': {
+                            'text': 'Number of Matches'
+                        },
+                        'labels': {
+                            'formatter': function() {
+                                var duration = parseInt(this.value);
+                                var minutes = Math.floor(duration / 60);
+                                var seconds = duration - (minutes * 60);
+                                if (seconds == 0) {
+                                    seconds = '00'
+                                }
+                                return minutes + ':' + seconds;
+                            }
+                        },
+                        'plotLines': [
+                            {
+                              'id': 'Average Match Length',
+                              'color': '#2a9cd1',
+                              'width': 2,
+                              'value': avg,
+                              'dashStyle': 'dash',
+                              'zIndex': 2,
+                              'label': {
+                                'text': '<b>Average Match Length: ' + avgText, 
+                                'x': 10, 
+                                'y': 0
+                              }
+                            }
+                        ],
+                    },
+                    'yAxis': { 
+                        'min': 0,
+                        'title': {
+                            'text': 'Number of Matches'
+                        },
+                    },
+                    'series': [
+                        {
+                            'type': 'areaspline',
+                            'name': 'Match Duration',
+                            'color': 'rgba(0, 156, 173, 1)',
+                            'data': matchTimes
+                        }
+                    ]
+                });
+            }
+
+            function ajaxCalls() {
+                return [
+                    $.ajax({
+                        url: matchTimesLink,
+                        dataType: 'json'
+                    }),
+                    $.ajax({
+                        url: numListLink,
+                        dataType: 'json'
+                    })
+                ];
+            }
+
+            $.when.apply($, ajaxCalls()).then(createHighchart);
+        </script>
+    </body>
+</html>

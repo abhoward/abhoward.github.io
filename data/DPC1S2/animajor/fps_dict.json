@@ -6,5 +6,7 @@
     "rad_fps_rad_wins": 15,
     "dire_fps_rad_wins": 52,
     "dire_fps_dire_wins": 50,
-    "rad_fps_dire_wins": 13
+    "rad_fps_dire_wins": 13,
+    "rad_wins": 67,
+    "dire_wins": 63
 }
