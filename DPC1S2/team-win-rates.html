@@ -100,7 +100,8 @@
                             'opposite': true,
                             'labels': {
                                 'formatter': function () {
-                                    return this.value*100 + '%';
+                                    var value = Math.trunc(this.value*100);
+                                    return value + '%';
                                 }
                             }
                         }
