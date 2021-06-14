@@ -21,8 +21,7 @@
                 var heroWinRates = data3[0];
                 var totalTeamHeroes = data4[0];
 
-                console.log(heroMatchesWon);
-                console.log(totalTeamHeroes);
+                console.log(Array(heroMatchesPlayed.length));
 
                 Highcharts.chart('container', {
                     'chart': {
@@ -82,7 +81,8 @@
                         'type': 'category',
                         'title': {
                             'text': 'Hero'
-                        }
+                        },
+                        'tickPositions': Array.from(Array(heroMatchesPlayed.length).keys())
                     },
                     'yAxis': [
                         { // Primary Axis

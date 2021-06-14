@@ -1,0 +1,8486 @@
+[
+    {
+        "name": "AS Monaco Gambit Matches Played",
+        "id": "AS Monaco Gambit Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                2
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                2
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                2
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                2
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                3
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                3
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                3
+            ],
+            [
+                "AS Monaco Gambit",
+                3
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                2
+            ],
+            [
+                "AS Monaco Gambit",
+                3
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                2
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "AS Monaco Gambit Matches Won",
+        "id": "AS Monaco Gambit Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                2
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                2
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "AS Monaco Gambit Win Rate",
+        "id": "AS Monaco Gambit Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.5
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.5
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.5
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.5
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.6666666666666666
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.3333333333333333
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.6666666666666666
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Alliance Matches Played",
+        "id": "Alliance Matches Played",
+        "data": [
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                2
+            ],
+            [
+                "Alliance",
+                2
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                2
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                2
+            ],
+            [
+                "Alliance",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Alliance Matches Won",
+        "id": "Alliance Matches Won",
+        "data": [
+            [
+                "Alliance",
+                0
+            ],
+            [
+                "Alliance",
+                0
+            ],
+            [
+                "Alliance",
+                0
+            ],
+            [
+                "Alliance",
+                0
+            ],
+            [
+                "Alliance",
+                0
+            ],
+            [
+                "Alliance",
+                0
+            ],
+            [
+                "Alliance",
+                0
+            ],
+            [
+                "Alliance",
+                0
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                0
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                0
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                0
+            ],
+            [
+                "Alliance",
+                0
+            ],
+            [
+                "Alliance",
+                0
+            ],
+            [
+                "Alliance",
+                0
+            ],
+            [
+                "Alliance",
+                0
+            ],
+            [
+                "Alliance",
+                0
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Alliance",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Alliance Win Rate",
+        "id": "Alliance Win Rate",
+        "data": [
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.5
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.5
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Evil Geniuses Matches Played",
+        "id": "Evil Geniuses Matches Played",
+        "data": [
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                6
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                4
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                3
+            ],
+            [
+                "Evil Geniuses",
+                3
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                6
+            ],
+            [
+                "Evil Geniuses",
+                5
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                6
+            ],
+            [
+                "Evil Geniuses",
+                3
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                4
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                4
+            ],
+            [
+                "Evil Geniuses",
+                16
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                5
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                3
+            ],
+            [
+                "Evil Geniuses",
+                5
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                4
+            ],
+            [
+                "Evil Geniuses",
+                7
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                3
+            ],
+            [
+                "Evil Geniuses",
+                3
+            ],
+            [
+                "Evil Geniuses",
+                10
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                7
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                3
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                5
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Evil Geniuses Matches Won",
+        "id": "Evil Geniuses Matches Won",
+        "data": [
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                4
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                3
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                4
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                4
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                11
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                3
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                3
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                3
+            ],
+            [
+                "Evil Geniuses",
+                6
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                8
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                5
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                2
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ],
+            [
+                "Evil Geniuses",
+                1
+            ],
+            [
+                "Evil Geniuses",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Evil Geniuses Win Rate",
+        "id": "Evil Geniuses Win Rate",
+        "data": [
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                0.6666666666666666
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.25
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                0.6666666666666666
+            ],
+            [
+                "Evil Geniuses",
+                0.3333333333333333
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.5
+            ],
+            [
+                "Evil Geniuses",
+                0.2
+            ],
+            [
+                "Evil Geniuses",
+                0.5
+            ],
+            [
+                "Evil Geniuses",
+                0.6666666666666666
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.5
+            ],
+            [
+                "Evil Geniuses",
+                0.6875
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.6
+            ],
+            [
+                "Evil Geniuses",
+                0.5
+            ],
+            [
+                "Evil Geniuses",
+                0.6666666666666666
+            ],
+            [
+                "Evil Geniuses",
+                0.6
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                0.75
+            ],
+            [
+                "Evil Geniuses",
+                0.8571428571428571
+            ],
+            [
+                "Evil Geniuses",
+                0.5
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.5
+            ],
+            [
+                "Evil Geniuses",
+                0.3333333333333333
+            ],
+            [
+                "Evil Geniuses",
+                0.6666666666666666
+            ],
+            [
+                "Evil Geniuses",
+                0.8
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                0.7142857142857143
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.6666666666666666
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.4
+            ],
+            [
+                "Evil Geniuses",
+                1.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ],
+            [
+                "Evil Geniuses",
+                0.5
+            ],
+            [
+                "Evil Geniuses",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Execration Matches Played",
+        "id": "Execration Matches Played",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Execration Matches Won",
+        "id": "Execration Matches Won",
+        "data": [
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Execration",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Execration Win Rate",
+        "id": "Execration Win Rate",
+        "data": [
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                0.5
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Execration",
+                0.5
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                0.5
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                0.5
+            ],
+            [
+                "Execration",
+                0.5
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                0.5
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "INVICTUS GAMING Matches Played",
+        "id": "INVICTUS GAMING Matches Played",
+        "data": [
+            [
+                "INVICTUS GAMING",
+                2
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                2
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                2
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                2
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                2
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                5
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                3
+            ],
+            [
+                "INVICTUS GAMING",
+                4
+            ],
+            [
+                "INVICTUS GAMING",
+                3
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                2
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                2
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                3
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "INVICTUS GAMING Matches Won",
+        "id": "INVICTUS GAMING Matches Won",
+        "data": [
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                0
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                0
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                0
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                0
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                0
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                3
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                2
+            ],
+            [
+                "INVICTUS GAMING",
+                2
+            ],
+            [
+                "INVICTUS GAMING",
+                3
+            ],
+            [
+                "INVICTUS GAMING",
+                0
+            ],
+            [
+                "INVICTUS GAMING",
+                0
+            ],
+            [
+                "INVICTUS GAMING",
+                0
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                0
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                0
+            ],
+            [
+                "INVICTUS GAMING",
+                0
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ],
+            [
+                "INVICTUS GAMING",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "INVICTUS GAMING Win Rate",
+        "id": "INVICTUS GAMING Win Rate",
+        "data": [
+            [
+                "INVICTUS GAMING",
+                0.5
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.5
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.5
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.5
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.5
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.6
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.6666666666666666
+            ],
+            [
+                "INVICTUS GAMING",
+                0.5
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.5
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.0
+            ],
+            [
+                "INVICTUS GAMING",
+                0.3333333333333333
+            ],
+            [
+                "INVICTUS GAMING",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Nigma Matches Played",
+        "id": "Nigma Matches Played",
+        "data": [
+            [
+                "Nigma",
+                6
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                2
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                3
+            ],
+            [
+                "Nigma",
+                3
+            ],
+            [
+                "Nigma",
+                4
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                2
+            ],
+            [
+                "Nigma",
+                11
+            ],
+            [
+                "Nigma",
+                3
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                6
+            ],
+            [
+                "Nigma",
+                2
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                2
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                9
+            ],
+            [
+                "Nigma",
+                4
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                2
+            ],
+            [
+                "Nigma",
+                9
+            ],
+            [
+                "Nigma",
+                3
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                13
+            ],
+            [
+                "Nigma",
+                4
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                7
+            ],
+            [
+                "Nigma",
+                5
+            ],
+            [
+                "Nigma",
+                3
+            ],
+            [
+                "Nigma",
+                4
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                6
+            ],
+            [
+                "Nigma",
+                2
+            ],
+            [
+                "Nigma",
+                4
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                2
+            ],
+            [
+                "Nigma",
+                5
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                4
+            ],
+            [
+                "Nigma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Nigma Matches Won",
+        "id": "Nigma Matches Won",
+        "data": [
+            [
+                "Nigma",
+                4
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                7
+            ],
+            [
+                "Nigma",
+                3
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                4
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                2
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                7
+            ],
+            [
+                "Nigma",
+                3
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                7
+            ],
+            [
+                "Nigma",
+                3
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                10
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                5
+            ],
+            [
+                "Nigma",
+                3
+            ],
+            [
+                "Nigma",
+                3
+            ],
+            [
+                "Nigma",
+                2
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                4
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                3
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                3
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Nigma",
+                4
+            ],
+            [
+                "Nigma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Nigma Win Rate",
+        "id": "Nigma Win Rate",
+        "data": [
+            [
+                "Nigma",
+                0.6666666666666666
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.5
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.3333333333333333
+            ],
+            [
+                "Nigma",
+                0.25
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.5
+            ],
+            [
+                "Nigma",
+                0.6363636363636364
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.6666666666666666
+            ],
+            [
+                "Nigma",
+                0.5
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.7777777777777778
+            ],
+            [
+                "Nigma",
+                0.75
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.5
+            ],
+            [
+                "Nigma",
+                0.7777777777777778
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.7692307692307693
+            ],
+            [
+                "Nigma",
+                0.25
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.7142857142857143
+            ],
+            [
+                "Nigma",
+                0.6
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.5
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.6666666666666666
+            ],
+            [
+                "Nigma",
+                0.5
+            ],
+            [
+                "Nigma",
+                0.75
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.5
+            ],
+            [
+                "Nigma",
+                0.6
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "NoPing Esports Matches Played",
+        "id": "NoPing Esports Matches Played",
+        "data": [
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "NoPing Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "NoPing Esports Matches Won",
+        "id": "NoPing Esports Matches Won",
+        "data": [
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "NoPing Esports",
+                0
+            ],
+            [
+                "NoPing Esports",
+                0
+            ],
+            [
+                "NoPing Esports",
+                0
+            ],
+            [
+                "NoPing Esports",
+                0
+            ],
+            [
+                "NoPing Esports",
+                0
+            ],
+            [
+                "NoPing Esports",
+                0
+            ],
+            [
+                "NoPing Esports",
+                0
+            ],
+            [
+                "NoPing Esports",
+                0
+            ],
+            [
+                "NoPing Esports",
+                0
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                0
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "NoPing Esports Win Rate",
+        "id": "NoPing Esports Win Rate",
+        "data": [
+            [
+                "NoPing Esports",
+                0.3333333333333333
+            ],
+            [
+                "NoPing Esports",
+                0.3333333333333333
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.6666666666666666
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.5
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.3333333333333333
+            ],
+            [
+                "NoPing Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "PSG.LGD Matches Played",
+        "id": "PSG.LGD Matches Played",
+        "data": [
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                8
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                5
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                5
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                6
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                4
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                4
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                8
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                4
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                4
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "PSG.LGD Matches Won",
+        "id": "PSG.LGD Matches Won",
+        "data": [
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                6
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                5
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                0
+            ],
+            [
+                "PSG.LGD",
+                4
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                0
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                8
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                0
+            ],
+            [
+                "PSG.LGD",
+                4
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                2
+            ],
+            [
+                "PSG.LGD",
+                1
+            ],
+            [
+                "PSG.LGD",
+                3
+            ],
+            [
+                "PSG.LGD",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "PSG.LGD Win Rate",
+        "id": "PSG.LGD Win Rate",
+        "data": [
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                0.75
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                0.6666666666666666
+            ],
+            [
+                "PSG.LGD",
+                0.6666666666666666
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                0.8
+            ],
+            [
+                "PSG.LGD",
+                0.5
+            ],
+            [
+                "PSG.LGD",
+                0.6666666666666666
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                0.5
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                0.75
+            ],
+            [
+                "PSG.LGD",
+                0.6666666666666666
+            ],
+            [
+                "PSG.LGD",
+                0.75
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                0.6666666666666666
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                0.5
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                0.5
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                0.75
+            ],
+            [
+                "PSG.LGD",
+                0.6666666666666666
+            ],
+            [
+                "PSG.LGD",
+                0.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                0.5
+            ],
+            [
+                "PSG.LGD",
+                0.6666666666666666
+            ],
+            [
+                "PSG.LGD",
+                0.6666666666666666
+            ],
+            [
+                "PSG.LGD",
+                0.5
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ],
+            [
+                "PSG.LGD",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Quincy Crew Matches Played",
+        "id": "Quincy Crew Matches Played",
+        "data": [
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                2
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                4
+            ],
+            [
+                "Quincy Crew",
+                2
+            ],
+            [
+                "Quincy Crew",
+                2
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                4
+            ],
+            [
+                "Quincy Crew",
+                3
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                2
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                2
+            ],
+            [
+                "Quincy Crew",
+                2
+            ],
+            [
+                "Quincy Crew",
+                2
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                2
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Quincy Crew Matches Won",
+        "id": "Quincy Crew Matches Won",
+        "data": [
+            [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "Quincy Crew",
+                2
+            ],
+            [
+                "Quincy Crew",
+                2
+            ],
+            [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "Quincy Crew",
+                2
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Quincy Crew Win Rate",
+        "id": "Quincy Crew Win Rate",
+        "data": [
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.5
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                0.25
+            ],
+            [
+                "Quincy Crew",
+                0.5
+            ],
+            [
+                "Quincy Crew",
+                0.5
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.5
+            ],
+            [
+                "Quincy Crew",
+                0.6666666666666666
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                0.5
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                0.5
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.5
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "T1 Matches Played",
+        "id": "T1 Matches Played",
+        "data": [
+            [
+                "T1",
+                2
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                4
+            ],
+            [
+                "T1",
+                4
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                3
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                4
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                3
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "T1",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "T1 Matches Won",
+        "id": "T1 Matches Won",
+        "data": [
+            [
+                "T1",
+                2
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "T1",
+                3
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "T1 Win Rate",
+        "id": "T1 Win Rate",
+        "data": [
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "T1",
+                0.75
+            ],
+            [
+                "T1",
+                0.5
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "T1",
+                0.6666666666666666
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "T1",
+                0.5
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "T1",
+                0.5
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "T1",
+                0.5
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "T1",
+                0.3333333333333333
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "T1",
+                0.5
+            ],
+            [
+                "T1",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "TNC Predator Matches Played",
+        "id": "TNC Predator Matches Played",
+        "data": [
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                3
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                4
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                6
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                4
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                6
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                4
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                4
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                7
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                5
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                4
+            ],
+            [
+                "TNC Predator",
+                3
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                4
+            ],
+            [
+                "TNC Predator",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "TNC Predator Matches Won",
+        "id": "TNC Predator Matches Won",
+        "data": [
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "TNC Predator",
+                3
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "TNC Predator",
+                3
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                4
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "TNC Predator",
+                3
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "TNC Predator",
+                5
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "TNC Predator",
+                4
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                3
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "TNC Predator",
+                3
+            ],
+            [
+                "TNC Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "TNC Predator Win Rate",
+        "id": "TNC Predator Win Rate",
+        "data": [
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.75
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.6666666666666666
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.75
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.7142857142857143
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.8
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.75
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Team Aster Matches Played",
+        "id": "Team Aster Matches Played",
+        "data": [
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                2
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                2
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Team Aster Matches Won",
+        "id": "Team Aster Matches Won",
+        "data": [
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                0
+            ],
+            [
+                "Team Aster",
+                1
+            ],
+            [
+                "Team Aster",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Team Aster Win Rate",
+        "id": "Team Aster Win Rate",
+        "data": [
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                0.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ],
+            [
+                "Team Aster",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Team Liquid Matches Played",
+        "id": "Team Liquid Matches Played",
+        "data": [
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                3
+            ],
+            [
+                "Team Liquid",
+                2
+            ],
+            [
+                "Team Liquid",
+                2
+            ],
+            [
+                "Team Liquid",
+                2
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                2
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                3
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                2
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                2
+            ],
+            [
+                "Team Liquid",
+                2
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                2
+            ],
+            [
+                "Team Liquid",
+                2
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                2
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                2
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                6
+            ],
+            [
+                "Team Liquid",
+                2
+            ],
+            [
+                "Team Liquid",
+                2
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                5
+            ],
+            [
+                "Team Liquid",
+                6
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                3
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Team Liquid Matches Won",
+        "id": "Team Liquid Matches Won",
+        "data": [
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                2
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                4
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                3
+            ],
+            [
+                "Team Liquid",
+                4
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Liquid",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Team Liquid Win Rate",
+        "id": "Team Liquid Win Rate",
+        "data": [
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.3333333333333333
+            ],
+            [
+                "Team Liquid",
+                0.5
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.5
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.5
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.5
+            ],
+            [
+                "Team Liquid",
+                0.5
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.5
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.6666666666666666
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.5
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.6
+            ],
+            [
+                "Team Liquid",
+                0.6666666666666666
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.3333333333333333
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Team Secret Matches Played",
+        "id": "Team Secret Matches Played",
+        "data": [
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                2
+            ],
+            [
+                "Team Secret",
+                2
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                2
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                2
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                2
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                3
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                3
+            ],
+            [
+                "Team Secret",
+                2
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                2
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                2
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                2
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Team Secret Matches Won",
+        "id": "Team Secret Matches Won",
+        "data": [
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                3
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                0
+            ],
+            [
+                "Team Secret",
+                1
+            ],
+            [
+                "Team Secret",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Team Secret Win Rate",
+        "id": "Team Secret Win Rate",
+        "data": [
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.5
+            ],
+            [
+                "Team Secret",
+                0.5
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.5
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.5
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.5
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.3333333333333333
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.5
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.5
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Team Spirit Matches Played",
+        "id": "Team Spirit Matches Played",
+        "data": [
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                3
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                3
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                3
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                3
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                5
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                8
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                4
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                4
+            ],
+            [
+                "Team Spirit",
+                3
+            ],
+            [
+                "Team Spirit",
+                5
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                4
+            ],
+            [
+                "Team Spirit",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Team Spirit Matches Won",
+        "id": "Team Spirit Matches Won",
+        "data": [
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Team Spirit",
+                3
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Spirit",
+                3
+            ],
+            [
+                "Team Spirit",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Team Spirit Win Rate",
+        "id": "Team Spirit Win Rate",
+        "data": [
+            [
+                "Team Spirit",
+                0.5
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.6666666666666666
+            ],
+            [
+                "Team Spirit",
+                0.5
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.3333333333333333
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.3333333333333333
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.6666666666666666
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.5
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.5
+            ],
+            [
+                "Team Spirit",
+                0.4
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.25
+            ],
+            [
+                "Team Spirit",
+                0.5
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.5
+            ],
+            [
+                "Team Spirit",
+                0.5
+            ],
+            [
+                "Team Spirit",
+                0.5
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.5
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.25
+            ],
+            [
+                "Team Spirit",
+                0.6666666666666666
+            ],
+            [
+                "Team Spirit",
+                0.6
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.75
+            ],
+            [
+                "Team Spirit",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Vici Gaming Matches Played",
+        "id": "Vici Gaming Matches Played",
+        "data": [
+            [
+                "Vici Gaming",
+                2
+            ],
+            [
+                "Vici Gaming",
+                13
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                3
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                9
+            ],
+            [
+                "Vici Gaming",
+                7
+            ],
+            [
+                "Vici Gaming",
+                7
+            ],
+            [
+                "Vici Gaming",
+                6
+            ],
+            [
+                "Vici Gaming",
+                2
+            ],
+            [
+                "Vici Gaming",
+                2
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                8
+            ],
+            [
+                "Vici Gaming",
+                8
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                4
+            ],
+            [
+                "Vici Gaming",
+                2
+            ],
+            [
+                "Vici Gaming",
+                2
+            ],
+            [
+                "Vici Gaming",
+                2
+            ],
+            [
+                "Vici Gaming",
+                5
+            ],
+            [
+                "Vici Gaming",
+                4
+            ],
+            [
+                "Vici Gaming",
+                9
+            ],
+            [
+                "Vici Gaming",
+                4
+            ],
+            [
+                "Vici Gaming",
+                2
+            ],
+            [
+                "Vici Gaming",
+                3
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                4
+            ],
+            [
+                "Vici Gaming",
+                6
+            ],
+            [
+                "Vici Gaming",
+                3
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                2
+            ],
+            [
+                "Vici Gaming",
+                5
+            ],
+            [
+                "Vici Gaming",
+                7
+            ],
+            [
+                "Vici Gaming",
+                5
+            ],
+            [
+                "Vici Gaming",
+                6
+            ],
+            [
+                "Vici Gaming",
+                3
+            ],
+            [
+                "Vici Gaming",
+                7
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                2
+            ],
+            [
+                "Vici Gaming",
+                3
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                4
+            ],
+            [
+                "Vici Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Vici Gaming Matches Won",
+        "id": "Vici Gaming Matches Won",
+        "data": [
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                10
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                0
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                0
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                0
+            ],
+            [
+                "Vici Gaming",
+                6
+            ],
+            [
+                "Vici Gaming",
+                5
+            ],
+            [
+                "Vici Gaming",
+                6
+            ],
+            [
+                "Vici Gaming",
+                5
+            ],
+            [
+                "Vici Gaming",
+                0
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                6
+            ],
+            [
+                "Vici Gaming",
+                3
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                3
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                2
+            ],
+            [
+                "Vici Gaming",
+                3
+            ],
+            [
+                "Vici Gaming",
+                5
+            ],
+            [
+                "Vici Gaming",
+                3
+            ],
+            [
+                "Vici Gaming",
+                0
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                0
+            ],
+            [
+                "Vici Gaming",
+                2
+            ],
+            [
+                "Vici Gaming",
+                4
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                0
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                4
+            ],
+            [
+                "Vici Gaming",
+                4
+            ],
+            [
+                "Vici Gaming",
+                5
+            ],
+            [
+                "Vici Gaming",
+                4
+            ],
+            [
+                "Vici Gaming",
+                3
+            ],
+            [
+                "Vici Gaming",
+                7
+            ],
+            [
+                "Vici Gaming",
+                0
+            ],
+            [
+                "Vici Gaming",
+                0
+            ],
+            [
+                "Vici Gaming",
+                0
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                1
+            ],
+            [
+                "Vici Gaming",
+                3
+            ],
+            [
+                "Vici Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Vici Gaming Win Rate",
+        "id": "Vici Gaming Win Rate",
+        "data": [
+            [
+                "Vici Gaming",
+                0.5
+            ],
+            [
+                "Vici Gaming",
+                0.7692307692307693
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                0.3333333333333333
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.6666666666666666
+            ],
+            [
+                "Vici Gaming",
+                0.7142857142857143
+            ],
+            [
+                "Vici Gaming",
+                0.8571428571428571
+            ],
+            [
+                "Vici Gaming",
+                0.8333333333333334
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.5
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                0.75
+            ],
+            [
+                "Vici Gaming",
+                0.375
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                0.75
+            ],
+            [
+                "Vici Gaming",
+                0.5
+            ],
+            [
+                "Vici Gaming",
+                0.5
+            ],
+            [
+                "Vici Gaming",
+                0.5
+            ],
+            [
+                "Vici Gaming",
+                0.4
+            ],
+            [
+                "Vici Gaming",
+                0.75
+            ],
+            [
+                "Vici Gaming",
+                0.5555555555555556
+            ],
+            [
+                "Vici Gaming",
+                0.75
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.3333333333333333
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.5
+            ],
+            [
+                "Vici Gaming",
+                0.6666666666666666
+            ],
+            [
+                "Vici Gaming",
+                0.3333333333333333
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.5
+            ],
+            [
+                "Vici Gaming",
+                0.8
+            ],
+            [
+                "Vici Gaming",
+                0.5714285714285714
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                0.6666666666666666
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.0
+            ],
+            [
+                "Vici Gaming",
+                0.3333333333333333
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ],
+            [
+                "Vici Gaming",
+                0.75
+            ],
+            [
+                "Vici Gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Virtus.pro Matches Played",
+        "id": "Virtus.pro Matches Played",
+        "data": [
+            [
+                "Virtus.pro",
+                2
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                2
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                2
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                2
+            ],
+            [
+                "Virtus.pro",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Virtus.pro Matches Won",
+        "id": "Virtus.pro Matches Won",
+        "data": [
+            [
+                "Virtus.pro",
+                2
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                0
+            ],
+            [
+                "Virtus.pro",
+                0
+            ],
+            [
+                "Virtus.pro",
+                0
+            ],
+            [
+                "Virtus.pro",
+                0
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                0
+            ],
+            [
+                "Virtus.pro",
+                0
+            ],
+            [
+                "Virtus.pro",
+                0
+            ],
+            [
+                "Virtus.pro",
+                0
+            ],
+            [
+                "Virtus.pro",
+                0
+            ],
+            [
+                "Virtus.pro",
+                0
+            ],
+            [
+                "Virtus.pro",
+                0
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ],
+            [
+                "Virtus.pro",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Virtus.pro Win Rate",
+        "id": "Virtus.pro Win Rate",
+        "data": [
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                0.5
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                0.5
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "beastcoast Matches Played",
+        "id": "beastcoast Matches Played",
+        "data": [
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                4
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ],
+            [
+                "beastcoast",
+                3
+            ],
+            [
+                "beastcoast",
+                2
+            ],
+            [
+                "beastcoast",
+                4
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                4
+            ],
+            [
+                "beastcoast",
+                2
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                3
+            ],
+            [
+                "beastcoast",
+                3
+            ],
+            [
+                "beastcoast",
+                2
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ],
+            [
+                "beastcoast",
+                3
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "beastcoast Matches Won",
+        "id": "beastcoast Matches Won",
+        "data": [
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                2
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ],
+            [
+                "beastcoast",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "beastcoast Win Rate",
+        "id": "beastcoast Win Rate",
+        "data": [
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.5
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.5
+            ],
+            [
+                "beastcoast",
+                0.3333333333333333
+            ],
+            [
+                "beastcoast",
+                0.5
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.5
+            ],
+            [
+                "beastcoast",
+                0.5
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.3333333333333333
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.5
+            ],
+            [
+                "beastcoast",
+                0.3333333333333333
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.5
+            ],
+            [
+                "beastcoast",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    }
+]
