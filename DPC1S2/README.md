@@ -9,7 +9,8 @@
 <iframe src="hero-win-rates.html" width="100%" frameborder="0" loading="lazy" title="Win Rates by Hero" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
 </div>
 
-<!--- #### Summary:
+<!--- 
+#### Summary:
 - Heroes with 100% winrate: 
   - Antimage (3 wins)
   - Io (2 wins)
@@ -21,40 +22,45 @@
 - Heroes with low winrate & large sample size:
   - Tiny (21%, 4/19 wins)
   - Phantom Lancer (22%, 2/9 wins)
-  - Morphling (35%, 6/17 wins) -->
+  - Morphling (35%, 6/17 wins) 
+-->
 
 ## **[Win Rates by Team](team-win-rates.html "Click to view graph in full"){:target="_blank"}**
 #### Features Drilldowns
 
 ### Preview:
 <div class="iframe-container">
-<iframe src="team-win-rates.html" width="100%" frameborder="0" loading="lazy" title="Win Rates by Team" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
+<iframe src="team-win-rates.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Win Rates by Team" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </div>
+
+
 
 ## **[Hero Picks & Bans](hero-picks-bans.html "Click to view graph in full"){:target="_blank"}**
 #### Features Drilldowns
 
 ### Preview:
 <div class="iframe-container">
-<iframe src="hero-picks-bans.html" width="100%" frameborder="0" loading="lazy" title="Hero Picks & Bans" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
+<iframe src="hero-picks-bans.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Hero Picks & Bans" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </div>
 
-<!--- #### Summary: 
+<!--- 
+#### Summary: 
 - Most Picked Heroes (Out of 87 Games):
   - Mars (43 picks)
   - Lion (32 picks)
   - Snapfire (32 picks)
 - Most Banned Heroes (Out of 87 Games):
   - Broodmother (57 bans)
-  - Nyx Assassin (54 bans)
-  - Templar Assassin (50 bans) -->
+  - Nyx Assassin (54 bans) 
+  - Templar Assassin (50 bans) 
+-->
 
 ## **[Dire vs Radiant: Wins & Losses](dire-rad-wins-losses.html "Click to view graph in full"){:target="_blank"}**
 #### Features Drilldowns
 
 ### Preview:
 <div class="iframe-container">
-<iframe src="dire-rad-wins-losses.html" width="100%" frameborder="0" loading="lazy" title="Dire vs Radiant: Wins & Losses" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
+<iframe src="dire-rad-wins-losses.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Dire vs Radiant: Wins & Losses" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> <iframe>
 </div>
 
 <!--- #### Summary:
@@ -66,7 +72,7 @@
 
 ### Preview:
 <div class="iframe-container">
-<iframe src="first-pick-dire-rad.html" width="100%" frameborder="0" loading="lazy" title="Dire vs Radiant: First Picks" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
+<iframe src="first-pick-dire-rad.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Dire vs Radiant: First Picks" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> <iframe>
 </div>
 
 <!--- #### Summary:
@@ -78,7 +84,7 @@
 
 ### Preview:
 <div class="iframe-container">
-<iframe src="first-pick-wins-losses.html" width="100%" frameborder="0" loading="lazy" title="First Picks: Wins & Losses" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
+<iframe src="first-pick-wins-losses.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="First Picks: Wins & Losses" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> <iframe>
 </div>
 
 <!--- #### Summary:
@@ -89,5 +95,5 @@
 
 ### Preview:
 <div class="iframe-container">
-<iframe src="match-lengths.html" width="100%" frameborder="0" loading="lazy" title="Match Lengths" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
+<iframe src="match-lengths.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Match Lengths" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> <iframe>
 </div>
