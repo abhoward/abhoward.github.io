@@ -2,7 +2,7 @@
 
 # Animajor Stats & Graphs:
 ## **[Win Rates by Hero](hero-win-rates.html "Click to view graph in full"){:target="_blank"}**
-#### Features Drilldowns
+##### Features Drilldowns
 
 ### Preview:
 <div class="iframe-container">
@@ -26,7 +26,7 @@
 -->
 
 ## **[Win Rates by Team](team-win-rates.html "Click to view graph in full"){:target="_blank"}**
-#### Features Drilldowns
+##### Features Drilldowns
 
 ### Preview:
 <div class="iframe-container">
@@ -34,7 +34,7 @@
 </div>
 
 ## **[Hero Picks & Bans](hero-picks-bans.html "Click to view graph in full"){:target="_blank"}**
-#### Features Drilldowns
+##### Features Drilldowns
 
 ### Preview:
 <div class="iframe-container">
@@ -54,7 +54,7 @@
 -->
 
 ## **[Dire vs Radiant: Wins & Losses](dire-rad-wins-losses.html "Click to view graph in full"){:target="_blank"}**
-#### Features Drilldowns
+##### Features Drilldowns
 
 ### Preview:
 <div class="iframe-container">
@@ -66,7 +66,7 @@
   - Implies that if one team choosees first pick, the other will choose Radiant, and vice versa. -->
 
 ## **[First Picks: Dire vs Radiant](first-pick-dire-rad.html "Click to view graph in full"){:target="_blank"}**
-#### Features Drilldowns
+##### Features Drilldowns
 
 ### Preview:
 <div class="iframe-container">
@@ -78,7 +78,7 @@
   - Implies that if one team choosees first pick, the other will choose Radiant, and vice versa. -->
 
 ## **[First Picks: Wins & Losses](first-pick-wins-losses.html "Click to view graph in full"){:target="_blank"}**
-#### Features Drilldowns
+##### Features Drilldowns
 
 ### Preview:
 <div class="iframe-container">
