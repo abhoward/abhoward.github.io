@@ -93,6 +93,9 @@ for match_id in animajor_matches['match_id'].tolist():
 first_picks = total_pbs[total_pbs['order'] == 4].reset_index(drop = True)
 dfs_to_convert['first_picks'] = first_picks
 
+# fixing an error in opendota's data, not sure why it happens
+hero_stats.loc[196, 'active_team'] = 2
+
 # --- HEROES DATA --- #
 
 print('Extracting hero data...')
@@ -330,7 +333,7 @@ for team in sorted(team_hero_wins['team'].unique()):
     temp_df = team_hero_wins[team_hero_wins['team'] == team]
     total_hero_teams.append({'name': team + ' Matches Played', 'id': team + ' Matches Played', 'data': temp_df[['hero', 'matches_played']].to_numpy().tolist()})
     total_hero_teams.append({'name': team + ' Matches Won', 'id': team + ' Matches Won', 'data': temp_df[['hero', 'matches_won']].to_numpy().tolist()})
-    total_hero_teams.append({'name': team + ' Win Rate', 'id': team + ' Win Rate', 'data': temp_df[['hero', 'win_rate']].to_numpy().tolist(), 'type': 'spline', 'yAxis': 1, 'lineWidth': 0, 'states': {'hover': {'enabled': False}}, 'marker': {'symbol': 'diamond', 'radius': 6}})
+    total_hero_teams.append({'name': team + ' Win Rate', 'id': team + ' Win Rate', 'data': temp_df[['hero', 'win_rate']].to_numpy().tolist(), 'type': 'spline', 'yAxis': 1, 'lineWidth': 0, 'states': {'hover': {'enabled': False}}, 'marker': {'symbol': 'diamond'}})
 
 jsons_to_upload['total_team_heroes'] = total_team_heroes
 jsons_to_upload['total_hero_teams'] = total_hero_teams

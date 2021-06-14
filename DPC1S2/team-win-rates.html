@@ -21,8 +21,6 @@
                 var teamWinRates = data3[0];
                 var totalHeroTeams = data4[0];
 
-                console.log(totalHeroTeams);
-
                 Highcharts.chart('container', {
                     'chart': {
                         'type': 'column'
@@ -132,7 +130,8 @@
                                 }
                             },
                             'marker': {
-                                'symbol': 'diamond'
+                                'symbol': 'diamond',
+                                'radius': 6
                             },
                             'data': teamWinRates
                         }
