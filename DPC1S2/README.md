@@ -47,7 +47,7 @@
   - Templar Assassin (50 bans) 
 -->
 
-## **[Dire vs Radiant: Wins & Losses](dire-rad-wins-losses.html "Click to view graph in full"){:target="_blank"}**
+## **[Dire vs Radiant: Wins & Losses](rad-dire-wins-losses.html "Click to view graph in full"){:target="_blank"}**
 ##### Features Drilldowns
 
 ### Preview:

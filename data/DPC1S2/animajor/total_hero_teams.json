@@ -433,8 +433,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -715,8 +714,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -1357,8 +1355,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -1867,8 +1864,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -2317,8 +2313,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -2983,8 +2978,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -3241,8 +3235,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -3847,8 +3840,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -4213,8 +4205,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -4651,8 +4642,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -5197,8 +5187,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -5503,8 +5492,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -6025,8 +6013,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -6439,8 +6426,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -7069,8 +7055,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -7675,8 +7660,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -7957,8 +7941,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     },
     {
@@ -8479,8 +8462,7 @@
             }
         },
         "marker": {
-            "symbol": "diamond",
-            "radius": 6
+            "symbol": "diamond"
         }
     }
 ]
