@@ -6,7 +6,7 @@
 
 ### Preview:
 <div class="iframe-container">
-<iframe src="hero-win-rates.html" width="100%" frameborder="0" loading="lazy" title="Win Rates by Hero" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
+<iframe src="hero-win-rates.html" width="100%" frameborder="0" loading="lazy" title="Win Rates by Hero" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </div>
 
 ## **[Win Rates by Team](team-win-rates.html "Click to view graph in full"){:target="_blank"}**
