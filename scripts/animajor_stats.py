@@ -241,7 +241,7 @@ total_hero_wins['win_rate'] = total_hero_wins['matches_won'] / total_hero_wins['
 total_hero_wins.sort_values(by = ['matches_played', 'matches_won'], ascending = False, inplace = True)
 
 hero_matches_played = total_hero_wins[['hero_name', 'matches_played']].rename(columns = {'hero_name': 'name', 'matches_played': 'y'})
-hero_matches_won = total_hero_wins[['hero_name', 'matches_won']].rename(columns = {'hero_name': 'name', 'wins': 'y'})
+hero_matches_won = total_hero_wins[['hero_name', 'matches_won']].rename(columns = {'hero_name': 'name', 'matches_won': 'y'})
 hero_win_rates = total_hero_wins[['hero_name', 'win_rate']].rename(columns = {'hero_name': 'name', 'win_rate': 'y'})
 
 hero_matches_played['drilldown'] = hero_matches_played['name'] + ' Matches Played'
@@ -328,9 +328,9 @@ total_hero_teams = []
 
 for team in sorted(team_hero_wins['team'].unique()):
     temp_df = team_hero_wins[team_hero_wins['team'] == team]
-    total_hero_teams.append({'name': team + ' Matches Played', 'id': team + ' Matches Played', 'data': temp_df[['team', 'matches_played']].to_numpy().tolist()})
-    total_hero_teams.append({'name': team + ' Matches Won', 'id': team + ' Matches Won', 'data': temp_df[['team', 'matches_won']].to_numpy().tolist()})
-    total_hero_teams.append({'name': team + ' Win Rate', 'id': team + ' Win Rate', 'data': temp_df[['team', 'win_rate']].to_numpy().tolist(), 'type': 'spline', 'yAxis': 1, 'lineWidth': 0, 'states': {'hover': {'enabled': False}}, 'marker': {'symbol': 'diamond', 'radius': 6}})
+    total_hero_teams.append({'name': team + ' Matches Played', 'id': team + ' Matches Played', 'data': temp_df[['hero', 'matches_played']].to_numpy().tolist()})
+    total_hero_teams.append({'name': team + ' Matches Won', 'id': team + ' Matches Won', 'data': temp_df[['hero', 'matches_won']].to_numpy().tolist()})
+    total_hero_teams.append({'name': team + ' Win Rate', 'id': team + ' Win Rate', 'data': temp_df[['hero', 'win_rate']].to_numpy().tolist(), 'type': 'spline', 'yAxis': 1, 'lineWidth': 0, 'states': {'hover': {'enabled': False}}, 'marker': {'symbol': 'diamond', 'radius': 6}})
 
 jsons_to_upload['total_team_heroes'] = total_team_heroes
 jsons_to_upload['total_hero_teams'] = total_hero_teams
