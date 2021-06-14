@@ -58,7 +58,7 @@
 
 ### Preview:
 <div class="iframe-container">
-<iframe src="dire-rad-wins-losses.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Dire vs Radiant: Wins & Losses" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> <iframe>
+<iframe src="dire-rad-wins-losses.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Dire vs Radiant: Wins & Losses" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </div>
 
 <!--- #### Summary:
@@ -70,7 +70,7 @@
 
 ### Preview:
 <div class="iframe-container">
-<iframe src="first-pick-dire-rad.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Dire vs Radiant: First Picks" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> <iframe>
+<iframe src="first-pick-dire-rad.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Dire vs Radiant: First Picks" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </div>
 
 <!--- #### Summary:
@@ -82,7 +82,7 @@
 
 ### Preview:
 <div class="iframe-container">
-<iframe src="first-pick-wins-losses.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="First Picks: Wins & Losses" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> <iframe>
+<iframe src="first-pick-wins-losses.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="First Picks: Wins & Losses" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </div>
 
 <!--- #### Summary:
@@ -93,5 +93,5 @@
 
 ### Preview:
 <div class="iframe-container">
-<iframe src="match-lengths.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Match Lengths" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> <iframe>
+<iframe src="match-lengths.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Match Lengths" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </div>
