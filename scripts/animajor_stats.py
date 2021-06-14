@@ -240,13 +240,13 @@ total_hero_wins = hero_wins.groupby('hero_name')['match_won'].agg(['sum', 'count
 total_hero_wins['win_rate'] = total_hero_wins['matches_won'] / total_hero_wins['matches_played']
 total_hero_wins.sort_values(by = ['matches_played', 'matches_won'], ascending = False, inplace = True)
 
-hero_matches_played = total_hero_wins[['hero_name', 'matches_played']].rename(columns = {'matches_played': 'y'})
-hero_matches_won = total_hero_wins[['hero_name', 'matches_won']].rename(columns = {'wins': 'y'})
-hero_win_rates = total_hero_wins[['hero_name', 'win_rate']].rename(columns = {'win_rate': 'y'})
+hero_matches_played = total_hero_wins[['hero_name', 'matches_played']].rename(columns = {'hero_name': 'name', 'matches_played': 'y'})
+hero_matches_won = total_hero_wins[['hero_name', 'matches_won']].rename(columns = {'hero_name': 'name', 'wins': 'y'})
+hero_win_rates = total_hero_wins[['hero_name', 'win_rate']].rename(columns = {'hero_name': 'name', 'win_rate': 'y'})
 
-hero_matches_played['drilldown'] = hero_matches_played['hero_name'] + ' Matches Played'
-hero_matches_won['drilldown'] = hero_matches_won['hero_name'] + ' Matches Won'
-hero_win_rates['drilldown'] = hero_win_rates['hero_name'] + ' Win Rate'
+hero_matches_played['drilldown'] = hero_matches_played['name'] + ' Matches Played'
+hero_matches_won['drilldown'] = hero_matches_won['name'] + ' Matches Won'
+hero_win_rates['drilldown'] = hero_win_rates['name'] + ' Win Rate'
 
 dfs_to_convert['hero_matches_played'] = hero_matches_played
 dfs_to_convert['hero_matches_won'] = hero_matches_won
@@ -277,7 +277,7 @@ FROM animajor_matches
 team_stats = ps.sqldf(sql_query)
 
 team_stats = team_stats.groupby('team').agg({'result': 'sum', 'match_id': 'count', 'duration': 'mean'}).reset_index(drop = False).rename(columns = {'team': 'name', 'result': 'matches_won', 'match_id': 'matches_played', 'duration': 'avg_match_length'})
-team_stats['win_rate'] = 100*(team_stats['matches_won'] / team_stats['matches_played'])
+team_stats['win_rate'] = (team_stats['matches_won'] / team_stats['matches_played'])
 
 team_matches_played = team_stats[['name', 'matches_played']].rename(columns = {'matches_played': 'y'})
 team_matches_won = team_stats[['name', 'matches_won']].rename(columns = {'matches_won': 'y'})

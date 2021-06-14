@@ -15,11 +15,13 @@
             var teamWinRatesLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/DPC1S2/animajor/team_win_rates.json';
             var totalHeroTeamsLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/DPC1S2/animajor/total_hero_teams.json';
 
-            function createHighchart(data1, data2, data3) {
+            function createHighchart(data1, data2, data3, data4) {
                 var teamMatchesPlayed = data1[0];
                 var teamMatchesWon = data2[0];
                 var teamWinRates = data3[0];
                 var totalHeroTeams = data4[0];
+
+                console.log(teamWinRates);
 
                 Highcharts.chart('container', {
                     'chart': {
@@ -144,7 +146,7 @@
                                 'r': 0
                             }
                         },
-                        'series': totalHeroTeams,
+                        'series': totalHeroTeams
                     }
                 });
             }
