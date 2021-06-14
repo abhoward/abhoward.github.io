@@ -6,10 +6,9 @@
 
 ### Preview:
 <div class="iframe-container">
-<iframe src="hero-win-rates.html" width="100%" frameborder="0" loading="lazy" title="Win Rates by Hero" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<iframe src="hero-win-rates.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Win Rates by Hero" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </div>
 
-<<<<<<< HEAD
 <!--- 
 #### Summary:
 - Heroes with 100% winrate: 
@@ -26,8 +25,6 @@
   - Morphling (35%, 6/17 wins) 
 -->
 
-=======
->>>>>>> a7349c211a1e9c684fbe47f6889d252d1b3eaac7
 ## **[Win Rates by Team](team-win-rates.html "Click to view graph in full"){:target="_blank"}**
 #### Features Drilldowns
 
@@ -35,8 +32,6 @@
 <div class="iframe-container">
 <iframe src="team-win-rates.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Win Rates by Team" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </div>
-
-
 
 ## **[Hero Picks & Bans](hero-picks-bans.html "Click to view graph in full"){:target="_blank"}**
 #### Features Drilldowns
@@ -98,10 +93,5 @@
 
 ### Preview:
 <div class="iframe-container">
-<<<<<<< HEAD
 <iframe src="match-lengths.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Match Lengths" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> <iframe>
 </div>
-=======
-<iframe src="match-lengths.html" width="100%" frameborder="0" loading="lazy" title="Match Lengths" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
-</div>
->>>>>>> a7349c211a1e9c684fbe47f6889d252d1b3eaac7
