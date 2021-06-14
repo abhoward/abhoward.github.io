@@ -9,7 +9,7 @@
 <iframe src="hero-win-rates.html" width="100%" frameborder="0" loading="lazy" title="Win Rates by Hero" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
 </div>
 
-<!-- #### Summary:
+<!--- #### Summary:
 - Heroes with 100% winrate: 
   - Antimage (3 wins)
   - Io (2 wins)
@@ -39,7 +39,7 @@
 <iframe src="hero-picks-bans.html" width="100%" frameborder="0" loading="lazy" title="Hero Picks & Bans" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
 </div>
 
-<!-- #### Summary: 
+<!--- #### Summary: 
 - Most Picked Heroes (Out of 87 Games):
   - Mars (43 picks)
   - Lion (32 picks)
@@ -57,7 +57,7 @@
 <iframe src="dire-rad-wins-losses.html" width="100%" frameborder="0" loading="lazy" title="Dire vs Radiant: Wins & Losses" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
 </div>
 
-<!-- #### Summary:
+<!--- #### Summary:
 - Out of 87 matches, Radiant got first pick only 21 times (~27%).
   - Implies that if one team choosees first pick, the other will choose Radiant, and vice versa. -->
 
@@ -69,7 +69,7 @@
 <iframe src="first-pick-dire-rad.html" width="100%" frameborder="0" loading="lazy" title="Dire vs Radiant: First Picks" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
 </div>
 
-<!-- #### Summary:
+<!--- #### Summary:
 - Out of 87 matches, Radiant got first pick only 21 times (~27%).
   - Implies that if one team choosees first pick, the other will choose Radiant, and vice versa. -->
 
@@ -81,7 +81,7 @@
 <iframe src="first-pick-wins-losses.html" width="100%" frameborder="0" loading="lazy" title="First Picks: Wins & Losses" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen />
 </div>
 
-<!-- #### Summary:
+<!--- #### Summary:
 - Having first pick alone doesn't seem to make much of a difference, with 44 wins vs 43 losses.
   - With that said, Radiant is more effective with first pick then Dire (57% vs 50% win rate) -->
 
