@@ -76,7 +76,8 @@ for match_id in animajor_matches['match_id'].tolist():
 
         draft_pbs_df = pd.DataFrame(data['picks_bans'])
         draft_pbs_df['team'] = ['Radiant' if i == 0 else 'Dire' for i in draft_pbs_df['team'].tolist()]
-
+        draft_pbs_df['timestamp'] = animajor_matches[animajor_matches['match_id'] == match_id]['start_time'].tolist()[0]
+        
         if data['radiant_win']:
             draft_pbs_df['winning_team'] = 'Radiant' 
             hero_stats['winning_team'] = 'Radiant'
@@ -337,6 +338,82 @@ for team in sorted(team_hero_wins['team'].unique()):
 
 jsons_to_upload['total_team_heroes'] = total_team_heroes
 jsons_to_upload['total_hero_teams'] = total_hero_teams
+
+# --- TIME SERIES DATA --- #
+
+print('Creating data transformation for time series analyses...')
+
+sql_query = """
+SELECT  total_pbs.hero_id,
+        heroes.localized_name AS name,
+        total_pbs.match_id,
+        total_pbs.timestamp,
+        SUM(CASE 
+                WHEN total_pbs.winning_team = total_pbs.team AND total_pbs.is_pick = True THEN 1
+                ELSE 0
+        END) AS wins,
+        SUM(CASE 
+                WHEN total_pbs.winning_team != total_pbs.team AND total_pbs.is_pick = 1 THEN 1
+                ELSE 0
+        END) AS losses,
+        SUM(CASE
+                WHEN total_pbs.is_pick = True THEN 1
+                ELSE 0
+        END) AS picks,
+        SUM(CASE
+                WHEN total_pbs.is_pick = False THEN 1
+                ELSE 0
+        END) AS bans
+FROM total_pbs
+JOIN heroes
+ON total_pbs.hero_id = heroes.id
+GROUP BY 1, 2, 3, 4
+"""
+
+hero_ts_data = ps.sqldf(sql_query)
+
+hero_prs = []
+hero_brs = []
+hero_wrs_ts = []
+hero_prs_ts = []
+hero_brs_ts = []
+
+for hero in heroes['localized_name']:
+    hero_match_combo = pd.DataFrame()
+    for match, ts in animajor_matches[['match_id', 'start_time']].sort_values(by = 'start_time').values:
+        temp_ts = hero_ts_data[(hero_ts_data['name'] == hero) & (hero_ts_data['match_id'] == match)]
+        if temp_ts.empty:
+            hero_match_combo = hero_match_combo.append({'match_id': match, 'name': hero, 'timestamp': ts, 'picks': 0, 'bans': 0, 'wins': 0, 'losses': 0}, ignore_index = True, sort = False)
+        else:
+            hero_match_combo = hero_match_combo.append(temp_ts[['match_id', 'name', 'timestamp', 'picks', 'bans', 'wins', 'losses']], ignore_index = True, sort = False)
+            
+    hero_match_combo['running_matches'] = range(1, len(animajor_matches) + 1)
+    hero_match_combo['cum_wins'] = hero_match_combo['wins'].cumsum()
+    hero_match_combo['cum_losses'] = hero_match_combo['losses'].cumsum()
+    hero_match_combo['cum_winrate'] = hero_match_combo['cum_wins'] / (hero_match_combo['cum_wins'] + hero_match_combo['cum_losses'])
+    
+    hero_match_combo['cum_picks'] = hero_match_combo['picks'].cumsum()
+    hero_match_combo['cum_bans'] = hero_match_combo['bans'].cumsum()
+    
+    hero_match_combo['cum_pickrate'] = hero_match_combo['cum_picks'] / hero_match_combo['running_matches']
+    hero_match_combo['cum_banrate'] = hero_match_combo['cum_bans'] / hero_match_combo['running_matches']
+
+    hero_match_combo.fillna(0, inplace = True)
+
+    hero_prs.append({'name': hero, 'y': hero_match_combo.iloc[-1]['cum_pickrate'], 'drilldown': hero + ' Pick Rate'})
+    hero_brs.append({'name': hero, 'y': hero_match_combo.iloc[-1]['cum_banrate'], 'drilldown': hero + ' Ban Rate'})
+    
+    hero_wrs_ts.append({'name': hero, 'id': hero + ' Win Rate', 'data': hero_match_combo[['timestamp', 'cum_winrate']].values.tolist()})
+    hero_prs_ts.append({'name': hero, 'id': hero + ' Pick Rate', 'data': hero_match_combo[['timestamp', 'cum_pickrate']].values.tolist()})
+    hero_brs_ts.append({'name': hero, 'id': hero + ' Ban Rate', 'data': hero_match_combo[['timestamp', 'cum_banrate']].values.tolist()})
+
+hero_ts_data = ps.sqldf(sql_query)
+
+jsons_to_upload['hero_prs'] = hero_prs
+jsons_to_upload['hero_brs'] = hero_brs
+jsons_to_upload['hero_wrs_ts'] = hero_wrs_ts
+jsons_to_upload['hero_prs_ts'] = hero_prs_ts
+jsons_to_upload['hero_brs_ts'] = hero_brs_ts
 
 # --- RADIANT VS DIRE FIRST PICKS --- # 
 
