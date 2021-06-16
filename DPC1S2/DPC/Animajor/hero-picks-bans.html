@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/drilldown.js"></script>
+    </head>
+    <body style="margin:0;padding:0;height:100vh">
+        <div id="container" style="width:100%;height:100%">Loading....</div>
+        <script>
+            var heroCountsLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/DPC1S2/animajor/hero_counts.json';
+            var heroPicksLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/DPC1S2/animajor/hero_picks.json';
+            var heroBansLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/DPC1S2/animajor/hero_bans.json';
+            var teamPicksAndBansLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/DPC1S2/animajor/team_picks_and_bans.json';
+            var animajorMatchesLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/DPC1S2/animajor/animajor_matches.json';
+
+            function createHighchart(data1, data2, data3, data4) {
+                var heroPicks = data1[0];
+                var heroBans = data2[0];
+                var teamPicksAndBans = data3[0];
+                var animajorMatches = data4[0];
+
+                Highcharts.chart('container', {
+                    'chart': {
+                        'type': 'column'
+                    },
+                    'title': {
+                        'text': 'Hero Picks & Bans'
+                    },
+                    'subtitle': {
+                        'text': 'Click the bars or hero names to drill down to team stats. Source: opendota.com.<br><i>Excludes matches <code>6025172903</code>, <code>6023211594</code> and <code>6023110186</code> due to lack of data.</i>'
+                    },
+                    'legend': {
+                        'verticalAlign': 'top'
+                    },
+                    'plotOptions': {
+                        'series': {
+                            'stacking': 'normal'
+                        }
+                    },
+                    'tooltip': {
+                        'shared': true,
+                        'pointFormatter': function() {
+                            return '<span style="color:' + this.series.color + '">' + this.series.name + '</span>: <b>' + this.y + '</b></br>';
+                        },
+                        'headerFormat': '<b>{point.key}</b><br>'
+                    },
+                    'xAxis': {
+                        'type': 'category',
+                        'title': {
+                            'text': 'Hero'
+                        }
+                    },
+                    'yAxis': {
+                        'min': 0,
+                        'title': {
+                            'text': 'Number of Appearances'
+                        },
+                        'plotLines': [
+                            {
+                                'id': 'Total Matches',
+                                'color': '#2a9cd1',
+                                'width': 2, 
+                                'value': animajorMatches.length,
+                                'dashStyle': 'dash',
+                                'zIndex': 2, 
+                                'label': {
+                                    'text': 'Total Matches',
+                                    'x': 0,
+                                    'y': -10
+                                }
+                            }
+                        ]
+                    },
+                    'series': [
+                        {
+                            'name': 'Hero Picks',
+                            'color': 'rgba(42, 181, 81, 0.75)',
+                            'dataSorting': {
+                                'enabled': true,
+                                'sortKey': 'this.point.stackTotal'
+                            },
+                            'data': heroPicks
+                        },
+                        {
+                            'name': 'Hero Bans',
+                            'color': 'rgba(186, 69, 48, 0.75)',
+                            'data': heroBans
+                        }   
+                    ],
+                    'drilldown': {
+                        'drillUpButton': {
+                            'theme': {
+                                'fill': 'white',
+                                'stroke-width': 1,
+                                'stroke': 'silver',
+                                'r': 0
+                            }
+                        },
+                        'series': teamPicksAndBans,
+                    }
+                })
+            }
+
+            function ajaxCalls() {
+                return [
+                    $.ajax({
+                        url: heroPicksLink,
+                        dataType: 'json'
+                    }),
+                    $.ajax({
+                        url: heroBansLink,
+                        dataType: 'json'
+                    }),
+                    $.ajax({
+                        url: teamPicksAndBansLink,
+                        dataType: 'json'
+                    }),
+                    $.ajax({
+                        url: animajorMatchesLink,
+                        dataType: 'json'
+                    })
+                ];
+            }
+
+            $.when.apply($, ajaxCalls()).then(createHighchart);
+        </script>
+    </body>
+</html>
