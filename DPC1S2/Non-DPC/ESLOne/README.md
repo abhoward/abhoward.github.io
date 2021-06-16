@@ -1,4 +1,4 @@
-# Animajor Stats & Graphs:
+# ESL ONE Stats & Graphs:
 ## **[Win Rates by Hero](hero-win-rates.html "Click to view graph in full"){:target="_blank"}**
 ##### Features Drilldowns
 
