@@ -412,9 +412,9 @@ for hero in sorted(heroes['localized_name']):
 
     color = heroes[heroes['localized_name'] == hero]['color'].values[0]
     
-    hero_wrs_ts.append({'name': hero + ' Win Rate', 'id': hero + ' Win Rate', 'type': 'areaspline', 'color': color, 'yAxis': 1, 'xAxis': 1, 'data': hero_match_combo[['timestamp', 'cum_winrate']].values.tolist()})
-    hero_prs_ts.append({'name': hero + ' Pick Rate', 'id': hero + ' Pick Rate', 'type': 'areaspline', 'color': color, 'yAxis': 1, 'xAxis': 1, 'data': hero_match_combo[['timestamp', 'cum_pickrate']].values.tolist()})
-    hero_brs_ts.append({'name': hero + ' Ban Rate', 'id': hero + ' Ban Rate', 'type': 'areaspline', 'color': color, 'yAxis': 1, 'xAxis': 1, 'data': hero_match_combo[['timestamp', 'cum_banrate']].values.tolist()})
+    hero_wrs_ts.append({'name': hero + ' Win Rate', 'id': hero + ' Win Rate', 'type': 'areaspline', 'color': color, 'xAxis': 1, 'data': hero_match_combo[['timestamp', 'cum_winrate']].values.tolist()})
+    hero_prs_ts.append({'name': hero + ' Pick Rate', 'id': hero + ' Pick Rate', 'type': 'areaspline', 'color': color, 'xAxis': 1, 'data': hero_match_combo[['timestamp', 'cum_pickrate']].values.tolist()})
+    hero_brs_ts.append({'name': hero + ' Ban Rate', 'id': hero + ' Ban Rate', 'type': 'areaspline', 'color': color, 'xAxis': 1, 'data': hero_match_combo[['timestamp', 'cum_banrate']].values.tolist()})
 
     hero_rates_ts = hero_wrs_ts + hero_prs_ts + hero_prs_ts
 
