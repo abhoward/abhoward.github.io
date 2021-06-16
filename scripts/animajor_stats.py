@@ -416,14 +416,14 @@ for hero in sorted(heroes['localized_name']):
     hero_prs_ts.append({'name': hero + ' Pick Rate', 'id': hero + ' Pick Rate', 'type': 'areaspline', 'color': color, 'yAxis': 1, 'xAxis': 1, 'data': hero_match_combo[['timestamp', 'cum_pickrate']].values.tolist()})
     hero_brs_ts.append({'name': hero + ' Ban Rate', 'id': hero + ' Ban Rate', 'type': 'areaspline', 'color': color, 'yAxis': 1, 'xAxis': 1, 'data': hero_match_combo[['timestamp', 'cum_banrate']].values.tolist()})
 
+    hero_rates_ts = hero_wrs_ts + hero_prs_ts + hero_prs_ts
+
 hero_ts_data = ps.sqldf(sql_query)
 
 jsons_to_upload['hero_prs'] = hero_prs
 jsons_to_upload['hero_brs'] = hero_brs
 jsons_to_upload['hero_wrs'] = hero_wrs
-jsons_to_upload['hero_wrs_ts'] = hero_wrs_ts
-jsons_to_upload['hero_prs_ts'] = hero_prs_ts
-jsons_to_upload['hero_brs_ts'] = hero_brs_ts
+jsons_to_upload['hero_rates_ts'] = hero_rates_ts
 
 # --- RADIANT VS DIRE FIRST PICKS --- # 
 
