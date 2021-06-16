@@ -9,6 +9,7 @@ import os
 from dotenv import load_dotenv
 
 from highcharts import Highchart
+from colorthief import ColorThief
 
 # silencing false positives from pandas' SettingWithCopyWarning
 pd.options.mode.chained_assignment = None
@@ -21,7 +22,7 @@ API_KEY = os.getenv('API_KEY')
 # instantiating a counter to track how many calls we make to opendota's API
 api_counter = 0
 
-save_file_path = "..\\data\\DPC1S2\\animajor\\{}"
+save_file_path = "..\\data\\DPC1S2\\DPC\\Animajor\\{}"
 dfs_to_convert = {}
 jsons_to_upload = {}
 
@@ -113,7 +114,6 @@ data = json.loads(r.text)
 heroes_df = pd.DataFrame(data)
 heroes = heroes_df[['id', 'localized_name', 'primary_attr']]
 heroes = heroes.replace({'Outworld Destroyer': 'Outworld Devourer'})
-heroes['color'] = ['blue' if i == 'int' else 'green' if i == 'agi' else 'red' for i in heroes['primary_attr']]
 
 # --- HERO PICKS & BANS --- #
 
@@ -410,7 +410,8 @@ for hero in sorted(heroes['localized_name']):
     hero_brs.append({'name': hero, 'y': hero_match_combo.iloc[-1]['cum_banrate'], 'drilldown': hero + ' Ban Rate'})
     hero_wrs.append({'name': hero, 'y': hero_match_combo.iloc[-1]['cum_winrate'], 'drilldown': hero + ' Win Rate'})
 
-    color = heroes[heroes['localized_name'] == hero]['color'].values[0]
+    color_thief = ColorThief("..\\assets\\hero_icons\\{}.png".format(hero.lower().replace(' ', '_', 3)))
+    color = color_thief.get_color(quality = 1)
     
     hero_wrs_ts.append({'name': hero + ' Win Rate', 'id': hero + ' Win Rate', 'type': 'areaspline', 'color': color, 'xAxis': 1, 'data': hero_match_combo[['timestamp', 'cum_winrate']].values.tolist()})
     hero_prs_ts.append({'name': hero + ' Pick Rate', 'id': hero + ' Pick Rate', 'type': 'areaspline', 'color': color, 'xAxis': 1, 'data': hero_match_combo[['timestamp', 'cum_pickrate']].values.tolist()})

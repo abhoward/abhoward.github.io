@@ -5,6 +5,8 @@
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
         <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
         <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/dumbbell.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/lollipop.js"></script>
         <script type="text/javascript" src="https://code.highcharts.com/modules/drilldown.js"></script>
     </head>
     <body style="margin:0;padding:0;height:100vh">
@@ -30,14 +32,14 @@
                 Highcharts.chart('container', {
 
                     'chart': {
-                        'type': 'column',
+                        'type': 'lollipop',
                         'zoomType': 'x'
                     },
                     'title': {
                         'text': 'Hero Rates Over Time'
                     },
                     'subtitle': {
-                        'text': 'Click on the bars or hero names to drill down to team stats. Source: opendota.com.<br><i>Excludes matches <code>6025172903</code>, <code>6023211594</code> and <code>6023110186</code> due to lack of data.</i>'
+                        'text': 'Click on the bars or hero names to drill down to hero rates over time. Source: opendota.com.<br><i>Excludes matches <code>6025172903</code>, <code>6023211594</code> and <code>6023110186</code> due to lack of data.</i>'
                     },
                     'legend': {
                         'verticalAlign': 'top'
@@ -62,7 +64,7 @@
                                 }
                             }
                         },
-                        'column': {
+                        'lollipop': {
                             'zones': [
                                 {
                                 'value': 0.25, 
@@ -111,13 +113,13 @@
                         },
                         'headerFormat': '<b>{point.key}</b><br>'
                     },
-                    'xAxis': [{
+                    'xAxis': [{ // Primary Axis
                         'type': 'category',
                         'title': {
                             'text': 'Hero'
                         },
                         'showEmpty': false
-                    },
+                    }, // Secondary Axis
                     {
                         'type': 'datetime',
                         'title': {
@@ -170,7 +172,7 @@
                             'zIndex': 3
                         }]
                     }],
-                    'yAxis': { // Primary Axis
+                    'yAxis': { 
                         'min': 0,
                         'maxPadding': 0,
                         'title': {
@@ -185,21 +187,21 @@
                     },
                     'series': [
                         {
-                            'type': 'column',
+                            'type': 'lollipop',
                             'name': 'Pick Rate',
                             'color': 'rgba(72, 219, 119, 1)',
                             'data': heroPickRates,
                             'visible': false
                         },
                         {
-                            'type': 'column',
+                            'type': 'lollipop',
                             'name': 'Ban Rate',
                             'color': 'rgba(72, 219, 119, 1)',
                             'data': heroBanRates,
                             'visible': false
                         },
                         {
-                            'type': 'column',
+                            'type': 'lollipop',
                             'name': 'Win Rate',
                             'color': 'rgba(72, 219, 119, 1)',
                             'data': heroWinRates
