@@ -1,0 +1,47 @@
+[
+    {
+        "match": "Alliance vs Team Unique",
+        "y": 9,
+        "name": 1806
+    },
+    {
+        "match": "AS Monaco Gambit vs OG",
+        "y": 8,
+        "name": 1818
+    },
+    {
+        "match": "AS Monaco Gambit vs OG",
+        "y": 7,
+        "name": 2037
+    },
+    {
+        "match": "Nigma vs ViKin.gg",
+        "y": 6,
+        "name": 2080
+    },
+    {
+        "match": "Hellbear Smashers vs Сascade Esports",
+        "y": 5,
+        "name": 2206
+    },
+    {
+        "match": "Tundra Esports  vs Team Liquid",
+        "y": 4,
+        "name": 2402
+    },
+    {
+        "match": "Hellbear Smashers vs Сascade Esports",
+        "y": 3,
+        "name": 2542
+    },
+    {
+        "match": "Сascade Esports vs Hellbear Smashers",
+        "y": 2,
+        "name": 2587
+    },
+    {
+        "match": "Team Unique vs Alliance",
+        "y": 1,
+        "name": 2635
+    }
+]

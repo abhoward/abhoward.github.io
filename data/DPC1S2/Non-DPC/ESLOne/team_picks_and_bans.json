@@ -1,0 +1,2298 @@
+[
+    {
+        "name": "Abaddon Picks For",
+        "id": "Abaddon Picks",
+        "data": [
+            [
+                "ViKin.gg",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Bans Against",
+        "id": "Abaddon Bans",
+        "data": [
+            [
+                "ViKin.gg",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Picks For",
+        "id": "Ancient Apparition Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                2.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Bans Against",
+        "id": "Ancient Apparition Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "Team Unique",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Picks For",
+        "id": "Anti-Mage Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Bans Against",
+        "id": "Anti-Mage Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Picks For",
+        "id": "Axe Picks",
+        "data": [
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Bans Against",
+        "id": "Axe Bans",
+        "data": [
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Bane Picks For",
+        "id": "Bane Picks",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bane Bans Against",
+        "id": "Bane Bans",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Picks For",
+        "id": "Batrider Picks",
+        "data": [
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Bans Against",
+        "id": "Batrider Bans",
+        "data": [
+            [
+                "Tundra Esports ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Picks For",
+        "id": "Brewmaster Picks",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Bans Against",
+        "id": "Brewmaster Bans",
+        "data": [
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Picks For",
+        "id": "Broodmother Picks",
+        "data": [
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Bans Against",
+        "id": "Broodmother Bans",
+        "data": [
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Picks For",
+        "id": "Chaos Knight Picks",
+        "data": [
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Bans Against",
+        "id": "Chaos Knight Bans",
+        "data": [
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Picks For",
+        "id": "Clockwerk Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Bans Against",
+        "id": "Clockwerk Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Picks For",
+        "id": "Dark Seer Picks",
+        "data": [
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Bans Against",
+        "id": "Dark Seer Bans",
+        "data": [
+            [
+                "OG",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Picks For",
+        "id": "Dark Willow Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Bans Against",
+        "id": "Dark Willow Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Picks For",
+        "id": "Death Prophet Picks",
+        "data": [
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Bans Against",
+        "id": "Death Prophet Bans",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Picks For",
+        "id": "Doom Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Bans Against",
+        "id": "Doom Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Picks For",
+        "id": "Dragon Knight Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Bans Against",
+        "id": "Dragon Knight Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Picks For",
+        "id": "Drow Ranger Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Bans Against",
+        "id": "Drow Ranger Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                2.0
+            ],
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Earthshaker Picks For",
+        "id": "Earthshaker Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earthshaker Bans Against",
+        "id": "Earthshaker Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Picks For",
+        "id": "Elder Titan Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Bans Against",
+        "id": "Elder Titan Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Picks For",
+        "id": "Ember Spirit Picks",
+        "data": [
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Bans Against",
+        "id": "Ember Spirit Bans",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Picks For",
+        "id": "Enchantress Picks",
+        "data": [
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Bans Against",
+        "id": "Enchantress Bans",
+        "data": [
+            [
+                "OG",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Picks For",
+        "id": "Faceless Void Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Bans Against",
+        "id": "Faceless Void Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Picks For",
+        "id": "Grimstroke Picks",
+        "data": [
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Bans Against",
+        "id": "Grimstroke Bans",
+        "data": [
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Picks For",
+        "id": "Gyrocopter Picks",
+        "data": [
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Bans Against",
+        "id": "Gyrocopter Bans",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Picks For",
+        "id": "Hoodwink Picks",
+        "data": [
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Bans Against",
+        "id": "Hoodwink Bans",
+        "data": [
+            [
+                "OG",
+                2.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Picks For",
+        "id": "Invoker Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Bans Against",
+        "id": "Invoker Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Io Picks For",
+        "id": "Io Picks",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Io Bans Against",
+        "id": "Io Bans",
+        "data": [
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Picks For",
+        "id": "Legion Commander Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Bans Against",
+        "id": "Legion Commander Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Picks For",
+        "id": "Leshrac Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Bans Against",
+        "id": "Leshrac Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Picks For",
+        "id": "Lifestealer Picks",
+        "data": [
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Bans Against",
+        "id": "Lifestealer Bans",
+        "data": [
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Picks For",
+        "id": "Lina Picks",
+        "data": [
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Bans Against",
+        "id": "Lina Bans",
+        "data": [
+            [
+                "Team Unique",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Picks For",
+        "id": "Lion Picks",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Bans Against",
+        "id": "Lion Bans",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lone Druid Picks For",
+        "id": "Lone Druid Picks",
+        "data": [
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lone Druid Bans Against",
+        "id": "Lone Druid Bans",
+        "data": [
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Picks For",
+        "id": "Luna Picks",
+        "data": [
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Bans Against",
+        "id": "Luna Bans",
+        "data": [
+            [
+                "Team Unique",
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Picks For",
+        "id": "Magnus Picks",
+        "data": [
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Bans Against",
+        "id": "Magnus Bans",
+        "data": [
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Picks For",
+        "id": "Mars Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Bans Against",
+        "id": "Mars Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Picks For",
+        "id": "Medusa Picks",
+        "data": [
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Bans Against",
+        "id": "Medusa Bans",
+        "data": [
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Picks For",
+        "id": "Mirana Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Bans Against",
+        "id": "Mirana Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Picks For",
+        "id": "Morphling Picks",
+        "data": [
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Bans Against",
+        "id": "Morphling Bans",
+        "data": [
+            [
+                "Alliance",
+                2.0
+            ],
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Picks For",
+        "id": "Nature's Prophet Picks",
+        "data": [
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Bans Against",
+        "id": "Nature's Prophet Bans",
+        "data": [
+            [
+                "OG",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Picks For",
+        "id": "Nyx Assassin Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Bans Against",
+        "id": "Nyx Assassin Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                2.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Outworld Devourer Picks For",
+        "id": "Outworld Devourer Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Outworld Devourer Bans Against",
+        "id": "Outworld Devourer Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Picks For",
+        "id": "Pangolier Picks",
+        "data": [
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Bans Against",
+        "id": "Pangolier Bans",
+        "data": [
+            [
+                "OG",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Picks For",
+        "id": "Phantom Lancer Picks",
+        "data": [
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Bans Against",
+        "id": "Phantom Lancer Bans",
+        "data": [
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Picks For",
+        "id": "Phoenix Picks",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Bans Against",
+        "id": "Phoenix Bans",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Picks For",
+        "id": "Puck Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Bans Against",
+        "id": "Puck Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Picks For",
+        "id": "Pugna Picks",
+        "data": [
+            [
+                "OG",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Bans Against",
+        "id": "Pugna Bans",
+        "data": [
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Picks For",
+        "id": "Razor Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Bans Against",
+        "id": "Razor Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Picks For",
+        "id": "Sand King Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Bans Against",
+        "id": "Sand King Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Fiend Picks For",
+        "id": "Shadow Fiend Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Fiend Bans Against",
+        "id": "Shadow Fiend Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Picks For",
+        "id": "Shadow Shaman Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Bans Against",
+        "id": "Shadow Shaman Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Slark Picks For",
+        "id": "Slark Picks",
+        "data": [
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Slark Bans Against",
+        "id": "Slark Bans",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Picks For",
+        "id": "Snapfire Picks",
+        "data": [
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Bans Against",
+        "id": "Snapfire Bans",
+        "data": [
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Picks For",
+        "id": "Spectre Picks",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Bans Against",
+        "id": "Spectre Bans",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Picks For",
+        "id": "Storm Spirit Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Bans Against",
+        "id": "Storm Spirit Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Techies Picks For",
+        "id": "Techies Picks",
+        "data": [
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Techies Bans Against",
+        "id": "Techies Bans",
+        "data": [
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Picks For",
+        "id": "Templar Assassin Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Bans Against",
+        "id": "Templar Assassin Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                3.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Picks For",
+        "id": "Terrorblade Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Bans Against",
+        "id": "Terrorblade Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Picks For",
+        "id": "Tidehunter Picks",
+        "data": [
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Bans Against",
+        "id": "Tidehunter Bans",
+        "data": [
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Picks For",
+        "id": "Timbersaw Picks",
+        "data": [
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Bans Against",
+        "id": "Timbersaw Bans",
+        "data": [
+            [
+                "Alliance",
+                2.0
+            ],
+            [
+                "OG",
+                2.0
+            ],
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Picks For",
+        "id": "Tiny Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Bans Against",
+        "id": "Tiny Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Picks For",
+        "id": "Underlord Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Bans Against",
+        "id": "Underlord Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Picks For",
+        "id": "Undying Picks",
+        "data": [
+            [
+                "Tundra Esports ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Bans Against",
+        "id": "Undying Bans",
+        "data": [
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Picks For",
+        "id": "Ursa Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                2.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Bans Against",
+        "id": "Ursa Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Picks For",
+        "id": "Viper Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Bans Against",
+        "id": "Viper Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                2.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Picks For",
+        "id": "Void Spirit Picks",
+        "data": [
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Bans Against",
+        "id": "Void Spirit Bans",
+        "data": [
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Picks For",
+        "id": "Warlock Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Bans Against",
+        "id": "Warlock Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Picks For",
+        "id": "Windranger Picks",
+        "data": [
+            [
+                "Team Unique",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Bans Against",
+        "id": "Windranger Bans",
+        "data": [
+            [
+                "Team Unique",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Picks For",
+        "id": "Winter Wyvern Picks",
+        "data": [
+            [
+                "Сascade Esports",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Bans Against",
+        "id": "Winter Wyvern Bans",
+        "data": [
+            [
+                "Сascade Esports",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Picks For",
+        "id": "Wraith King Picks",
+        "data": [
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Bans Against",
+        "id": "Wraith King Bans",
+        "data": [
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Zeus Picks For",
+        "id": "Zeus Picks",
+        "data": [
+            [
+                "OG",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Zeus Bans Against",
+        "id": "Zeus Bans",
+        "data": [
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    }
+]
