@@ -5,7 +5,7 @@
         "data": [
             [
                 "ViKin.gg",
-                1
+                2
             ]
         ]
     },
@@ -15,7 +15,7 @@
         "data": [
             [
                 "ViKin.gg",
-                1
+                2
             ]
         ]
     },
@@ -46,16 +46,12 @@
         "id": "Ancient Apparition Matches Played",
         "data": [
             [
-                "Hellbear Smashers",
-                1
-            ],
-            [
                 "OG",
                 1
             ],
             [
-                "Сascade Esports",
-                2
+                "Tundra Esports ",
+                1
             ]
         ]
     },
@@ -64,16 +60,12 @@
         "id": "Ancient Apparition Matches Won",
         "data": [
             [
-                "Hellbear Smashers",
-                0
-            ],
-            [
                 "OG",
                 1
             ],
             [
-                "Сascade Esports",
-                0
+                "Tundra Esports ",
+                1
             ]
         ]
     },
@@ -82,16 +74,12 @@
         "id": "Ancient Apparition Win Rate",
         "data": [
             [
-                "Hellbear Smashers",
-                0.0
-            ],
-            [
                 "OG",
                 1.0
             ],
             [
-                "Сascade Esports",
-                0.0
+                "Tundra Esports ",
+                1.0
             ]
         ],
         "type": "spline",
@@ -112,11 +100,11 @@
         "id": "Axe Matches Played",
         "data": [
             [
-                "Hellbear Smashers",
+                "Nigma",
                 1
             ],
             [
-                "Nigma",
+                "Team Liquid",
                 1
             ],
             [
@@ -130,11 +118,11 @@
         "id": "Axe Matches Won",
         "data": [
             [
-                "Hellbear Smashers",
-                1
+                "Nigma",
+                0
             ],
             [
-                "Nigma",
+                "Team Liquid",
                 0
             ],
             [
@@ -148,11 +136,11 @@
         "id": "Axe Win Rate",
         "data": [
             [
-                "Hellbear Smashers",
-                1.0
+                "Nigma",
+                0.0
             ],
             [
-                "Nigma",
+                "Team Liquid",
                 0.0
             ],
             [
@@ -318,6 +306,10 @@
             [
                 "Team Liquid",
                 1
+            ],
+            [
+                "Tundra Esports ",
+                1
             ]
         ]
     },
@@ -328,6 +320,10 @@
             [
                 "Team Liquid",
                 0
+            ],
+            [
+                "Tundra Esports ",
+                1
             ]
         ]
     },
@@ -338,6 +334,10 @@
             [
                 "Team Liquid",
                 0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
             ]
         ],
         "type": "spline",
@@ -360,6 +360,10 @@
             [
                 "AS Monaco Gambit",
                 1
+            ],
+            [
+                "Team Liquid",
+                1
             ]
         ]
     },
@@ -370,6 +374,10 @@
             [
                 "AS Monaco Gambit",
                 0
+            ],
+            [
+                "Team Liquid",
+                0
             ]
         ]
     },
@@ -379,6 +387,10 @@
         "data": [
             [
                 "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Liquid",
                 0.0
             ]
         ],
@@ -576,16 +588,8 @@
                 1
             ],
             [
-                "Hellbear Smashers",
-                1
-            ],
-            [
                 "Tundra Esports ",
-                1
-            ],
-            [
-                "Сascade Esports",
-                1
+                2
             ]
         ]
     },
@@ -602,16 +606,8 @@
                 1
             ],
             [
-                "Hellbear Smashers",
-                1
-            ],
-            [
                 "Tundra Esports ",
-                1
-            ],
-            [
-                "Сascade Esports",
-                1
+                2
             ]
         ]
     },
@@ -628,15 +624,7 @@
                 1.0
             ],
             [
-                "Hellbear Smashers",
-                1.0
-            ],
-            [
                 "Tundra Esports ",
-                1.0
-            ],
-            [
-                "Сascade Esports",
                 1.0
             ]
         ],
@@ -660,6 +648,10 @@
             [
                 "AS Monaco Gambit",
                 1
+            ],
+            [
+                "Team Liquid",
+                1
             ]
         ]
     },
@@ -669,6 +661,10 @@
         "data": [
             [
                 "AS Monaco Gambit",
+                0
+            ],
+            [
+                "Team Liquid",
                 0
             ]
         ]
@@ -680,47 +676,9 @@
             [
                 "AS Monaco Gambit",
                 0.0
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
-    },
-    {
-        "name": "Earthshaker Matches Played",
-        "id": "Earthshaker Matches Played",
-        "data": [
+            ],
             [
-                "Сascade Esports",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Earthshaker Matches Won",
-        "id": "Earthshaker Matches Won",
-        "data": [
-            [
-                "Сascade Esports",
-                0
-            ]
-        ]
-    },
-    {
-        "name": "Earthshaker Win Rate",
-        "id": "Earthshaker Win Rate",
-        "data": [
-            [
-                "Сascade Esports",
+                "Team Liquid",
                 0.0
             ]
         ],
@@ -742,10 +700,6 @@
         "id": "Elder Titan Matches Played",
         "data": [
             [
-                "Hellbear Smashers",
-                1
-            ],
-            [
                 "OG",
                 1
             ]
@@ -756,10 +710,6 @@
         "id": "Elder Titan Matches Won",
         "data": [
             [
-                "Hellbear Smashers",
-                1
-            ],
-            [
                 "OG",
                 1
             ]
@@ -769,10 +719,6 @@
         "name": "Elder Titan Win Rate",
         "id": "Elder Titan Win Rate",
         "data": [
-            [
-                "Hellbear Smashers",
-                1.0
-            ],
             [
                 "OG",
                 1.0
@@ -798,10 +744,6 @@
             [
                 "ViKin.gg",
                 1
-            ],
-            [
-                "Сascade Esports",
-                2
             ]
         ]
     },
@@ -811,10 +753,6 @@
         "data": [
             [
                 "ViKin.gg",
-                1
-            ],
-            [
-                "Сascade Esports",
                 1
             ]
         ]
@@ -826,10 +764,6 @@
             [
                 "ViKin.gg",
                 1.0
-            ],
-            [
-                "Сascade Esports",
-                0.5
             ]
         ],
         "type": "spline",
@@ -888,15 +822,53 @@
         }
     },
     {
+        "name": "Gyrocopter Matches Played",
+        "id": "Gyrocopter Matches Played",
+        "data": [
+            [
+                "Nigma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Matches Won",
+        "id": "Gyrocopter Matches Won",
+        "data": [
+            [
+                "Nigma",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Win Rate",
+        "id": "Gyrocopter Win Rate",
+        "data": [
+            [
+                "Nigma",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
         "name": "Hoodwink Matches Played",
         "id": "Hoodwink Matches Played",
         "data": [
             [
                 "Alliance",
-                1
-            ],
-            [
-                "Hellbear Smashers",
                 1
             ],
             [
@@ -914,10 +886,6 @@
                 1
             ],
             [
-                "Hellbear Smashers",
-                0
-            ],
-            [
                 "Team Unique",
                 0
             ]
@@ -930,10 +898,6 @@
             [
                 "Alliance",
                 1.0
-            ],
-            [
-                "Hellbear Smashers",
-                0.0
             ],
             [
                 "Team Unique",
@@ -958,10 +922,6 @@
         "id": "Invoker Matches Played",
         "data": [
             [
-                "Hellbear Smashers",
-                1
-            ],
-            [
                 "Team Liquid",
                 1
             ]
@@ -972,10 +932,6 @@
         "id": "Invoker Matches Won",
         "data": [
             [
-                "Hellbear Smashers",
-                0
-            ],
-            [
                 "Team Liquid",
                 0
             ]
@@ -985,10 +941,6 @@
         "name": "Invoker Win Rate",
         "id": "Invoker Win Rate",
         "data": [
-            [
-                "Hellbear Smashers",
-                0.0
-            ],
             [
                 "Team Liquid",
                 0.0
@@ -1013,7 +965,7 @@
         "data": [
             [
                 "Nigma",
-                1
+                2
             ]
         ]
     },
@@ -1054,7 +1006,15 @@
         "id": "Leshrac Matches Played",
         "data": [
             [
+                "Nigma",
+                1
+            ],
+            [
                 "OG",
+                1
+            ],
+            [
+                "Team Liquid",
                 1
             ],
             [
@@ -1068,8 +1028,16 @@
         "id": "Leshrac Matches Won",
         "data": [
             [
+                "Nigma",
+                0
+            ],
+            [
                 "OG",
                 1
+            ],
+            [
+                "Team Liquid",
+                0
             ],
             [
                 "Team Unique",
@@ -1082,11 +1050,61 @@
         "id": "Leshrac Win Rate",
         "data": [
             [
+                "Nigma",
+                0.0
+            ],
+            [
                 "OG",
                 1.0
             ],
             [
+                "Team Liquid",
+                0.0
+            ],
+            [
                 "Team Unique",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lina Matches Played",
+        "id": "Lina Matches Played",
+        "data": [
+            [
+                "Nigma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lina Matches Won",
+        "id": "Lina Matches Won",
+        "data": [
+            [
+                "Nigma",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Win Rate",
+        "id": "Lina Win Rate",
+        "data": [
+            [
+                "Nigma",
                 0.0
             ]
         ],
@@ -1186,10 +1204,6 @@
         "id": "Magnus Matches Played",
         "data": [
             [
-                "Hellbear Smashers",
-                1
-            ],
-            [
                 "ViKin.gg",
                 1
             ]
@@ -1199,10 +1213,6 @@
         "name": "Magnus Matches Won",
         "id": "Magnus Matches Won",
         "data": [
-            [
-                "Hellbear Smashers",
-                0
-            ],
             [
                 "ViKin.gg",
                 1
@@ -1214,11 +1224,49 @@
         "id": "Magnus Win Rate",
         "data": [
             [
-                "Hellbear Smashers",
-                0.0
-            ],
-            [
                 "ViKin.gg",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Mars Matches Played",
+        "id": "Mars Matches Played",
+        "data": [
+            [
+                "Tundra Esports ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Mars Matches Won",
+        "id": "Mars Matches Won",
+        "data": [
+            [
+                "Tundra Esports ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Mars Win Rate",
+        "id": "Mars Win Rate",
+        "data": [
+            [
+                "Tundra Esports ",
                 1.0
             ]
         ],
@@ -1282,15 +1330,11 @@
         "id": "Mirana Matches Played",
         "data": [
             [
-                "Hellbear Smashers",
-                1
-            ],
-            [
                 "OG",
                 1
             ],
             [
-                "Сascade Esports",
+                "Team Liquid",
                 1
             ]
         ]
@@ -1300,16 +1344,12 @@
         "id": "Mirana Matches Won",
         "data": [
             [
-                "Hellbear Smashers",
-                1
-            ],
-            [
                 "OG",
                 1
             ],
             [
-                "Сascade Esports",
-                1
+                "Team Liquid",
+                0
             ]
         ]
     },
@@ -1318,16 +1358,12 @@
         "id": "Mirana Win Rate",
         "data": [
             [
-                "Hellbear Smashers",
-                1.0
-            ],
-            [
                 "OG",
                 1.0
             ],
             [
-                "Сascade Esports",
-                1.0
+                "Team Liquid",
+                0.0
             ]
         ],
         "type": "spline",
@@ -1350,10 +1386,6 @@
             [
                 "Nigma",
                 1
-            ],
-            [
-                "Сascade Esports",
-                1
             ]
         ]
     },
@@ -1364,10 +1396,6 @@
             [
                 "Nigma",
                 0
-            ],
-            [
-                "Сascade Esports",
-                0
             ]
         ]
     },
@@ -1377,10 +1405,6 @@
         "data": [
             [
                 "Nigma",
-                0.0
-            ],
-            [
-                "Сascade Esports",
                 0.0
             ]
         ],
@@ -1494,48 +1518,6 @@
         }
     },
     {
-        "name": "Outworld Devourer Matches Played",
-        "id": "Outworld Devourer Matches Played",
-        "data": [
-            [
-                "Сascade Esports",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Outworld Devourer Matches Won",
-        "id": "Outworld Devourer Matches Won",
-        "data": [
-            [
-                "Сascade Esports",
-                0
-            ]
-        ]
-    },
-    {
-        "name": "Outworld Devourer Win Rate",
-        "id": "Outworld Devourer Win Rate",
-        "data": [
-            [
-                "Сascade Esports",
-                0.0
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
-    },
-    {
         "name": "Pangolier Matches Played",
         "id": "Pangolier Matches Played",
         "data": [
@@ -1582,11 +1564,7 @@
         "id": "Phoenix Matches Played",
         "data": [
             [
-                "Hellbear Smashers",
-                1
-            ],
-            [
-                "Сascade Esports",
+                "Nigma",
                 1
             ]
         ]
@@ -1596,11 +1574,7 @@
         "id": "Phoenix Matches Won",
         "data": [
             [
-                "Hellbear Smashers",
-                1
-            ],
-            [
-                "Сascade Esports",
+                "Nigma",
                 0
             ]
         ]
@@ -1610,11 +1584,7 @@
         "id": "Phoenix Win Rate",
         "data": [
             [
-                "Hellbear Smashers",
-                1.0
-            ],
-            [
-                "Сascade Esports",
+                "Nigma",
                 0.0
             ]
         ],
@@ -1640,10 +1610,6 @@
                 2
             ],
             [
-                "Hellbear Smashers",
-                1
-            ],
-            [
                 "Nigma",
                 1
             ]
@@ -1658,10 +1624,6 @@
                 0
             ],
             [
-                "Hellbear Smashers",
-                1
-            ],
-            [
                 "Nigma",
                 0
             ]
@@ -1674,10 +1636,6 @@
             [
                 "AS Monaco Gambit",
                 0.0
-            ],
-            [
-                "Hellbear Smashers",
-                1.0
             ],
             [
                 "Nigma",
@@ -1704,6 +1662,10 @@
             [
                 "Team Unique",
                 1
+            ],
+            [
+                "ViKin.gg",
+                1
             ]
         ]
     },
@@ -1714,6 +1676,10 @@
             [
                 "Team Unique",
                 0
+            ],
+            [
+                "ViKin.gg",
+                1
             ]
         ]
     },
@@ -1724,6 +1690,10 @@
             [
                 "Team Unique",
                 0.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
             ]
         ],
         "type": "spline",
@@ -1782,53 +1752,19 @@
         }
     },
     {
-        "name": "Shadow Shaman Matches Played",
-        "id": "Shadow Shaman Matches Played",
-        "data": [
-            [
-                "Сascade Esports",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Shadow Shaman Matches Won",
-        "id": "Shadow Shaman Matches Won",
-        "data": [
-            [
-                "Сascade Esports",
-                0
-            ]
-        ]
-    },
-    {
-        "name": "Shadow Shaman Win Rate",
-        "id": "Shadow Shaman Win Rate",
-        "data": [
-            [
-                "Сascade Esports",
-                0.0
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
-    },
-    {
         "name": "Snapfire Matches Played",
         "id": "Snapfire Matches Played",
         "data": [
             [
                 "Team Liquid",
+                1
+            ],
+            [
+                "Tundra Esports ",
+                1
+            ],
+            [
+                "ViKin.gg",
                 1
             ]
         ]
@@ -1840,6 +1776,14 @@
             [
                 "Team Liquid",
                 0
+            ],
+            [
+                "Tundra Esports ",
+                1
+            ],
+            [
+                "ViKin.gg",
+                1
             ]
         ]
     },
@@ -1850,6 +1794,14 @@
             [
                 "Team Liquid",
                 0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
             ]
         ],
         "type": "spline",
@@ -1912,7 +1864,7 @@
         "id": "Storm Spirit Matches Played",
         "data": [
             [
-                "Hellbear Smashers",
+                "ViKin.gg",
                 1
             ]
         ]
@@ -1922,7 +1874,7 @@
         "id": "Storm Spirit Matches Won",
         "data": [
             [
-                "Hellbear Smashers",
+                "ViKin.gg",
                 1
             ]
         ]
@@ -1932,7 +1884,7 @@
         "id": "Storm Spirit Win Rate",
         "data": [
             [
-                "Hellbear Smashers",
+                "ViKin.gg",
                 1.0
             ]
         ],
@@ -2010,10 +1962,6 @@
             [
                 "OG",
                 1
-            ],
-            [
-                "Сascade Esports",
-                1
             ]
         ]
     },
@@ -2024,10 +1972,6 @@
             [
                 "OG",
                 1
-            ],
-            [
-                "Сascade Esports",
-                0
             ]
         ]
     },
@@ -2038,10 +1982,6 @@
             [
                 "OG",
                 1.0
-            ],
-            [
-                "Сascade Esports",
-                0.0
             ]
         ],
         "type": "spline",
@@ -2112,48 +2052,6 @@
         }
     },
     {
-        "name": "Tiny Matches Played",
-        "id": "Tiny Matches Played",
-        "data": [
-            [
-                "Сascade Esports",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Tiny Matches Won",
-        "id": "Tiny Matches Won",
-        "data": [
-            [
-                "Сascade Esports",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Tiny Win Rate",
-        "id": "Tiny Win Rate",
-        "data": [
-            [
-                "Сascade Esports",
-                1.0
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
-    },
-    {
         "name": "Undying Matches Played",
         "id": "Undying Matches Played",
         "data": [
@@ -2200,8 +2098,8 @@
         "id": "Ursa Matches Played",
         "data": [
             [
-                "Hellbear Smashers",
-                2
+                "ViKin.gg",
+                1
             ]
         ]
     },
@@ -2210,8 +2108,8 @@
         "id": "Ursa Matches Won",
         "data": [
             [
-                "Hellbear Smashers",
-                2
+                "ViKin.gg",
+                1
             ]
         ]
     },
@@ -2220,7 +2118,7 @@
         "id": "Ursa Win Rate",
         "data": [
             [
-                "Hellbear Smashers",
+                "ViKin.gg",
                 1.0
             ]
         ],
@@ -2286,10 +2184,6 @@
             [
                 "OG",
                 1
-            ],
-            [
-                "Сascade Esports",
-                1
             ]
         ]
     },
@@ -2300,10 +2194,6 @@
             [
                 "OG",
                 1
-            ],
-            [
-                "Сascade Esports",
-                0
             ]
         ]
     },
@@ -2313,64 +2203,6 @@
         "data": [
             [
                 "OG",
-                1.0
-            ],
-            [
-                "Сascade Esports",
-                0.0
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
-    },
-    {
-        "name": "Warlock Matches Played",
-        "id": "Warlock Matches Played",
-        "data": [
-            [
-                "Hellbear Smashers",
-                1
-            ],
-            [
-                "Сascade Esports",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Warlock Matches Won",
-        "id": "Warlock Matches Won",
-        "data": [
-            [
-                "Hellbear Smashers",
-                1
-            ],
-            [
-                "Сascade Esports",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Warlock Win Rate",
-        "id": "Warlock Win Rate",
-        "data": [
-            [
-                "Hellbear Smashers",
-                1.0
-            ],
-            [
-                "Сascade Esports",
                 1.0
             ]
         ],
@@ -2460,10 +2292,6 @@
             [
                 "Alliance",
                 1
-            ],
-            [
-                "Hellbear Smashers",
-                1
             ]
         ]
     },
@@ -2474,10 +2302,6 @@
             [
                 "Alliance",
                 1
-            ],
-            [
-                "Hellbear Smashers",
-                0
             ]
         ]
     },
@@ -2488,10 +2312,6 @@
             [
                 "Alliance",
                 1.0
-            ],
-            [
-                "Hellbear Smashers",
-                0.0
             ]
         ],
         "type": "spline",

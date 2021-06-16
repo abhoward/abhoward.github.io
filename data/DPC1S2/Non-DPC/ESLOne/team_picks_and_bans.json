@@ -5,7 +5,7 @@
         "data": [
             [
                 "ViKin.gg",
-                1.0
+                2.0
             ]
         ]
     },
@@ -24,8 +24,8 @@
         "id": "Ancient Apparition Picks",
         "data": [
             [
-                "Сascade Esports",
-                2.0
+                "ViKin.gg",
+                0.0
             ],
             [
                 "Team Unique",
@@ -40,15 +40,11 @@
                 0.0
             ],
             [
-                "ViKin.gg",
-                0.0
-            ],
-            [
-                "OG",
+                "Tundra Esports ",
                 1.0
             ],
             [
-                "Hellbear Smashers",
+                "OG",
                 1.0
             ]
         ]
@@ -58,8 +54,8 @@
         "id": "Ancient Apparition Bans",
         "data": [
             [
-                "Сascade Esports",
-                0.0
+                "ViKin.gg",
+                2.0
             ],
             [
                 "Team Unique",
@@ -74,15 +70,11 @@
                 1.0
             ],
             [
-                "ViKin.gg",
-                1.0
-            ],
-            [
-                "OG",
+                "Tundra Esports ",
                 0.0
             ],
             [
-                "Hellbear Smashers",
+                "OG",
                 0.0
             ]
         ]
@@ -91,10 +83,6 @@
         "name": "Anti-Mage Picks For",
         "id": "Anti-Mage Picks",
         "data": [
-            [
-                "Hellbear Smashers",
-                0.0
-            ],
             [
                 "AS Monaco Gambit",
                 0.0
@@ -105,10 +93,6 @@
         "name": "Anti-Mage Bans Against",
         "id": "Anti-Mage Bans",
         "data": [
-            [
-                "Hellbear Smashers",
-                1.0
-            ],
             [
                 "AS Monaco Gambit",
                 1.0
@@ -124,15 +108,15 @@
                 1.0
             ],
             [
-                "OG",
-                0.0
-            ],
-            [
                 "Nigma",
                 1.0
             ],
             [
-                "Hellbear Smashers",
+                "OG",
+                0.0
+            ],
+            [
+                "Team Liquid",
                 1.0
             ]
         ]
@@ -146,15 +130,15 @@
                 1.0
             ],
             [
+                "Nigma",
+                1.0
+            ],
+            [
                 "OG",
                 1.0
             ],
             [
-                "Nigma",
-                0.0
-            ],
-            [
-                "Hellbear Smashers",
+                "Team Liquid",
                 0.0
             ]
         ]
@@ -195,7 +179,7 @@
         "data": [
             [
                 "Tundra Esports ",
-                1.0
+                2.0
             ]
         ]
     },
@@ -204,11 +188,11 @@
         "id": "Brewmaster Picks",
         "data": [
             [
-                "Nigma",
+                "Alliance",
                 1.0
             ],
             [
-                "Alliance",
+                "Nigma",
                 1.0
             ]
         ]
@@ -218,11 +202,11 @@
         "id": "Brewmaster Bans",
         "data": [
             [
-                "Nigma",
+                "Alliance",
                 0.0
             ],
             [
-                "Alliance",
+                "Nigma",
                 0.0
             ]
         ]
@@ -232,20 +216,20 @@
         "id": "Broodmother Picks",
         "data": [
             [
-                "Team Unique",
-                1.0
-            ],
-            [
-                "AS Monaco Gambit",
-                0.0
-            ],
-            [
                 "ViKin.gg",
                 0.0
             ],
             [
                 "Team Liquid",
                 0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Unique",
+                1.0
             ]
         ]
     },
@@ -254,19 +238,39 @@
         "id": "Broodmother Bans",
         "data": [
             [
-                "Team Unique",
-                1.0
+                "ViKin.gg",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                2.0
             ],
             [
                 "AS Monaco Gambit",
                 2.0
             ],
             [
-                "ViKin.gg",
+                "Team Unique",
                 1.0
-            ],
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Picks For",
+        "id": "Centaur Warrunner Picks",
+        "data": [
             [
-                "Team Liquid",
+                "ViKin.gg",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Bans Against",
+        "id": "Centaur Warrunner Bans",
+        "data": [
+            [
+                "ViKin.gg",
                 1.0
             ]
         ]
@@ -282,6 +286,10 @@
             [
                 "Team Liquid",
                 1.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
             ]
         ]
     },
@@ -296,6 +304,10 @@
             [
                 "Team Liquid",
                 0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
             ]
         ]
     },
@@ -304,11 +316,15 @@
         "id": "Clockwerk Picks",
         "data": [
             [
-                "Hellbear Smashers",
+                "Nigma",
                 0.0
             ],
             [
                 "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Liquid",
                 1.0
             ]
         ]
@@ -318,11 +334,15 @@
         "id": "Clockwerk Bans",
         "data": [
             [
-                "Hellbear Smashers",
+                "Nigma",
                 1.0
             ],
             [
                 "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Liquid",
                 0.0
             ]
         ]
@@ -352,10 +372,6 @@
         "id": "Dark Willow Picks",
         "data": [
             [
-                "Hellbear Smashers",
-                0.0
-            ],
-            [
                 "AS Monaco Gambit",
                 0.0
             ],
@@ -369,10 +385,6 @@
         "name": "Dark Willow Bans Against",
         "id": "Dark Willow Bans",
         "data": [
-            [
-                "Hellbear Smashers",
-                1.0
-            ],
             [
                 "AS Monaco Gambit",
                 1.0
@@ -388,15 +400,11 @@
         "id": "Death Prophet Picks",
         "data": [
             [
-                "Nigma",
-                0.0
-            ],
-            [
-                "Hellbear Smashers",
-                0.0
-            ],
-            [
                 "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Nigma",
                 0.0
             ],
             [
@@ -410,15 +418,11 @@
         "id": "Death Prophet Bans",
         "data": [
             [
-                "Nigma",
-                1.0
-            ],
-            [
-                "Hellbear Smashers",
-                1.0
-            ],
-            [
                 "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Nigma",
                 1.0
             ],
             [
@@ -432,10 +436,6 @@
         "id": "Doom Picks",
         "data": [
             [
-                "Сascade Esports",
-                0.0
-            ],
-            [
                 "Team Unique",
                 1.0
             ]
@@ -445,10 +445,6 @@
         "name": "Doom Bans Against",
         "id": "Doom Bans",
         "data": [
-            [
-                "Сascade Esports",
-                1.0
-            ],
             [
                 "Team Unique",
                 0.0
@@ -460,23 +456,19 @@
         "id": "Dragon Knight Picks",
         "data": [
             [
-                "Сascade Esports",
-                1.0
-            ],
-            [
                 "AS Monaco Gambit",
                 2.0
             ],
             [
-                "Hellbear Smashers",
-                1.0
+                "Tundra Esports ",
+                2.0
+            ],
+            [
+                "Nigma",
+                0.0
             ],
             [
                 "Alliance",
-                1.0
-            ],
-            [
-                "Tundra Esports ",
                 1.0
             ]
         ]
@@ -486,23 +478,19 @@
         "id": "Dragon Knight Bans",
         "data": [
             [
-                "Сascade Esports",
-                1.0
-            ],
-            [
                 "AS Monaco Gambit",
                 0.0
             ],
             [
-                "Hellbear Smashers",
+                "Tundra Esports ",
                 0.0
+            ],
+            [
+                "Nigma",
+                1.0
             ],
             [
                 "Alliance",
-                0.0
-            ],
-            [
-                "Tundra Esports ",
                 0.0
             ]
         ]
@@ -512,16 +500,8 @@
         "id": "Drow Ranger Picks",
         "data": [
             [
-                "Hellbear Smashers",
-                0.0
-            ],
-            [
-                "Сascade Esports",
-                0.0
-            ],
-            [
                 "Team Liquid",
-                0.0
+                1.0
             ],
             [
                 "OG",
@@ -538,14 +518,6 @@
         "id": "Drow Ranger Bans",
         "data": [
             [
-                "Hellbear Smashers",
-                2.0
-            ],
-            [
-                "Сascade Esports",
-                1.0
-            ],
-            [
                 "Team Liquid",
                 1.0
             ],
@@ -560,33 +532,9 @@
         ]
     },
     {
-        "name": "Earthshaker Picks For",
-        "id": "Earthshaker Picks",
-        "data": [
-            [
-                "Сascade Esports",
-                1.0
-            ]
-        ]
-    },
-    {
-        "name": "Earthshaker Bans Against",
-        "id": "Earthshaker Bans",
-        "data": [
-            [
-                "Сascade Esports",
-                0.0
-            ]
-        ]
-    },
-    {
         "name": "Elder Titan Picks For",
         "id": "Elder Titan Picks",
         "data": [
-            [
-                "Hellbear Smashers",
-                1.0
-            ],
             [
                 "OG",
                 1.0
@@ -597,10 +545,6 @@
         "name": "Elder Titan Bans Against",
         "id": "Elder Titan Bans",
         "data": [
-            [
-                "Hellbear Smashers",
-                0.0
-            ],
             [
                 "OG",
                 0.0
@@ -638,6 +582,10 @@
             [
                 "Team Liquid",
                 0.0
+            ],
+            [
+                "Nigma",
+                0.0
             ]
         ]
     },
@@ -651,6 +599,10 @@
             ],
             [
                 "Team Liquid",
+                2.0
+            ],
+            [
+                "Nigma",
                 1.0
             ]
         ]
@@ -659,10 +611,6 @@
         "name": "Faceless Void Picks For",
         "id": "Faceless Void Picks",
         "data": [
-            [
-                "Сascade Esports",
-                2.0
-            ],
             [
                 "ViKin.gg",
                 1.0
@@ -674,12 +622,8 @@
         "id": "Faceless Void Bans",
         "data": [
             [
-                "Сascade Esports",
-                0.0
-            ],
-            [
                 "ViKin.gg",
-                0.0
+                1.0
             ]
         ]
     },
@@ -717,7 +661,7 @@
         "data": [
             [
                 "Nigma",
-                0.0
+                1.0
             ]
         ]
     },
@@ -744,10 +688,6 @@
                 1.0
             ],
             [
-                "Hellbear Smashers",
-                1.0
-            ],
-            [
                 "Alliance",
                 1.0
             ]
@@ -766,10 +706,6 @@
                 0.0
             ],
             [
-                "Hellbear Smashers",
-                0.0
-            ],
-            [
                 "Alliance",
                 0.0
             ]
@@ -780,19 +716,11 @@
         "id": "Invoker Picks",
         "data": [
             [
-                "Hellbear Smashers",
+                "Team Liquid",
                 1.0
             ],
             [
-                "Team Unique",
-                0.0
-            ],
-            [
                 "Nigma",
-                0.0
-            ],
-            [
-                "Alliance",
                 0.0
             ],
             [
@@ -800,8 +728,12 @@
                 0.0
             ],
             [
-                "Team Liquid",
-                1.0
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
             ]
         ]
     },
@@ -810,7 +742,15 @@
         "id": "Invoker Bans",
         "data": [
             [
-                "Hellbear Smashers",
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
                 1.0
             ],
             [
@@ -818,20 +758,8 @@
                 1.0
             ],
             [
-                "Nigma",
-                1.0
-            ],
-            [
                 "Alliance",
                 1.0
-            ],
-            [
-                "AS Monaco Gambit",
-                1.0
-            ],
-            [
-                "Team Liquid",
-                0.0
             ]
         ]
     },
@@ -841,7 +769,7 @@
         "data": [
             [
                 "Nigma",
-                1.0
+                2.0
             ]
         ]
     },
@@ -856,21 +784,21 @@
         ]
     },
     {
-        "name": "Legion Commander Picks For",
-        "id": "Legion Commander Picks",
+        "name": "Juggernaut Picks For",
+        "id": "Juggernaut Picks",
         "data": [
             [
-                "Сascade Esports",
+                "ViKin.gg",
                 0.0
             ]
         ]
     },
     {
-        "name": "Legion Commander Bans Against",
-        "id": "Legion Commander Bans",
+        "name": "Juggernaut Bans Against",
+        "id": "Juggernaut Bans",
         "data": [
             [
-                "Сascade Esports",
+                "ViKin.gg",
                 1.0
             ]
         ]
@@ -880,15 +808,19 @@
         "id": "Leshrac Picks",
         "data": [
             [
-                "Сascade Esports",
-                0.0
-            ],
-            [
                 "Team Unique",
                 1.0
             ],
             [
+                "Team Liquid",
+                1.0
+            ],
+            [
                 "OG",
+                1.0
+            ],
+            [
+                "Nigma",
                 1.0
             ]
         ]
@@ -898,15 +830,19 @@
         "id": "Leshrac Bans",
         "data": [
             [
-                "Сascade Esports",
-                1.0
-            ],
-            [
                 "Team Unique",
                 0.0
             ],
             [
+                "Team Liquid",
+                0.0
+            ],
+            [
                 "OG",
+                0.0
+            ],
+            [
+                "Nigma",
                 0.0
             ]
         ]
@@ -918,6 +854,10 @@
             [
                 "Alliance",
                 0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
             ]
         ]
     },
@@ -927,6 +867,10 @@
         "data": [
             [
                 "Alliance",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
                 1.0
             ]
         ]
@@ -944,8 +888,8 @@
                 0.0
             ],
             [
-                "Hellbear Smashers",
-                0.0
+                "Nigma",
+                1.0
             ]
         ]
     },
@@ -962,8 +906,8 @@
                 1.0
             ],
             [
-                "Hellbear Smashers",
-                1.0
+                "Nigma",
+                0.0
             ]
         ]
     },
@@ -976,15 +920,15 @@
                 2.0
             ],
             [
-                "ViKin.gg",
-                1.0
-            ],
-            [
                 "Team Unique",
                 1.0
             ],
             [
                 "Alliance",
+                1.0
+            ],
+            [
+                "ViKin.gg",
                 1.0
             ]
         ]
@@ -998,15 +942,15 @@
                 0.0
             ],
             [
-                "ViKin.gg",
-                0.0
-            ],
-            [
                 "Team Unique",
                 0.0
             ],
             [
                 "Alliance",
+                0.0
+            ],
+            [
+                "ViKin.gg",
                 0.0
             ]
         ]
@@ -1027,7 +971,7 @@
         "data": [
             [
                 "Team Liquid",
-                1.0
+                2.0
             ]
         ]
     },
@@ -1040,11 +984,11 @@
                 0.0
             ],
             [
-                "Tundra Esports ",
+                "Nigma",
                 0.0
             ],
             [
-                "Nigma",
+                "Tundra Esports ",
                 0.0
             ]
         ]
@@ -1058,11 +1002,11 @@
                 2.0
             ],
             [
-                "Tundra Esports ",
-                1.0
+                "Nigma",
+                2.0
             ],
             [
-                "Nigma",
+                "Tundra Esports ",
                 1.0
             ]
         ]
@@ -1074,10 +1018,6 @@
             [
                 "ViKin.gg",
                 1.0
-            ],
-            [
-                "Hellbear Smashers",
-                1.0
             ]
         ]
     },
@@ -1088,10 +1028,6 @@
             [
                 "ViKin.gg",
                 0.0
-            ],
-            [
-                "Hellbear Smashers",
-                0.0
             ]
         ]
     },
@@ -1100,7 +1036,11 @@
         "id": "Mars Picks",
         "data": [
             [
-                "Сascade Esports",
+                "Nigma",
+                0.0
+            ],
+            [
+                "Alliance",
                 0.0
             ],
             [
@@ -1108,12 +1048,8 @@
                 0.0
             ],
             [
-                "Hellbear Smashers",
-                0.0
-            ],
-            [
-                "Alliance",
-                0.0
+                "Tundra Esports ",
+                1.0
             ]
         ]
     },
@@ -1122,7 +1058,11 @@
         "id": "Mars Bans",
         "data": [
             [
-                "Сascade Esports",
+                "Nigma",
+                1.0
+            ],
+            [
+                "Alliance",
                 1.0
             ],
             [
@@ -1130,12 +1070,8 @@
                 1.0
             ],
             [
-                "Hellbear Smashers",
-                1.0
-            ],
-            [
-                "Alliance",
-                1.0
+                "Tundra Esports ",
+                0.0
             ]
         ]
     },
@@ -1172,11 +1108,7 @@
         "id": "Mirana Picks",
         "data": [
             [
-                "Hellbear Smashers",
-                1.0
-            ],
-            [
-                "Сascade Esports",
+                "Team Liquid",
                 1.0
             ],
             [
@@ -1190,11 +1122,7 @@
         "id": "Mirana Bans",
         "data": [
             [
-                "Hellbear Smashers",
-                0.0
-            ],
-            [
-                "Сascade Esports",
+                "Team Liquid",
                 0.0
             ],
             [
@@ -1212,11 +1140,11 @@
                 0.0
             ],
             [
-                "Сascade Esports",
-                1.0
+                "AS Monaco Gambit",
+                0.0
             ],
             [
-                "AS Monaco Gambit",
+                "ViKin.gg",
                 0.0
             ],
             [
@@ -1234,11 +1162,11 @@
                 2.0
             ],
             [
-                "Сascade Esports",
+                "AS Monaco Gambit",
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "ViKin.gg",
                 1.0
             ],
             [
@@ -1272,15 +1200,11 @@
         "id": "Nyx Assassin Picks",
         "data": [
             [
-                "Сascade Esports",
-                0.0
-            ],
-            [
-                "OG",
+                "Alliance",
                 1.0
             ],
             [
-                "Alliance",
+                "OG",
                 1.0
             ]
         ]
@@ -1290,35 +1214,11 @@
         "id": "Nyx Assassin Bans",
         "data": [
             [
-                "Сascade Esports",
-                2.0
+                "Alliance",
+                0.0
             ],
             [
                 "OG",
-                0.0
-            ],
-            [
-                "Alliance",
-                0.0
-            ]
-        ]
-    },
-    {
-        "name": "Outworld Devourer Picks For",
-        "id": "Outworld Devourer Picks",
-        "data": [
-            [
-                "Сascade Esports",
-                1.0
-            ]
-        ]
-    },
-    {
-        "name": "Outworld Devourer Bans Against",
-        "id": "Outworld Devourer Bans",
-        "data": [
-            [
-                "Сascade Esports",
                 0.0
             ]
         ]
@@ -1344,23 +1244,39 @@
         ]
     },
     {
+        "name": "Phantom Assassin Picks For",
+        "id": "Phantom Assassin Picks",
+        "data": [
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Bans Against",
+        "id": "Phantom Assassin Bans",
+        "data": [
+            [
+                "Tundra Esports ",
+                1.0
+            ]
+        ]
+    },
+    {
         "name": "Phantom Lancer Picks For",
         "id": "Phantom Lancer Picks",
         "data": [
-            [
-                "ViKin.gg",
-                0.0
-            ],
             [
                 "Team Liquid",
                 0.0
             ],
             [
-                "Alliance",
+                "ViKin.gg",
                 0.0
             ],
             [
-                "Hellbear Smashers",
+                "Alliance",
                 0.0
             ]
         ]
@@ -1370,19 +1286,15 @@
         "id": "Phantom Lancer Bans",
         "data": [
             [
-                "ViKin.gg",
-                1.0
-            ],
-            [
                 "Team Liquid",
                 1.0
             ],
             [
-                "Alliance",
+                "ViKin.gg",
                 1.0
             ],
             [
-                "Hellbear Smashers",
+                "Alliance",
                 1.0
             ]
         ]
@@ -1400,11 +1312,7 @@
                 0.0
             ],
             [
-                "Сascade Esports",
-                1.0
-            ],
-            [
-                "Hellbear Smashers",
+                "Nigma",
                 1.0
             ]
         ]
@@ -1422,11 +1330,7 @@
                 1.0
             ],
             [
-                "Сascade Esports",
-                0.0
-            ],
-            [
-                "Hellbear Smashers",
+                "Nigma",
                 0.0
             ]
         ]
@@ -1436,15 +1340,15 @@
         "id": "Puck Picks",
         "data": [
             [
-                "Hellbear Smashers",
-                1.0
-            ],
-            [
                 "AS Monaco Gambit",
                 2.0
             ],
             [
-                "Tundra Esports ",
+                "Alliance",
+                0.0
+            ],
+            [
+                "Team Liquid",
                 0.0
             ],
             [
@@ -1452,7 +1356,7 @@
                 0.0
             ],
             [
-                "Alliance",
+                "Tundra Esports ",
                 0.0
             ],
             [
@@ -1466,15 +1370,15 @@
         "id": "Puck Bans",
         "data": [
             [
-                "Hellbear Smashers",
-                2.0
-            ],
-            [
                 "AS Monaco Gambit",
                 0.0
             ],
             [
-                "Tundra Esports ",
+                "Alliance",
+                1.0
+            ],
+            [
+                "Team Liquid",
                 1.0
             ],
             [
@@ -1482,7 +1386,7 @@
                 1.0
             ],
             [
-                "Alliance",
+                "Tundra Esports ",
                 1.0
             ],
             [
@@ -1516,12 +1420,8 @@
         "id": "Razor Picks",
         "data": [
             [
-                "Сascade Esports",
-                0.0
-            ],
-            [
                 "ViKin.gg",
-                0.0
+                1.0
             ],
             [
                 "Team Unique",
@@ -1533,10 +1433,6 @@
         "name": "Razor Bans Against",
         "id": "Razor Bans",
         "data": [
-            [
-                "Сascade Esports",
-                1.0
-            ],
             [
                 "ViKin.gg",
                 1.0
@@ -1552,10 +1448,6 @@
         "id": "Sand King Picks",
         "data": [
             [
-                "Сascade Esports",
-                0.0
-            ],
-            [
                 "Team Liquid",
                 1.0
             ]
@@ -1566,51 +1458,7 @@
         "id": "Sand King Bans",
         "data": [
             [
-                "Сascade Esports",
-                1.0
-            ],
-            [
                 "Team Liquid",
-                0.0
-            ]
-        ]
-    },
-    {
-        "name": "Shadow Fiend Picks For",
-        "id": "Shadow Fiend Picks",
-        "data": [
-            [
-                "Сascade Esports",
-                0.0
-            ]
-        ]
-    },
-    {
-        "name": "Shadow Fiend Bans Against",
-        "id": "Shadow Fiend Bans",
-        "data": [
-            [
-                "Сascade Esports",
-                1.0
-            ]
-        ]
-    },
-    {
-        "name": "Shadow Shaman Picks For",
-        "id": "Shadow Shaman Picks",
-        "data": [
-            [
-                "Сascade Esports",
-                1.0
-            ]
-        ]
-    },
-    {
-        "name": "Shadow Shaman Bans Against",
-        "id": "Shadow Shaman Bans",
-        "data": [
-            [
-                "Сascade Esports",
                 0.0
             ]
         ]
@@ -1640,7 +1488,15 @@
         "id": "Snapfire Picks",
         "data": [
             [
+                "ViKin.gg",
+                1.0
+            ],
+            [
                 "Team Liquid",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
                 1.0
             ]
         ]
@@ -1650,7 +1506,15 @@
         "id": "Snapfire Bans",
         "data": [
             [
+                "ViKin.gg",
+                0.0
+            ],
+            [
                 "Team Liquid",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
                 0.0
             ]
         ]
@@ -1660,6 +1524,10 @@
         "id": "Spectre Picks",
         "data": [
             [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
                 "AS Monaco Gambit",
                 0.0
             ],
@@ -1668,24 +1536,12 @@
                 0.0
             ],
             [
-                "Alliance",
-                1.0
-            ],
-            [
-                "Сascade Esports",
-                0.0
-            ],
-            [
-                "Tundra Esports ",
-                0.0
-            ],
-            [
                 "Team Unique",
                 0.0
             ],
             [
-                "Hellbear Smashers",
-                0.0
+                "Alliance",
+                1.0
             ]
         ]
     },
@@ -1693,6 +1549,10 @@
         "name": "Spectre Bans Against",
         "id": "Spectre Bans",
         "data": [
+            [
+                "Tundra Esports ",
+                2.0
+            ],
             [
                 "AS Monaco Gambit",
                 2.0
@@ -1702,24 +1562,12 @@
                 1.0
             ],
             [
-                "Alliance",
-                0.0
-            ],
-            [
-                "Сascade Esports",
-                1.0
-            ],
-            [
-                "Tundra Esports ",
-                1.0
-            ],
-            [
                 "Team Unique",
                 1.0
             ],
             [
-                "Hellbear Smashers",
-                1.0
+                "Alliance",
+                0.0
             ]
         ]
     },
@@ -1728,12 +1576,8 @@
         "id": "Storm Spirit Picks",
         "data": [
             [
-                "Hellbear Smashers",
-                1.0
-            ],
-            [
                 "ViKin.gg",
-                0.0
+                1.0
             ]
         ]
     },
@@ -1741,10 +1585,6 @@
         "name": "Storm Spirit Bans Against",
         "id": "Storm Spirit Bans",
         "data": [
-            [
-                "Hellbear Smashers",
-                1.0
-            ],
             [
                 "ViKin.gg",
                 1.0
@@ -1776,11 +1616,11 @@
         "id": "Templar Assassin Picks",
         "data": [
             [
-                "Hellbear Smashers",
+                "AS Monaco Gambit",
                 0.0
             ],
             [
-                "AS Monaco Gambit",
+                "Team Liquid",
                 0.0
             ],
             [
@@ -1794,12 +1634,12 @@
         "id": "Templar Assassin Bans",
         "data": [
             [
-                "Hellbear Smashers",
-                3.0
-            ],
-            [
                 "AS Monaco Gambit",
                 2.0
+            ],
+            [
+                "Team Liquid",
+                1.0
             ],
             [
                 "Alliance",
@@ -1812,7 +1652,7 @@
         "id": "Terrorblade Picks",
         "data": [
             [
-                "Сascade Esports",
+                "Tundra Esports ",
                 0.0
             ],
             [
@@ -1830,7 +1670,7 @@
         "id": "Terrorblade Bans",
         "data": [
             [
-                "Сascade Esports",
+                "Tundra Esports ",
                 1.0
             ],
             [
@@ -1852,12 +1692,8 @@
                 0.0
             ],
             [
-                "Hellbear Smashers",
+                "ViKin.gg",
                 0.0
-            ],
-            [
-                "Сascade Esports",
-                1.0
             ],
             [
                 "OG",
@@ -1871,15 +1707,11 @@
         "data": [
             [
                 "Tundra Esports ",
-                1.0
+                2.0
             ],
             [
-                "Hellbear Smashers",
+                "ViKin.gg",
                 1.0
-            ],
-            [
-                "Сascade Esports",
-                0.0
             ],
             [
                 "OG",
@@ -1900,19 +1732,11 @@
                 0.0
             ],
             [
-                "Сascade Esports",
-                0.0
-            ],
-            [
-                "Hellbear Smashers",
-                0.0
-            ],
-            [
-                "ViKin.gg",
+                "Team Liquid",
                 1.0
             ],
             [
-                "Team Liquid",
+                "ViKin.gg",
                 1.0
             ]
         ]
@@ -1930,60 +1754,12 @@
                 2.0
             ],
             [
-                "Сascade Esports",
-                1.0
-            ],
-            [
-                "Hellbear Smashers",
+                "Team Liquid",
                 1.0
             ],
             [
                 "ViKin.gg",
                 0.0
-            ],
-            [
-                "Team Liquid",
-                0.0
-            ]
-        ]
-    },
-    {
-        "name": "Tiny Picks For",
-        "id": "Tiny Picks",
-        "data": [
-            [
-                "Сascade Esports",
-                1.0
-            ]
-        ]
-    },
-    {
-        "name": "Tiny Bans Against",
-        "id": "Tiny Bans",
-        "data": [
-            [
-                "Сascade Esports",
-                2.0
-            ]
-        ]
-    },
-    {
-        "name": "Underlord Picks For",
-        "id": "Underlord Picks",
-        "data": [
-            [
-                "Сascade Esports",
-                0.0
-            ]
-        ]
-    },
-    {
-        "name": "Underlord Bans Against",
-        "id": "Underlord Bans",
-        "data": [
-            [
-                "Сascade Esports",
-                1.0
             ]
         ]
     },
@@ -2012,11 +1788,7 @@
         "id": "Ursa Picks",
         "data": [
             [
-                "Hellbear Smashers",
-                2.0
-            ],
-            [
-                "Alliance",
+                "Tundra Esports ",
                 0.0
             ],
             [
@@ -2024,16 +1796,20 @@
                 0.0
             ],
             [
-                "Team Unique",
-                0.0
-            ],
-            [
-                "Tundra Esports ",
+                "Alliance",
                 0.0
             ],
             [
                 "Nigma",
                 0.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
             ]
         ]
     },
@@ -2042,7 +1818,11 @@
         "id": "Ursa Bans",
         "data": [
             [
-                "Hellbear Smashers",
+                "Tundra Esports ",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
                 1.0
             ],
             [
@@ -2050,7 +1830,7 @@
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "Nigma",
                 1.0
             ],
             [
@@ -2058,12 +1838,8 @@
                 1.0
             ],
             [
-                "Tundra Esports ",
-                1.0
-            ],
-            [
-                "Nigma",
-                1.0
+                "ViKin.gg",
+                0.0
             ]
         ]
     },
@@ -2071,10 +1847,6 @@
         "name": "Viper Picks For",
         "id": "Viper Picks",
         "data": [
-            [
-                "Сascade Esports",
-                0.0
-            ],
             [
                 "Alliance",
                 1.0
@@ -2085,10 +1857,6 @@
         "name": "Viper Bans Against",
         "id": "Viper Bans",
         "data": [
-            [
-                "Сascade Esports",
-                2.0
-            ],
             [
                 "Alliance",
                 1.0
@@ -2102,10 +1870,6 @@
             [
                 "Tundra Esports ",
                 0.0
-            ],
-            [
-                "Сascade Esports",
-                1.0
             ],
             [
                 "OG",
@@ -2122,39 +1886,7 @@
                 1.0
             ],
             [
-                "Сascade Esports",
-                0.0
-            ],
-            [
                 "OG",
-                0.0
-            ]
-        ]
-    },
-    {
-        "name": "Warlock Picks For",
-        "id": "Warlock Picks",
-        "data": [
-            [
-                "Сascade Esports",
-                1.0
-            ],
-            [
-                "Hellbear Smashers",
-                1.0
-            ]
-        ]
-    },
-    {
-        "name": "Warlock Bans Against",
-        "id": "Warlock Bans",
-        "data": [
-            [
-                "Сascade Esports",
-                0.0
-            ],
-            [
-                "Hellbear Smashers",
                 0.0
             ]
         ]
@@ -2184,16 +1916,12 @@
         "id": "Winter Wyvern Picks",
         "data": [
             [
-                "Сascade Esports",
-                0.0
-            ],
-            [
                 "OG",
                 0.0
             ],
             [
-                "Hellbear Smashers",
-                0.0
+                "Alliance",
+                1.0
             ],
             [
                 "Tundra Esports ",
@@ -2201,10 +1929,6 @@
             ],
             [
                 "Team Unique",
-                1.0
-            ],
-            [
-                "Alliance",
                 1.0
             ]
         ]
@@ -2214,16 +1938,12 @@
         "id": "Winter Wyvern Bans",
         "data": [
             [
-                "Сascade Esports",
-                1.0
-            ],
-            [
                 "OG",
                 1.0
             ],
             [
-                "Hellbear Smashers",
-                1.0
+                "Alliance",
+                0.0
             ],
             [
                 "Tundra Esports ",
@@ -2231,10 +1951,6 @@
             ],
             [
                 "Team Unique",
-                0.0
-            ],
-            [
-                "Alliance",
                 0.0
             ]
         ]
@@ -2250,10 +1966,6 @@
             [
                 "Alliance",
                 1.0
-            ],
-            [
-                "Hellbear Smashers",
-                1.0
             ]
         ]
     },
@@ -2267,10 +1979,6 @@
             ],
             [
                 "Alliance",
-                0.0
-            ],
-            [
-                "Hellbear Smashers",
                 0.0
             ]
         ]

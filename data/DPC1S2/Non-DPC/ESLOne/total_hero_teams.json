@@ -262,203 +262,6 @@
         }
     },
     {
-        "name": "Hellbear Smashers Matches Played",
-        "id": "Hellbear Smashers Matches Played",
-        "data": [
-            [
-                "Ancient Apparition",
-                1
-            ],
-            [
-                "Axe",
-                1
-            ],
-            [
-                "Dragon Knight",
-                1
-            ],
-            [
-                "Elder Titan",
-                1
-            ],
-            [
-                "Hoodwink",
-                1
-            ],
-            [
-                "Invoker",
-                1
-            ],
-            [
-                "Magnus",
-                1
-            ],
-            [
-                "Mirana",
-                1
-            ],
-            [
-                "Phoenix",
-                1
-            ],
-            [
-                "Puck",
-                1
-            ],
-            [
-                "Storm Spirit",
-                1
-            ],
-            [
-                "Ursa",
-                2
-            ],
-            [
-                "Warlock",
-                1
-            ],
-            [
-                "Wraith King",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Hellbear Smashers Matches Won",
-        "id": "Hellbear Smashers Matches Won",
-        "data": [
-            [
-                "Ancient Apparition",
-                0
-            ],
-            [
-                "Axe",
-                1
-            ],
-            [
-                "Dragon Knight",
-                1
-            ],
-            [
-                "Elder Titan",
-                1
-            ],
-            [
-                "Hoodwink",
-                0
-            ],
-            [
-                "Invoker",
-                0
-            ],
-            [
-                "Magnus",
-                0
-            ],
-            [
-                "Mirana",
-                1
-            ],
-            [
-                "Phoenix",
-                1
-            ],
-            [
-                "Puck",
-                1
-            ],
-            [
-                "Storm Spirit",
-                1
-            ],
-            [
-                "Ursa",
-                2
-            ],
-            [
-                "Warlock",
-                1
-            ],
-            [
-                "Wraith King",
-                0
-            ]
-        ]
-    },
-    {
-        "name": "Hellbear Smashers Win Rate",
-        "id": "Hellbear Smashers Win Rate",
-        "data": [
-            [
-                "Ancient Apparition",
-                0.0
-            ],
-            [
-                "Axe",
-                1.0
-            ],
-            [
-                "Dragon Knight",
-                1.0
-            ],
-            [
-                "Elder Titan",
-                1.0
-            ],
-            [
-                "Hoodwink",
-                0.0
-            ],
-            [
-                "Invoker",
-                0.0
-            ],
-            [
-                "Magnus",
-                0.0
-            ],
-            [
-                "Mirana",
-                1.0
-            ],
-            [
-                "Phoenix",
-                1.0
-            ],
-            [
-                "Puck",
-                1.0
-            ],
-            [
-                "Storm Spirit",
-                1.0
-            ],
-            [
-                "Ursa",
-                1.0
-            ],
-            [
-                "Warlock",
-                1.0
-            ],
-            [
-                "Wraith King",
-                0.0
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond"
-        }
-    },
-    {
         "name": "Nigma Matches Played",
         "id": "Nigma Matches Played",
         "data": [
@@ -471,11 +274,27 @@
                 1
             ],
             [
+                "Gyrocopter",
+                1
+            ],
+            [
                 "Io",
+                2
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lina",
                 1
             ],
             [
                 "Morphling",
+                1
+            ],
+            [
+                "Phoenix",
                 1
             ],
             [
@@ -497,11 +316,27 @@
                 0
             ],
             [
+                "Gyrocopter",
+                0
+            ],
+            [
                 "Io",
                 0
             ],
             [
+                "Leshrac",
+                0
+            ],
+            [
+                "Lina",
+                0
+            ],
+            [
                 "Morphling",
+                0
+            ],
+            [
+                "Phoenix",
                 0
             ],
             [
@@ -523,11 +358,27 @@
                 0.0
             ],
             [
+                "Gyrocopter",
+                0.0
+            ],
+            [
                 "Io",
                 0.0
             ],
             [
+                "Leshrac",
+                0.0
+            ],
+            [
+                "Lina",
+                0.0
+            ],
+            [
                 "Morphling",
+                0.0
+            ],
+            [
+                "Phoenix",
                 0.0
             ],
             [
@@ -701,11 +552,31 @@
         "id": "Team Liquid Matches Played",
         "data": [
             [
+                "Axe",
+                1
+            ],
+            [
                 "Chaos Knight",
                 1
             ],
             [
+                "Clockwerk",
+                1
+            ],
+            [
+                "Drow Ranger",
+                1
+            ],
+            [
                 "Invoker",
+                1
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Mirana",
                 1
             ],
             [
@@ -727,11 +598,31 @@
         "id": "Team Liquid Matches Won",
         "data": [
             [
+                "Axe",
+                0
+            ],
+            [
                 "Chaos Knight",
                 0
             ],
             [
+                "Clockwerk",
+                0
+            ],
+            [
+                "Drow Ranger",
+                0
+            ],
+            [
                 "Invoker",
+                0
+            ],
+            [
+                "Leshrac",
+                0
+            ],
+            [
+                "Mirana",
                 0
             ],
             [
@@ -753,11 +644,31 @@
         "id": "Team Liquid Win Rate",
         "data": [
             [
+                "Axe",
+                0.0
+            ],
+            [
                 "Chaos Knight",
                 0.0
             ],
             [
+                "Clockwerk",
+                0.0
+            ],
+            [
+                "Drow Ranger",
+                0.0
+            ],
+            [
                 "Invoker",
+                0.0
+            ],
+            [
+                "Leshrac",
+                0.0
+            ],
+            [
+                "Mirana",
                 0.0
             ],
             [
@@ -939,15 +850,31 @@
         "id": "Tundra Esports  Matches Played",
         "data": [
             [
-                "Dragon Knight",
+                "Ancient Apparition",
                 1
+            ],
+            [
+                "Chaos Knight",
+                1
+            ],
+            [
+                "Dragon Knight",
+                2
             ],
             [
                 "Grimstroke",
                 1
             ],
             [
+                "Mars",
+                1
+            ],
+            [
                 "Medusa",
+                1
+            ],
+            [
+                "Snapfire",
                 1
             ],
             [
@@ -965,15 +892,31 @@
         "id": "Tundra Esports  Matches Won",
         "data": [
             [
-                "Dragon Knight",
+                "Ancient Apparition",
                 1
+            ],
+            [
+                "Chaos Knight",
+                1
+            ],
+            [
+                "Dragon Knight",
+                2
             ],
             [
                 "Grimstroke",
                 1
             ],
             [
+                "Mars",
+                1
+            ],
+            [
                 "Medusa",
+                1
+            ],
+            [
+                "Snapfire",
                 1
             ],
             [
@@ -991,6 +934,14 @@
         "id": "Tundra Esports  Win Rate",
         "data": [
             [
+                "Ancient Apparition",
+                1.0
+            ],
+            [
+                "Chaos Knight",
+                1.0
+            ],
+            [
                 "Dragon Knight",
                 1.0
             ],
@@ -999,7 +950,15 @@
                 1.0
             ],
             [
+                "Mars",
+                1.0
+            ],
+            [
                 "Medusa",
+                1.0
+            ],
+            [
+                "Snapfire",
                 1.0
             ],
             [
@@ -1029,7 +988,7 @@
         "data": [
             [
                 "Abaddon",
-                1
+                2
             ],
             [
                 "Faceless Void",
@@ -1044,7 +1003,23 @@
                 1
             ],
             [
+                "Razor",
+                1
+            ],
+            [
+                "Snapfire",
+                1
+            ],
+            [
+                "Storm Spirit",
+                1
+            ],
+            [
                 "Timbersaw",
+                1
+            ],
+            [
+                "Ursa",
                 1
             ]
         ]
@@ -1055,7 +1030,7 @@
         "data": [
             [
                 "Abaddon",
-                1
+                2
             ],
             [
                 "Faceless Void",
@@ -1070,7 +1045,23 @@
                 1
             ],
             [
+                "Razor",
+                1
+            ],
+            [
+                "Snapfire",
+                1
+            ],
+            [
+                "Storm Spirit",
+                1
+            ],
+            [
                 "Timbersaw",
+                1
+            ],
+            [
+                "Ursa",
                 1
             ]
         ]
@@ -1096,192 +1087,23 @@
                 1.0
             ],
             [
+                "Razor",
+                1.0
+            ],
+            [
+                "Snapfire",
+                1.0
+            ],
+            [
+                "Storm Spirit",
+                1.0
+            ],
+            [
                 "Timbersaw",
                 1.0
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond"
-        }
-    },
-    {
-        "name": "Сascade Esports Matches Played",
-        "id": "Сascade Esports Matches Played",
-        "data": [
-            [
-                "Ancient Apparition",
-                2
             ],
             [
-                "Dragon Knight",
-                1
-            ],
-            [
-                "Earthshaker",
-                1
-            ],
-            [
-                "Faceless Void",
-                2
-            ],
-            [
-                "Mirana",
-                1
-            ],
-            [
-                "Morphling",
-                1
-            ],
-            [
-                "Outworld Devourer",
-                1
-            ],
-            [
-                "Phoenix",
-                1
-            ],
-            [
-                "Shadow Shaman",
-                1
-            ],
-            [
-                "Tidehunter",
-                1
-            ],
-            [
-                "Tiny",
-                1
-            ],
-            [
-                "Void Spirit",
-                1
-            ],
-            [
-                "Warlock",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Сascade Esports Matches Won",
-        "id": "Сascade Esports Matches Won",
-        "data": [
-            [
-                "Ancient Apparition",
-                0
-            ],
-            [
-                "Dragon Knight",
-                1
-            ],
-            [
-                "Earthshaker",
-                0
-            ],
-            [
-                "Faceless Void",
-                1
-            ],
-            [
-                "Mirana",
-                1
-            ],
-            [
-                "Morphling",
-                0
-            ],
-            [
-                "Outworld Devourer",
-                0
-            ],
-            [
-                "Phoenix",
-                0
-            ],
-            [
-                "Shadow Shaman",
-                0
-            ],
-            [
-                "Tidehunter",
-                0
-            ],
-            [
-                "Tiny",
-                1
-            ],
-            [
-                "Void Spirit",
-                0
-            ],
-            [
-                "Warlock",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Сascade Esports Win Rate",
-        "id": "Сascade Esports Win Rate",
-        "data": [
-            [
-                "Ancient Apparition",
-                0.0
-            ],
-            [
-                "Dragon Knight",
-                1.0
-            ],
-            [
-                "Earthshaker",
-                0.0
-            ],
-            [
-                "Faceless Void",
-                0.5
-            ],
-            [
-                "Mirana",
-                1.0
-            ],
-            [
-                "Morphling",
-                0.0
-            ],
-            [
-                "Outworld Devourer",
-                0.0
-            ],
-            [
-                "Phoenix",
-                0.0
-            ],
-            [
-                "Shadow Shaman",
-                0.0
-            ],
-            [
-                "Tidehunter",
-                0.0
-            ],
-            [
-                "Tiny",
-                1.0
-            ],
-            [
-                "Void Spirit",
-                0.0
-            ],
-            [
-                "Warlock",
+                "Ursa",
                 1.0
             ]
         ],

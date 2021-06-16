@@ -39,7 +39,7 @@ df = pd.DataFrame(data)
 print('Pulling all relevant matches...')
 
 # time at which the first match of esl one started
-start_time = 1622513391
+start_time = 1623844558
 
 while df[-1::]['start_time'].iloc[0] > start_time:
     print('Appending new set of data ending in match_id: {}'.format(df[-1::]['match_id'].iloc[0]))
@@ -54,7 +54,7 @@ while df[-1::]['start_time'].iloc[0] > start_time:
 # esl one summer 2021 league ID
 league_id = 13228 
 
-eslone_matches = df[df['leagueid'] == league_id]
+eslone_matches = df[(df['leagueid'] == 13228) & (df['start_time'] >= 1623844558)]
 
 # adding milliseconds to epoch time so Highcharts can properly read it
 eslone_matches['start_time'] = eslone_matches['start_time'] * 1000
@@ -64,8 +64,7 @@ dfs_to_convert['eslone_matches'] = eslone_matches
 hero_stats = pd.DataFrame()
 total_pbs = pd.DataFrame()
 
-# server crashed during these games or something idk
-excluded_match_ids = [6025172903, 6023211594, 6023110186, 6034640592]
+excluded_match_ids = []
 
 print('Extracting detailed match data...')
 
@@ -98,9 +97,6 @@ for match_id in eslone_matches['match_id'].tolist():
         
 first_picks = total_pbs[total_pbs['order'] == 4].reset_index(drop = True)
 dfs_to_convert['first_picks'] = first_picks
-
-# fixing an error in opendota's data, not sure why it happens
-hero_stats.loc[262, 'active_team'] = 2
 
 # --- HEROES DATA --- #
 
