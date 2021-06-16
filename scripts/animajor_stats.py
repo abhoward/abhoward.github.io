@@ -412,6 +412,7 @@ for hero in sorted(heroes['localized_name']):
 
     color_thief = ColorThief("..\\assets\\hero_icons\\{}.png".format(hero.lower().replace(' ', '_', 3)))
     color = color_thief.get_color(quality = 1)
+    color = '#%02x%02x%02x' % color
     
     hero_wrs_ts.append({'name': hero + ' Win Rate', 'id': hero + ' Win Rate', 'type': 'areaspline', 'color': color, 'xAxis': 1, 'data': hero_match_combo[['timestamp', 'cum_winrate']].values.tolist()})
     hero_prs_ts.append({'name': hero + ' Pick Rate', 'id': hero + ' Pick Rate', 'type': 'areaspline', 'color': color, 'xAxis': 1, 'data': hero_match_combo[['timestamp', 'cum_pickrate']].values.tolist()})
