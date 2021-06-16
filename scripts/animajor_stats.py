@@ -54,6 +54,10 @@ while df[-1::]['start_time'].iloc[0] > start_time:
 league_id = 12964 
 
 animajor_matches = df[df['leagueid'] == league_id]
+
+# adding milliseconds to epoch time so Highcharts can properly read it
+animajor_matches['start_time'] = animajor_matches['start_time'] * 1000
+
 dfs_to_convert['animajor_matches'] = animajor_matches
 
 hero_stats = pd.DataFrame()
@@ -95,7 +99,7 @@ first_picks = total_pbs[total_pbs['order'] == 4].reset_index(drop = True)
 dfs_to_convert['first_picks'] = first_picks
 
 # fixing an error in opendota's data, not sure why it happens
-hero_stats.loc[196, 'active_team'] = 2
+hero_stats.loc[262, 'active_team'] = 2
 
 # --- HEROES DATA --- #
 
@@ -109,6 +113,7 @@ data = json.loads(r.text)
 heroes_df = pd.DataFrame(data)
 heroes = heroes_df[['id', 'localized_name', 'primary_attr']]
 heroes = heroes.replace({'Outworld Destroyer': 'Outworld Devourer'})
+heroes['color'] = ['blue' if i == 'int' else 'green' if i == 'agi' else 'red' for i in heroes['primary_attr']]
 
 # --- HERO PICKS & BANS --- #
 
@@ -374,11 +379,12 @@ hero_ts_data = ps.sqldf(sql_query)
 
 hero_prs = []
 hero_brs = []
+hero_wrs = []
 hero_wrs_ts = []
 hero_prs_ts = []
 hero_brs_ts = []
 
-for hero in heroes['localized_name']:
+for hero in sorted(heroes['localized_name']):
     hero_match_combo = pd.DataFrame()
     for match, ts in animajor_matches[['match_id', 'start_time']].sort_values(by = 'start_time').values:
         temp_ts = hero_ts_data[(hero_ts_data['name'] == hero) & (hero_ts_data['match_id'] == match)]
@@ -402,15 +408,19 @@ for hero in heroes['localized_name']:
 
     hero_prs.append({'name': hero, 'y': hero_match_combo.iloc[-1]['cum_pickrate'], 'drilldown': hero + ' Pick Rate'})
     hero_brs.append({'name': hero, 'y': hero_match_combo.iloc[-1]['cum_banrate'], 'drilldown': hero + ' Ban Rate'})
+    hero_wrs.append({'name': hero, 'y': hero_match_combo.iloc[-1]['cum_winrate'], 'drilldown': hero + ' Win Rate'})
+
+    color = heroes[heroes['localized_name'] == hero]['color'].values[0]
     
-    hero_wrs_ts.append({'name': hero, 'id': hero + ' Win Rate', 'data': hero_match_combo[['timestamp', 'cum_winrate']].values.tolist()})
-    hero_prs_ts.append({'name': hero, 'id': hero + ' Pick Rate', 'data': hero_match_combo[['timestamp', 'cum_pickrate']].values.tolist()})
-    hero_brs_ts.append({'name': hero, 'id': hero + ' Ban Rate', 'data': hero_match_combo[['timestamp', 'cum_banrate']].values.tolist()})
+    hero_wrs_ts.append({'name': hero + ' Win Rate', 'id': hero + ' Win Rate', 'type': 'areaspline', 'color': color, 'yAxis': 1, 'xAxis': 1, 'data': hero_match_combo[['timestamp', 'cum_winrate']].values.tolist()})
+    hero_prs_ts.append({'name': hero + ' Pick Rate', 'id': hero + ' Pick Rate', 'type': 'areaspline', 'color': color, 'yAxis': 1, 'xAxis': 1, 'data': hero_match_combo[['timestamp', 'cum_pickrate']].values.tolist()})
+    hero_brs_ts.append({'name': hero + ' Ban Rate', 'id': hero + ' Ban Rate', 'type': 'areaspline', 'color': color, 'yAxis': 1, 'xAxis': 1, 'data': hero_match_combo[['timestamp', 'cum_banrate']].values.tolist()})
 
 hero_ts_data = ps.sqldf(sql_query)
 
 jsons_to_upload['hero_prs'] = hero_prs
 jsons_to_upload['hero_brs'] = hero_brs
+jsons_to_upload['hero_wrs'] = hero_wrs
 jsons_to_upload['hero_wrs_ts'] = hero_wrs_ts
 jsons_to_upload['hero_prs_ts'] = hero_prs_ts
 jsons_to_upload['hero_brs_ts'] = hero_brs_ts
