@@ -6,6 +6,10 @@
             [
                 "ViKin.gg",
                 2.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
             ]
         ]
     },
@@ -15,6 +19,30 @@
         "data": [
             [
                 "ViKin.gg",
+                4.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Picks For",
+        "id": "Alchemist Picks",
+        "data": [
+            [
+                "Team Secret",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Bans Against",
+        "id": "Alchemist Bans",
+        "data": [
+            [
+                "Team Secret",
                 0.0
             ]
         ]
@@ -24,28 +52,36 @@
         "id": "Ancient Apparition Picks",
         "data": [
             [
-                "ViKin.gg",
-                0.0
+                "Tundra Esports ",
+                4.0
             ],
             [
                 "Team Unique",
                 0.0
             ],
             [
+                "Team Secret",
+                2.0
+            ],
+            [
                 "AS Monaco Gambit",
-                0.0
-            ],
-            [
-                "Team Liquid",
-                0.0
-            ],
-            [
-                "Tundra Esports ",
                 1.0
             ],
             [
                 "OG",
                 1.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
             ]
         ]
     },
@@ -54,11 +90,15 @@
         "id": "Ancient Apparition Bans",
         "data": [
             [
-                "ViKin.gg",
-                2.0
+                "Tundra Esports ",
+                1.0
             ],
             [
                 "Team Unique",
+                4.0
+            ],
+            [
+                "Team Secret",
                 2.0
             ],
             [
@@ -66,16 +106,20 @@
                 1.0
             ],
             [
-                "Team Liquid",
+                "OG",
                 1.0
             ],
             [
-                "Tundra Esports ",
-                0.0
+                "ViKin.gg",
+                2.0
             ],
             [
-                "OG",
-                0.0
+                "Virtus.pro",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                1.0
             ]
         ]
     },
@@ -86,12 +130,40 @@
             [
                 "AS Monaco Gambit",
                 0.0
+            ],
+            [
+                "Nigma",
+                1.0
             ]
         ]
     },
     {
         "name": "Anti-Mage Bans Against",
         "id": "Anti-Mage Bans",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Picks For",
+        "id": "Arc Warden Picks",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Bans Against",
+        "id": "Arc Warden Bans",
         "data": [
             [
                 "AS Monaco Gambit",
@@ -104,16 +176,16 @@
         "id": "Axe Picks",
         "data": [
             [
+                "OG",
+                1.0
+            ],
+            [
                 "Team Unique",
                 1.0
             ],
             [
                 "Nigma",
-                1.0
-            ],
-            [
-                "OG",
-                0.0
+                2.0
             ],
             [
                 "Team Liquid",
@@ -126,20 +198,20 @@
         "id": "Axe Bans",
         "data": [
             [
+                "OG",
+                2.0
+            ],
+            [
                 "Team Unique",
-                1.0
+                2.0
             ],
             [
                 "Nigma",
                 1.0
             ],
             [
-                "OG",
-                1.0
-            ],
-            [
                 "Team Liquid",
-                0.0
+                1.0
             ]
         ]
     },
@@ -170,6 +242,22 @@
             [
                 "Tundra Esports ",
                 0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
             ]
         ]
     },
@@ -179,7 +267,43 @@
         "data": [
             [
                 "Tundra Esports ",
-                2.0
+                5.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Picks For",
+        "id": "Beastmaster Picks",
+        "data": [
+            [
+                "Team Secret",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Bans Against",
+        "id": "Beastmaster Bans",
+        "data": [
+            [
+                "Team Secret",
+                1.0
             ]
         ]
     },
@@ -193,6 +317,10 @@
             ],
             [
                 "Nigma",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
                 1.0
             ]
         ]
@@ -208,6 +336,38 @@
             [
                 "Nigma",
                 0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Picks For",
+        "id": "Bristleback Picks",
+        "data": [
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Bans Against",
+        "id": "Bristleback Bans",
+        "data": [
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
             ]
         ]
     },
@@ -217,19 +377,31 @@
         "data": [
             [
                 "ViKin.gg",
-                0.0
+                1.0
             ],
             [
                 "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Secret",
                 0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Team Unique",
+                1.0
             ],
             [
                 "AS Monaco Gambit",
                 0.0
             ],
             [
-                "Team Unique",
-                1.0
+                "Tundra Esports ",
+                0.0
             ]
         ]
     },
@@ -239,10 +411,22 @@
         "data": [
             [
                 "ViKin.gg",
-                2.0
+                4.0
             ],
             [
                 "Team Liquid",
+                3.0
+            ],
+            [
+                "Team Secret",
+                4.0
+            ],
+            [
+                "Quincy Crew",
+                3.0
+            ],
+            [
+                "Team Unique",
                 2.0
             ],
             [
@@ -250,8 +434,8 @@
                 2.0
             ],
             [
-                "Team Unique",
-                1.0
+                "Tundra Esports ",
+                2.0
             ]
         ]
     },
@@ -261,7 +445,15 @@
         "data": [
             [
                 "ViKin.gg",
+                1.0
+            ],
+            [
+                "Virtus.pro",
                 0.0
+            ],
+            [
+                "OG",
+                1.0
             ]
         ]
     },
@@ -272,6 +464,14 @@
             [
                 "ViKin.gg",
                 1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "OG",
+                0.0
             ]
         ]
     },
@@ -281,14 +481,18 @@
         "data": [
             [
                 "OG",
-                0.0
-            ],
-            [
-                "Team Liquid",
                 1.0
             ],
             [
                 "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Team Liquid",
                 1.0
             ]
         ]
@@ -299,14 +503,38 @@
         "data": [
             [
                 "OG",
-                1.0
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Team Unique",
+                0.0
             ],
             [
                 "Team Liquid",
                 0.0
-            ],
+            ]
+        ]
+    },
+    {
+        "name": "Chen Picks For",
+        "id": "Chen Picks",
+        "data": [
             [
-                "Tundra Esports ",
+                "Team Secret",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Chen Bans Against",
+        "id": "Chen Bans",
+        "data": [
+            [
+                "Team Secret",
                 0.0
             ]
         ]
@@ -316,6 +544,10 @@
         "id": "Clockwerk Picks",
         "data": [
             [
+                "Tundra Esports ",
+                2.0
+            ],
+            [
                 "Nigma",
                 0.0
             ],
@@ -324,7 +556,19 @@
                 1.0
             ],
             [
+                "OG",
+                1.0
+            ],
+            [
                 "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Unique",
                 1.0
             ]
         ]
@@ -334,6 +578,10 @@
         "id": "Clockwerk Bans",
         "data": [
             [
+                "Tundra Esports ",
+                2.0
+            ],
+            [
                 "Nigma",
                 1.0
             ],
@@ -342,7 +590,19 @@
                 0.0
             ],
             [
+                "OG",
+                0.0
+            ],
+            [
                 "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Unique",
                 0.0
             ]
         ]
@@ -354,6 +614,22 @@
             [
                 "OG",
                 1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
             ]
         ]
     },
@@ -363,6 +639,22 @@
         "data": [
             [
                 "OG",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Team Secret",
                 0.0
             ]
         ]
@@ -374,6 +666,10 @@
             [
                 "AS Monaco Gambit",
                 0.0
+            ],
+            [
+                "Alliance",
+                1.0
             ],
             [
                 "Team Unique",
@@ -390,6 +686,10 @@
                 1.0
             ],
             [
+                "Alliance",
+                0.0
+            ],
+            [
                 "Team Unique",
                 0.0
             ]
@@ -404,7 +704,23 @@
                 0.0
             ],
             [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
                 "Nigma",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "T1",
                 0.0
             ],
             [
@@ -422,7 +738,23 @@
                 1.0
             ],
             [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
                 "Nigma",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "T1",
                 1.0
             ],
             [
@@ -437,7 +769,15 @@
         "data": [
             [
                 "Team Unique",
-                1.0
+                2.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
             ]
         ]
     },
@@ -448,6 +788,14 @@
             [
                 "Team Unique",
                 0.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
             ]
         ]
     },
@@ -456,19 +804,39 @@
         "id": "Dragon Knight Picks",
         "data": [
             [
+                "Tundra Esports ",
+                5.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
                 "AS Monaco Gambit",
                 2.0
             ],
             [
-                "Tundra Esports ",
-                2.0
+                "Team Unique",
+                1.0
             ],
             [
                 "Nigma",
+                1.0
+            ],
+            [
+                "OG",
                 0.0
             ],
             [
-                "Alliance",
+                "T1",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "ViKin.gg",
                 1.0
             ]
         ]
@@ -478,19 +846,39 @@
         "id": "Dragon Knight Bans",
         "data": [
             [
-                "AS Monaco Gambit",
-                0.0
+                "Tundra Esports ",
+                1.0
             ],
             [
-                "Tundra Esports ",
-                0.0
+                "Alliance",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Unique",
+                1.0
             ],
             [
                 "Nigma",
                 1.0
             ],
             [
-                "Alliance",
+                "OG",
+                2.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "ViKin.gg",
                 0.0
             ]
         ]
@@ -504,11 +892,23 @@
                 1.0
             ],
             [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
                 "OG",
                 0.0
             ],
             [
-                "AS Monaco Gambit",
+                "Quincy Crew",
                 1.0
             ]
         ]
@@ -519,6 +919,18 @@
         "data": [
             [
                 "Team Liquid",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Team Secret",
                 1.0
             ],
             [
@@ -526,7 +938,47 @@
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "Quincy Crew",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Picks For",
+        "id": "Earth Spirit Picks",
+        "data": [
+            [
+                "Quincy Crew",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Bans Against",
+        "id": "Earth Spirit Bans",
+        "data": [
+            [
+                "Quincy Crew",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Earthshaker Picks For",
+        "id": "Earthshaker Picks",
+        "data": [
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earthshaker Bans Against",
+        "id": "Earthshaker Bans",
+        "data": [
+            [
+                "OG",
                 0.0
             ]
         ]
@@ -537,7 +989,7 @@
         "data": [
             [
                 "OG",
-                1.0
+                2.0
             ]
         ]
     },
@@ -556,7 +1008,15 @@
         "id": "Ember Spirit Picks",
         "data": [
             [
+                "Quincy Crew",
+                1.0
+            ],
+            [
                 "Nigma",
+                0.0
+            ],
+            [
+                "Team Secret",
                 0.0
             ]
         ]
@@ -566,7 +1026,15 @@
         "id": "Ember Spirit Bans",
         "data": [
             [
+                "Quincy Crew",
+                2.0
+            ],
+            [
                 "Nigma",
+                2.0
+            ],
+            [
+                "Team Secret",
                 1.0
             ]
         ]
@@ -576,6 +1044,10 @@
         "id": "Enchantress Picks",
         "data": [
             [
+                "Quincy Crew",
+                0.0
+            ],
+            [
                 "OG",
                 0.0
             ],
@@ -584,8 +1056,28 @@
                 0.0
             ],
             [
+                "ViKin.gg",
+                3.0
+            ],
+            [
                 "Nigma",
                 0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
             ]
         ]
     },
@@ -594,15 +1086,59 @@
         "id": "Enchantress Bans",
         "data": [
             [
+                "Quincy Crew",
+                3.0
+            ],
+            [
                 "OG",
-                2.0
+                3.0
             ],
             [
                 "Team Liquid",
-                2.0
+                3.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
             ],
             [
                 "Nigma",
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Picks For",
+        "id": "Enigma Picks",
+        "data": [
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Bans Against",
+        "id": "Enigma Bans",
+        "data": [
+            [
+                "Tundra Esports ",
                 1.0
             ]
         ]
@@ -614,6 +1150,10 @@
             [
                 "ViKin.gg",
                 1.0
+            ],
+            [
+                "Team Secret",
+                0.0
             ]
         ]
     },
@@ -623,6 +1163,10 @@
         "data": [
             [
                 "ViKin.gg",
+                2.0
+            ],
+            [
+                "Team Secret",
                 1.0
             ]
         ]
@@ -632,12 +1176,16 @@
         "id": "Grimstroke Picks",
         "data": [
             [
-                "Alliance",
-                0.0
+                "OG",
+                1.0
             ],
             [
                 "Tundra Esports ",
-                1.0
+                2.0
+            ],
+            [
+                "Alliance",
+                0.0
             ]
         ]
     },
@@ -646,12 +1194,16 @@
         "id": "Grimstroke Bans",
         "data": [
             [
-                "Alliance",
+                "OG",
                 1.0
             ],
             [
                 "Tundra Esports ",
                 0.0
+            ],
+            [
+                "Alliance",
+                1.0
             ]
         ]
     },
@@ -681,14 +1233,26 @@
         "data": [
             [
                 "OG",
-                0.0
-            ],
-            [
-                "Team Unique",
                 1.0
             ],
             [
+                "ViKin.gg",
+                2.0
+            ],
+            [
                 "Alliance",
+                2.0
+            ],
+            [
+                "Team Unique",
+                2.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Liquid",
                 1.0
             ]
         ]
@@ -702,11 +1266,23 @@
                 2.0
             ],
             [
-                "Team Unique",
+                "ViKin.gg",
                 0.0
             ],
             [
                 "Alliance",
+                0.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Liquid",
                 0.0
             ]
         ]
@@ -716,16 +1292,24 @@
         "id": "Invoker Picks",
         "data": [
             [
-                "Team Liquid",
-                1.0
-            ],
-            [
                 "Nigma",
                 0.0
             ],
             [
-                "AS Monaco Gambit",
-                0.0
+                "Tundra Esports ",
+                2.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
             ],
             [
                 "Team Unique",
@@ -733,6 +1317,10 @@
             ],
             [
                 "Alliance",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
                 0.0
             ]
         ]
@@ -742,15 +1330,23 @@
         "id": "Invoker Bans",
         "data": [
             [
+                "Nigma",
+                5.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
                 "Team Liquid",
                 1.0
             ],
             [
-                "Nigma",
-                2.0
-            ],
-            [
-                "AS Monaco Gambit",
+                "ViKin.gg",
                 1.0
             ],
             [
@@ -759,6 +1355,10 @@
             ],
             [
                 "Alliance",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
                 1.0
             ]
         ]
@@ -770,6 +1370,14 @@
             [
                 "Nigma",
                 2.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
             ]
         ]
     },
@@ -779,6 +1387,14 @@
         "data": [
             [
                 "Nigma",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "ViKin.gg",
                 0.0
             ]
         ]
@@ -788,7 +1404,19 @@
         "id": "Juggernaut Picks",
         "data": [
             [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
                 "ViKin.gg",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Nigma",
                 0.0
             ]
         ]
@@ -798,7 +1426,83 @@
         "id": "Juggernaut Bans",
         "data": [
             [
+                "Tundra Esports ",
+                2.0
+            ],
+            [
                 "ViKin.gg",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Picks For",
+        "id": "Kunkka Picks",
+        "data": [
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Bans Against",
+        "id": "Kunkka Bans",
+        "data": [
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Picks For",
+        "id": "Legion Commander Picks",
+        "data": [
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Bans Against",
+        "id": "Legion Commander Bans",
+        "data": [
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Team Secret",
                 1.0
             ]
         ]
@@ -808,19 +1512,31 @@
         "id": "Leshrac Picks",
         "data": [
             [
-                "Team Unique",
-                1.0
-            ],
-            [
-                "Team Liquid",
-                1.0
-            ],
-            [
                 "OG",
                 1.0
             ],
             [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
                 "Nigma",
+                1.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "ViKin.gg",
                 1.0
             ]
         ]
@@ -830,19 +1546,31 @@
         "id": "Leshrac Bans",
         "data": [
             [
-                "Team Unique",
-                0.0
+                "OG",
+                2.0
             ],
             [
                 "Team Liquid",
-                0.0
+                1.0
             ],
             [
-                "OG",
+                "T1",
+                1.0
+            ],
+            [
+                "Team Secret",
                 0.0
             ],
             [
                 "Nigma",
+                0.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "ViKin.gg",
                 0.0
             ]
         ]
@@ -852,11 +1580,23 @@
         "id": "Lifestealer Picks",
         "data": [
             [
-                "Alliance",
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Virtus.pro",
                 0.0
             ],
             [
-                "Tundra Esports ",
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Alliance",
                 0.0
             ]
         ]
@@ -866,11 +1606,23 @@
         "id": "Lifestealer Bans",
         "data": [
             [
-                "Alliance",
+                "Tundra Esports ",
+                3.0
+            ],
+            [
+                "Virtus.pro",
                 1.0
             ],
             [
-                "Tundra Esports ",
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Alliance",
                 1.0
             ]
         ]
@@ -888,7 +1640,19 @@
                 0.0
             ],
             [
+                "Team Secret",
+                0.0
+            ],
+            [
                 "Nigma",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
                 1.0
             ]
         ]
@@ -903,10 +1667,22 @@
             ],
             [
                 "ViKin.gg",
+                2.0
+            ],
+            [
+                "Team Secret",
                 1.0
             ],
             [
                 "Nigma",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
                 0.0
             ]
         ]
@@ -916,19 +1692,47 @@
         "id": "Lion Picks",
         "data": [
             [
-                "AS Monaco Gambit",
-                2.0
-            ],
-            [
-                "Team Unique",
-                1.0
-            ],
-            [
                 "Alliance",
                 1.0
             ],
             [
+                "Team Unique",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
                 "ViKin.gg",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "OG",
                 1.0
             ]
         ]
@@ -938,19 +1742,47 @@
         "id": "Lion Bans",
         "data": [
             [
-                "AS Monaco Gambit",
-                0.0
+                "Alliance",
+                1.0
             ],
             [
                 "Team Unique",
                 0.0
             ],
             [
-                "Alliance",
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Team Secret",
                 0.0
             ],
             [
                 "ViKin.gg",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "OG",
                 0.0
             ]
         ]
@@ -962,6 +1794,10 @@
             [
                 "Team Liquid",
                 0.0
+            ],
+            [
+                "Team Secret",
+                0.0
             ]
         ]
     },
@@ -972,6 +1808,10 @@
             [
                 "Team Liquid",
                 2.0
+            ],
+            [
+                "Team Secret",
+                1.0
             ]
         ]
     },
@@ -984,11 +1824,31 @@
                 0.0
             ],
             [
+                "Team Secret",
+                1.0
+            ],
+            [
                 "Nigma",
                 0.0
             ],
             [
                 "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                2.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
                 0.0
             ]
         ]
@@ -999,14 +1859,34 @@
         "data": [
             [
                 "Team Unique",
+                3.0
+            ],
+            [
+                "Team Secret",
                 2.0
             ],
             [
                 "Nigma",
-                2.0
+                3.0
             ],
             [
                 "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "OG",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
                 1.0
             ]
         ]
@@ -1018,6 +1898,10 @@
             [
                 "ViKin.gg",
                 1.0
+            ],
+            [
+                "Team Unique",
+                1.0
             ]
         ]
     },
@@ -1028,6 +1912,10 @@
             [
                 "ViKin.gg",
                 0.0
+            ],
+            [
+                "Team Unique",
+                0.0
             ]
         ]
     },
@@ -1036,7 +1924,27 @@
         "id": "Mars Picks",
         "data": [
             [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
                 "Nigma",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
                 0.0
             ],
             [
@@ -1044,11 +1952,7 @@
                 0.0
             ],
             [
-                "OG",
-                0.0
-            ],
-            [
-                "Tundra Esports ",
+                "Team Liquid",
                 1.0
             ]
         ]
@@ -1058,7 +1962,27 @@
         "id": "Mars Bans",
         "data": [
             [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "OG",
+                2.0
+            ],
+            [
                 "Nigma",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
                 1.0
             ],
             [
@@ -1066,11 +1990,7 @@
                 1.0
             ],
             [
-                "OG",
-                1.0
-            ],
-            [
-                "Tundra Esports ",
+                "Team Liquid",
                 0.0
             ]
         ]
@@ -1080,12 +2000,20 @@
         "id": "Medusa Picks",
         "data": [
             [
-                "Team Unique",
+                "Tundra Esports ",
+                3.0
+            ],
+            [
+                "Team Liquid",
                 0.0
             ],
             [
-                "Tundra Esports ",
-                1.0
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Unique",
+                0.0
             ]
         ]
     },
@@ -1094,12 +2022,20 @@
         "id": "Medusa Bans",
         "data": [
             [
-                "Team Unique",
+                "Tundra Esports ",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "Team Secret",
                 1.0
             ],
             [
-                "Tundra Esports ",
-                0.0
+                "Team Unique",
+                1.0
             ]
         ]
     },
@@ -1108,11 +2044,19 @@
         "id": "Mirana Picks",
         "data": [
             [
-                "Team Liquid",
-                1.0
+                "Tundra Esports ",
+                0.0
             ],
             [
                 "OG",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Team Liquid",
                 1.0
             ]
         ]
@@ -1122,12 +2066,56 @@
         "id": "Mirana Bans",
         "data": [
             [
+                "Tundra Esports ",
+                2.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
                 "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Picks For",
+        "id": "Monkey King Picks",
+        "data": [
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "T1",
                 0.0
             ],
             [
                 "OG",
                 0.0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Bans Against",
+        "id": "Monkey King Bans",
+        "data": [
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
             ]
         ]
     },
@@ -1141,6 +2129,14 @@
             ],
             [
                 "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Team Secret",
                 0.0
             ],
             [
@@ -1159,11 +2155,19 @@
         "data": [
             [
                 "Alliance",
-                2.0
+                3.0
             ],
             [
                 "AS Monaco Gambit",
-                1.0
+                3.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Team Secret",
+                2.0
             ],
             [
                 "ViKin.gg",
@@ -1181,7 +2185,11 @@
         "data": [
             [
                 "OG",
-                1.0
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
             ]
         ]
     },
@@ -1192,6 +2200,10 @@
             [
                 "OG",
                 0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
             ]
         ]
     },
@@ -1200,11 +2212,43 @@
         "id": "Nyx Assassin Picks",
         "data": [
             [
-                "Alliance",
+                "Nigma",
                 1.0
             ],
             [
+                "Alliance",
+                2.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
                 "OG",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
                 1.0
             ]
         ]
@@ -1214,11 +2258,63 @@
         "id": "Nyx Assassin Bans",
         "data": [
             [
+                "Nigma",
+                1.0
+            ],
+            [
                 "Alliance",
                 0.0
             ],
             [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
                 "OG",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Picks For",
+        "id": "Oracle Picks",
+        "data": [
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Bans Against",
+        "id": "Oracle Bans",
+        "data": [
+            [
+                "Team Liquid",
                 0.0
             ]
         ]
@@ -1230,6 +2326,14 @@
             [
                 "OG",
                 1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
             ]
         ]
     },
@@ -1239,6 +2343,14 @@
         "data": [
             [
                 "OG",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "ViKin.gg",
                 0.0
             ]
         ]
@@ -1268,7 +2380,15 @@
         "id": "Phantom Lancer Picks",
         "data": [
             [
-                "Team Liquid",
+                "Alliance",
+                0.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
                 0.0
             ],
             [
@@ -1276,7 +2396,15 @@
                 0.0
             ],
             [
-                "Alliance",
+                "OG",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
                 0.0
             ]
         ]
@@ -1286,7 +2414,15 @@
         "id": "Phantom Lancer Bans",
         "data": [
             [
-                "Team Liquid",
+                "Alliance",
+                2.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
                 1.0
             ],
             [
@@ -1294,7 +2430,15 @@
                 1.0
             ],
             [
-                "Alliance",
+                "OG",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
                 1.0
             ]
         ]
@@ -1304,15 +2448,23 @@
         "id": "Phoenix Picks",
         "data": [
             [
+                "Nigma",
+                3.0
+            ],
+            [
+                "OG",
+                2.0
+            ],
+            [
                 "AS Monaco Gambit",
-                0.0
+                1.0
             ],
             [
                 "Alliance",
                 0.0
             ],
             [
-                "Nigma",
+                "Quincy Crew",
                 1.0
             ]
         ]
@@ -1322,6 +2474,14 @@
         "id": "Phoenix Bans",
         "data": [
             [
+                "Nigma",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
                 "AS Monaco Gambit",
                 1.0
             ],
@@ -1330,7 +2490,7 @@
                 1.0
             ],
             [
-                "Nigma",
+                "Quincy Crew",
                 0.0
             ]
         ]
@@ -1341,14 +2501,26 @@
         "data": [
             [
                 "AS Monaco Gambit",
+                3.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "OG",
                 2.0
             ],
             [
-                "Alliance",
+                "Quincy Crew",
                 0.0
             ],
             [
-                "Team Liquid",
+                "ViKin.gg",
                 0.0
             ],
             [
@@ -1356,12 +2528,24 @@
                 0.0
             ],
             [
-                "Tundra Esports ",
+                "Team Liquid",
                 0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
             ],
             [
                 "Nigma",
                 1.0
+            ],
+            [
+                "Alliance",
+                0.0
             ]
         ]
     },
@@ -1371,10 +2555,30 @@
         "data": [
             [
                 "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Secret",
+                3.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "OG",
                 0.0
             ],
             [
-                "Alliance",
+                "Quincy Crew",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                2.0
+            ],
+            [
+                "Team Unique",
                 1.0
             ],
             [
@@ -1382,16 +2586,20 @@
                 1.0
             ],
             [
-                "Team Unique",
+                "T1",
                 1.0
             ],
             [
-                "Tundra Esports ",
-                1.0
+                "Virtus.pro",
+                0.0
             ],
             [
                 "Nigma",
                 0.0
+            ],
+            [
+                "Alliance",
+                1.0
             ]
         ]
     },
@@ -1411,7 +2619,7 @@
         "data": [
             [
                 "OG",
-                1.0
+                3.0
             ]
         ]
     },
@@ -1420,11 +2628,39 @@
         "id": "Razor Picks",
         "data": [
             [
+                "Team Unique",
+                1.0
+            ],
+            [
                 "ViKin.gg",
                 1.0
             ],
             [
-                "Team Unique",
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
                 1.0
             ]
         ]
@@ -1434,11 +2670,39 @@
         "id": "Razor Bans",
         "data": [
             [
+                "Team Unique",
+                1.0
+            ],
+            [
                 "ViKin.gg",
                 1.0
             ],
             [
-                "Team Unique",
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
                 0.0
             ]
         ]
@@ -1448,6 +2712,14 @@
         "id": "Sand King Picks",
         "data": [
             [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
                 "Team Liquid",
                 1.0
             ]
@@ -1456,6 +2728,54 @@
     {
         "name": "Sand King Bans Against",
         "id": "Sand King Bans",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Picks For",
+        "id": "Shadow Demon Picks",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Bans Against",
+        "id": "Shadow Demon Bans",
+        "data": [
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Picks For",
+        "id": "Slardar Picks",
+        "data": [
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Bans Against",
+        "id": "Slardar Bans",
         "data": [
             [
                 "Team Liquid",
@@ -1488,7 +2808,7 @@
         "id": "Snapfire Picks",
         "data": [
             [
-                "ViKin.gg",
+                "Tundra Esports ",
                 1.0
             ],
             [
@@ -1496,7 +2816,7 @@
                 1.0
             ],
             [
-                "Tundra Esports ",
+                "ViKin.gg",
                 1.0
             ]
         ]
@@ -1506,15 +2826,15 @@
         "id": "Snapfire Bans",
         "data": [
             [
-                "ViKin.gg",
-                0.0
+                "Tundra Esports ",
+                2.0
             ],
             [
                 "Team Liquid",
-                0.0
+                1.0
             ],
             [
-                "Tundra Esports ",
+                "ViKin.gg",
                 0.0
             ]
         ]
@@ -1524,15 +2844,27 @@
         "id": "Spectre Picks",
         "data": [
             [
-                "Tundra Esports ",
-                0.0
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
             ],
             [
                 "AS Monaco Gambit",
                 0.0
             ],
             [
-                "ViKin.gg",
+                "Nigma",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
                 0.0
             ],
             [
@@ -1540,7 +2872,11 @@
                 0.0
             ],
             [
-                "Alliance",
+                "OG",
+                1.0
+            ],
+            [
+                "T1",
                 1.0
             ]
         ]
@@ -1550,7 +2886,15 @@
         "id": "Spectre Bans",
         "data": [
             [
-                "Tundra Esports ",
+                "ViKin.gg",
+                2.0
+            ],
+            [
+                "Quincy Crew",
+                2.0
+            ],
+            [
+                "Alliance",
                 2.0
             ],
             [
@@ -1558,15 +2902,23 @@
                 2.0
             ],
             [
-                "ViKin.gg",
-                1.0
+                "Nigma",
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                2.0
             ],
             [
                 "Team Unique",
                 1.0
             ],
             [
-                "Alliance",
+                "OG",
+                0.0
+            ],
+            [
+                "T1",
                 0.0
             ]
         ]
@@ -1577,7 +2929,19 @@
         "data": [
             [
                 "ViKin.gg",
+                2.0
+            ],
+            [
+                "Team Secret",
                 1.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
             ]
         ]
     },
@@ -1587,6 +2951,38 @@
         "data": [
             [
                 "ViKin.gg",
+                2.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Picks For",
+        "id": "Sven Picks",
+        "data": [
+            [
+                "Alliance",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Bans Against",
+        "id": "Sven Bans",
+        "data": [
+            [
+                "Alliance",
                 1.0
             ]
         ]
@@ -1620,12 +3016,40 @@
                 0.0
             ],
             [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
                 "Team Liquid",
                 0.0
             ],
             [
                 "Alliance",
                 0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
             ]
         ]
     },
@@ -1635,15 +3059,43 @@
         "data": [
             [
                 "AS Monaco Gambit",
-                2.0
+                4.0
+            ],
+            [
+                "Quincy Crew",
+                3.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
             ],
             [
                 "Team Liquid",
-                1.0
+                2.0
             ],
             [
                 "Alliance",
+                2.0
+            ],
+            [
+                "ViKin.gg",
                 1.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
             ]
         ]
     },
@@ -1656,11 +3108,35 @@
                 0.0
             ],
             [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
                 "Team Unique",
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Alliance",
                 1.0
             ]
         ]
@@ -1671,14 +3147,38 @@
         "data": [
             [
                 "Tundra Esports ",
+                4.0
+            ],
+            [
+                "ViKin.gg",
+                3.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "Nigma",
                 1.0
             ],
             [
                 "Team Unique",
-                0.0
+                1.0
             ],
             [
-                "AS Monaco Gambit",
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Alliance",
                 0.0
             ]
         ]
@@ -1688,7 +3188,19 @@
         "id": "Tidehunter Picks",
         "data": [
             [
+                "OG",
+                1.0
+            ],
+            [
                 "Tundra Esports ",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
+            ],
+            [
+                "Virtus.pro",
                 0.0
             ],
             [
@@ -1696,7 +3208,23 @@
                 0.0
             ],
             [
-                "OG",
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Quincy Crew",
                 1.0
             ]
         ]
@@ -1706,15 +3234,43 @@
         "id": "Tidehunter Bans",
         "data": [
             [
+                "OG",
+                3.0
+            ],
+            [
                 "Tundra Esports ",
-                2.0
+                3.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
             ],
             [
                 "ViKin.gg",
                 1.0
             ],
             [
-                "OG",
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Quincy Crew",
                 0.0
             ]
         ]
@@ -1725,18 +3281,34 @@
         "data": [
             [
                 "Alliance",
-                0.0
+                1.0
             ],
             [
-                "OG",
-                0.0
+                "ViKin.gg",
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
             ],
             [
                 "Team Liquid",
                 1.0
             ],
             [
-                "ViKin.gg",
+                "OG",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Team Secret",
                 1.0
             ]
         ]
@@ -1747,6 +3319,18 @@
         "data": [
             [
                 "Alliance",
+                3.0
+            ],
+            [
+                "ViKin.gg",
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                3.0
+            ],
+            [
+                "Team Liquid",
                 2.0
             ],
             [
@@ -1754,12 +3338,116 @@
                 2.0
             ],
             [
-                "Team Liquid",
+                "Virtus.pro",
                 1.0
             ],
             [
-                "ViKin.gg",
+                "T1",
+                1.0
+            ],
+            [
+                "Team Secret",
                 0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Picks For",
+        "id": "Tiny Picks",
+        "data": [
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Bans Against",
+        "id": "Tiny Bans",
+        "data": [
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Picks For",
+        "id": "Troll Warlord Picks",
+        "data": [
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Bans Against",
+        "id": "Troll Warlord Bans",
+        "data": [
+            [
+                "OG",
+                2.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Picks For",
+        "id": "Underlord Picks",
+        "data": [
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Bans Against",
+        "id": "Underlord Bans",
+        "data": [
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
             ]
         ]
     },
@@ -1788,19 +3476,23 @@
         "id": "Ursa Picks",
         "data": [
             [
+                "ViKin.gg",
+                2.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
                 "Tundra Esports ",
                 0.0
             ],
             [
-                "AS Monaco Gambit",
+                "Team Secret",
                 0.0
             ],
             [
-                "Alliance",
-                0.0
-            ],
-            [
-                "Nigma",
+                "Virtus.pro",
                 0.0
             ],
             [
@@ -1808,8 +3500,20 @@
                 0.0
             ],
             [
-                "ViKin.gg",
-                1.0
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
             ]
         ]
     },
@@ -1818,19 +3522,23 @@
         "id": "Ursa Bans",
         "data": [
             [
-                "Tundra Esports ",
-                2.0
-            ],
-            [
-                "AS Monaco Gambit",
-                1.0
-            ],
-            [
-                "Alliance",
+                "ViKin.gg",
                 1.0
             ],
             [
                 "Nigma",
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                2.0
+            ],
+            [
+                "Team Secret",
+                2.0
+            ],
+            [
+                "Virtus.pro",
                 1.0
             ],
             [
@@ -1838,8 +3546,60 @@
                 1.0
             ],
             [
-                "ViKin.gg",
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Vengeful Spirit Picks For",
+        "id": "Vengeful Spirit Picks",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Vengeful Spirit Bans Against",
+        "id": "Vengeful Spirit Bans",
+        "data": [
+            [
+                "Nigma",
                 0.0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Picks For",
+        "id": "Venomancer Picks",
+        "data": [
+            [
+                "Quincy Crew",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Bans Against",
+        "id": "Venomancer Bans",
+        "data": [
+            [
+                "Quincy Crew",
+                1.0
             ]
         ]
     },
@@ -1848,7 +3608,39 @@
         "id": "Viper Picks",
         "data": [
             [
+                "Quincy Crew",
+                3.0
+            ],
+            [
                 "Alliance",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Team Unique",
                 1.0
             ]
         ]
@@ -1858,8 +3650,40 @@
         "id": "Viper Bans",
         "data": [
             [
+                "Quincy Crew",
+                0.0
+            ],
+            [
                 "Alliance",
                 1.0
+            ],
+            [
+                "ViKin.gg",
+                2.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.0
             ]
         ]
     },
@@ -1868,11 +3692,19 @@
         "id": "Void Spirit Picks",
         "data": [
             [
+                "OG",
+                2.0
+            ],
+            [
                 "Tundra Esports ",
                 0.0
             ],
             [
-                "OG",
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Team Secret",
                 1.0
             ]
         ]
@@ -1882,11 +3714,19 @@
         "id": "Void Spirit Bans",
         "data": [
             [
+                "OG",
+                0.0
+            ],
+            [
                 "Tundra Esports ",
                 1.0
             ],
             [
-                "OG",
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Team Secret",
                 0.0
             ]
         ]
@@ -1916,19 +3756,39 @@
         "id": "Winter Wyvern Picks",
         "data": [
             [
+                "Tundra Esports ",
+                3.0
+            ],
+            [
                 "OG",
-                0.0
+                1.0
+            ],
+            [
+                "Team Unique",
+                2.0
             ],
             [
                 "Alliance",
                 1.0
             ],
             [
-                "Tundra Esports ",
+                "T1",
+                2.0
+            ],
+            [
+                "Team Secret",
                 1.0
             ],
             [
-                "Team Unique",
+                "Nigma",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                1.0
+            ],
+            [
+                "Virtus.pro",
                 1.0
             ]
         ]
@@ -1938,19 +3798,59 @@
         "id": "Winter Wyvern Bans",
         "data": [
             [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
                 "OG",
+                2.0
+            ],
+            [
+                "Team Unique",
                 1.0
             ],
             [
                 "Alliance",
+                1.0
+            ],
+            [
+                "T1",
                 0.0
             ],
             [
-                "Tundra Esports ",
+                "Team Secret",
                 0.0
             ],
             [
-                "Team Unique",
+                "Nigma",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Picks For",
+        "id": "Witch Doctor Picks",
+        "data": [
+            [
+                "Team Secret",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Bans Against",
+        "id": "Witch Doctor Bans",
+        "data": [
+            [
+                "Team Secret",
                 0.0
             ]
         ]
@@ -1960,11 +3860,31 @@
         "id": "Wraith King Picks",
         "data": [
             [
-                "OG",
+                "ViKin.gg",
                 0.0
             ],
             [
                 "Alliance",
+                1.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Team Secret",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Virtus.pro",
                 1.0
             ]
         ]
@@ -1974,11 +3894,31 @@
         "id": "Wraith King Bans",
         "data": [
             [
+                "ViKin.gg",
+                2.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
                 "OG",
                 1.0
             ],
             [
-                "Alliance",
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Team Secret",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Virtus.pro",
                 0.0
             ]
         ]

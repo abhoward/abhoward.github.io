@@ -1,7 +1,7 @@
 [
     {
         "name": "Abaddon",
-        "y": 0.0,
+        "y": 0.15384615384615385,
         "drilldown": "Abaddon Ban Rate"
     },
     {
@@ -11,22 +11,22 @@
     },
     {
         "name": "Ancient Apparition",
-        "y": 0.75,
+        "y": 0.5384615384615384,
         "drilldown": "Ancient Apparition Ban Rate"
     },
     {
         "name": "Anti-Mage",
-        "y": 0.125,
+        "y": 0.07692307692307693,
         "drilldown": "Anti-Mage Ban Rate"
     },
     {
         "name": "Arc Warden",
-        "y": 0.0,
+        "y": 0.038461538461538464,
         "drilldown": "Arc Warden Ban Rate"
     },
     {
         "name": "Axe",
-        "y": 0.375,
+        "y": 0.23076923076923078,
         "drilldown": "Axe Ban Rate"
     },
     {
@@ -36,12 +36,12 @@
     },
     {
         "name": "Batrider",
-        "y": 0.25,
+        "y": 0.34615384615384615,
         "drilldown": "Batrider Ban Rate"
     },
     {
         "name": "Beastmaster",
-        "y": 0.0,
+        "y": 0.038461538461538464,
         "drilldown": "Beastmaster Ban Rate"
     },
     {
@@ -61,22 +61,22 @@
     },
     {
         "name": "Bristleback",
-        "y": 0.0,
+        "y": 0.07692307692307693,
         "drilldown": "Bristleback Ban Rate"
     },
     {
         "name": "Broodmother",
-        "y": 0.875,
+        "y": 0.7692307692307693,
         "drilldown": "Broodmother Ban Rate"
     },
     {
         "name": "Centaur Warrunner",
-        "y": 0.125,
+        "y": 0.07692307692307693,
         "drilldown": "Centaur Warrunner Ban Rate"
     },
     {
         "name": "Chaos Knight",
-        "y": 0.125,
+        "y": 0.07692307692307693,
         "drilldown": "Chaos Knight Ban Rate"
     },
     {
@@ -91,7 +91,7 @@
     },
     {
         "name": "Clockwerk",
-        "y": 0.125,
+        "y": 0.11538461538461539,
         "drilldown": "Clockwerk Ban Rate"
     },
     {
@@ -101,12 +101,12 @@
     },
     {
         "name": "Dark Seer",
-        "y": 0.0,
+        "y": 0.11538461538461539,
         "drilldown": "Dark Seer Ban Rate"
     },
     {
         "name": "Dark Willow",
-        "y": 0.125,
+        "y": 0.038461538461538464,
         "drilldown": "Dark Willow Ban Rate"
     },
     {
@@ -121,7 +121,7 @@
     },
     {
         "name": "Death Prophet",
-        "y": 0.25,
+        "y": 0.23076923076923078,
         "drilldown": "Death Prophet Ban Rate"
     },
     {
@@ -131,17 +131,17 @@
     },
     {
         "name": "Doom",
-        "y": 0.0,
+        "y": 0.11538461538461539,
         "drilldown": "Doom Ban Rate"
     },
     {
         "name": "Dragon Knight",
-        "y": 0.125,
+        "y": 0.3076923076923077,
         "drilldown": "Dragon Knight Ban Rate"
     },
     {
         "name": "Drow Ranger",
-        "y": 0.25,
+        "y": 0.19230769230769232,
         "drilldown": "Drow Ranger Ban Rate"
     },
     {
@@ -161,37 +161,37 @@
     },
     {
         "name": "Ember Spirit",
-        "y": 0.125,
+        "y": 0.19230769230769232,
         "drilldown": "Ember Spirit Ban Rate"
     },
     {
         "name": "Enchantress",
-        "y": 0.625,
+        "y": 0.46153846153846156,
         "drilldown": "Enchantress Ban Rate"
     },
     {
         "name": "Enigma",
-        "y": 0.0,
+        "y": 0.038461538461538464,
         "drilldown": "Enigma Ban Rate"
     },
     {
         "name": "Faceless Void",
-        "y": 0.125,
+        "y": 0.11538461538461539,
         "drilldown": "Faceless Void Ban Rate"
     },
     {
         "name": "Grimstroke",
-        "y": 0.125,
+        "y": 0.07692307692307693,
         "drilldown": "Grimstroke Ban Rate"
     },
     {
         "name": "Gyrocopter",
-        "y": 0.125,
+        "y": 0.038461538461538464,
         "drilldown": "Gyrocopter Ban Rate"
     },
     {
         "name": "Hoodwink",
-        "y": 0.25,
+        "y": 0.11538461538461539,
         "drilldown": "Hoodwink Ban Rate"
     },
     {
@@ -201,12 +201,12 @@
     },
     {
         "name": "Invoker",
-        "y": 0.75,
+        "y": 0.46153846153846156,
         "drilldown": "Invoker Ban Rate"
     },
     {
         "name": "Io",
-        "y": 0.0,
+        "y": 0.07692307692307693,
         "drilldown": "Io Ban Rate"
     },
     {
@@ -216,7 +216,7 @@
     },
     {
         "name": "Juggernaut",
-        "y": 0.125,
+        "y": 0.19230769230769232,
         "drilldown": "Juggernaut Ban Rate"
     },
     {
@@ -226,17 +226,17 @@
     },
     {
         "name": "Kunkka",
-        "y": 0.0,
+        "y": 0.07692307692307693,
         "drilldown": "Kunkka Ban Rate"
     },
     {
         "name": "Legion Commander",
-        "y": 0.0,
+        "y": 0.07692307692307693,
         "drilldown": "Legion Commander Ban Rate"
     },
     {
         "name": "Leshrac",
-        "y": 0.0,
+        "y": 0.15384615384615385,
         "drilldown": "Leshrac Ban Rate"
     },
     {
@@ -246,27 +246,27 @@
     },
     {
         "name": "Lifestealer",
-        "y": 0.25,
+        "y": 0.2692307692307692,
         "drilldown": "Lifestealer Ban Rate"
     },
     {
         "name": "Lina",
-        "y": 0.375,
+        "y": 0.19230769230769232,
         "drilldown": "Lina Ban Rate"
     },
     {
         "name": "Lion",
-        "y": 0.0,
+        "y": 0.11538461538461539,
         "drilldown": "Lion Ban Rate"
     },
     {
         "name": "Lone Druid",
-        "y": 0.25,
+        "y": 0.11538461538461539,
         "drilldown": "Lone Druid Ban Rate"
     },
     {
         "name": "Luna",
-        "y": 0.625,
+        "y": 0.5,
         "drilldown": "Luna Ban Rate"
     },
     {
@@ -281,12 +281,12 @@
     },
     {
         "name": "Mars",
-        "y": 0.375,
+        "y": 0.3076923076923077,
         "drilldown": "Mars Ban Rate"
     },
     {
         "name": "Medusa",
-        "y": 0.125,
+        "y": 0.23076923076923078,
         "drilldown": "Medusa Ban Rate"
     },
     {
@@ -296,17 +296,17 @@
     },
     {
         "name": "Mirana",
-        "y": 0.0,
+        "y": 0.11538461538461539,
         "drilldown": "Mirana Ban Rate"
     },
     {
         "name": "Monkey King",
-        "y": 0.0,
+        "y": 0.11538461538461539,
         "drilldown": "Monkey King Ban Rate"
     },
     {
         "name": "Morphling",
-        "y": 0.5,
+        "y": 0.4230769230769231,
         "drilldown": "Morphling Ban Rate"
     },
     {
@@ -316,7 +316,7 @@
     },
     {
         "name": "Nature's Prophet",
-        "y": 0.0,
+        "y": 0.038461538461538464,
         "drilldown": "Nature's Prophet Ban Rate"
     },
     {
@@ -331,7 +331,7 @@
     },
     {
         "name": "Nyx Assassin",
-        "y": 0.0,
+        "y": 0.15384615384615385,
         "drilldown": "Nyx Assassin Ban Rate"
     },
     {
@@ -361,17 +361,17 @@
     },
     {
         "name": "Phantom Assassin",
-        "y": 0.125,
+        "y": 0.038461538461538464,
         "drilldown": "Phantom Assassin Ban Rate"
     },
     {
         "name": "Phantom Lancer",
-        "y": 0.375,
+        "y": 0.3076923076923077,
         "drilldown": "Phantom Lancer Ban Rate"
     },
     {
         "name": "Phoenix",
-        "y": 0.25,
+        "y": 0.07692307692307693,
         "drilldown": "Phoenix Ban Rate"
     },
     {
@@ -386,7 +386,7 @@
     },
     {
         "name": "Pugna",
-        "y": 0.125,
+        "y": 0.11538461538461539,
         "drilldown": "Pugna Ban Rate"
     },
     {
@@ -396,7 +396,7 @@
     },
     {
         "name": "Razor",
-        "y": 0.125,
+        "y": 0.15384615384615385,
         "drilldown": "Razor Ban Rate"
     },
     {
@@ -411,7 +411,7 @@
     },
     {
         "name": "Sand King",
-        "y": 0.0,
+        "y": 0.07692307692307693,
         "drilldown": "Sand King Ban Rate"
     },
     {
@@ -446,12 +446,12 @@
     },
     {
         "name": "Slark",
-        "y": 0.125,
+        "y": 0.038461538461538464,
         "drilldown": "Slark Ban Rate"
     },
     {
         "name": "Snapfire",
-        "y": 0.0,
+        "y": 0.11538461538461539,
         "drilldown": "Snapfire Ban Rate"
     },
     {
@@ -461,7 +461,7 @@
     },
     {
         "name": "Spectre",
-        "y": 0.75,
+        "y": 0.5,
         "drilldown": "Spectre Ban Rate"
     },
     {
@@ -471,37 +471,37 @@
     },
     {
         "name": "Storm Spirit",
-        "y": 0.125,
+        "y": 0.19230769230769232,
         "drilldown": "Storm Spirit Ban Rate"
     },
     {
         "name": "Sven",
-        "y": 0.0,
+        "y": 0.038461538461538464,
         "drilldown": "Sven Ban Rate"
     },
     {
         "name": "Techies",
-        "y": 0.125,
+        "y": 0.038461538461538464,
         "drilldown": "Techies Ban Rate"
     },
     {
         "name": "Templar Assassin",
-        "y": 0.5,
+        "y": 0.5769230769230769,
         "drilldown": "Templar Assassin Ban Rate"
     },
     {
         "name": "Terrorblade",
-        "y": 0.125,
+        "y": 0.5384615384615384,
         "drilldown": "Terrorblade Ban Rate"
     },
     {
         "name": "Tidehunter",
-        "y": 0.375,
+        "y": 0.38461538461538464,
         "drilldown": "Tidehunter Ban Rate"
     },
     {
         "name": "Timbersaw",
-        "y": 0.625,
+        "y": 0.5384615384615384,
         "drilldown": "Timbersaw Ban Rate"
     },
     {
@@ -511,7 +511,7 @@
     },
     {
         "name": "Tiny",
-        "y": 0.0,
+        "y": 0.07692307692307693,
         "drilldown": "Tiny Ban Rate"
     },
     {
@@ -521,7 +521,7 @@
     },
     {
         "name": "Troll Warlord",
-        "y": 0.0,
+        "y": 0.11538461538461539,
         "drilldown": "Troll Warlord Ban Rate"
     },
     {
@@ -531,7 +531,7 @@
     },
     {
         "name": "Underlord",
-        "y": 0.0,
+        "y": 0.07692307692307693,
         "drilldown": "Underlord Ban Rate"
     },
     {
@@ -541,7 +541,7 @@
     },
     {
         "name": "Ursa",
-        "y": 0.75,
+        "y": 0.5,
         "drilldown": "Ursa Ban Rate"
     },
     {
@@ -551,12 +551,12 @@
     },
     {
         "name": "Venomancer",
-        "y": 0.0,
+        "y": 0.038461538461538464,
         "drilldown": "Venomancer Ban Rate"
     },
     {
         "name": "Viper",
-        "y": 0.125,
+        "y": 0.3076923076923077,
         "drilldown": "Viper Ban Rate"
     },
     {
@@ -566,7 +566,7 @@
     },
     {
         "name": "Void Spirit",
-        "y": 0.125,
+        "y": 0.038461538461538464,
         "drilldown": "Void Spirit Ban Rate"
     },
     {
@@ -581,12 +581,12 @@
     },
     {
         "name": "Windranger",
-        "y": 0.125,
+        "y": 0.038461538461538464,
         "drilldown": "Windranger Ban Rate"
     },
     {
         "name": "Winter Wyvern",
-        "y": 0.125,
+        "y": 0.19230769230769232,
         "drilldown": "Winter Wyvern Ban Rate"
     },
     {
@@ -596,12 +596,12 @@
     },
     {
         "name": "Wraith King",
-        "y": 0.125,
+        "y": 0.15384615384615385,
         "drilldown": "Wraith King Ban Rate"
     },
     {
         "name": "Zeus",
-        "y": 0.125,
+        "y": 0.038461538461538464,
         "drilldown": "Zeus Ban Rate"
     }
 ]
