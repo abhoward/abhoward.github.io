@@ -1,7 +1,7 @@
 [
     {
         "name": "Abaddon",
-        "y": 0.5714285714285714,
+        "y": 0.5,
         "drilldown": "Abaddon Win Rate"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
         "name": "Axe",
-        "y": 0.42857142857142855,
+        "y": 0.4666666666666667,
         "drilldown": "Axe Win Rate"
     },
     {
@@ -121,12 +121,12 @@
     },
     {
         "name": "Death Prophet",
-        "y": 0.5,
+        "y": 0.6,
         "drilldown": "Death Prophet Win Rate"
     },
     {
         "name": "Disruptor",
-        "y": 0.5,
+        "y": 0.3333333333333333,
         "drilldown": "Disruptor Win Rate"
     },
     {
@@ -166,7 +166,7 @@
     },
     {
         "name": "Enchantress",
-        "y": 0.46153846153846156,
+        "y": 0.42857142857142855,
         "drilldown": "Enchantress Win Rate"
     },
     {
@@ -191,7 +191,7 @@
     },
     {
         "name": "Hoodwink",
-        "y": 0.3684210526315789,
+        "y": 0.35,
         "drilldown": "Hoodwink Win Rate"
     },
     {
@@ -226,7 +226,7 @@
     },
     {
         "name": "Kunkka",
-        "y": 0.6666666666666666,
+        "y": 0.5,
         "drilldown": "Kunkka Win Rate"
     },
     {
@@ -236,7 +236,7 @@
     },
     {
         "name": "Leshrac",
-        "y": 0.4,
+        "y": 0.375,
         "drilldown": "Leshrac Win Rate"
     },
     {
@@ -246,17 +246,17 @@
     },
     {
         "name": "Lifestealer",
-        "y": 0.75,
+        "y": 0.8,
         "drilldown": "Lifestealer Win Rate"
     },
     {
         "name": "Lina",
-        "y": 0.4,
+        "y": 0.3333333333333333,
         "drilldown": "Lina Win Rate"
     },
     {
         "name": "Lion",
-        "y": 0.43478260869565216,
+        "y": 0.4583333333333333,
         "drilldown": "Lion Win Rate"
     },
     {
@@ -331,7 +331,7 @@
     },
     {
         "name": "Nyx Assassin",
-        "y": 0.7222222222222222,
+        "y": 0.7,
         "drilldown": "Nyx Assassin Win Rate"
     },
     {
@@ -376,7 +376,7 @@
     },
     {
         "name": "Puck",
-        "y": 0.5384615384615384,
+        "y": 0.5,
         "drilldown": "Puck Win Rate"
     },
     {
@@ -461,7 +461,7 @@
     },
     {
         "name": "Spectre",
-        "y": 0.375,
+        "y": 0.3333333333333333,
         "drilldown": "Spectre Win Rate"
     },
     {
@@ -501,7 +501,7 @@
     },
     {
         "name": "Timbersaw",
-        "y": 0.7058823529411765,
+        "y": 0.7222222222222222,
         "drilldown": "Timbersaw Win Rate"
     },
     {
@@ -556,7 +556,7 @@
     },
     {
         "name": "Viper",
-        "y": 0.7,
+        "y": 0.7272727272727273,
         "drilldown": "Viper Win Rate"
     },
     {
@@ -586,7 +586,7 @@
     },
     {
         "name": "Winter Wyvern",
-        "y": 0.5172413793103449,
+        "y": 0.5333333333333333,
         "drilldown": "Winter Wyvern Win Rate"
     },
     {

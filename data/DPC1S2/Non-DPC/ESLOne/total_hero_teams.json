@@ -2066,7 +2066,7 @@
             ],
             [
                 "Axe",
-                1
+                2
             ],
             [
                 "Doom",
@@ -2085,12 +2085,16 @@
                 1
             ],
             [
+                "Hoodwink",
+                1
+            ],
+            [
                 "Leshrac",
-                3
+                4
             ],
             [
                 "Lifestealer",
-                1
+                2
             ],
             [
                 "Lion",
@@ -2114,7 +2118,7 @@
             ],
             [
                 "Nyx Assassin",
-                3
+                5
             ],
             [
                 "Phantom Assassin",
@@ -2126,7 +2130,7 @@
             ],
             [
                 "Puck",
-                1
+                2
             ],
             [
                 "Razor",
@@ -2142,7 +2146,7 @@
             ],
             [
                 "Spectre",
-                2
+                3
             ],
             [
                 "Terrorblade",
@@ -2170,7 +2174,11 @@
             ],
             [
                 "Viper",
-                2
+                3
+            ],
+            [
+                "Warlock",
+                1
             ],
             [
                 "Windranger",
@@ -2200,7 +2208,7 @@
             ],
             [
                 "Axe",
-                1
+                2
             ],
             [
                 "Doom",
@@ -2219,12 +2227,16 @@
                 1
             ],
             [
+                "Hoodwink",
+                0
+            ],
+            [
                 "Leshrac",
                 2
             ],
             [
                 "Lifestealer",
-                1
+                2
             ],
             [
                 "Lion",
@@ -2248,7 +2260,7 @@
             ],
             [
                 "Nyx Assassin",
-                2
+                3
             ],
             [
                 "Phantom Assassin",
@@ -2304,6 +2316,10 @@
             ],
             [
                 "Viper",
+                2
+            ],
+            [
+                "Warlock",
                 1
             ],
             [
@@ -2353,8 +2369,12 @@
                 1.0
             ],
             [
+                "Hoodwink",
+                0.0
+            ],
+            [
                 "Leshrac",
-                0.6666666666666666
+                0.5
             ],
             [
                 "Lifestealer",
@@ -2382,7 +2402,7 @@
             ],
             [
                 "Nyx Assassin",
-                0.6666666666666666
+                0.6
             ],
             [
                 "Phantom Assassin",
@@ -2394,7 +2414,7 @@
             ],
             [
                 "Puck",
-                1.0
+                0.5
             ],
             [
                 "Razor",
@@ -2410,7 +2430,7 @@
             ],
             [
                 "Spectre",
-                0.5
+                0.3333333333333333
             ],
             [
                 "Terrorblade",
@@ -2438,7 +2458,11 @@
             ],
             [
                 "Viper",
-                0.5
+                0.6666666666666666
+            ],
+            [
+                "Warlock",
+                1.0
             ],
             [
                 "Windranger",
@@ -3852,7 +3876,7 @@
         "data": [
             [
                 "Abaddon",
-                1
+                2
             ],
             [
                 "Ancient Apparition",
@@ -3871,8 +3895,12 @@
                 1
             ],
             [
+                "Death Prophet",
+                1
+            ],
+            [
                 "Disruptor",
-                2
+                3
             ],
             [
                 "Doom",
@@ -3880,11 +3908,11 @@
             ],
             [
                 "Enchantress",
-                5
+                6
             ],
             [
                 "Faceless Void",
-                1
+                2
             ],
             [
                 "Invoker",
@@ -3896,15 +3924,15 @@
             ],
             [
                 "Kunkka",
-                3
+                4
             ],
             [
                 "Lina",
-                1
+                2
             ],
             [
                 "Lion",
-                3
+                4
             ],
             [
                 "Luna",
@@ -3944,7 +3972,7 @@
             ],
             [
                 "Timbersaw",
-                3
+                4
             ],
             [
                 "Viper",
@@ -3952,7 +3980,7 @@
             ],
             [
                 "Winter Wyvern",
-                5
+                6
             ],
             [
                 "Wraith King",
@@ -3989,6 +4017,10 @@
                 1
             ],
             [
+                "Death Prophet",
+                1
+            ],
+            [
                 "Disruptor",
                 1
             ],
@@ -4002,7 +4034,7 @@
             ],
             [
                 "Faceless Void",
-                1
+                2
             ],
             [
                 "Invoker",
@@ -4022,7 +4054,7 @@
             ],
             [
                 "Lion",
-                2
+                3
             ],
             [
                 "Luna",
@@ -4062,7 +4094,7 @@
             ],
             [
                 "Timbersaw",
-                3
+                4
             ],
             [
                 "Viper",
@@ -4070,7 +4102,7 @@
             ],
             [
                 "Winter Wyvern",
-                4
+                5
             ],
             [
                 "Wraith King",
@@ -4088,7 +4120,7 @@
         "data": [
             [
                 "Abaddon",
-                1.0
+                0.5
             ],
             [
                 "Ancient Apparition",
@@ -4107,8 +4139,12 @@
                 1.0
             ],
             [
+                "Death Prophet",
+                1.0
+            ],
+            [
                 "Disruptor",
-                0.5
+                0.3333333333333333
             ],
             [
                 "Doom",
@@ -4116,7 +4152,7 @@
             ],
             [
                 "Enchantress",
-                0.6
+                0.5
             ],
             [
                 "Faceless Void",
@@ -4132,15 +4168,15 @@
             ],
             [
                 "Kunkka",
-                0.6666666666666666
+                0.5
             ],
             [
                 "Lina",
-                1.0
+                0.5
             ],
             [
                 "Lion",
-                0.6666666666666666
+                0.75
             ],
             [
                 "Luna",
@@ -4188,7 +4224,7 @@
             ],
             [
                 "Winter Wyvern",
-                0.8
+                0.8333333333333334
             ],
             [
                 "Wraith King",
