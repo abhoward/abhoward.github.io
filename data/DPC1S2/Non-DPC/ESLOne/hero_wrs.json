@@ -66,7 +66,7 @@
     },
     {
         "name": "Broodmother",
-        "y": 0.3333333333333333,
+        "y": 0.5,
         "drilldown": "Broodmother Win Rate"
     },
     {
@@ -201,7 +201,7 @@
     },
     {
         "name": "Invoker",
-        "y": 0.4,
+        "y": 0.36363636363636365,
         "drilldown": "Invoker Win Rate"
     },
     {
@@ -236,7 +236,7 @@
     },
     {
         "name": "Leshrac",
-        "y": 0.375,
+        "y": 0.4117647058823529,
         "drilldown": "Leshrac Win Rate"
     },
     {
@@ -256,7 +256,7 @@
     },
     {
         "name": "Lion",
-        "y": 0.4583333333333333,
+        "y": 0.44,
         "drilldown": "Lion Win Rate"
     },
     {
@@ -331,7 +331,7 @@
     },
     {
         "name": "Nyx Assassin",
-        "y": 0.7,
+        "y": 0.7142857142857143,
         "drilldown": "Nyx Assassin Win Rate"
     },
     {
@@ -346,7 +346,7 @@
     },
     {
         "name": "Oracle",
-        "y": 0.5,
+        "y": 0.3333333333333333,
         "drilldown": "Oracle Win Rate"
     },
     {
@@ -501,7 +501,7 @@
     },
     {
         "name": "Timbersaw",
-        "y": 0.7222222222222222,
+        "y": 0.6842105263157895,
         "drilldown": "Timbersaw Win Rate"
     },
     {
@@ -596,7 +596,7 @@
     },
     {
         "name": "Wraith King",
-        "y": 0.5,
+        "y": 0.45454545454545453,
         "drilldown": "Wraith King Win Rate"
     },
     {

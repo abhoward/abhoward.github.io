@@ -2069,6 +2069,10 @@
                 2
             ],
             [
+                "Broodmother",
+                1
+            ],
+            [
                 "Doom",
                 3
             ],
@@ -2081,6 +2085,10 @@
                 2
             ],
             [
+                "Faceless Void",
+                1
+            ],
+            [
                 "Grimstroke",
                 1
             ],
@@ -2090,7 +2098,7 @@
             ],
             [
                 "Leshrac",
-                4
+                5
             ],
             [
                 "Lifestealer",
@@ -2118,7 +2126,7 @@
             ],
             [
                 "Nyx Assassin",
-                5
+                6
             ],
             [
                 "Phantom Assassin",
@@ -2178,7 +2186,7 @@
             ],
             [
                 "Warlock",
-                1
+                2
             ],
             [
                 "Windranger",
@@ -2211,6 +2219,10 @@
                 2
             ],
             [
+                "Broodmother",
+                1
+            ],
+            [
                 "Doom",
                 3
             ],
@@ -2223,6 +2235,10 @@
                 1
             ],
             [
+                "Faceless Void",
+                1
+            ],
+            [
                 "Grimstroke",
                 1
             ],
@@ -2232,7 +2248,7 @@
             ],
             [
                 "Leshrac",
-                2
+                3
             ],
             [
                 "Lifestealer",
@@ -2260,7 +2276,7 @@
             ],
             [
                 "Nyx Assassin",
-                3
+                4
             ],
             [
                 "Phantom Assassin",
@@ -2320,7 +2336,7 @@
             ],
             [
                 "Warlock",
-                1
+                2
             ],
             [
                 "Windranger",
@@ -2353,6 +2369,10 @@
                 1.0
             ],
             [
+                "Broodmother",
+                1.0
+            ],
+            [
                 "Doom",
                 1.0
             ],
@@ -2365,6 +2385,10 @@
                 0.5
             ],
             [
+                "Faceless Void",
+                1.0
+            ],
+            [
                 "Grimstroke",
                 1.0
             ],
@@ -2374,7 +2398,7 @@
             ],
             [
                 "Leshrac",
-                0.5
+                0.6
             ],
             [
                 "Lifestealer",
@@ -2402,7 +2426,7 @@
             ],
             [
                 "Nyx Assassin",
-                0.6
+                0.6666666666666666
             ],
             [
                 "Phantom Assassin",
@@ -3916,7 +3940,7 @@
             ],
             [
                 "Invoker",
-                3
+                4
             ],
             [
                 "Juggernaut",
@@ -3932,7 +3956,7 @@
             ],
             [
                 "Lion",
-                4
+                5
             ],
             [
                 "Luna",
@@ -3940,6 +3964,10 @@
             ],
             [
                 "Mirana",
+                1
+            ],
+            [
+                "Oracle",
                 1
             ],
             [
@@ -3972,7 +4000,7 @@
             ],
             [
                 "Timbersaw",
-                4
+                5
             ],
             [
                 "Viper",
@@ -3984,7 +4012,7 @@
             ],
             [
                 "Wraith King",
-                2
+                3
             ],
             [
                 "Zeus",
@@ -4063,6 +4091,10 @@
             [
                 "Mirana",
                 1
+            ],
+            [
+                "Oracle",
+                0
             ],
             [
                 "Phantom Lancer",
@@ -4160,7 +4192,7 @@
             ],
             [
                 "Invoker",
-                0.6666666666666666
+                0.5
             ],
             [
                 "Juggernaut",
@@ -4176,7 +4208,7 @@
             ],
             [
                 "Lion",
-                0.75
+                0.6
             ],
             [
                 "Luna",
@@ -4185,6 +4217,10 @@
             [
                 "Mirana",
                 1.0
+            ],
+            [
+                "Oracle",
+                0.0
             ],
             [
                 "Phantom Lancer",
@@ -4216,7 +4252,7 @@
             ],
             [
                 "Timbersaw",
-                1.0
+                0.8
             ],
             [
                 "Viper",
@@ -4228,7 +4264,7 @@
             ],
             [
                 "Wraith King",
-                0.5
+                0.3333333333333333
             ],
             [
                 "Zeus",

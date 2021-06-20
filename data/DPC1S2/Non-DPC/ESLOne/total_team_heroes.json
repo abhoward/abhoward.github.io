@@ -622,6 +622,10 @@
         "id": "Broodmother Matches Played",
         "data": [
             [
+                "T1",
+                1
+            ],
+            [
                 "Team Liquid",
                 1
             ],
@@ -640,6 +644,10 @@
         "id": "Broodmother Matches Won",
         "data": [
             [
+                "T1",
+                1
+            ],
+            [
                 "Team Liquid",
                 0
             ],
@@ -657,6 +665,10 @@
         "name": "Broodmother Win Rate",
         "id": "Broodmother Win Rate",
         "data": [
+            [
+                "T1",
+                1.0
+            ],
             [
                 "Team Liquid",
                 0.0
@@ -1912,6 +1924,10 @@
         "id": "Faceless Void Matches Played",
         "data": [
             [
+                "T1",
+                1
+            ],
+            [
                 "ViKin.gg",
                 1
             ],
@@ -1926,6 +1942,10 @@
         "id": "Faceless Void Matches Won",
         "data": [
             [
+                "T1",
+                1
+            ],
+            [
                 "ViKin.gg",
                 1
             ],
@@ -1939,6 +1959,10 @@
         "name": "Faceless Void Win Rate",
         "id": "Faceless Void Win Rate",
         "data": [
+            [
+                "T1",
+                1.0
+            ],
             [
                 "ViKin.gg",
                 1.0
@@ -2233,7 +2257,7 @@
             ],
             [
                 "Virtus.pro",
-                3
+                4
             ]
         ]
     },
@@ -2293,7 +2317,7 @@
             ],
             [
                 "Virtus.pro",
-                0.6666666666666666
+                0.5
             ]
         ],
         "type": "spline",
@@ -2513,7 +2537,7 @@
             ],
             [
                 "T1",
-                4
+                5
             ],
             [
                 "Team Liquid",
@@ -2551,7 +2575,7 @@
             ],
             [
                 "T1",
-                2
+                3
             ],
             [
                 "Team Liquid",
@@ -2589,7 +2613,7 @@
             ],
             [
                 "T1",
-                0.5
+                0.6
             ],
             [
                 "Team Liquid",
@@ -2823,7 +2847,7 @@
             ],
             [
                 "Virtus.pro",
-                4
+                5
             ]
         ]
     },
@@ -2923,7 +2947,7 @@
             ],
             [
                 "Virtus.pro",
-                0.75
+                0.6
             ]
         ],
         "type": "spline",
@@ -3673,7 +3697,7 @@
             ],
             [
                 "T1",
-                5
+                6
             ],
             [
                 "Team Secret",
@@ -3715,7 +3739,7 @@
             ],
             [
                 "T1",
-                3
+                4
             ],
             [
                 "Team Secret",
@@ -3757,7 +3781,7 @@
             ],
             [
                 "T1",
-                0.6
+                0.6666666666666666
             ],
             [
                 "Team Secret",
@@ -3838,6 +3862,10 @@
             [
                 "Team Liquid",
                 1
+            ],
+            [
+                "Virtus.pro",
+                1
             ]
         ]
     },
@@ -3852,6 +3880,10 @@
             [
                 "Team Liquid",
                 0
+            ],
+            [
+                "Virtus.pro",
+                0
             ]
         ]
     },
@@ -3865,6 +3897,10 @@
             ],
             [
                 "Team Liquid",
+                0.0
+            ],
+            [
+                "Virtus.pro",
                 0.0
             ]
         ],
@@ -5491,7 +5527,7 @@
             ],
             [
                 "Virtus.pro",
-                4
+                5
             ]
         ]
     },
@@ -5575,7 +5611,7 @@
             ],
             [
                 "Virtus.pro",
-                1.0
+                0.8
             ]
         ],
         "type": "spline",
@@ -6123,7 +6159,7 @@
             ],
             [
                 "T1",
-                1
+                2
             ]
         ]
     },
@@ -6137,7 +6173,7 @@
             ],
             [
                 "T1",
-                1
+                2
             ]
         ]
     },
@@ -6451,7 +6487,7 @@
             ],
             [
                 "Virtus.pro",
-                2
+                3
             ]
         ]
     },
@@ -6511,7 +6547,7 @@
             ],
             [
                 "Virtus.pro",
-                0.5
+                0.3333333333333333
             ]
         ],
         "type": "spline",
