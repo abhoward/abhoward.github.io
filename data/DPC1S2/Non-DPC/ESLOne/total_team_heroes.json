@@ -4,8 +4,16 @@
         "id": "Abaddon Matches Played",
         "data": [
             [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
                 "ViKin.gg",
-                2
+                4
             ],
             [
                 "Virtus.pro",
@@ -18,8 +26,16 @@
         "id": "Abaddon Matches Won",
         "data": [
             [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
                 "ViKin.gg",
-                2
+                3
             ],
             [
                 "Virtus.pro",
@@ -32,8 +48,16 @@
         "id": "Abaddon Win Rate",
         "data": [
             [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
                 "ViKin.gg",
-                1.0
+                0.75
             ],
             [
                 "Virtus.pro",
@@ -105,6 +129,10 @@
             ],
             [
                 "OG",
+                3
+            ],
+            [
+                "T1",
                 1
             ],
             [
@@ -114,6 +142,10 @@
             [
                 "Tundra Esports ",
                 4
+            ],
+            [
+                "Virtus.pro",
+                1
             ]
         ]
     },
@@ -127,6 +159,10 @@
             ],
             [
                 "OG",
+                2
+            ],
+            [
+                "T1",
                 1
             ],
             [
@@ -136,6 +172,10 @@
             [
                 "Tundra Esports ",
                 2
+            ],
+            [
+                "Virtus.pro",
+                1
             ]
         ]
     },
@@ -149,6 +189,10 @@
             ],
             [
                 "OG",
+                0.6666666666666666
+            ],
+            [
+                "T1",
                 1.0
             ],
             [
@@ -158,6 +202,10 @@
             [
                 "Tundra Esports ",
                 0.5
+            ],
+            [
+                "Virtus.pro",
+                1.0
             ]
         ],
         "type": "spline",
@@ -178,8 +226,12 @@
         "id": "Anti-Mage Matches Played",
         "data": [
             [
-                "Nigma",
+                "Alliance",
                 1
+            ],
+            [
+                "Nigma",
+                2
             ]
         ]
     },
@@ -188,8 +240,12 @@
         "id": "Anti-Mage Matches Won",
         "data": [
             [
-                "Nigma",
+                "Alliance",
                 0
+            ],
+            [
+                "Nigma",
+                1
             ]
         ]
     },
@@ -198,8 +254,12 @@
         "id": "Anti-Mage Win Rate",
         "data": [
             [
-                "Nigma",
+                "Alliance",
                 0.0
+            ],
+            [
+                "Nigma",
+                0.5
             ]
         ],
         "type": "spline",
@@ -262,11 +322,23 @@
         "id": "Axe Matches Played",
         "data": [
             [
+                "Alliance",
+                1
+            ],
+            [
                 "Nigma",
-                2
+                4
             ],
             [
                 "OG",
+                4
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "T1",
                 1
             ],
             [
@@ -275,6 +347,10 @@
             ],
             [
                 "Team Unique",
+                1
+            ],
+            [
+                "Virtus.pro",
                 1
             ]
         ]
@@ -284,12 +360,24 @@
         "id": "Axe Matches Won",
         "data": [
             [
-                "Nigma",
+                "Alliance",
                 1
             ],
             [
+                "Nigma",
+                2
+            ],
+            [
                 "OG",
+                2
+            ],
+            [
+                "Quincy Crew",
                 0
+            ],
+            [
+                "T1",
+                1
             ],
             [
                 "Team Liquid",
@@ -297,6 +385,10 @@
             ],
             [
                 "Team Unique",
+                0
+            ],
+            [
+                "Virtus.pro",
                 0
             ]
         ]
@@ -306,12 +398,24 @@
         "id": "Axe Win Rate",
         "data": [
             [
+                "Alliance",
+                1.0
+            ],
+            [
                 "Nigma",
                 0.5
             ],
             [
                 "OG",
+                0.5
+            ],
+            [
+                "Quincy Crew",
                 0.0
+            ],
+            [
+                "T1",
+                1.0
             ],
             [
                 "Team Liquid",
@@ -319,6 +423,10 @@
             ],
             [
                 "Team Unique",
+                0.0
+            ],
+            [
+                "Virtus.pro",
                 0.0
             ]
         ],
@@ -384,6 +492,10 @@
             [
                 "Nigma",
                 1
+            ],
+            [
+                "Quincy Crew",
+                1
             ]
         ]
     },
@@ -394,6 +506,10 @@
             [
                 "Nigma",
                 1
+            ],
+            [
+                "Quincy Crew",
+                0
             ]
         ]
     },
@@ -404,6 +520,10 @@
             [
                 "Nigma",
                 1.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
             ]
         ],
         "type": "spline",
@@ -432,6 +552,10 @@
                 1
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "Tundra Esports ",
                 1
             ]
@@ -450,6 +574,10 @@
                 0
             ],
             [
+                "OG",
+                0
+            ],
+            [
                 "Tundra Esports ",
                 0
             ]
@@ -465,6 +593,10 @@
             ],
             [
                 "Nigma",
+                0.0
+            ],
+            [
+                "OG",
                 0.0
             ],
             [
@@ -556,12 +688,24 @@
         "id": "Centaur Warrunner Matches Played",
         "data": [
             [
+                "Alliance",
+                1
+            ],
+            [
                 "OG",
+                1
+            ],
+            [
+                "Quincy Crew",
                 1
             ],
             [
                 "ViKin.gg",
                 1
+            ],
+            [
+                "Virtus.pro",
+                2
             ]
         ]
     },
@@ -570,11 +714,23 @@
         "id": "Centaur Warrunner Matches Won",
         "data": [
             [
+                "Alliance",
+                0
+            ],
+            [
                 "OG",
                 1
             ],
             [
+                "Quincy Crew",
+                0
+            ],
+            [
                 "ViKin.gg",
+                1
+            ],
+            [
+                "Virtus.pro",
                 1
             ]
         ]
@@ -584,12 +740,24 @@
         "id": "Centaur Warrunner Win Rate",
         "data": [
             [
+                "Alliance",
+                0.0
+            ],
+            [
                 "OG",
                 1.0
             ],
             [
+                "Quincy Crew",
+                0.0
+            ],
+            [
                 "ViKin.gg",
                 1.0
+            ],
+            [
+                "Virtus.pro",
+                0.5
             ]
         ],
         "type": "spline",
@@ -609,6 +777,10 @@
         "name": "Chaos Knight Matches Played",
         "id": "Chaos Knight Matches Played",
         "data": [
+            [
+                "Alliance",
+                1
+            ],
             [
                 "OG",
                 1
@@ -632,6 +804,10 @@
         "id": "Chaos Knight Matches Won",
         "data": [
             [
+                "Alliance",
+                0
+            ],
+            [
                 "OG",
                 1
             ],
@@ -653,6 +829,10 @@
         "name": "Chaos Knight Win Rate",
         "id": "Chaos Knight Win Rate",
         "data": [
+            [
+                "Alliance",
+                0.0
+            ],
             [
                 "OG",
                 1.0
@@ -735,6 +915,10 @@
             ],
             [
                 "OG",
+                2
+            ],
+            [
+                "Quincy Crew",
                 1
             ],
             [
@@ -752,6 +936,14 @@
             [
                 "Tundra Esports ",
                 2
+            ],
+            [
+                "ViKin.gg",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
             ]
         ]
     },
@@ -765,7 +957,11 @@
             ],
             [
                 "OG",
-                1
+                2
+            ],
+            [
+                "Quincy Crew",
+                0
             ],
             [
                 "Team Liquid",
@@ -781,6 +977,14 @@
             ],
             [
                 "Tundra Esports ",
+                1
+            ],
+            [
+                "ViKin.gg",
+                0
+            ],
+            [
+                "Virtus.pro",
                 1
             ]
         ]
@@ -798,6 +1002,10 @@
                 1.0
             ],
             [
+                "Quincy Crew",
+                0.0
+            ],
+            [
                 "Team Liquid",
                 0.0
             ],
@@ -812,6 +1020,14 @@
             [
                 "Tundra Esports ",
                 0.5
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
             ]
         ],
         "type": "spline",
@@ -832,12 +1048,16 @@
         "id": "Dark Seer Matches Played",
         "data": [
             [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
                 "Nigma",
                 1
             ],
             [
                 "OG",
-                1
+                2
             ],
             [
                 "Team Secret",
@@ -850,12 +1070,16 @@
         "id": "Dark Seer Matches Won",
         "data": [
             [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
                 "Nigma",
                 1
             ],
             [
                 "OG",
-                1
+                2
             ],
             [
                 "Team Secret",
@@ -867,6 +1091,10 @@
         "name": "Dark Seer Win Rate",
         "id": "Dark Seer Win Rate",
         "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
             [
                 "Nigma",
                 1.0
@@ -899,7 +1127,7 @@
         "data": [
             [
                 "Alliance",
-                1
+                2
             ],
             [
                 "Team Unique",
@@ -927,7 +1155,7 @@
         "data": [
             [
                 "Alliance",
-                1.0
+                0.5
             ],
             [
                 "Team Unique",
@@ -954,6 +1182,14 @@
             [
                 "Alliance",
                 1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "ViKin.gg",
+                2
             ]
         ]
     },
@@ -963,6 +1199,14 @@
         "data": [
             [
                 "Alliance",
+                1
+            ],
+            [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "ViKin.gg",
                 1
             ]
         ]
@@ -974,6 +1218,56 @@
             [
                 "Alliance",
                 1.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Disruptor Matches Played",
+        "id": "Disruptor Matches Played",
+        "data": [
+            [
+                "Virtus.pro",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Matches Won",
+        "id": "Disruptor Matches Won",
+        "data": [
+            [
+                "Virtus.pro",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Win Rate",
+        "id": "Disruptor Win Rate",
+        "data": [
+            [
+                "Virtus.pro",
+                0.5
             ]
         ],
         "type": "spline",
@@ -994,8 +1288,28 @@
         "id": "Doom Matches Played",
         "data": [
             [
+                "Alliance",
+                1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "T1",
+                3
+            ],
+            [
                 "Team Unique",
                 2
+            ],
+            [
+                "ViKin.gg",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
             ]
         ]
     },
@@ -1004,7 +1318,27 @@
         "id": "Doom Matches Won",
         "data": [
             [
+                "Alliance",
+                1
+            ],
+            [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "T1",
+                3
+            ],
+            [
                 "Team Unique",
+                0
+            ],
+            [
+                "ViKin.gg",
+                1
+            ],
+            [
+                "Virtus.pro",
                 0
             ]
         ]
@@ -1014,7 +1348,27 @@
         "id": "Doom Win Rate",
         "data": [
             [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
                 "Team Unique",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Virtus.pro",
                 0.0
             ]
         ],
@@ -1048,8 +1402,16 @@
                 1
             ],
             [
-                "T1",
+                "OG",
                 1
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "T1",
+                3
             ],
             [
                 "Team Secret",
@@ -1086,8 +1448,16 @@
                 0
             ],
             [
-                "T1",
+                "OG",
                 1
+            ],
+            [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "T1",
+                2
             ],
             [
                 "Team Secret",
@@ -1124,8 +1494,16 @@
                 0.0
             ],
             [
-                "T1",
+                "OG",
                 1.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "T1",
+                0.6666666666666666
             ],
             [
                 "Team Secret",
@@ -1166,6 +1544,10 @@
                 2
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "Quincy Crew",
                 1
             ],
@@ -1181,6 +1563,10 @@
         "data": [
             [
                 "AS Monaco Gambit",
+                1
+            ],
+            [
+                "OG",
                 1
             ],
             [
@@ -1200,6 +1586,10 @@
             [
                 "AS Monaco Gambit",
                 0.5
+            ],
+            [
+                "OG",
+                1.0
             ],
             [
                 "Quincy Crew",
@@ -1312,6 +1702,10 @@
         "id": "Elder Titan Matches Played",
         "data": [
             [
+                "Nigma",
+                1
+            ],
+            [
                 "OG",
                 2
             ]
@@ -1322,6 +1716,10 @@
         "id": "Elder Titan Matches Won",
         "data": [
             [
+                "Nigma",
+                0
+            ],
+            [
                 "OG",
                 1
             ]
@@ -1331,6 +1729,10 @@
         "name": "Elder Titan Win Rate",
         "id": "Elder Titan Win Rate",
         "data": [
+            [
+                "Nigma",
+                0.0
+            ],
             [
                 "OG",
                 0.5
@@ -1400,6 +1802,14 @@
                 1
             ],
             [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
                 "Team Secret",
                 1
             ],
@@ -1409,7 +1819,7 @@
             ],
             [
                 "Virtus.pro",
-                1
+                5
             ]
         ]
     },
@@ -1422,6 +1832,14 @@
                 1
             ],
             [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
                 "Team Secret",
                 0
             ],
@@ -1431,7 +1849,7 @@
             ],
             [
                 "Virtus.pro",
-                1
+                3
             ]
         ]
     },
@@ -1444,6 +1862,14 @@
                 1.0
             ],
             [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "T1",
+                0.5
+            ],
+            [
                 "Team Secret",
                 0.0
             ],
@@ -1453,7 +1879,7 @@
             ],
             [
                 "Virtus.pro",
-                1.0
+                0.6
             ]
         ],
         "type": "spline",
@@ -1476,6 +1902,10 @@
             [
                 "ViKin.gg",
                 1
+            ],
+            [
+                "Virtus.pro",
+                1
             ]
         ]
     },
@@ -1486,6 +1916,10 @@
             [
                 "ViKin.gg",
                 1
+            ],
+            [
+                "Virtus.pro",
+                1
             ]
         ]
     },
@@ -1495,6 +1929,10 @@
         "data": [
             [
                 "ViKin.gg",
+                1.0
+            ],
+            [
+                "Virtus.pro",
                 1.0
             ]
         ],
@@ -1520,6 +1958,10 @@
                 1
             ],
             [
+                "T1",
+                1
+            ],
+            [
                 "Tundra Esports ",
                 2
             ]
@@ -1534,6 +1976,10 @@
                 0
             ],
             [
+                "T1",
+                1
+            ],
+            [
                 "Tundra Esports ",
                 1
             ]
@@ -1546,6 +1992,10 @@
             [
                 "OG",
                 0.0
+            ],
+            [
+                "T1",
+                1.0
             ],
             [
                 "Tundra Esports ",
@@ -1570,6 +2020,10 @@
         "id": "Gyrocopter Matches Played",
         "data": [
             [
+                "Alliance",
+                1
+            ],
+            [
                 "Nigma",
                 1
             ]
@@ -1580,6 +2034,10 @@
         "id": "Gyrocopter Matches Won",
         "data": [
             [
+                "Alliance",
+                1
+            ],
+            [
                 "Nigma",
                 0
             ]
@@ -1589,6 +2047,10 @@
         "name": "Gyrocopter Win Rate",
         "id": "Gyrocopter Win Rate",
         "data": [
+            [
+                "Alliance",
+                1.0
+            ],
             [
                 "Nigma",
                 0.0
@@ -1612,12 +2074,20 @@
         "id": "Hoodwink Matches Played",
         "data": [
             [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
                 "Alliance",
-                2
+                6
             ],
             [
                 "OG",
-                1
+                5
+            ],
+            [
+                "Quincy Crew",
+                2
             ],
             [
                 "Team Liquid",
@@ -1638,11 +2108,19 @@
         "id": "Hoodwink Matches Won",
         "data": [
             [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
                 "Alliance",
-                2
+                4
             ],
             [
                 "OG",
+                3
+            ],
+            [
+                "Quincy Crew",
                 0
             ],
             [
@@ -1664,11 +2142,19 @@
         "id": "Hoodwink Win Rate",
         "data": [
             [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
                 "Alliance",
-                1.0
+                0.6666666666666666
             ],
             [
                 "OG",
+                0.6
+            ],
+            [
+                "Quincy Crew",
                 0.0
             ],
             [
@@ -1702,6 +2188,10 @@
         "id": "Invoker Matches Played",
         "data": [
             [
+                "Nigma",
+                2
+            ],
+            [
                 "OG",
                 1
             ],
@@ -1716,6 +2206,10 @@
             [
                 "ViKin.gg",
                 1
+            ],
+            [
+                "Virtus.pro",
+                3
             ]
         ]
     },
@@ -1723,6 +2217,10 @@
         "name": "Invoker Matches Won",
         "id": "Invoker Matches Won",
         "data": [
+            [
+                "Nigma",
+                1
+            ],
             [
                 "OG",
                 0
@@ -1738,6 +2236,10 @@
             [
                 "ViKin.gg",
                 0
+            ],
+            [
+                "Virtus.pro",
+                2
             ]
         ]
     },
@@ -1745,6 +2247,10 @@
         "name": "Invoker Win Rate",
         "id": "Invoker Win Rate",
         "data": [
+            [
+                "Nigma",
+                0.5
+            ],
             [
                 "OG",
                 0.0
@@ -1760,6 +2266,10 @@
             [
                 "ViKin.gg",
                 0.0
+            ],
+            [
+                "Virtus.pro",
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -1780,6 +2290,10 @@
         "id": "Io Matches Played",
         "data": [
             [
+                "Alliance",
+                1
+            ],
+            [
                 "Nigma",
                 2
             ],
@@ -1797,6 +2311,10 @@
         "name": "Io Matches Won",
         "id": "Io Matches Won",
         "data": [
+            [
+                "Alliance",
+                1
+            ],
             [
                 "Nigma",
                 0
@@ -1816,6 +2334,10 @@
         "id": "Io Win Rate",
         "data": [
             [
+                "Alliance",
+                1.0
+            ],
+            [
                 "Nigma",
                 0.0
             ],
@@ -1825,6 +2347,72 @@
             ],
             [
                 "ViKin.gg",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Juggernaut Matches Played",
+        "id": "Juggernaut Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Matches Won",
+        "id": "Juggernaut Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Virtus.pro",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Win Rate",
+        "id": "Juggernaut Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Virtus.pro",
                 1.0
             ]
         ],
@@ -1847,7 +2435,7 @@
         "data": [
             [
                 "Virtus.pro",
-                1
+                3
             ]
         ]
     },
@@ -1857,7 +2445,7 @@
         "data": [
             [
                 "Virtus.pro",
-                1
+                2
             ]
         ]
     },
@@ -1867,7 +2455,7 @@
         "data": [
             [
                 "Virtus.pro",
-                1.0
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -1888,6 +2476,10 @@
         "id": "Leshrac Matches Played",
         "data": [
             [
+                "Alliance",
+                2
+            ],
+            [
                 "Nigma",
                 1
             ],
@@ -1897,7 +2489,7 @@
             ],
             [
                 "T1",
-                1
+                3
             ],
             [
                 "Team Liquid",
@@ -1913,7 +2505,7 @@
             ],
             [
                 "ViKin.gg",
-                1
+                3
             ]
         ]
     },
@@ -1922,6 +2514,10 @@
         "id": "Leshrac Matches Won",
         "data": [
             [
+                "Alliance",
+                1
+            ],
+            [
                 "Nigma",
                 0
             ],
@@ -1931,7 +2527,7 @@
             ],
             [
                 "T1",
-                1
+                2
             ],
             [
                 "Team Liquid",
@@ -1947,7 +2543,7 @@
             ],
             [
                 "ViKin.gg",
-                1
+                2
             ]
         ]
     },
@@ -1956,6 +2552,10 @@
         "id": "Leshrac Win Rate",
         "data": [
             [
+                "Alliance",
+                0.5
+            ],
+            [
                 "Nigma",
                 0.0
             ],
@@ -1965,7 +2565,7 @@
             ],
             [
                 "T1",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Team Liquid",
@@ -1981,7 +2581,7 @@
             ],
             [
                 "ViKin.gg",
-                1.0
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -2002,7 +2602,19 @@
         "id": "Lifestealer Matches Played",
         "data": [
             [
+                "Alliance",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
                 "Tundra Esports ",
+                1
+            ],
+            [
+                "ViKin.gg",
                 1
             ]
         ]
@@ -2012,8 +2624,20 @@
         "id": "Lifestealer Matches Won",
         "data": [
             [
+                "Alliance",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
                 "Tundra Esports ",
                 0
+            ],
+            [
+                "ViKin.gg",
+                1
             ]
         ]
     },
@@ -2022,8 +2646,20 @@
         "id": "Lifestealer Win Rate",
         "data": [
             [
+                "Alliance",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
                 "Tundra Esports ",
                 0.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
             ]
         ],
         "type": "spline",
@@ -2045,7 +2681,7 @@
         "data": [
             [
                 "Alliance",
-                1
+                2
             ],
             [
                 "Nigma",
@@ -2053,6 +2689,10 @@
             ],
             [
                 "Tundra Esports ",
+                1
+            ],
+            [
+                "Virtus.pro",
                 1
             ]
         ]
@@ -2072,6 +2712,10 @@
             [
                 "Tundra Esports ",
                 0
+            ],
+            [
+                "Virtus.pro",
+                1
             ]
         ]
     },
@@ -2081,7 +2725,7 @@
         "data": [
             [
                 "Alliance",
-                1.0
+                0.5
             ],
             [
                 "Nigma",
@@ -2090,6 +2734,10 @@
             [
                 "Tundra Esports ",
                 0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
             ]
         ],
         "type": "spline",
@@ -2115,7 +2763,7 @@
             ],
             [
                 "Alliance",
-                1
+                3
             ],
             [
                 "OG",
@@ -2123,7 +2771,11 @@
             ],
             [
                 "Quincy Crew",
-                1
+                2
+            ],
+            [
+                "T1",
+                5
             ],
             [
                 "Team Liquid",
@@ -2143,11 +2795,11 @@
             ],
             [
                 "ViKin.gg",
-                1
+                2
             ],
             [
                 "Virtus.pro",
-                1
+                3
             ]
         ]
     },
@@ -2161,7 +2813,7 @@
             ],
             [
                 "Alliance",
-                1
+                2
             ],
             [
                 "OG",
@@ -2170,6 +2822,10 @@
             [
                 "Quincy Crew",
                 1
+            ],
+            [
+                "T1",
+                3
             ],
             [
                 "Team Liquid",
@@ -2193,7 +2849,7 @@
             ],
             [
                 "Virtus.pro",
-                1
+                2
             ]
         ]
     },
@@ -2207,7 +2863,7 @@
             ],
             [
                 "Alliance",
-                1.0
+                0.6666666666666666
             ],
             [
                 "OG",
@@ -2215,7 +2871,11 @@
             ],
             [
                 "Quincy Crew",
-                1.0
+                0.5
+            ],
+            [
+                "T1",
+                0.6
             ],
             [
                 "Team Liquid",
@@ -2235,11 +2895,11 @@
             ],
             [
                 "ViKin.gg",
-                1.0
+                0.5
             ],
             [
                 "Virtus.pro",
-                1.0
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -2260,7 +2920,23 @@
         "id": "Luna Matches Played",
         "data": [
             [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
                 "Quincy Crew",
+                2
+            ],
+            [
+                "T1",
                 1
             ],
             [
@@ -2274,6 +2950,10 @@
             [
                 "ViKin.gg",
                 2
+            ],
+            [
+                "Virtus.pro",
+                1
             ]
         ]
     },
@@ -2282,7 +2962,23 @@
         "id": "Luna Matches Won",
         "data": [
             [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "Alliance",
+                1
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
                 "Quincy Crew",
+                1
+            ],
+            [
+                "T1",
                 1
             ],
             [
@@ -2296,6 +2992,10 @@
             [
                 "ViKin.gg",
                 1
+            ],
+            [
+                "Virtus.pro",
+                1
             ]
         ]
     },
@@ -2304,7 +3004,23 @@
         "id": "Luna Win Rate",
         "data": [
             [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Alliance",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
                 "Quincy Crew",
+                0.5
+            ],
+            [
+                "T1",
                 1.0
             ],
             [
@@ -2318,6 +3034,10 @@
             [
                 "ViKin.gg",
                 0.5
+            ],
+            [
+                "Virtus.pro",
+                1.0
             ]
         ],
         "type": "spline",
@@ -2338,6 +3058,14 @@
         "id": "Magnus Matches Played",
         "data": [
             [
+                "Alliance",
+                3
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
                 "Team Unique",
                 1
             ],
@@ -2352,6 +3080,14 @@
         "id": "Magnus Matches Won",
         "data": [
             [
+                "Alliance",
+                2
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
                 "Team Unique",
                 0
             ],
@@ -2365,6 +3101,14 @@
         "name": "Magnus Win Rate",
         "id": "Magnus Win Rate",
         "data": [
+            [
+                "Alliance",
+                0.6666666666666666
+            ],
+            [
+                "T1",
+                0.5
+            ],
             [
                 "Team Unique",
                 0.0
@@ -2392,6 +3136,14 @@
         "id": "Mars Matches Played",
         "data": [
             [
+                "Alliance",
+                1
+            ],
+            [
+                "OG",
+                1
+            ],
+            [
                 "Team Liquid",
                 1
             ],
@@ -2410,6 +3162,14 @@
         "id": "Mars Matches Won",
         "data": [
             [
+                "Alliance",
+                0
+            ],
+            [
+                "OG",
+                1
+            ],
+            [
                 "Team Liquid",
                 0
             ],
@@ -2427,6 +3187,14 @@
         "name": "Mars Win Rate",
         "id": "Mars Win Rate",
         "data": [
+            [
+                "Alliance",
+                0.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
             [
                 "Team Liquid",
                 0.0
@@ -2458,6 +3226,10 @@
         "id": "Medusa Matches Played",
         "data": [
             [
+                "OG",
+                2
+            ],
+            [
                 "Tundra Esports ",
                 3
             ]
@@ -2468,6 +3240,10 @@
         "id": "Medusa Matches Won",
         "data": [
             [
+                "OG",
+                1
+            ],
+            [
                 "Tundra Esports ",
                 1
             ]
@@ -2477,6 +3253,10 @@
         "name": "Medusa Win Rate",
         "id": "Medusa Win Rate",
         "data": [
+            [
+                "OG",
+                0.5
+            ],
             [
                 "Tundra Esports ",
                 0.3333333333333333
@@ -2500,8 +3280,12 @@
         "id": "Mirana Matches Played",
         "data": [
             [
-                "OG",
+                "Alliance",
                 1
+            ],
+            [
+                "OG",
+                3
             ],
             [
                 "T1",
@@ -2509,6 +3293,10 @@
             ],
             [
                 "Team Liquid",
+                1
+            ],
+            [
+                "Virtus.pro",
                 1
             ]
         ]
@@ -2518,8 +3306,12 @@
         "id": "Mirana Matches Won",
         "data": [
             [
-                "OG",
+                "Alliance",
                 1
+            ],
+            [
+                "OG",
+                2
             ],
             [
                 "T1",
@@ -2528,6 +3320,10 @@
             [
                 "Team Liquid",
                 0
+            ],
+            [
+                "Virtus.pro",
+                1
             ]
         ]
     },
@@ -2536,8 +3332,12 @@
         "id": "Mirana Win Rate",
         "data": [
             [
-                "OG",
+                "Alliance",
                 1.0
+            ],
+            [
+                "OG",
+                0.6666666666666666
             ],
             [
                 "T1",
@@ -2546,6 +3346,64 @@
             [
                 "Team Liquid",
                 0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Monkey King Matches Played",
+        "id": "Monkey King Matches Played",
+        "data": [
+            [
+                "OG",
+                1
+            ],
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Matches Won",
+        "id": "Monkey King Matches Won",
+        "data": [
+            [
+                "OG",
+                0
+            ],
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Win Rate",
+        "id": "Monkey King Win Rate",
+        "data": [
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
             ]
         ],
         "type": "spline",
@@ -2566,7 +3424,19 @@
         "id": "Morphling Matches Played",
         "data": [
             [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
                 "Nigma",
+                1
+            ],
+            [
+                "OG",
+                1
+            ],
+            [
+                "Quincy Crew",
                 1
             ]
         ]
@@ -2576,7 +3446,19 @@
         "id": "Morphling Matches Won",
         "data": [
             [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
                 "Nigma",
+                0
+            ],
+            [
+                "OG",
+                0
+            ],
+            [
+                "Quincy Crew",
                 0
             ]
         ]
@@ -2586,8 +3468,62 @@
         "id": "Morphling Win Rate",
         "data": [
             [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
                 "Nigma",
                 0.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Naga Siren Matches Played",
+        "id": "Naga Siren Matches Played",
+        "data": [
+            [
+                "OG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren Matches Won",
+        "id": "Naga Siren Matches Won",
+        "data": [
+            [
+                "OG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren Win Rate",
+        "id": "Naga Siren Win Rate",
+        "data": [
+            [
+                "OG",
+                1.0
             ]
         ],
         "type": "spline",
@@ -2646,6 +3582,48 @@
         }
     },
     {
+        "name": "Necrophos Matches Played",
+        "id": "Necrophos Matches Played",
+        "data": [
+            [
+                "OG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Matches Won",
+        "id": "Necrophos Matches Won",
+        "data": [
+            [
+                "OG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Win Rate",
+        "id": "Necrophos Win Rate",
+        "data": [
+            [
+                "OG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
         "name": "Nyx Assassin Matches Played",
         "id": "Nyx Assassin Matches Played",
         "data": [
@@ -2655,7 +3633,7 @@
             ],
             [
                 "Alliance",
-                2
+                3
             ],
             [
                 "Nigma",
@@ -2663,7 +3641,7 @@
             ],
             [
                 "OG",
-                1
+                2
             ],
             [
                 "Quincy Crew",
@@ -2671,7 +3649,7 @@
             ],
             [
                 "T1",
-                1
+                3
             ],
             [
                 "Team Secret",
@@ -2683,7 +3661,7 @@
             ],
             [
                 "ViKin.gg",
-                2
+                4
             ]
         ]
     },
@@ -2713,7 +3691,7 @@
             ],
             [
                 "T1",
-                1
+                2
             ],
             [
                 "Team Secret",
@@ -2725,7 +3703,7 @@
             ],
             [
                 "ViKin.gg",
-                2
+                4
             ]
         ]
     },
@@ -2739,7 +3717,7 @@
             ],
             [
                 "Alliance",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Nigma",
@@ -2747,7 +3725,7 @@
             ],
             [
                 "OG",
-                1.0
+                0.5
             ],
             [
                 "Quincy Crew",
@@ -2755,7 +3733,7 @@
             ],
             [
                 "T1",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Team Secret",
@@ -2784,9 +3762,55 @@
         }
     },
     {
+        "name": "Omniknight Matches Played",
+        "id": "Omniknight Matches Played",
+        "data": [
+            [
+                "OG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Omniknight Matches Won",
+        "id": "Omniknight Matches Won",
+        "data": [
+            [
+                "OG",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Omniknight Win Rate",
+        "id": "Omniknight Win Rate",
+        "data": [
+            [
+                "OG",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
         "name": "Oracle Matches Played",
         "id": "Oracle Matches Played",
         "data": [
+            [
+                "OG",
+                1
+            ],
             [
                 "Team Liquid",
                 1
@@ -2798,6 +3822,10 @@
         "id": "Oracle Matches Won",
         "data": [
             [
+                "OG",
+                1
+            ],
+            [
                 "Team Liquid",
                 0
             ]
@@ -2807,6 +3835,10 @@
         "name": "Oracle Win Rate",
         "id": "Oracle Win Rate",
         "data": [
+            [
+                "OG",
+                1.0
+            ],
             [
                 "Team Liquid",
                 0.0
@@ -2830,6 +3862,10 @@
         "id": "Pangolier Matches Played",
         "data": [
             [
+                "Alliance",
+                1
+            ],
+            [
                 "OG",
                 1
             ],
@@ -2848,6 +3884,10 @@
         "id": "Pangolier Matches Won",
         "data": [
             [
+                "Alliance",
+                1
+            ],
+            [
                 "OG",
                 1
             ],
@@ -2865,6 +3905,10 @@
         "name": "Pangolier Win Rate",
         "id": "Pangolier Win Rate",
         "data": [
+            [
+                "Alliance",
+                1.0
+            ],
             [
                 "OG",
                 1.0
@@ -2892,12 +3936,58 @@
         }
     },
     {
+        "name": "Phantom Assassin Matches Played",
+        "id": "Phantom Assassin Matches Played",
+        "data": [
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Matches Won",
+        "id": "Phantom Assassin Matches Won",
+        "data": [
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Win Rate",
+        "id": "Phantom Assassin Win Rate",
+        "data": [
+            [
+                "T1",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
         "name": "Phantom Lancer Matches Played",
         "id": "Phantom Lancer Matches Played",
         "data": [
             [
                 "Team Secret",
                 1
+            ],
+            [
+                "Virtus.pro",
+                2
             ]
         ]
     },
@@ -2907,6 +3997,10 @@
         "data": [
             [
                 "Team Secret",
+                1
+            ],
+            [
+                "Virtus.pro",
                 1
             ]
         ]
@@ -2918,6 +4012,10 @@
             [
                 "Team Secret",
                 1.0
+            ],
+            [
+                "Virtus.pro",
+                0.5
             ]
         ],
         "type": "spline",
@@ -2942,15 +4040,23 @@
                 1
             ],
             [
+                "Alliance",
+                1
+            ],
+            [
                 "Nigma",
                 3
             ],
             [
                 "OG",
-                2
+                4
             ],
             [
                 "Quincy Crew",
+                2
+            ],
+            [
+                "T1",
                 1
             ]
         ]
@@ -2964,15 +4070,23 @@
                 1
             ],
             [
+                "Alliance",
+                1
+            ],
+            [
                 "Nigma",
                 1
             ],
             [
                 "OG",
-                1
+                2
             ],
             [
                 "Quincy Crew",
+                1
+            ],
+            [
+                "T1",
                 1
             ]
         ]
@@ -2986,6 +4100,10 @@
                 1.0
             ],
             [
+                "Alliance",
+                1.0
+            ],
+            [
                 "Nigma",
                 0.3333333333333333
             ],
@@ -2995,6 +4113,10 @@
             ],
             [
                 "Quincy Crew",
+                0.5
+            ],
+            [
+                "T1",
                 1.0
             ]
         ],
@@ -3020,12 +4142,24 @@
                 3
             ],
             [
+                "Alliance",
+                2
+            ],
+            [
                 "Nigma",
                 1
             ],
             [
                 "OG",
                 2
+            ],
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "T1",
+                1
             ],
             [
                 "Team Secret",
@@ -3050,12 +4184,24 @@
                 1
             ],
             [
+                "Alliance",
+                2
+            ],
+            [
                 "Nigma",
                 0
             ],
             [
                 "OG",
                 2
+            ],
+            [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "T1",
+                1
             ],
             [
                 "Team Secret",
@@ -3080,11 +4226,23 @@
                 0.3333333333333333
             ],
             [
+                "Alliance",
+                1.0
+            ],
+            [
                 "Nigma",
                 0.0
             ],
             [
                 "OG",
+                1.0
+            ],
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "T1",
                 1.0
             ],
             [
@@ -3143,6 +4301,10 @@
             ],
             [
                 "ViKin.gg",
+                2
+            ],
+            [
+                "Virtus.pro",
                 1
             ]
         ]
@@ -3178,6 +4340,10 @@
             [
                 "ViKin.gg",
                 1
+            ],
+            [
+                "Virtus.pro",
+                0
             ]
         ]
     },
@@ -3211,6 +4377,64 @@
             ],
             [
                 "ViKin.gg",
+                0.5
+            ],
+            [
+                "Virtus.pro",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Rubick Matches Played",
+        "id": "Rubick Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Matches Won",
+        "id": "Rubick Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "Nigma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Win Rate",
+        "id": "Rubick Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Nigma",
                 1.0
             ]
         ],
@@ -3233,6 +4457,14 @@
         "data": [
             [
                 "Nigma",
+                2
+            ],
+            [
+                "OG",
+                1
+            ],
+            [
+                "T1",
                 1
             ],
             [
@@ -3250,6 +4482,14 @@
                 1
             ],
             [
+                "OG",
+                0
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
                 "Team Liquid",
                 0
             ]
@@ -3261,7 +4501,15 @@
         "data": [
             [
                 "Nigma",
-                1.0
+                0.5
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
             ],
             [
                 "Team Liquid",
@@ -3286,7 +4534,15 @@
         "id": "Shadow Demon Matches Played",
         "data": [
             [
+                "Alliance",
+                1
+            ],
+            [
                 "Nigma",
+                1
+            ],
+            [
+                "OG",
                 1
             ]
         ]
@@ -3296,8 +4552,16 @@
         "id": "Shadow Demon Matches Won",
         "data": [
             [
+                "Alliance",
+                0
+            ],
+            [
                 "Nigma",
                 0
+            ],
+            [
+                "OG",
+                1
             ]
         ]
     },
@@ -3306,8 +4570,184 @@
         "id": "Shadow Demon Win Rate",
         "data": [
             [
+                "Alliance",
+                0.0
+            ],
+            [
                 "Nigma",
                 0.0
+            ],
+            [
+                "OG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Shadow Fiend Matches Played",
+        "id": "Shadow Fiend Matches Played",
+        "data": [
+            [
+                "Alliance",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Fiend Matches Won",
+        "id": "Shadow Fiend Matches Won",
+        "data": [
+            [
+                "Alliance",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Fiend Win Rate",
+        "id": "Shadow Fiend Win Rate",
+        "data": [
+            [
+                "Alliance",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Shadow Shaman Matches Played",
+        "id": "Shadow Shaman Matches Played",
+        "data": [
+            [
+                "Nigma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Matches Won",
+        "id": "Shadow Shaman Matches Won",
+        "data": [
+            [
+                "Nigma",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Win Rate",
+        "id": "Shadow Shaman Win Rate",
+        "data": [
+            [
+                "Nigma",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Silencer Matches Played",
+        "id": "Silencer Matches Played",
+        "data": [
+            [
+                "Virtus.pro",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Silencer Matches Won",
+        "id": "Silencer Matches Won",
+        "data": [
+            [
+                "Virtus.pro",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Silencer Win Rate",
+        "id": "Silencer Win Rate",
+        "data": [
+            [
+                "Virtus.pro",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Skywrath Mage Matches Played",
+        "id": "Skywrath Mage Matches Played",
+        "data": [
+            [
+                "Alliance",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Matches Won",
+        "id": "Skywrath Mage Matches Won",
+        "data": [
+            [
+                "Alliance",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Win Rate",
+        "id": "Skywrath Mage Win Rate",
+        "data": [
+            [
+                "Alliance",
+                1.0
             ]
         ],
         "type": "spline",
@@ -3370,6 +4810,10 @@
         "id": "Snapfire Matches Played",
         "data": [
             [
+                "T1",
+                1
+            ],
+            [
                 "Team Liquid",
                 1
             ],
@@ -3388,6 +4832,10 @@
         "id": "Snapfire Matches Won",
         "data": [
             [
+                "T1",
+                1
+            ],
+            [
                 "Team Liquid",
                 0
             ],
@@ -3405,6 +4853,10 @@
         "name": "Snapfire Win Rate",
         "id": "Snapfire Win Rate",
         "data": [
+            [
+                "T1",
+                1.0
+            ],
             [
                 "Team Liquid",
                 0.0
@@ -3437,7 +4889,7 @@
         "data": [
             [
                 "Alliance",
-                1
+                2
             ],
             [
                 "OG",
@@ -3449,11 +4901,11 @@
             ],
             [
                 "T1",
-                1
+                2
             ],
             [
                 "ViKin.gg",
-                1
+                2
             ]
         ]
     },
@@ -3489,7 +4941,7 @@
         "data": [
             [
                 "Alliance",
-                1.0
+                0.5
             ],
             [
                 "OG",
@@ -3501,10 +4953,52 @@
             ],
             [
                 "T1",
-                1.0
+                0.5
             ],
             [
                 "ViKin.gg",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Spirit Breaker Matches Played",
+        "id": "Spirit Breaker Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Spirit Breaker Matches Won",
+        "id": "Spirit Breaker Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Spirit Breaker Win Rate",
+        "id": "Spirit Breaker Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
                 0.0
             ]
         ],
@@ -3526,12 +5020,16 @@
         "id": "Storm Spirit Matches Played",
         "data": [
             [
+                "Nigma",
+                1
+            ],
+            [
                 "Team Secret",
                 1
             ],
             [
                 "ViKin.gg",
-                2
+                3
             ]
         ]
     },
@@ -3540,12 +5038,16 @@
         "id": "Storm Spirit Matches Won",
         "data": [
             [
+                "Nigma",
+                0
+            ],
+            [
                 "Team Secret",
                 0
             ],
             [
                 "ViKin.gg",
-                2
+                3
             ]
         ]
     },
@@ -3553,6 +5055,10 @@
         "name": "Storm Spirit Win Rate",
         "id": "Storm Spirit Win Rate",
         "data": [
+            [
+                "Nigma",
+                0.0
+            ],
             [
                 "Team Secret",
                 0.0
@@ -3582,6 +5088,10 @@
             [
                 "Alliance",
                 1
+            ],
+            [
+                "OG",
+                1
             ]
         ]
     },
@@ -3592,6 +5102,10 @@
             [
                 "Alliance",
                 1
+            ],
+            [
+                "OG",
+                0
             ]
         ]
     },
@@ -3602,6 +5116,10 @@
             [
                 "Alliance",
                 1.0
+            ],
+            [
+                "OG",
+                0.0
             ]
         ],
         "type": "spline",
@@ -3622,6 +5140,10 @@
         "id": "Templar Assassin Matches Played",
         "data": [
             [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
                 "Nigma",
                 1
             ],
@@ -3631,7 +5153,7 @@
             ],
             [
                 "Virtus.pro",
-                1
+                2
             ]
         ]
     },
@@ -3639,6 +5161,10 @@
         "name": "Templar Assassin Matches Won",
         "id": "Templar Assassin Matches Won",
         "data": [
+            [
+                "AS Monaco Gambit",
+                0
+            ],
             [
                 "Nigma",
                 1
@@ -3658,6 +5184,10 @@
         "id": "Templar Assassin Win Rate",
         "data": [
             [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
                 "Nigma",
                 1.0
             ],
@@ -3667,7 +5197,7 @@
             ],
             [
                 "Virtus.pro",
-                1.0
+                0.5
             ]
         ],
         "type": "spline",
@@ -3693,14 +5223,26 @@
             ],
             [
                 "Alliance",
-                1
+                2
             ],
             [
                 "Nigma",
                 1
             ],
             [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
                 "Team Unique",
+                1
+            ],
+            [
+                "Virtus.pro",
                 1
             ]
         ]
@@ -3722,8 +5264,20 @@
                 1
             ],
             [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
                 "Team Unique",
                 0
+            ],
+            [
+                "Virtus.pro",
+                1
             ]
         ]
     },
@@ -3737,15 +5291,27 @@
             ],
             [
                 "Alliance",
-                1.0
+                0.5
             ],
             [
                 "Nigma",
                 1.0
             ],
             [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "T1",
+                0.5
+            ],
+            [
                 "Team Unique",
                 0.0
+            ],
+            [
+                "Virtus.pro",
+                1.0
             ]
         ],
         "type": "spline",
@@ -3767,11 +5333,11 @@
         "data": [
             [
                 "AS Monaco Gambit",
-                2
+                3
             ],
             [
                 "Alliance",
-                1
+                3
             ],
             [
                 "OG",
@@ -3783,6 +5349,10 @@
             ],
             [
                 "T1",
+                1
+            ],
+            [
+                "Virtus.pro",
                 1
             ]
         ]
@@ -3810,6 +5380,10 @@
             [
                 "T1",
                 1
+            ],
+            [
+                "Virtus.pro",
+                1
             ]
         ]
     },
@@ -3819,11 +5393,11 @@
         "data": [
             [
                 "AS Monaco Gambit",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Alliance",
-                1.0
+                0.3333333333333333
             ],
             [
                 "OG",
@@ -3835,6 +5409,10 @@
             ],
             [
                 "T1",
+                1.0
+            ],
+            [
+                "Virtus.pro",
                 1.0
             ]
         ],
@@ -3857,10 +5435,18 @@
         "data": [
             [
                 "Alliance",
+                3
+            ],
+            [
+                "Nigma",
                 1
             ],
             [
                 "OG",
+                2
+            ],
+            [
+                "T1",
                 1
             ],
             [
@@ -3877,11 +5463,11 @@
             ],
             [
                 "ViKin.gg",
-                2
+                4
             ],
             [
                 "Virtus.pro",
-                1
+                3
             ]
         ]
     },
@@ -3891,10 +5477,18 @@
         "data": [
             [
                 "Alliance",
-                1
+                3
+            ],
+            [
+                "Nigma",
+                0
             ],
             [
                 "OG",
+                2
+            ],
+            [
+                "T1",
                 1
             ],
             [
@@ -3911,11 +5505,11 @@
             ],
             [
                 "ViKin.gg",
-                1
+                2
             ],
             [
                 "Virtus.pro",
-                1
+                3
             ]
         ]
     },
@@ -3928,7 +5522,15 @@
                 1.0
             ],
             [
+                "Nigma",
+                0.0
+            ],
+            [
                 "OG",
+                1.0
+            ],
+            [
+                "T1",
                 1.0
             ],
             [
@@ -3971,10 +5573,18 @@
         "data": [
             [
                 "Alliance",
+                2
+            ],
+            [
+                "OG",
                 1
             ],
             [
                 "Quincy Crew",
+                1
+            ],
+            [
+                "T1",
                 1
             ]
         ]
@@ -3985,11 +5595,19 @@
         "data": [
             [
                 "Alliance",
+                2
+            ],
+            [
+                "OG",
                 1
             ],
             [
                 "Quincy Crew",
                 0
+            ],
+            [
+                "T1",
+                1
             ]
         ]
     },
@@ -4002,8 +5620,58 @@
                 1.0
             ],
             [
+                "OG",
+                1.0
+            ],
+            [
                 "Quincy Crew",
                 0.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Treant Protector Matches Played",
+        "id": "Treant Protector Matches Played",
+        "data": [
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Matches Won",
+        "id": "Treant Protector Matches Won",
+        "data": [
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Win Rate",
+        "id": "Treant Protector Win Rate",
+        "data": [
+            [
+                "T1",
+                1.0
             ]
         ],
         "type": "spline",
@@ -4078,6 +5746,10 @@
         "id": "Undying Matches Played",
         "data": [
             [
+                "Nigma",
+                1
+            ],
+            [
                 "Tundra Esports ",
                 1
             ]
@@ -4088,6 +5760,10 @@
         "id": "Undying Matches Won",
         "data": [
             [
+                "Nigma",
+                0
+            ],
+            [
                 "Tundra Esports ",
                 1
             ]
@@ -4097,6 +5773,10 @@
         "name": "Undying Win Rate",
         "id": "Undying Win Rate",
         "data": [
+            [
+                "Nigma",
+                0.0
+            ],
             [
                 "Tundra Esports ",
                 1.0
@@ -4121,7 +5801,7 @@
         "data": [
             [
                 "ViKin.gg",
-                2
+                3
             ]
         ]
     },
@@ -4141,7 +5821,7 @@
         "data": [
             [
                 "ViKin.gg",
-                1.0
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -4200,6 +5880,60 @@
         }
     },
     {
+        "name": "Venomancer Matches Played",
+        "id": "Venomancer Matches Played",
+        "data": [
+            [
+                "Quincy Crew",
+                1
+            ],
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Matches Won",
+        "id": "Venomancer Matches Won",
+        "data": [
+            [
+                "Quincy Crew",
+                0
+            ],
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Win Rate",
+        "id": "Venomancer Win Rate",
+        "data": [
+            [
+                "Quincy Crew",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
         "name": "Viper Matches Played",
         "id": "Viper Matches Played",
         "data": [
@@ -4212,12 +5946,16 @@
                 3
             ],
             [
+                "T1",
+                2
+            ],
+            [
                 "Team Unique",
                 1
             ],
             [
                 "Virtus.pro",
-                1
+                2
             ]
         ]
     },
@@ -4234,12 +5972,16 @@
                 2
             ],
             [
+                "T1",
+                1
+            ],
+            [
                 "Team Unique",
                 0
             ],
             [
                 "Virtus.pro",
-                1
+                2
             ]
         ]
     },
@@ -4254,6 +5996,10 @@
             [
                 "Quincy Crew",
                 0.6666666666666666
+            ],
+            [
+                "T1",
+                0.5
             ],
             [
                 "Team Unique",
@@ -4283,7 +6029,7 @@
         "data": [
             [
                 "OG",
-                2
+                3
             ],
             [
                 "Quincy Crew",
@@ -4319,7 +6065,7 @@
         "data": [
             [
                 "OG",
-                0.5
+                0.3333333333333333
             ],
             [
                 "Quincy Crew",
@@ -4328,6 +6074,90 @@
             [
                 "Team Secret",
                 1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Warlock Matches Played",
+        "id": "Warlock Matches Played",
+        "data": [
+            [
+                "Nigma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Matches Won",
+        "id": "Warlock Matches Won",
+        "data": [
+            [
+                "Nigma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Win Rate",
+        "id": "Warlock Win Rate",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Windranger Matches Played",
+        "id": "Windranger Matches Played",
+        "data": [
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Matches Won",
+        "id": "Windranger Matches Won",
+        "data": [
+            [
+                "T1",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Win Rate",
+        "id": "Windranger Win Rate",
+        "data": [
+            [
+                "T1",
+                0.0
             ]
         ],
         "type": "spline",
@@ -4348,16 +6178,20 @@
         "id": "Winter Wyvern Matches Played",
         "data": [
             [
-                "Alliance",
+                "AS Monaco Gambit",
                 1
+            ],
+            [
+                "Alliance",
+                5
             ],
             [
                 "Nigma",
-                1
+                2
             ],
             [
                 "OG",
-                1
+                2
             ],
             [
                 "Quincy Crew",
@@ -4365,7 +6199,7 @@
             ],
             [
                 "T1",
-                2
+                5
             ],
             [
                 "Team Secret",
@@ -4380,8 +6214,12 @@
                 3
             ],
             [
+                "ViKin.gg",
+                2
+            ],
+            [
                 "Virtus.pro",
-                1
+                5
             ]
         ]
     },
@@ -4390,8 +6228,12 @@
         "id": "Winter Wyvern Matches Won",
         "data": [
             [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
                 "Alliance",
-                1
+                3
             ],
             [
                 "Nigma",
@@ -4407,7 +6249,7 @@
             ],
             [
                 "T1",
-                2
+                4
             ],
             [
                 "Team Secret",
@@ -4422,8 +6264,12 @@
                 1
             ],
             [
-                "Virtus.pro",
+                "ViKin.gg",
                 1
+            ],
+            [
+                "Virtus.pro",
+                4
             ]
         ]
     },
@@ -4432,16 +6278,20 @@
         "id": "Winter Wyvern Win Rate",
         "data": [
             [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
                 "Alliance",
-                1.0
+                0.6
             ],
             [
                 "Nigma",
-                1.0
+                0.5
             ],
             [
                 "OG",
-                1.0
+                0.5
             ],
             [
                 "Quincy Crew",
@@ -4449,7 +6299,7 @@
             ],
             [
                 "T1",
-                1.0
+                0.8
             ],
             [
                 "Team Secret",
@@ -4464,8 +6314,12 @@
                 0.3333333333333333
             ],
             [
+                "ViKin.gg",
+                0.5
+            ],
+            [
                 "Virtus.pro",
-                1.0
+                0.8
             ]
         ],
         "type": "spline",
@@ -4486,6 +6340,10 @@
         "id": "Witch Doctor Matches Played",
         "data": [
             [
+                "Quincy Crew",
+                1
+            ],
+            [
                 "Team Secret",
                 1
             ]
@@ -4496,6 +6354,10 @@
         "id": "Witch Doctor Matches Won",
         "data": [
             [
+                "Quincy Crew",
+                0
+            ],
+            [
                 "Team Secret",
                 0
             ]
@@ -4505,6 +6367,10 @@
         "name": "Witch Doctor Win Rate",
         "id": "Witch Doctor Win Rate",
         "data": [
+            [
+                "Quincy Crew",
+                0.0
+            ],
             [
                 "Team Secret",
                 0.0
@@ -4529,11 +6395,15 @@
         "data": [
             [
                 "Alliance",
+                2
+            ],
+            [
+                "Quincy Crew",
                 1
             ],
             [
                 "T1",
-                1
+                3
             ],
             [
                 "Team Secret",
@@ -4545,7 +6415,7 @@
             ],
             [
                 "Virtus.pro",
-                1
+                2
             ]
         ]
     },
@@ -4555,11 +6425,15 @@
         "data": [
             [
                 "Alliance",
-                1
+                2
+            ],
+            [
+                "Quincy Crew",
+                0
             ],
             [
                 "T1",
-                1
+                2
             ],
             [
                 "Team Secret",
@@ -4584,8 +6458,12 @@
                 1.0
             ],
             [
+                "Quincy Crew",
+                0.0
+            ],
+            [
                 "T1",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Team Secret",
@@ -4595,6 +6473,48 @@
                 "Tundra Esports ",
                 0.0
             ],
+            [
+                "Virtus.pro",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Zeus Matches Played",
+        "id": "Zeus Matches Played",
+        "data": [
+            [
+                "Virtus.pro",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Zeus Matches Won",
+        "id": "Zeus Matches Won",
+        "data": [
+            [
+                "Virtus.pro",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Zeus Win Rate",
+        "id": "Zeus Win Rate",
+        "data": [
             [
                 "Virtus.pro",
                 1.0

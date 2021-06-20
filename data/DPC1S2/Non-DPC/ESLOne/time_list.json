@@ -1,132 +1,247 @@
 [
     {
         "match": "OG vs Virtus.pro",
-        "y": 26,
+        "y": 49,
         "name": 1231
     },
     {
         "match": "Team Secret vs Nigma",
-        "y": 25,
+        "y": 48,
         "name": 1347
     },
     {
+        "match": "Virtus.pro vs Alliance",
+        "y": 47,
+        "name": 1746
+    },
+    {
         "match": "Virtus.pro vs OG",
-        "y": 24,
+        "y": 46,
         "name": 1749
     },
     {
         "match": "Alliance vs Team Unique",
-        "y": 23,
+        "y": 45,
         "name": 1806
     },
     {
         "match": "AS Monaco Gambit vs OG",
-        "y": 22,
+        "y": 44,
         "name": 1818
     },
     {
+        "match": "Alliance vs ViKin.gg",
+        "y": 43,
+        "name": 1819
+    },
+    {
+        "match": "OG vs Nigma",
+        "y": 42,
+        "name": 1822
+    },
+    {
+        "match": "ViKin.gg vs AS Monaco Gambit",
+        "y": 41,
+        "name": 1841
+    },
+    {
+        "match": "Virtus.pro vs Alliance",
+        "y": 40,
+        "name": 1844
+    },
+    {
         "match": "Nigma vs Team Secret",
-        "y": 21,
+        "y": 39,
         "name": 1851
     },
     {
+        "match": "Virtus.pro vs T1",
+        "y": 38,
+        "name": 1860
+    },
+    {
+        "match": "T1 vs Alliance",
+        "y": 37,
+        "name": 1898
+    },
+    {
+        "match": "T1 vs Virtus.pro",
+        "y": 36,
+        "name": 1920
+    },
+    {
         "match": "ViKin.gg vs Team Unique",
-        "y": 20,
+        "y": 35,
         "name": 1945
     },
     {
         "match": "ViKin.gg vs Team Unique",
-        "y": 19,
+        "y": 34,
         "name": 1984
     },
     {
+        "match": "Quincy Crew vs OG",
+        "y": 33,
+        "name": 2007
+    },
+    {
+        "match": "Alliance vs Virtus.pro",
+        "y": 32,
+        "name": 2010
+    },
+    {
         "match": "Team Secret vs Alliance",
-        "y": 18,
+        "y": 31,
         "name": 2013
     },
     {
         "match": "AS Monaco Gambit vs OG",
-        "y": 17,
+        "y": 30,
         "name": 2037
     },
     {
+        "match": "Alliance vs T1",
+        "y": 29,
+        "name": 2039
+    },
+    {
         "match": "Nigma vs ViKin.gg",
-        "y": 16,
+        "y": 28,
         "name": 2080
     },
     {
         "match": "OG vs Team Liquid",
-        "y": 15,
+        "y": 27,
         "name": 2090
     },
     {
         "match": "Team Liquid vs OG",
-        "y": 14,
+        "y": 26,
         "name": 2209
     },
     {
         "match": "Tundra Esports  vs Quincy Crew",
-        "y": 13,
+        "y": 25,
         "name": 2234
     },
     {
         "match": "Nigma vs ViKin.gg",
-        "y": 12,
+        "y": 24,
         "name": 2270
     },
     {
         "match": "AS Monaco Gambit vs Tundra Esports ",
-        "y": 11,
+        "y": 23,
         "name": 2328
     },
     {
         "match": "Tundra Esports  vs Team Liquid",
-        "y": 10,
+        "y": 22,
         "name": 2329
     },
     {
         "match": "Alliance vs Team Secret",
-        "y": 9,
+        "y": 21,
         "name": 2358
     },
     {
+        "match": "Virtus.pro vs T1",
+        "y": 20,
+        "name": 2375
+    },
+    {
         "match": "Tundra Esports  vs Team Liquid",
-        "y": 8,
+        "y": 19,
         "name": 2402
     },
     {
         "match": "T1 vs ViKin.gg",
-        "y": 7,
+        "y": 18,
         "name": 2413
     },
     {
+        "match": "ViKin.gg vs Alliance",
+        "y": 17,
+        "name": 2417
+    },
+    {
+        "match": "Nigma vs OG",
+        "y": 16,
+        "name": 2461
+    },
+    {
+        "match": "Quincy Crew vs T1",
+        "y": 15,
+        "name": 2473
+    },
+    {
         "match": "Quincy Crew vs Tundra Esports ",
-        "y": 6,
+        "y": 14,
         "name": 2501
     },
     {
+        "match": "OG vs Quincy Crew",
+        "y": 13,
+        "name": 2513
+    },
+    {
         "match": "Team Secret vs Nigma",
-        "y": 5,
+        "y": 12,
         "name": 2528
     },
     {
         "match": "Quincy Crew vs Tundra Esports ",
-        "y": 4,
+        "y": 11,
         "name": 2538
     },
     {
         "match": "Tundra Esports  vs AS Monaco Gambit",
-        "y": 3,
+        "y": 10,
         "name": 2558
     },
     {
+        "match": "OG vs Nigma",
+        "y": 9,
+        "name": 2572
+    },
+    {
+        "match": "T1 vs Quincy Crew",
+        "y": 8,
+        "name": 2601
+    },
+    {
         "match": "Team Unique vs Alliance",
-        "y": 2,
+        "y": 7,
         "name": 2635
     },
     {
+        "match": "Virtus.pro vs T1",
+        "y": 6,
+        "name": 2701
+    },
+    {
+        "match": "OG vs Alliance",
+        "y": 5,
+        "name": 2704
+    },
+    {
         "match": "T1 vs ViKin.gg",
-        "y": 1,
+        "y": 4,
         "name": 2736
+    },
+    {
+        "match": "AS Monaco Gambit vs ViKin.gg",
+        "y": 3,
+        "name": 2777
+    },
+    {
+        "match": "Alliance vs OG",
+        "y": 2,
+        "name": 2958
+    },
+    {
+        "match": "T1 vs Virtus.pro",
+        "y": 1,
+        "name": 3118
     }
 ]
