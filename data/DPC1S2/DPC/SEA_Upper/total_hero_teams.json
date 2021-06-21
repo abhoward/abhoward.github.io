@@ -1,0 +1,4650 @@
+[
+    {
+        "name": "BOOM Esports Matches Played",
+        "id": "BOOM Esports Matches Played",
+        "data": [
+            [
+                "Abaddon",
+                5
+            ],
+            [
+                "Ancient Apparition",
+                2
+            ],
+            [
+                "Batrider",
+                2
+            ],
+            [
+                "Beastmaster",
+                2
+            ],
+            [
+                "Bloodseeker",
+                1
+            ],
+            [
+                "Bristleback",
+                4
+            ],
+            [
+                "Centaur Warrunner",
+                3
+            ],
+            [
+                "Chaos Knight",
+                1
+            ],
+            [
+                "Clockwerk",
+                1
+            ],
+            [
+                "Crystal Maiden",
+                2
+            ],
+            [
+                "Dazzle",
+                1
+            ],
+            [
+                "Doom",
+                1
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Drow Ranger",
+                1
+            ],
+            [
+                "Earthshaker",
+                1
+            ],
+            [
+                "Elder Titan",
+                3
+            ],
+            [
+                "Ember Spirit",
+                3
+            ],
+            [
+                "Grimstroke",
+                2
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Io",
+                5
+            ],
+            [
+                "Legion Commander",
+                1
+            ],
+            [
+                "Lifestealer",
+                2
+            ],
+            [
+                "Lion",
+                5
+            ],
+            [
+                "Mars",
+                4
+            ],
+            [
+                "Medusa",
+                3
+            ],
+            [
+                "Mirana",
+                3
+            ],
+            [
+                "Morphling",
+                2
+            ],
+            [
+                "Nature's Prophet",
+                2
+            ],
+            [
+                "Night Stalker",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                2
+            ],
+            [
+                "Pangolier",
+                3
+            ],
+            [
+                "Phantom Lancer",
+                1
+            ],
+            [
+                "Phoenix",
+                5
+            ],
+            [
+                "Puck",
+                2
+            ],
+            [
+                "Queen of Pain",
+                1
+            ],
+            [
+                "Sand King",
+                1
+            ],
+            [
+                "Snapfire",
+                5
+            ],
+            [
+                "Spectre",
+                2
+            ],
+            [
+                "Storm Spirit",
+                2
+            ],
+            [
+                "Sven",
+                1
+            ],
+            [
+                "Templar Assassin",
+                3
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
+                "Tidehunter",
+                1
+            ],
+            [
+                "Timbersaw",
+                3
+            ],
+            [
+                "Tiny",
+                2
+            ],
+            [
+                "Treant Protector",
+                2
+            ],
+            [
+                "Tusk",
+                2
+            ],
+            [
+                "Ursa",
+                2
+            ],
+            [
+                "Visage",
+                2
+            ],
+            [
+                "Void Spirit",
+                1
+            ],
+            [
+                "Warlock",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "BOOM Esports Matches Won",
+        "id": "BOOM Esports Matches Won",
+        "data": [
+            [
+                "Abaddon",
+                3
+            ],
+            [
+                "Ancient Apparition",
+                0
+            ],
+            [
+                "Batrider",
+                1
+            ],
+            [
+                "Beastmaster",
+                0
+            ],
+            [
+                "Bloodseeker",
+                1
+            ],
+            [
+                "Bristleback",
+                3
+            ],
+            [
+                "Centaur Warrunner",
+                1
+            ],
+            [
+                "Chaos Knight",
+                0
+            ],
+            [
+                "Clockwerk",
+                1
+            ],
+            [
+                "Crystal Maiden",
+                1
+            ],
+            [
+                "Dazzle",
+                0
+            ],
+            [
+                "Doom",
+                0
+            ],
+            [
+                "Dragon Knight",
+                0
+            ],
+            [
+                "Drow Ranger",
+                0
+            ],
+            [
+                "Earthshaker",
+                0
+            ],
+            [
+                "Elder Titan",
+                0
+            ],
+            [
+                "Ember Spirit",
+                2
+            ],
+            [
+                "Grimstroke",
+                0
+            ],
+            [
+                "Invoker",
+                0
+            ],
+            [
+                "Io",
+                4
+            ],
+            [
+                "Legion Commander",
+                0
+            ],
+            [
+                "Lifestealer",
+                0
+            ],
+            [
+                "Lion",
+                0
+            ],
+            [
+                "Mars",
+                2
+            ],
+            [
+                "Medusa",
+                1
+            ],
+            [
+                "Mirana",
+                2
+            ],
+            [
+                "Morphling",
+                0
+            ],
+            [
+                "Nature's Prophet",
+                1
+            ],
+            [
+                "Night Stalker",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                1
+            ],
+            [
+                "Pangolier",
+                1
+            ],
+            [
+                "Phantom Lancer",
+                1
+            ],
+            [
+                "Phoenix",
+                4
+            ],
+            [
+                "Puck",
+                2
+            ],
+            [
+                "Queen of Pain",
+                1
+            ],
+            [
+                "Sand King",
+                0
+            ],
+            [
+                "Snapfire",
+                3
+            ],
+            [
+                "Spectre",
+                0
+            ],
+            [
+                "Storm Spirit",
+                1
+            ],
+            [
+                "Sven",
+                0
+            ],
+            [
+                "Templar Assassin",
+                1
+            ],
+            [
+                "Terrorblade",
+                0
+            ],
+            [
+                "Tidehunter",
+                0
+            ],
+            [
+                "Timbersaw",
+                2
+            ],
+            [
+                "Tiny",
+                1
+            ],
+            [
+                "Treant Protector",
+                0
+            ],
+            [
+                "Tusk",
+                2
+            ],
+            [
+                "Ursa",
+                1
+            ],
+            [
+                "Visage",
+                0
+            ],
+            [
+                "Void Spirit",
+                0
+            ],
+            [
+                "Warlock",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "BOOM Esports Win Rate",
+        "id": "BOOM Esports Win Rate",
+        "data": [
+            [
+                "Abaddon",
+                0.6
+            ],
+            [
+                "Ancient Apparition",
+                0.0
+            ],
+            [
+                "Batrider",
+                0.5
+            ],
+            [
+                "Beastmaster",
+                0.0
+            ],
+            [
+                "Bloodseeker",
+                1.0
+            ],
+            [
+                "Bristleback",
+                0.75
+            ],
+            [
+                "Centaur Warrunner",
+                0.3333333333333333
+            ],
+            [
+                "Chaos Knight",
+                0.0
+            ],
+            [
+                "Clockwerk",
+                1.0
+            ],
+            [
+                "Crystal Maiden",
+                0.5
+            ],
+            [
+                "Dazzle",
+                0.0
+            ],
+            [
+                "Doom",
+                0.0
+            ],
+            [
+                "Dragon Knight",
+                0.0
+            ],
+            [
+                "Drow Ranger",
+                0.0
+            ],
+            [
+                "Earthshaker",
+                0.0
+            ],
+            [
+                "Elder Titan",
+                0.0
+            ],
+            [
+                "Ember Spirit",
+                0.6666666666666666
+            ],
+            [
+                "Grimstroke",
+                0.0
+            ],
+            [
+                "Invoker",
+                0.0
+            ],
+            [
+                "Io",
+                0.8
+            ],
+            [
+                "Legion Commander",
+                0.0
+            ],
+            [
+                "Lifestealer",
+                0.0
+            ],
+            [
+                "Lion",
+                0.0
+            ],
+            [
+                "Mars",
+                0.5
+            ],
+            [
+                "Medusa",
+                0.3333333333333333
+            ],
+            [
+                "Mirana",
+                0.6666666666666666
+            ],
+            [
+                "Morphling",
+                0.0
+            ],
+            [
+                "Nature's Prophet",
+                0.5
+            ],
+            [
+                "Night Stalker",
+                1.0
+            ],
+            [
+                "Nyx Assassin",
+                0.5
+            ],
+            [
+                "Pangolier",
+                0.3333333333333333
+            ],
+            [
+                "Phantom Lancer",
+                1.0
+            ],
+            [
+                "Phoenix",
+                0.8
+            ],
+            [
+                "Puck",
+                1.0
+            ],
+            [
+                "Queen of Pain",
+                1.0
+            ],
+            [
+                "Sand King",
+                0.0
+            ],
+            [
+                "Snapfire",
+                0.6
+            ],
+            [
+                "Spectre",
+                0.0
+            ],
+            [
+                "Storm Spirit",
+                0.5
+            ],
+            [
+                "Sven",
+                0.0
+            ],
+            [
+                "Templar Assassin",
+                0.3333333333333333
+            ],
+            [
+                "Terrorblade",
+                0.0
+            ],
+            [
+                "Tidehunter",
+                0.0
+            ],
+            [
+                "Timbersaw",
+                0.6666666666666666
+            ],
+            [
+                "Tiny",
+                0.5
+            ],
+            [
+                "Treant Protector",
+                0.0
+            ],
+            [
+                "Tusk",
+                1.0
+            ],
+            [
+                "Ursa",
+                0.5
+            ],
+            [
+                "Visage",
+                0.0
+            ],
+            [
+                "Void Spirit",
+                0.0
+            ],
+            [
+                "Warlock",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Execration Matches Played",
+        "id": "Execration Matches Played",
+        "data": [
+            [
+                "Abaddon",
+                1
+            ],
+            [
+                "Ancient Apparition",
+                2
+            ],
+            [
+                "Anti-Mage",
+                1
+            ],
+            [
+                "Axe",
+                1
+            ],
+            [
+                "Beastmaster",
+                2
+            ],
+            [
+                "Brewmaster",
+                1
+            ],
+            [
+                "Bristleback",
+                2
+            ],
+            [
+                "Centaur Warrunner",
+                6
+            ],
+            [
+                "Dark Seer",
+                2
+            ],
+            [
+                "Dazzle",
+                1
+            ],
+            [
+                "Death Prophet",
+                1
+            ],
+            [
+                "Doom",
+                4
+            ],
+            [
+                "Drow Ranger",
+                2
+            ],
+            [
+                "Earth Spirit",
+                3
+            ],
+            [
+                "Elder Titan",
+                5
+            ],
+            [
+                "Ember Spirit",
+                2
+            ],
+            [
+                "Enchantress",
+                1
+            ],
+            [
+                "Grimstroke",
+                6
+            ],
+            [
+                "Gyrocopter",
+                1
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Io",
+                1
+            ],
+            [
+                "Juggernaut",
+                1
+            ],
+            [
+                "Legion Commander",
+                1
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lifestealer",
+                3
+            ],
+            [
+                "Lina",
+                1
+            ],
+            [
+                "Lion",
+                2
+            ],
+            [
+                "Mars",
+                2
+            ],
+            [
+                "Medusa",
+                1
+            ],
+            [
+                "Mirana",
+                1
+            ],
+            [
+                "Morphling",
+                3
+            ],
+            [
+                "Nature's Prophet",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                1
+            ],
+            [
+                "Oracle",
+                1
+            ],
+            [
+                "Phantom Assassin",
+                1
+            ],
+            [
+                "Phoenix",
+                1
+            ],
+            [
+                "Sand King",
+                1
+            ],
+            [
+                "Slardar",
+                1
+            ],
+            [
+                "Slark",
+                2
+            ],
+            [
+                "Snapfire",
+                4
+            ],
+            [
+                "Tiny",
+                4
+            ],
+            [
+                "Treant Protector",
+                3
+            ],
+            [
+                "Troll Warlord",
+                1
+            ],
+            [
+                "Tusk",
+                3
+            ],
+            [
+                "Ursa",
+                1
+            ],
+            [
+                "Void Spirit",
+                6
+            ],
+            [
+                "Warlock",
+                1
+            ],
+            [
+                "Wraith King",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Execration Matches Won",
+        "id": "Execration Matches Won",
+        "data": [
+            [
+                "Abaddon",
+                0
+            ],
+            [
+                "Ancient Apparition",
+                2
+            ],
+            [
+                "Anti-Mage",
+                1
+            ],
+            [
+                "Axe",
+                1
+            ],
+            [
+                "Beastmaster",
+                2
+            ],
+            [
+                "Brewmaster",
+                0
+            ],
+            [
+                "Bristleback",
+                2
+            ],
+            [
+                "Centaur Warrunner",
+                3
+            ],
+            [
+                "Dark Seer",
+                1
+            ],
+            [
+                "Dazzle",
+                1
+            ],
+            [
+                "Death Prophet",
+                0
+            ],
+            [
+                "Doom",
+                4
+            ],
+            [
+                "Drow Ranger",
+                2
+            ],
+            [
+                "Earth Spirit",
+                2
+            ],
+            [
+                "Elder Titan",
+                5
+            ],
+            [
+                "Ember Spirit",
+                1
+            ],
+            [
+                "Enchantress",
+                1
+            ],
+            [
+                "Grimstroke",
+                5
+            ],
+            [
+                "Gyrocopter",
+                0
+            ],
+            [
+                "Invoker",
+                0
+            ],
+            [
+                "Io",
+                0
+            ],
+            [
+                "Juggernaut",
+                0
+            ],
+            [
+                "Legion Commander",
+                1
+            ],
+            [
+                "Leshrac",
+                0
+            ],
+            [
+                "Lifestealer",
+                3
+            ],
+            [
+                "Lina",
+                1
+            ],
+            [
+                "Lion",
+                0
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Medusa",
+                1
+            ],
+            [
+                "Mirana",
+                1
+            ],
+            [
+                "Morphling",
+                2
+            ],
+            [
+                "Nature's Prophet",
+                0
+            ],
+            [
+                "Nyx Assassin",
+                1
+            ],
+            [
+                "Oracle",
+                0
+            ],
+            [
+                "Phantom Assassin",
+                0
+            ],
+            [
+                "Phoenix",
+                0
+            ],
+            [
+                "Sand King",
+                1
+            ],
+            [
+                "Slardar",
+                0
+            ],
+            [
+                "Slark",
+                2
+            ],
+            [
+                "Snapfire",
+                3
+            ],
+            [
+                "Tiny",
+                3
+            ],
+            [
+                "Treant Protector",
+                1
+            ],
+            [
+                "Troll Warlord",
+                0
+            ],
+            [
+                "Tusk",
+                1
+            ],
+            [
+                "Ursa",
+                1
+            ],
+            [
+                "Void Spirit",
+                3
+            ],
+            [
+                "Warlock",
+                1
+            ],
+            [
+                "Wraith King",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Execration Win Rate",
+        "id": "Execration Win Rate",
+        "data": [
+            [
+                "Abaddon",
+                0.0
+            ],
+            [
+                "Ancient Apparition",
+                1.0
+            ],
+            [
+                "Anti-Mage",
+                1.0
+            ],
+            [
+                "Axe",
+                1.0
+            ],
+            [
+                "Beastmaster",
+                1.0
+            ],
+            [
+                "Brewmaster",
+                0.0
+            ],
+            [
+                "Bristleback",
+                1.0
+            ],
+            [
+                "Centaur Warrunner",
+                0.5
+            ],
+            [
+                "Dark Seer",
+                0.5
+            ],
+            [
+                "Dazzle",
+                1.0
+            ],
+            [
+                "Death Prophet",
+                0.0
+            ],
+            [
+                "Doom",
+                1.0
+            ],
+            [
+                "Drow Ranger",
+                1.0
+            ],
+            [
+                "Earth Spirit",
+                0.6666666666666666
+            ],
+            [
+                "Elder Titan",
+                1.0
+            ],
+            [
+                "Ember Spirit",
+                0.5
+            ],
+            [
+                "Enchantress",
+                1.0
+            ],
+            [
+                "Grimstroke",
+                0.8333333333333334
+            ],
+            [
+                "Gyrocopter",
+                0.0
+            ],
+            [
+                "Invoker",
+                0.0
+            ],
+            [
+                "Io",
+                0.0
+            ],
+            [
+                "Juggernaut",
+                0.0
+            ],
+            [
+                "Legion Commander",
+                1.0
+            ],
+            [
+                "Leshrac",
+                0.0
+            ],
+            [
+                "Lifestealer",
+                1.0
+            ],
+            [
+                "Lina",
+                1.0
+            ],
+            [
+                "Lion",
+                0.0
+            ],
+            [
+                "Mars",
+                0.5
+            ],
+            [
+                "Medusa",
+                1.0
+            ],
+            [
+                "Mirana",
+                1.0
+            ],
+            [
+                "Morphling",
+                0.6666666666666666
+            ],
+            [
+                "Nature's Prophet",
+                0.0
+            ],
+            [
+                "Nyx Assassin",
+                1.0
+            ],
+            [
+                "Oracle",
+                0.0
+            ],
+            [
+                "Phantom Assassin",
+                0.0
+            ],
+            [
+                "Phoenix",
+                0.0
+            ],
+            [
+                "Sand King",
+                1.0
+            ],
+            [
+                "Slardar",
+                0.0
+            ],
+            [
+                "Slark",
+                1.0
+            ],
+            [
+                "Snapfire",
+                0.75
+            ],
+            [
+                "Tiny",
+                0.75
+            ],
+            [
+                "Treant Protector",
+                0.3333333333333333
+            ],
+            [
+                "Troll Warlord",
+                0.0
+            ],
+            [
+                "Tusk",
+                0.3333333333333333
+            ],
+            [
+                "Ursa",
+                1.0
+            ],
+            [
+                "Void Spirit",
+                0.5
+            ],
+            [
+                "Warlock",
+                1.0
+            ],
+            [
+                "Wraith King",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Fnatic Matches Played",
+        "id": "Fnatic Matches Played",
+        "data": [
+            [
+                "Abaddon",
+                1
+            ],
+            [
+                "Ancient Apparition",
+                2
+            ],
+            [
+                "Arc Warden",
+                1
+            ],
+            [
+                "Axe",
+                2
+            ],
+            [
+                "Batrider",
+                1
+            ],
+            [
+                "Beastmaster",
+                4
+            ],
+            [
+                "Bristleback",
+                3
+            ],
+            [
+                "Centaur Warrunner",
+                5
+            ],
+            [
+                "Clockwerk",
+                2
+            ],
+            [
+                "Dark Seer",
+                2
+            ],
+            [
+                "Death Prophet",
+                3
+            ],
+            [
+                "Disruptor",
+                1
+            ],
+            [
+                "Doom",
+                2
+            ],
+            [
+                "Dragon Knight",
+                2
+            ],
+            [
+                "Drow Ranger",
+                2
+            ],
+            [
+                "Ember Spirit",
+                1
+            ],
+            [
+                "Enchantress",
+                6
+            ],
+            [
+                "Grimstroke",
+                3
+            ],
+            [
+                "Gyrocopter",
+                3
+            ],
+            [
+                "Hoodwink",
+                1
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Io",
+                4
+            ],
+            [
+                "Juggernaut",
+                1
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lion",
+                4
+            ],
+            [
+                "Luna",
+                3
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Medusa",
+                2
+            ],
+            [
+                "Mirana",
+                2
+            ],
+            [
+                "Nature's Prophet",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                3
+            ],
+            [
+                "Oracle",
+                1
+            ],
+            [
+                "Pangolier",
+                1
+            ],
+            [
+                "Riki",
+                1
+            ],
+            [
+                "Rubick",
+                1
+            ],
+            [
+                "Shadow Demon",
+                1
+            ],
+            [
+                "Spectre",
+                1
+            ],
+            [
+                "Storm Spirit",
+                2
+            ],
+            [
+                "Templar Assassin",
+                1
+            ],
+            [
+                "Terrorblade",
+                2
+            ],
+            [
+                "Tidehunter",
+                2
+            ],
+            [
+                "Timbersaw",
+                3
+            ],
+            [
+                "Treant Protector",
+                1
+            ],
+            [
+                "Troll Warlord",
+                1
+            ],
+            [
+                "Tusk",
+                4
+            ],
+            [
+                "Undying",
+                1
+            ],
+            [
+                "Ursa",
+                1
+            ],
+            [
+                "Wraith King",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Fnatic Matches Won",
+        "id": "Fnatic Matches Won",
+        "data": [
+            [
+                "Abaddon",
+                1
+            ],
+            [
+                "Ancient Apparition",
+                1
+            ],
+            [
+                "Arc Warden",
+                1
+            ],
+            [
+                "Axe",
+                1
+            ],
+            [
+                "Batrider",
+                1
+            ],
+            [
+                "Beastmaster",
+                2
+            ],
+            [
+                "Bristleback",
+                1
+            ],
+            [
+                "Centaur Warrunner",
+                3
+            ],
+            [
+                "Clockwerk",
+                1
+            ],
+            [
+                "Dark Seer",
+                1
+            ],
+            [
+                "Death Prophet",
+                2
+            ],
+            [
+                "Disruptor",
+                1
+            ],
+            [
+                "Doom",
+                1
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Drow Ranger",
+                1
+            ],
+            [
+                "Ember Spirit",
+                0
+            ],
+            [
+                "Enchantress",
+                2
+            ],
+            [
+                "Grimstroke",
+                2
+            ],
+            [
+                "Gyrocopter",
+                2
+            ],
+            [
+                "Hoodwink",
+                0
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Io",
+                2
+            ],
+            [
+                "Juggernaut",
+                1
+            ],
+            [
+                "Leshrac",
+                0
+            ],
+            [
+                "Lion",
+                1
+            ],
+            [
+                "Luna",
+                2
+            ],
+            [
+                "Mars",
+                0
+            ],
+            [
+                "Medusa",
+                1
+            ],
+            [
+                "Mirana",
+                1
+            ],
+            [
+                "Nature's Prophet",
+                0
+            ],
+            [
+                "Nyx Assassin",
+                3
+            ],
+            [
+                "Oracle",
+                1
+            ],
+            [
+                "Pangolier",
+                0
+            ],
+            [
+                "Riki",
+                1
+            ],
+            [
+                "Rubick",
+                0
+            ],
+            [
+                "Shadow Demon",
+                0
+            ],
+            [
+                "Spectre",
+                0
+            ],
+            [
+                "Storm Spirit",
+                0
+            ],
+            [
+                "Templar Assassin",
+                1
+            ],
+            [
+                "Terrorblade",
+                0
+            ],
+            [
+                "Tidehunter",
+                1
+            ],
+            [
+                "Timbersaw",
+                1
+            ],
+            [
+                "Treant Protector",
+                0
+            ],
+            [
+                "Troll Warlord",
+                0
+            ],
+            [
+                "Tusk",
+                2
+            ],
+            [
+                "Undying",
+                0
+            ],
+            [
+                "Ursa",
+                0
+            ],
+            [
+                "Wraith King",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Fnatic Win Rate",
+        "id": "Fnatic Win Rate",
+        "data": [
+            [
+                "Abaddon",
+                1.0
+            ],
+            [
+                "Ancient Apparition",
+                0.5
+            ],
+            [
+                "Arc Warden",
+                1.0
+            ],
+            [
+                "Axe",
+                0.5
+            ],
+            [
+                "Batrider",
+                1.0
+            ],
+            [
+                "Beastmaster",
+                0.5
+            ],
+            [
+                "Bristleback",
+                0.3333333333333333
+            ],
+            [
+                "Centaur Warrunner",
+                0.6
+            ],
+            [
+                "Clockwerk",
+                0.5
+            ],
+            [
+                "Dark Seer",
+                0.5
+            ],
+            [
+                "Death Prophet",
+                0.6666666666666666
+            ],
+            [
+                "Disruptor",
+                1.0
+            ],
+            [
+                "Doom",
+                0.5
+            ],
+            [
+                "Dragon Knight",
+                0.5
+            ],
+            [
+                "Drow Ranger",
+                0.5
+            ],
+            [
+                "Ember Spirit",
+                0.0
+            ],
+            [
+                "Enchantress",
+                0.3333333333333333
+            ],
+            [
+                "Grimstroke",
+                0.6666666666666666
+            ],
+            [
+                "Gyrocopter",
+                0.6666666666666666
+            ],
+            [
+                "Hoodwink",
+                0.0
+            ],
+            [
+                "Invoker",
+                1.0
+            ],
+            [
+                "Io",
+                0.5
+            ],
+            [
+                "Juggernaut",
+                1.0
+            ],
+            [
+                "Leshrac",
+                0.0
+            ],
+            [
+                "Lion",
+                0.25
+            ],
+            [
+                "Luna",
+                0.6666666666666666
+            ],
+            [
+                "Mars",
+                0.0
+            ],
+            [
+                "Medusa",
+                0.5
+            ],
+            [
+                "Mirana",
+                0.5
+            ],
+            [
+                "Nature's Prophet",
+                0.0
+            ],
+            [
+                "Nyx Assassin",
+                1.0
+            ],
+            [
+                "Oracle",
+                1.0
+            ],
+            [
+                "Pangolier",
+                0.0
+            ],
+            [
+                "Riki",
+                1.0
+            ],
+            [
+                "Rubick",
+                0.0
+            ],
+            [
+                "Shadow Demon",
+                0.0
+            ],
+            [
+                "Spectre",
+                0.0
+            ],
+            [
+                "Storm Spirit",
+                0.0
+            ],
+            [
+                "Templar Assassin",
+                1.0
+            ],
+            [
+                "Terrorblade",
+                0.0
+            ],
+            [
+                "Tidehunter",
+                0.5
+            ],
+            [
+                "Timbersaw",
+                0.3333333333333333
+            ],
+            [
+                "Treant Protector",
+                0.0
+            ],
+            [
+                "Troll Warlord",
+                0.0
+            ],
+            [
+                "Tusk",
+                0.5
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "Ursa",
+                0.0
+            ],
+            [
+                "Wraith King",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Lilgun  Matches Played",
+        "id": "Lilgun  Matches Played",
+        "data": [
+            [
+                "Abaddon",
+                1
+            ],
+            [
+                "Ancient Apparition",
+                1
+            ],
+            [
+                "Anti-Mage",
+                1
+            ],
+            [
+                "Arc Warden",
+                1
+            ],
+            [
+                "Bristleback",
+                1
+            ],
+            [
+                "Broodmother",
+                1
+            ],
+            [
+                "Centaur Warrunner",
+                1
+            ],
+            [
+                "Dark Willow",
+                3
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Earth Spirit",
+                1
+            ],
+            [
+                "Ember Spirit",
+                3
+            ],
+            [
+                "Grimstroke",
+                4
+            ],
+            [
+                "Gyrocopter",
+                1
+            ],
+            [
+                "Huskar",
+                1
+            ],
+            [
+                "Kunkka",
+                1
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lina",
+                1
+            ],
+            [
+                "Lion",
+                4
+            ],
+            [
+                "Lone Druid",
+                1
+            ],
+            [
+                "Lycan",
+                4
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Mirana",
+                1
+            ],
+            [
+                "Necrophos",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                3
+            ],
+            [
+                "Omniknight",
+                1
+            ],
+            [
+                "Phantom Lancer",
+                1
+            ],
+            [
+                "Phoenix",
+                4
+            ],
+            [
+                "Pudge",
+                1
+            ],
+            [
+                "Riki",
+                1
+            ],
+            [
+                "Snapfire",
+                1
+            ],
+            [
+                "Templar Assassin",
+                2
+            ],
+            [
+                "Timbersaw",
+                2
+            ],
+            [
+                "Tiny",
+                10
+            ],
+            [
+                "Troll Warlord",
+                1
+            ],
+            [
+                "Underlord",
+                5
+            ],
+            [
+                "Undying",
+                3
+            ],
+            [
+                "Venomancer",
+                1
+            ],
+            [
+                "Viper",
+                1
+            ],
+            [
+                "Wraith King",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Lilgun  Matches Won",
+        "id": "Lilgun  Matches Won",
+        "data": [
+            [
+                "Abaddon",
+                0
+            ],
+            [
+                "Ancient Apparition",
+                0
+            ],
+            [
+                "Anti-Mage",
+                1
+            ],
+            [
+                "Arc Warden",
+                0
+            ],
+            [
+                "Bristleback",
+                0
+            ],
+            [
+                "Broodmother",
+                0
+            ],
+            [
+                "Centaur Warrunner",
+                0
+            ],
+            [
+                "Dark Willow",
+                1
+            ],
+            [
+                "Dragon Knight",
+                0
+            ],
+            [
+                "Earth Spirit",
+                0
+            ],
+            [
+                "Ember Spirit",
+                1
+            ],
+            [
+                "Grimstroke",
+                2
+            ],
+            [
+                "Gyrocopter",
+                0
+            ],
+            [
+                "Huskar",
+                1
+            ],
+            [
+                "Kunkka",
+                0
+            ],
+            [
+                "Leshrac",
+                0
+            ],
+            [
+                "Lina",
+                0
+            ],
+            [
+                "Lion",
+                1
+            ],
+            [
+                "Lone Druid",
+                0
+            ],
+            [
+                "Lycan",
+                1
+            ],
+            [
+                "Mars",
+                0
+            ],
+            [
+                "Mirana",
+                1
+            ],
+            [
+                "Necrophos",
+                0
+            ],
+            [
+                "Nyx Assassin",
+                0
+            ],
+            [
+                "Omniknight",
+                1
+            ],
+            [
+                "Phantom Lancer",
+                0
+            ],
+            [
+                "Phoenix",
+                0
+            ],
+            [
+                "Pudge",
+                1
+            ],
+            [
+                "Riki",
+                0
+            ],
+            [
+                "Snapfire",
+                0
+            ],
+            [
+                "Templar Assassin",
+                0
+            ],
+            [
+                "Timbersaw",
+                0
+            ],
+            [
+                "Tiny",
+                2
+            ],
+            [
+                "Troll Warlord",
+                0
+            ],
+            [
+                "Underlord",
+                1
+            ],
+            [
+                "Undying",
+                1
+            ],
+            [
+                "Venomancer",
+                0
+            ],
+            [
+                "Viper",
+                0
+            ],
+            [
+                "Wraith King",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Lilgun  Win Rate",
+        "id": "Lilgun  Win Rate",
+        "data": [
+            [
+                "Abaddon",
+                0.0
+            ],
+            [
+                "Ancient Apparition",
+                0.0
+            ],
+            [
+                "Anti-Mage",
+                1.0
+            ],
+            [
+                "Arc Warden",
+                0.0
+            ],
+            [
+                "Bristleback",
+                0.0
+            ],
+            [
+                "Broodmother",
+                0.0
+            ],
+            [
+                "Centaur Warrunner",
+                0.0
+            ],
+            [
+                "Dark Willow",
+                0.3333333333333333
+            ],
+            [
+                "Dragon Knight",
+                0.0
+            ],
+            [
+                "Earth Spirit",
+                0.0
+            ],
+            [
+                "Ember Spirit",
+                0.3333333333333333
+            ],
+            [
+                "Grimstroke",
+                0.5
+            ],
+            [
+                "Gyrocopter",
+                0.0
+            ],
+            [
+                "Huskar",
+                1.0
+            ],
+            [
+                "Kunkka",
+                0.0
+            ],
+            [
+                "Leshrac",
+                0.0
+            ],
+            [
+                "Lina",
+                0.0
+            ],
+            [
+                "Lion",
+                0.25
+            ],
+            [
+                "Lone Druid",
+                0.0
+            ],
+            [
+                "Lycan",
+                0.25
+            ],
+            [
+                "Mars",
+                0.0
+            ],
+            [
+                "Mirana",
+                1.0
+            ],
+            [
+                "Necrophos",
+                0.0
+            ],
+            [
+                "Nyx Assassin",
+                0.0
+            ],
+            [
+                "Omniknight",
+                1.0
+            ],
+            [
+                "Phantom Lancer",
+                0.0
+            ],
+            [
+                "Phoenix",
+                0.0
+            ],
+            [
+                "Pudge",
+                1.0
+            ],
+            [
+                "Riki",
+                0.0
+            ],
+            [
+                "Snapfire",
+                0.0
+            ],
+            [
+                "Templar Assassin",
+                0.0
+            ],
+            [
+                "Timbersaw",
+                0.0
+            ],
+            [
+                "Tiny",
+                0.2
+            ],
+            [
+                "Troll Warlord",
+                0.0
+            ],
+            [
+                "Underlord",
+                0.2
+            ],
+            [
+                "Undying",
+                0.3333333333333333
+            ],
+            [
+                "Venomancer",
+                0.0
+            ],
+            [
+                "Viper",
+                0.0
+            ],
+            [
+                "Wraith King",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "OB.Neon Matches Played",
+        "id": "OB.Neon Matches Played",
+        "data": [
+            [
+                "Abaddon",
+                1
+            ],
+            [
+                "Ancient Apparition",
+                3
+            ],
+            [
+                "Axe",
+                1
+            ],
+            [
+                "Beastmaster",
+                1
+            ],
+            [
+                "Bloodseeker",
+                1
+            ],
+            [
+                "Broodmother",
+                1
+            ],
+            [
+                "Centaur Warrunner",
+                2
+            ],
+            [
+                "Crystal Maiden",
+                1
+            ],
+            [
+                "Death Prophet",
+                1
+            ],
+            [
+                "Dragon Knight",
+                2
+            ],
+            [
+                "Drow Ranger",
+                1
+            ],
+            [
+                "Earth Spirit",
+                2
+            ],
+            [
+                "Elder Titan",
+                2
+            ],
+            [
+                "Ember Spirit",
+                1
+            ],
+            [
+                "Enchantress",
+                4
+            ],
+            [
+                "Grimstroke",
+                2
+            ],
+            [
+                "Gyrocopter",
+                3
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Io",
+                4
+            ],
+            [
+                "Legion Commander",
+                1
+            ],
+            [
+                "Lion",
+                1
+            ],
+            [
+                "Magnus",
+                3
+            ],
+            [
+                "Medusa",
+                1
+            ],
+            [
+                "Mirana",
+                9
+            ],
+            [
+                "Morphling",
+                1
+            ],
+            [
+                "Nature's Prophet",
+                3
+            ],
+            [
+                "Nyx Assassin",
+                6
+            ],
+            [
+                "Omniknight",
+                1
+            ],
+            [
+                "Phantom Assassin",
+                2
+            ],
+            [
+                "Phantom Lancer",
+                1
+            ],
+            [
+                "Puck",
+                5
+            ],
+            [
+                "Sand King",
+                8
+            ],
+            [
+                "Skywrath Mage",
+                1
+            ],
+            [
+                "Slardar",
+                2
+            ],
+            [
+                "Spectre",
+                1
+            ],
+            [
+                "Templar Assassin",
+                1
+            ],
+            [
+                "Tidehunter",
+                1
+            ],
+            [
+                "Tiny",
+                3
+            ],
+            [
+                "Treant Protector",
+                1
+            ],
+            [
+                "Tusk",
+                2
+            ],
+            [
+                "Underlord",
+                1
+            ],
+            [
+                "Ursa",
+                1
+            ],
+            [
+                "Viper",
+                1
+            ],
+            [
+                "Void Spirit",
+                3
+            ],
+            [
+                "Warlock",
+                2
+            ],
+            [
+                "Windranger",
+                1
+            ],
+            [
+                "Wraith King",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "OB.Neon Matches Won",
+        "id": "OB.Neon Matches Won",
+        "data": [
+            [
+                "Abaddon",
+                0
+            ],
+            [
+                "Ancient Apparition",
+                3
+            ],
+            [
+                "Axe",
+                0
+            ],
+            [
+                "Beastmaster",
+                0
+            ],
+            [
+                "Bloodseeker",
+                1
+            ],
+            [
+                "Broodmother",
+                1
+            ],
+            [
+                "Centaur Warrunner",
+                1
+            ],
+            [
+                "Crystal Maiden",
+                0
+            ],
+            [
+                "Death Prophet",
+                0
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Drow Ranger",
+                0
+            ],
+            [
+                "Earth Spirit",
+                1
+            ],
+            [
+                "Elder Titan",
+                1
+            ],
+            [
+                "Ember Spirit",
+                1
+            ],
+            [
+                "Enchantress",
+                3
+            ],
+            [
+                "Grimstroke",
+                1
+            ],
+            [
+                "Gyrocopter",
+                1
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Io",
+                1
+            ],
+            [
+                "Legion Commander",
+                1
+            ],
+            [
+                "Lion",
+                0
+            ],
+            [
+                "Magnus",
+                1
+            ],
+            [
+                "Medusa",
+                1
+            ],
+            [
+                "Mirana",
+                6
+            ],
+            [
+                "Morphling",
+                1
+            ],
+            [
+                "Nature's Prophet",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                3
+            ],
+            [
+                "Omniknight",
+                0
+            ],
+            [
+                "Phantom Assassin",
+                2
+            ],
+            [
+                "Phantom Lancer",
+                0
+            ],
+            [
+                "Puck",
+                3
+            ],
+            [
+                "Sand King",
+                5
+            ],
+            [
+                "Skywrath Mage",
+                0
+            ],
+            [
+                "Slardar",
+                1
+            ],
+            [
+                "Spectre",
+                1
+            ],
+            [
+                "Templar Assassin",
+                0
+            ],
+            [
+                "Tidehunter",
+                1
+            ],
+            [
+                "Tiny",
+                1
+            ],
+            [
+                "Treant Protector",
+                1
+            ],
+            [
+                "Tusk",
+                1
+            ],
+            [
+                "Underlord",
+                1
+            ],
+            [
+                "Ursa",
+                0
+            ],
+            [
+                "Viper",
+                1
+            ],
+            [
+                "Void Spirit",
+                2
+            ],
+            [
+                "Warlock",
+                1
+            ],
+            [
+                "Windranger",
+                0
+            ],
+            [
+                "Wraith King",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "OB.Neon Win Rate",
+        "id": "OB.Neon Win Rate",
+        "data": [
+            [
+                "Abaddon",
+                0.0
+            ],
+            [
+                "Ancient Apparition",
+                1.0
+            ],
+            [
+                "Axe",
+                0.0
+            ],
+            [
+                "Beastmaster",
+                0.0
+            ],
+            [
+                "Bloodseeker",
+                1.0
+            ],
+            [
+                "Broodmother",
+                1.0
+            ],
+            [
+                "Centaur Warrunner",
+                0.5
+            ],
+            [
+                "Crystal Maiden",
+                0.0
+            ],
+            [
+                "Death Prophet",
+                0.0
+            ],
+            [
+                "Dragon Knight",
+                0.5
+            ],
+            [
+                "Drow Ranger",
+                0.0
+            ],
+            [
+                "Earth Spirit",
+                0.5
+            ],
+            [
+                "Elder Titan",
+                0.5
+            ],
+            [
+                "Ember Spirit",
+                1.0
+            ],
+            [
+                "Enchantress",
+                0.75
+            ],
+            [
+                "Grimstroke",
+                0.5
+            ],
+            [
+                "Gyrocopter",
+                0.3333333333333333
+            ],
+            [
+                "Invoker",
+                1.0
+            ],
+            [
+                "Io",
+                0.25
+            ],
+            [
+                "Legion Commander",
+                1.0
+            ],
+            [
+                "Lion",
+                0.0
+            ],
+            [
+                "Magnus",
+                0.3333333333333333
+            ],
+            [
+                "Medusa",
+                1.0
+            ],
+            [
+                "Mirana",
+                0.6666666666666666
+            ],
+            [
+                "Morphling",
+                1.0
+            ],
+            [
+                "Nature's Prophet",
+                0.3333333333333333
+            ],
+            [
+                "Nyx Assassin",
+                0.5
+            ],
+            [
+                "Omniknight",
+                0.0
+            ],
+            [
+                "Phantom Assassin",
+                1.0
+            ],
+            [
+                "Phantom Lancer",
+                0.0
+            ],
+            [
+                "Puck",
+                0.6
+            ],
+            [
+                "Sand King",
+                0.625
+            ],
+            [
+                "Skywrath Mage",
+                0.0
+            ],
+            [
+                "Slardar",
+                0.5
+            ],
+            [
+                "Spectre",
+                1.0
+            ],
+            [
+                "Templar Assassin",
+                0.0
+            ],
+            [
+                "Tidehunter",
+                1.0
+            ],
+            [
+                "Tiny",
+                0.3333333333333333
+            ],
+            [
+                "Treant Protector",
+                1.0
+            ],
+            [
+                "Tusk",
+                0.5
+            ],
+            [
+                "Underlord",
+                1.0
+            ],
+            [
+                "Ursa",
+                0.0
+            ],
+            [
+                "Viper",
+                1.0
+            ],
+            [
+                "Void Spirit",
+                0.6666666666666666
+            ],
+            [
+                "Warlock",
+                0.5
+            ],
+            [
+                "Windranger",
+                0.0
+            ],
+            [
+                "Wraith King",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "T1 Matches Played",
+        "id": "T1 Matches Played",
+        "data": [
+            [
+                "Alchemist",
+                1
+            ],
+            [
+                "Axe",
+                1
+            ],
+            [
+                "Batrider",
+                2
+            ],
+            [
+                "Beastmaster",
+                1
+            ],
+            [
+                "Bristleback",
+                2
+            ],
+            [
+                "Broodmother",
+                2
+            ],
+            [
+                "Centaur Warrunner",
+                4
+            ],
+            [
+                "Clockwerk",
+                1
+            ],
+            [
+                "Dark Seer",
+                3
+            ],
+            [
+                "Doom",
+                5
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Earth Spirit",
+                1
+            ],
+            [
+                "Elder Titan",
+                1
+            ],
+            [
+                "Enchantress",
+                5
+            ],
+            [
+                "Faceless Void",
+                2
+            ],
+            [
+                "Grimstroke",
+                1
+            ],
+            [
+                "Juggernaut",
+                2
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lich",
+                1
+            ],
+            [
+                "Lifestealer",
+                2
+            ],
+            [
+                "Lina",
+                3
+            ],
+            [
+                "Lion",
+                9
+            ],
+            [
+                "Magnus",
+                2
+            ],
+            [
+                "Medusa",
+                3
+            ],
+            [
+                "Morphling",
+                2
+            ],
+            [
+                "Necrophos",
+                2
+            ],
+            [
+                "Nyx Assassin",
+                3
+            ],
+            [
+                "Omniknight",
+                1
+            ],
+            [
+                "Phantom Assassin",
+                1
+            ],
+            [
+                "Phantom Lancer",
+                3
+            ],
+            [
+                "Phoenix",
+                1
+            ],
+            [
+                "Puck",
+                3
+            ],
+            [
+                "Razor",
+                3
+            ],
+            [
+                "Sand King",
+                2
+            ],
+            [
+                "Shadow Demon",
+                1
+            ],
+            [
+                "Slardar",
+                1
+            ],
+            [
+                "Snapfire",
+                7
+            ],
+            [
+                "Storm Spirit",
+                1
+            ],
+            [
+                "Terrorblade",
+                2
+            ],
+            [
+                "Timbersaw",
+                3
+            ],
+            [
+                "Tiny",
+                1
+            ],
+            [
+                "Treant Protector",
+                1
+            ],
+            [
+                "Tusk",
+                4
+            ],
+            [
+                "Viper",
+                1
+            ],
+            [
+                "Void Spirit",
+                1
+            ],
+            [
+                "Warlock",
+                2
+            ],
+            [
+                "Witch Doctor",
+                1
+            ],
+            [
+                "Wraith King",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "T1 Matches Won",
+        "id": "T1 Matches Won",
+        "data": [
+            [
+                "Alchemist",
+                0
+            ],
+            [
+                "Axe",
+                1
+            ],
+            [
+                "Batrider",
+                1
+            ],
+            [
+                "Beastmaster",
+                1
+            ],
+            [
+                "Bristleback",
+                1
+            ],
+            [
+                "Broodmother",
+                0
+            ],
+            [
+                "Centaur Warrunner",
+                3
+            ],
+            [
+                "Clockwerk",
+                1
+            ],
+            [
+                "Dark Seer",
+                2
+            ],
+            [
+                "Doom",
+                4
+            ],
+            [
+                "Dragon Knight",
+                0
+            ],
+            [
+                "Earth Spirit",
+                1
+            ],
+            [
+                "Elder Titan",
+                0
+            ],
+            [
+                "Enchantress",
+                4
+            ],
+            [
+                "Faceless Void",
+                2
+            ],
+            [
+                "Grimstroke",
+                0
+            ],
+            [
+                "Juggernaut",
+                1
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lich",
+                1
+            ],
+            [
+                "Lifestealer",
+                2
+            ],
+            [
+                "Lina",
+                2
+            ],
+            [
+                "Lion",
+                7
+            ],
+            [
+                "Magnus",
+                2
+            ],
+            [
+                "Medusa",
+                2
+            ],
+            [
+                "Morphling",
+                2
+            ],
+            [
+                "Necrophos",
+                2
+            ],
+            [
+                "Nyx Assassin",
+                3
+            ],
+            [
+                "Omniknight",
+                0
+            ],
+            [
+                "Phantom Assassin",
+                0
+            ],
+            [
+                "Phantom Lancer",
+                2
+            ],
+            [
+                "Phoenix",
+                1
+            ],
+            [
+                "Puck",
+                1
+            ],
+            [
+                "Razor",
+                3
+            ],
+            [
+                "Sand King",
+                1
+            ],
+            [
+                "Shadow Demon",
+                0
+            ],
+            [
+                "Slardar",
+                1
+            ],
+            [
+                "Snapfire",
+                5
+            ],
+            [
+                "Storm Spirit",
+                1
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
+                "Timbersaw",
+                3
+            ],
+            [
+                "Tiny",
+                0
+            ],
+            [
+                "Treant Protector",
+                0
+            ],
+            [
+                "Tusk",
+                2
+            ],
+            [
+                "Viper",
+                0
+            ],
+            [
+                "Void Spirit",
+                0
+            ],
+            [
+                "Warlock",
+                1
+            ],
+            [
+                "Witch Doctor",
+                0
+            ],
+            [
+                "Wraith King",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "T1 Win Rate",
+        "id": "T1 Win Rate",
+        "data": [
+            [
+                "Alchemist",
+                0.0
+            ],
+            [
+                "Axe",
+                1.0
+            ],
+            [
+                "Batrider",
+                0.5
+            ],
+            [
+                "Beastmaster",
+                1.0
+            ],
+            [
+                "Bristleback",
+                0.5
+            ],
+            [
+                "Broodmother",
+                0.0
+            ],
+            [
+                "Centaur Warrunner",
+                0.75
+            ],
+            [
+                "Clockwerk",
+                1.0
+            ],
+            [
+                "Dark Seer",
+                0.6666666666666666
+            ],
+            [
+                "Doom",
+                0.8
+            ],
+            [
+                "Dragon Knight",
+                0.0
+            ],
+            [
+                "Earth Spirit",
+                1.0
+            ],
+            [
+                "Elder Titan",
+                0.0
+            ],
+            [
+                "Enchantress",
+                0.8
+            ],
+            [
+                "Faceless Void",
+                1.0
+            ],
+            [
+                "Grimstroke",
+                0.0
+            ],
+            [
+                "Juggernaut",
+                0.5
+            ],
+            [
+                "Leshrac",
+                1.0
+            ],
+            [
+                "Lich",
+                1.0
+            ],
+            [
+                "Lifestealer",
+                1.0
+            ],
+            [
+                "Lina",
+                0.6666666666666666
+            ],
+            [
+                "Lion",
+                0.7777777777777778
+            ],
+            [
+                "Magnus",
+                1.0
+            ],
+            [
+                "Medusa",
+                0.6666666666666666
+            ],
+            [
+                "Morphling",
+                1.0
+            ],
+            [
+                "Necrophos",
+                1.0
+            ],
+            [
+                "Nyx Assassin",
+                1.0
+            ],
+            [
+                "Omniknight",
+                0.0
+            ],
+            [
+                "Phantom Assassin",
+                0.0
+            ],
+            [
+                "Phantom Lancer",
+                0.6666666666666666
+            ],
+            [
+                "Phoenix",
+                1.0
+            ],
+            [
+                "Puck",
+                0.3333333333333333
+            ],
+            [
+                "Razor",
+                1.0
+            ],
+            [
+                "Sand King",
+                0.5
+            ],
+            [
+                "Shadow Demon",
+                0.0
+            ],
+            [
+                "Slardar",
+                1.0
+            ],
+            [
+                "Snapfire",
+                0.7142857142857143
+            ],
+            [
+                "Storm Spirit",
+                1.0
+            ],
+            [
+                "Terrorblade",
+                0.5
+            ],
+            [
+                "Timbersaw",
+                1.0
+            ],
+            [
+                "Tiny",
+                0.0
+            ],
+            [
+                "Treant Protector",
+                0.0
+            ],
+            [
+                "Tusk",
+                0.5
+            ],
+            [
+                "Viper",
+                0.0
+            ],
+            [
+                "Void Spirit",
+                0.0
+            ],
+            [
+                "Warlock",
+                0.5
+            ],
+            [
+                "Witch Doctor",
+                0.0
+            ],
+            [
+                "Wraith King",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "TNC Predator Matches Played",
+        "id": "TNC Predator Matches Played",
+        "data": [
+            [
+                "Ancient Apparition",
+                1
+            ],
+            [
+                "Arc Warden",
+                1
+            ],
+            [
+                "Beastmaster",
+                6
+            ],
+            [
+                "Bloodseeker",
+                4
+            ],
+            [
+                "Bristleback",
+                4
+            ],
+            [
+                "Centaur Warrunner",
+                3
+            ],
+            [
+                "Clockwerk",
+                1
+            ],
+            [
+                "Dark Seer",
+                2
+            ],
+            [
+                "Death Prophet",
+                1
+            ],
+            [
+                "Doom",
+                1
+            ],
+            [
+                "Dragon Knight",
+                2
+            ],
+            [
+                "Enchantress",
+                2
+            ],
+            [
+                "Enigma",
+                1
+            ],
+            [
+                "Faceless Void",
+                1
+            ],
+            [
+                "Grimstroke",
+                2
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Io",
+                2
+            ],
+            [
+                "Legion Commander",
+                4
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lion",
+                8
+            ],
+            [
+                "Luna",
+                3
+            ],
+            [
+                "Medusa",
+                3
+            ],
+            [
+                "Mirana",
+                6
+            ],
+            [
+                "Nyx Assassin",
+                2
+            ],
+            [
+                "Outworld Devourer",
+                1
+            ],
+            [
+                "Pangolier",
+                3
+            ],
+            [
+                "Phoenix",
+                2
+            ],
+            [
+                "Puck",
+                5
+            ],
+            [
+                "Queen of Pain",
+                2
+            ],
+            [
+                "Razor",
+                1
+            ],
+            [
+                "Rubick",
+                2
+            ],
+            [
+                "Shadow Fiend",
+                1
+            ],
+            [
+                "Snapfire",
+                5
+            ],
+            [
+                "Spectre",
+                2
+            ],
+            [
+                "Tiny",
+                8
+            ],
+            [
+                "Troll Warlord",
+                1
+            ],
+            [
+                "Tusk",
+                1
+            ],
+            [
+                "Ursa",
+                2
+            ],
+            [
+                "Vengeful Spirit",
+                1
+            ],
+            [
+                "Witch Doctor",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "TNC Predator Matches Won",
+        "id": "TNC Predator Matches Won",
+        "data": [
+            [
+                "Ancient Apparition",
+                0
+            ],
+            [
+                "Arc Warden",
+                0
+            ],
+            [
+                "Beastmaster",
+                5
+            ],
+            [
+                "Bloodseeker",
+                1
+            ],
+            [
+                "Bristleback",
+                3
+            ],
+            [
+                "Centaur Warrunner",
+                1
+            ],
+            [
+                "Clockwerk",
+                1
+            ],
+            [
+                "Dark Seer",
+                0
+            ],
+            [
+                "Death Prophet",
+                0
+            ],
+            [
+                "Doom",
+                0
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Enchantress",
+                1
+            ],
+            [
+                "Enigma",
+                1
+            ],
+            [
+                "Faceless Void",
+                0
+            ],
+            [
+                "Grimstroke",
+                1
+            ],
+            [
+                "Invoker",
+                0
+            ],
+            [
+                "Io",
+                2
+            ],
+            [
+                "Legion Commander",
+                4
+            ],
+            [
+                "Leshrac",
+                0
+            ],
+            [
+                "Lion",
+                7
+            ],
+            [
+                "Luna",
+                1
+            ],
+            [
+                "Medusa",
+                2
+            ],
+            [
+                "Mirana",
+                2
+            ],
+            [
+                "Nyx Assassin",
+                1
+            ],
+            [
+                "Outworld Devourer",
+                0
+            ],
+            [
+                "Pangolier",
+                2
+            ],
+            [
+                "Phoenix",
+                1
+            ],
+            [
+                "Puck",
+                4
+            ],
+            [
+                "Queen of Pain",
+                2
+            ],
+            [
+                "Razor",
+                1
+            ],
+            [
+                "Rubick",
+                1
+            ],
+            [
+                "Shadow Fiend",
+                0
+            ],
+            [
+                "Snapfire",
+                1
+            ],
+            [
+                "Spectre",
+                2
+            ],
+            [
+                "Tiny",
+                4
+            ],
+            [
+                "Troll Warlord",
+                0
+            ],
+            [
+                "Tusk",
+                1
+            ],
+            [
+                "Ursa",
+                1
+            ],
+            [
+                "Vengeful Spirit",
+                1
+            ],
+            [
+                "Witch Doctor",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "TNC Predator Win Rate",
+        "id": "TNC Predator Win Rate",
+        "data": [
+            [
+                "Ancient Apparition",
+                0.0
+            ],
+            [
+                "Arc Warden",
+                0.0
+            ],
+            [
+                "Beastmaster",
+                0.8333333333333334
+            ],
+            [
+                "Bloodseeker",
+                0.25
+            ],
+            [
+                "Bristleback",
+                0.75
+            ],
+            [
+                "Centaur Warrunner",
+                0.3333333333333333
+            ],
+            [
+                "Clockwerk",
+                1.0
+            ],
+            [
+                "Dark Seer",
+                0.0
+            ],
+            [
+                "Death Prophet",
+                0.0
+            ],
+            [
+                "Doom",
+                0.0
+            ],
+            [
+                "Dragon Knight",
+                0.5
+            ],
+            [
+                "Enchantress",
+                0.5
+            ],
+            [
+                "Enigma",
+                1.0
+            ],
+            [
+                "Faceless Void",
+                0.0
+            ],
+            [
+                "Grimstroke",
+                0.5
+            ],
+            [
+                "Invoker",
+                0.0
+            ],
+            [
+                "Io",
+                1.0
+            ],
+            [
+                "Legion Commander",
+                1.0
+            ],
+            [
+                "Leshrac",
+                0.0
+            ],
+            [
+                "Lion",
+                0.875
+            ],
+            [
+                "Luna",
+                0.3333333333333333
+            ],
+            [
+                "Medusa",
+                0.6666666666666666
+            ],
+            [
+                "Mirana",
+                0.3333333333333333
+            ],
+            [
+                "Nyx Assassin",
+                0.5
+            ],
+            [
+                "Outworld Devourer",
+                0.0
+            ],
+            [
+                "Pangolier",
+                0.6666666666666666
+            ],
+            [
+                "Phoenix",
+                0.5
+            ],
+            [
+                "Puck",
+                0.8
+            ],
+            [
+                "Queen of Pain",
+                1.0
+            ],
+            [
+                "Razor",
+                1.0
+            ],
+            [
+                "Rubick",
+                0.5
+            ],
+            [
+                "Shadow Fiend",
+                0.0
+            ],
+            [
+                "Snapfire",
+                0.2
+            ],
+            [
+                "Spectre",
+                1.0
+            ],
+            [
+                "Tiny",
+                0.5
+            ],
+            [
+                "Troll Warlord",
+                0.0
+            ],
+            [
+                "Tusk",
+                1.0
+            ],
+            [
+                "Ursa",
+                0.5
+            ],
+            [
+                "Vengeful Spirit",
+                1.0
+            ],
+            [
+                "Witch Doctor",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Ωmega Esports Matches Played",
+        "id": "Ωmega Esports Matches Played",
+        "data": [
+            [
+                "Abaddon",
+                2
+            ],
+            [
+                "Alchemist",
+                1
+            ],
+            [
+                "Arc Warden",
+                1
+            ],
+            [
+                "Axe",
+                1
+            ],
+            [
+                "Beastmaster",
+                2
+            ],
+            [
+                "Bloodseeker",
+                2
+            ],
+            [
+                "Bounty Hunter",
+                1
+            ],
+            [
+                "Bristleback",
+                4
+            ],
+            [
+                "Broodmother",
+                2
+            ],
+            [
+                "Centaur Warrunner",
+                7
+            ],
+            [
+                "Chaos Knight",
+                1
+            ],
+            [
+                "Dark Seer",
+                1
+            ],
+            [
+                "Dark Willow",
+                2
+            ],
+            [
+                "Dazzle",
+                2
+            ],
+            [
+                "Death Prophet",
+                1
+            ],
+            [
+                "Dragon Knight",
+                4
+            ],
+            [
+                "Drow Ranger",
+                1
+            ],
+            [
+                "Earth Spirit",
+                1
+            ],
+            [
+                "Elder Titan",
+                3
+            ],
+            [
+                "Ember Spirit",
+                3
+            ],
+            [
+                "Enchantress",
+                7
+            ],
+            [
+                "Faceless Void",
+                1
+            ],
+            [
+                "Grimstroke",
+                2
+            ],
+            [
+                "Hoodwink",
+                1
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Io",
+                2
+            ],
+            [
+                "Legion Commander",
+                1
+            ],
+            [
+                "Lifestealer",
+                1
+            ],
+            [
+                "Lion",
+                4
+            ],
+            [
+                "Mirana",
+                1
+            ],
+            [
+                "Morphling",
+                2
+            ],
+            [
+                "Nyx Assassin",
+                5
+            ],
+            [
+                "Ogre Magi",
+                1
+            ],
+            [
+                "Phantom Assassin",
+                1
+            ],
+            [
+                "Puck",
+                2
+            ],
+            [
+                "Razor",
+                1
+            ],
+            [
+                "Rubick",
+                2
+            ],
+            [
+                "Skywrath Mage",
+                4
+            ],
+            [
+                "Slark",
+                1
+            ],
+            [
+                "Snapfire",
+                4
+            ],
+            [
+                "Sniper",
+                2
+            ],
+            [
+                "Storm Spirit",
+                2
+            ],
+            [
+                "Tiny",
+                5
+            ],
+            [
+                "Tusk",
+                2
+            ],
+            [
+                "Ursa",
+                1
+            ],
+            [
+                "Visage",
+                1
+            ],
+            [
+                "Void Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ωmega Esports Matches Won",
+        "id": "Ωmega Esports Matches Won",
+        "data": [
+            [
+                "Abaddon",
+                1
+            ],
+            [
+                "Alchemist",
+                1
+            ],
+            [
+                "Arc Warden",
+                1
+            ],
+            [
+                "Axe",
+                0
+            ],
+            [
+                "Beastmaster",
+                2
+            ],
+            [
+                "Bloodseeker",
+                0
+            ],
+            [
+                "Bounty Hunter",
+                0
+            ],
+            [
+                "Bristleback",
+                3
+            ],
+            [
+                "Broodmother",
+                1
+            ],
+            [
+                "Centaur Warrunner",
+                6
+            ],
+            [
+                "Chaos Knight",
+                0
+            ],
+            [
+                "Dark Seer",
+                0
+            ],
+            [
+                "Dark Willow",
+                1
+            ],
+            [
+                "Dazzle",
+                0
+            ],
+            [
+                "Death Prophet",
+                0
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Drow Ranger",
+                0
+            ],
+            [
+                "Earth Spirit",
+                1
+            ],
+            [
+                "Elder Titan",
+                1
+            ],
+            [
+                "Ember Spirit",
+                2
+            ],
+            [
+                "Enchantress",
+                3
+            ],
+            [
+                "Faceless Void",
+                0
+            ],
+            [
+                "Grimstroke",
+                1
+            ],
+            [
+                "Hoodwink",
+                1
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Io",
+                1
+            ],
+            [
+                "Legion Commander",
+                1
+            ],
+            [
+                "Lifestealer",
+                0
+            ],
+            [
+                "Lion",
+                3
+            ],
+            [
+                "Mirana",
+                0
+            ],
+            [
+                "Morphling",
+                0
+            ],
+            [
+                "Nyx Assassin",
+                2
+            ],
+            [
+                "Ogre Magi",
+                0
+            ],
+            [
+                "Phantom Assassin",
+                0
+            ],
+            [
+                "Puck",
+                1
+            ],
+            [
+                "Razor",
+                0
+            ],
+            [
+                "Rubick",
+                0
+            ],
+            [
+                "Skywrath Mage",
+                2
+            ],
+            [
+                "Slark",
+                1
+            ],
+            [
+                "Snapfire",
+                2
+            ],
+            [
+                "Sniper",
+                2
+            ],
+            [
+                "Storm Spirit",
+                0
+            ],
+            [
+                "Tiny",
+                2
+            ],
+            [
+                "Tusk",
+                0
+            ],
+            [
+                "Ursa",
+                1
+            ],
+            [
+                "Visage",
+                0
+            ],
+            [
+                "Void Spirit",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Ωmega Esports Win Rate",
+        "id": "Ωmega Esports Win Rate",
+        "data": [
+            [
+                "Abaddon",
+                0.5
+            ],
+            [
+                "Alchemist",
+                1.0
+            ],
+            [
+                "Arc Warden",
+                1.0
+            ],
+            [
+                "Axe",
+                0.0
+            ],
+            [
+                "Beastmaster",
+                1.0
+            ],
+            [
+                "Bloodseeker",
+                0.0
+            ],
+            [
+                "Bounty Hunter",
+                0.0
+            ],
+            [
+                "Bristleback",
+                0.75
+            ],
+            [
+                "Broodmother",
+                0.5
+            ],
+            [
+                "Centaur Warrunner",
+                0.8571428571428571
+            ],
+            [
+                "Chaos Knight",
+                0.0
+            ],
+            [
+                "Dark Seer",
+                0.0
+            ],
+            [
+                "Dark Willow",
+                0.5
+            ],
+            [
+                "Dazzle",
+                0.0
+            ],
+            [
+                "Death Prophet",
+                0.0
+            ],
+            [
+                "Dragon Knight",
+                0.25
+            ],
+            [
+                "Drow Ranger",
+                0.0
+            ],
+            [
+                "Earth Spirit",
+                1.0
+            ],
+            [
+                "Elder Titan",
+                0.3333333333333333
+            ],
+            [
+                "Ember Spirit",
+                0.6666666666666666
+            ],
+            [
+                "Enchantress",
+                0.42857142857142855
+            ],
+            [
+                "Faceless Void",
+                0.0
+            ],
+            [
+                "Grimstroke",
+                0.5
+            ],
+            [
+                "Hoodwink",
+                1.0
+            ],
+            [
+                "Invoker",
+                1.0
+            ],
+            [
+                "Io",
+                0.5
+            ],
+            [
+                "Legion Commander",
+                1.0
+            ],
+            [
+                "Lifestealer",
+                0.0
+            ],
+            [
+                "Lion",
+                0.75
+            ],
+            [
+                "Mirana",
+                0.0
+            ],
+            [
+                "Morphling",
+                0.0
+            ],
+            [
+                "Nyx Assassin",
+                0.4
+            ],
+            [
+                "Ogre Magi",
+                0.0
+            ],
+            [
+                "Phantom Assassin",
+                0.0
+            ],
+            [
+                "Puck",
+                0.5
+            ],
+            [
+                "Razor",
+                0.0
+            ],
+            [
+                "Rubick",
+                0.0
+            ],
+            [
+                "Skywrath Mage",
+                0.5
+            ],
+            [
+                "Slark",
+                1.0
+            ],
+            [
+                "Snapfire",
+                0.5
+            ],
+            [
+                "Sniper",
+                1.0
+            ],
+            [
+                "Storm Spirit",
+                0.0
+            ],
+            [
+                "Tiny",
+                0.4
+            ],
+            [
+                "Tusk",
+                0.0
+            ],
+            [
+                "Ursa",
+                1.0
+            ],
+            [
+                "Visage",
+                0.0
+            ],
+            [
+                "Void Spirit",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    }
+]

@@ -1,0 +1,7508 @@
+[
+    {
+        "name": "Abaddon Matches Played",
+        "id": "Abaddon Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                5
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Matches Won",
+        "id": "Abaddon Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                3
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "OB.Neon",
+                0
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Win Rate",
+        "id": "Abaddon Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.6
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Alchemist Matches Played",
+        "id": "Alchemist Matches Played",
+        "data": [
+            [
+                "T1",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Matches Won",
+        "id": "Alchemist Matches Won",
+        "data": [
+            [
+                "T1",
+                0
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Win Rate",
+        "id": "Alchemist Win Rate",
+        "data": [
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ancient Apparition Matches Played",
+        "id": "Ancient Apparition Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "OB.Neon",
+                3
+            ],
+            [
+                "TNC Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Matches Won",
+        "id": "Ancient Apparition Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "OB.Neon",
+                3
+            ],
+            [
+                "TNC Predator",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Win Rate",
+        "id": "Ancient Apparition Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.5
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Anti-Mage Matches Played",
+        "id": "Anti-Mage Matches Played",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Lilgun ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Matches Won",
+        "id": "Anti-Mage Matches Won",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Lilgun ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Win Rate",
+        "id": "Anti-Mage Win Rate",
+        "data": [
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Arc Warden Matches Played",
+        "id": "Arc Warden Matches Played",
+        "data": [
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Matches Won",
+        "id": "Arc Warden Matches Won",
+        "data": [
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Win Rate",
+        "id": "Arc Warden Win Rate",
+        "data": [
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Axe Matches Played",
+        "id": "Axe Matches Played",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Axe Matches Won",
+        "id": "Axe Matches Won",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "OB.Neon",
+                0
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Win Rate",
+        "id": "Axe Win Rate",
+        "data": [
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.5
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Batrider Matches Played",
+        "id": "Batrider Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "T1",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Matches Won",
+        "id": "Batrider Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Win Rate",
+        "id": "Batrider Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.5
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "T1",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Beastmaster Matches Played",
+        "id": "Beastmaster Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Fnatic",
+                4
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "TNC Predator",
+                6
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Matches Won",
+        "id": "Beastmaster Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "OB.Neon",
+                0
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "TNC Predator",
+                5
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Win Rate",
+        "id": "Beastmaster Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.5
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.8333333333333334
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bloodseeker Matches Played",
+        "id": "Bloodseeker Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "TNC Predator",
+                4
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Matches Won",
+        "id": "Bloodseeker Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Win Rate",
+        "id": "Bloodseeker Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.25
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bounty Hunter Matches Played",
+        "id": "Bounty Hunter Matches Played",
+        "data": [
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bounty Hunter Matches Won",
+        "id": "Bounty Hunter Matches Won",
+        "data": [
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Bounty Hunter Win Rate",
+        "id": "Bounty Hunter Win Rate",
+        "data": [
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Brewmaster Matches Played",
+        "id": "Brewmaster Matches Played",
+        "data": [
+            [
+                "Execration",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Matches Won",
+        "id": "Brewmaster Matches Won",
+        "data": [
+            [
+                "Execration",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Win Rate",
+        "id": "Brewmaster Win Rate",
+        "data": [
+            [
+                "Execration",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bristleback Matches Played",
+        "id": "Bristleback Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                4
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Fnatic",
+                3
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "TNC Predator",
+                4
+            ],
+            [
+                "Ωmega Esports",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Matches Won",
+        "id": "Bristleback Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                3
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "TNC Predator",
+                3
+            ],
+            [
+                "Ωmega Esports",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Win Rate",
+        "id": "Bristleback Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.75
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.3333333333333333
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "T1",
+                0.5
+            ],
+            [
+                "TNC Predator",
+                0.75
+            ],
+            [
+                "Ωmega Esports",
+                0.75
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Broodmother Matches Played",
+        "id": "Broodmother Matches Played",
+        "data": [
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Matches Won",
+        "id": "Broodmother Matches Won",
+        "data": [
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Win Rate",
+        "id": "Broodmother Win Rate",
+        "data": [
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Centaur Warrunner Matches Played",
+        "id": "Centaur Warrunner Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                3
+            ],
+            [
+                "Execration",
+                6
+            ],
+            [
+                "Fnatic",
+                5
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "OB.Neon",
+                2
+            ],
+            [
+                "T1",
+                4
+            ],
+            [
+                "TNC Predator",
+                3
+            ],
+            [
+                "Ωmega Esports",
+                7
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Matches Won",
+        "id": "Centaur Warrunner Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Execration",
+                3
+            ],
+            [
+                "Fnatic",
+                3
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                3
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                6
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Win Rate",
+        "id": "Centaur Warrunner Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.3333333333333333
+            ],
+            [
+                "Execration",
+                0.5
+            ],
+            [
+                "Fnatic",
+                0.6
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.5
+            ],
+            [
+                "T1",
+                0.75
+            ],
+            [
+                "TNC Predator",
+                0.3333333333333333
+            ],
+            [
+                "Ωmega Esports",
+                0.8571428571428571
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Chaos Knight Matches Played",
+        "id": "Chaos Knight Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Matches Won",
+        "id": "Chaos Knight Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Win Rate",
+        "id": "Chaos Knight Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Clockwerk Matches Played",
+        "id": "Clockwerk Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Matches Won",
+        "id": "Clockwerk Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Win Rate",
+        "id": "Clockwerk Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.5
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Crystal Maiden Matches Played",
+        "id": "Crystal Maiden Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "OB.Neon",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Crystal Maiden Matches Won",
+        "id": "Crystal Maiden Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "OB.Neon",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Crystal Maiden Win Rate",
+        "id": "Crystal Maiden Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.5
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dark Seer Matches Played",
+        "id": "Dark Seer Matches Played",
+        "data": [
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "T1",
+                3
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Matches Won",
+        "id": "Dark Seer Matches Won",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Win Rate",
+        "id": "Dark Seer Win Rate",
+        "data": [
+            [
+                "Execration",
+                0.5
+            ],
+            [
+                "Fnatic",
+                0.5
+            ],
+            [
+                "T1",
+                0.6666666666666666
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dark Willow Matches Played",
+        "id": "Dark Willow Matches Played",
+        "data": [
+            [
+                "Lilgun ",
+                3
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Matches Won",
+        "id": "Dark Willow Matches Won",
+        "data": [
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Win Rate",
+        "id": "Dark Willow Win Rate",
+        "data": [
+            [
+                "Lilgun ",
+                0.3333333333333333
+            ],
+            [
+                "Ωmega Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dazzle Matches Played",
+        "id": "Dazzle Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Dazzle Matches Won",
+        "id": "Dazzle Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Dazzle Win Rate",
+        "id": "Dazzle Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Death Prophet Matches Played",
+        "id": "Death Prophet Matches Played",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                3
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Matches Won",
+        "id": "Death Prophet Matches Won",
+        "data": [
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "OB.Neon",
+                0
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Win Rate",
+        "id": "Death Prophet Win Rate",
+        "data": [
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.6666666666666666
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Disruptor Matches Played",
+        "id": "Disruptor Matches Played",
+        "data": [
+            [
+                "Fnatic",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Matches Won",
+        "id": "Disruptor Matches Won",
+        "data": [
+            [
+                "Fnatic",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Win Rate",
+        "id": "Disruptor Win Rate",
+        "data": [
+            [
+                "Fnatic",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Doom Matches Played",
+        "id": "Doom Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Execration",
+                4
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "T1",
+                5
+            ],
+            [
+                "TNC Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Doom Matches Won",
+        "id": "Doom Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Execration",
+                4
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "T1",
+                4
+            ],
+            [
+                "TNC Predator",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Win Rate",
+        "id": "Doom Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.5
+            ],
+            [
+                "T1",
+                0.8
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dragon Knight Matches Played",
+        "id": "Dragon Knight Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "OB.Neon",
+                2
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Matches Won",
+        "id": "Dragon Knight Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Win Rate",
+        "id": "Dragon Knight Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.5
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.5
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "Ωmega Esports",
+                0.25
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Drow Ranger Matches Played",
+        "id": "Drow Ranger Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Matches Won",
+        "id": "Drow Ranger Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "OB.Neon",
+                0
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Win Rate",
+        "id": "Drow Ranger Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.5
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Earth Spirit Matches Played",
+        "id": "Earth Spirit Matches Played",
+        "data": [
+            [
+                "Execration",
+                3
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "OB.Neon",
+                2
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Matches Won",
+        "id": "Earth Spirit Matches Won",
+        "data": [
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Win Rate",
+        "id": "Earth Spirit Win Rate",
+        "data": [
+            [
+                "Execration",
+                0.6666666666666666
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.5
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Earthshaker Matches Played",
+        "id": "Earthshaker Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Earthshaker Matches Won",
+        "id": "Earthshaker Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Earthshaker Win Rate",
+        "id": "Earthshaker Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Elder Titan Matches Played",
+        "id": "Elder Titan Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                3
+            ],
+            [
+                "Execration",
+                5
+            ],
+            [
+                "OB.Neon",
+                2
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Matches Won",
+        "id": "Elder Titan Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Execration",
+                5
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Win Rate",
+        "id": "Elder Titan Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                0.5
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ember Spirit Matches Played",
+        "id": "Ember Spirit Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                3
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                3
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Matches Won",
+        "id": "Ember Spirit Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                0
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Win Rate",
+        "id": "Ember Spirit Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.6666666666666666
+            ],
+            [
+                "Execration",
+                0.5
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                0.3333333333333333
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Enchantress Matches Played",
+        "id": "Enchantress Matches Played",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                6
+            ],
+            [
+                "OB.Neon",
+                4
+            ],
+            [
+                "T1",
+                5
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                7
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Matches Won",
+        "id": "Enchantress Matches Won",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "OB.Neon",
+                3
+            ],
+            [
+                "T1",
+                4
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Win Rate",
+        "id": "Enchantress Win Rate",
+        "data": [
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.3333333333333333
+            ],
+            [
+                "OB.Neon",
+                0.75
+            ],
+            [
+                "T1",
+                0.8
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "Ωmega Esports",
+                0.42857142857142855
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Enigma Matches Played",
+        "id": "Enigma Matches Played",
+        "data": [
+            [
+                "TNC Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Matches Won",
+        "id": "Enigma Matches Won",
+        "data": [
+            [
+                "TNC Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Win Rate",
+        "id": "Enigma Win Rate",
+        "data": [
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Faceless Void Matches Played",
+        "id": "Faceless Void Matches Played",
+        "data": [
+            [
+                "T1",
+                2
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Matches Won",
+        "id": "Faceless Void Matches Won",
+        "data": [
+            [
+                "T1",
+                2
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Win Rate",
+        "id": "Faceless Void Win Rate",
+        "data": [
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Grimstroke Matches Played",
+        "id": "Grimstroke Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Execration",
+                6
+            ],
+            [
+                "Fnatic",
+                3
+            ],
+            [
+                "Lilgun ",
+                4
+            ],
+            [
+                "OB.Neon",
+                2
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Matches Won",
+        "id": "Grimstroke Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Execration",
+                5
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "Lilgun ",
+                2
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Win Rate",
+        "id": "Grimstroke Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                0.8333333333333334
+            ],
+            [
+                "Fnatic",
+                0.6666666666666666
+            ],
+            [
+                "Lilgun ",
+                0.5
+            ],
+            [
+                "OB.Neon",
+                0.5
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "Ωmega Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Gyrocopter Matches Played",
+        "id": "Gyrocopter Matches Played",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                3
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "OB.Neon",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Matches Won",
+        "id": "Gyrocopter Matches Won",
+        "data": [
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "OB.Neon",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Win Rate",
+        "id": "Gyrocopter Win Rate",
+        "data": [
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.6666666666666666
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Hoodwink Matches Played",
+        "id": "Hoodwink Matches Played",
+        "data": [
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Matches Won",
+        "id": "Hoodwink Matches Won",
+        "data": [
+            [
+                "Fnatic",
+                0
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Win Rate",
+        "id": "Hoodwink Win Rate",
+        "data": [
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Huskar Matches Played",
+        "id": "Huskar Matches Played",
+        "data": [
+            [
+                "Lilgun ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Huskar Matches Won",
+        "id": "Huskar Matches Won",
+        "data": [
+            [
+                "Lilgun ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Huskar Win Rate",
+        "id": "Huskar Win Rate",
+        "data": [
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Invoker Matches Played",
+        "id": "Invoker Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Matches Won",
+        "id": "Invoker Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "TNC Predator",
+                0
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Win Rate",
+        "id": "Invoker Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Io Matches Played",
+        "id": "Io Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                5
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                4
+            ],
+            [
+                "OB.Neon",
+                4
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Io Matches Won",
+        "id": "Io Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                4
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Io Win Rate",
+        "id": "Io Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.8
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.5
+            ],
+            [
+                "OB.Neon",
+                0.25
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Juggernaut Matches Played",
+        "id": "Juggernaut Matches Played",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "T1",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Matches Won",
+        "id": "Juggernaut Matches Won",
+        "data": [
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Win Rate",
+        "id": "Juggernaut Win Rate",
+        "data": [
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "T1",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Kunkka Matches Played",
+        "id": "Kunkka Matches Played",
+        "data": [
+            [
+                "Lilgun ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Matches Won",
+        "id": "Kunkka Matches Won",
+        "data": [
+            [
+                "Lilgun ",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Win Rate",
+        "id": "Kunkka Win Rate",
+        "data": [
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Legion Commander Matches Played",
+        "id": "Legion Commander Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "TNC Predator",
+                4
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Matches Won",
+        "id": "Legion Commander Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "TNC Predator",
+                4
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Win Rate",
+        "id": "Legion Commander Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Leshrac Matches Played",
+        "id": "Leshrac Matches Played",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Matches Won",
+        "id": "Leshrac Matches Won",
+        "data": [
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Fnatic",
+                0
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "TNC Predator",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Win Rate",
+        "id": "Leshrac Win Rate",
+        "data": [
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lich Matches Played",
+        "id": "Lich Matches Played",
+        "data": [
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lich Matches Won",
+        "id": "Lich Matches Won",
+        "data": [
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lich Win Rate",
+        "id": "Lich Win Rate",
+        "data": [
+            [
+                "T1",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lifestealer Matches Played",
+        "id": "Lifestealer Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Execration",
+                3
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Matches Won",
+        "id": "Lifestealer Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Execration",
+                3
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Win Rate",
+        "id": "Lifestealer Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lina Matches Played",
+        "id": "Lina Matches Played",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "T1",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Lina Matches Won",
+        "id": "Lina Matches Won",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "T1",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Lina Win Rate",
+        "id": "Lina Win Rate",
+        "data": [
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "T1",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lion Matches Played",
+        "id": "Lion Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                5
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Fnatic",
+                4
+            ],
+            [
+                "Lilgun ",
+                4
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                9
+            ],
+            [
+                "TNC Predator",
+                8
+            ],
+            [
+                "Ωmega Esports",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Lion Matches Won",
+        "id": "Lion Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "OB.Neon",
+                0
+            ],
+            [
+                "T1",
+                7
+            ],
+            [
+                "TNC Predator",
+                7
+            ],
+            [
+                "Ωmega Esports",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Lion Win Rate",
+        "id": "Lion Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.25
+            ],
+            [
+                "Lilgun ",
+                0.25
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "T1",
+                0.7777777777777778
+            ],
+            [
+                "TNC Predator",
+                0.875
+            ],
+            [
+                "Ωmega Esports",
+                0.75
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lone Druid Matches Played",
+        "id": "Lone Druid Matches Played",
+        "data": [
+            [
+                "Lilgun ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lone Druid Matches Won",
+        "id": "Lone Druid Matches Won",
+        "data": [
+            [
+                "Lilgun ",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Lone Druid Win Rate",
+        "id": "Lone Druid Win Rate",
+        "data": [
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Luna Matches Played",
+        "id": "Luna Matches Played",
+        "data": [
+            [
+                "Fnatic",
+                3
+            ],
+            [
+                "TNC Predator",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Luna Matches Won",
+        "id": "Luna Matches Won",
+        "data": [
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "TNC Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Luna Win Rate",
+        "id": "Luna Win Rate",
+        "data": [
+            [
+                "Fnatic",
+                0.6666666666666666
+            ],
+            [
+                "TNC Predator",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lycan Matches Played",
+        "id": "Lycan Matches Played",
+        "data": [
+            [
+                "Lilgun ",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Lycan Matches Won",
+        "id": "Lycan Matches Won",
+        "data": [
+            [
+                "Lilgun ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lycan Win Rate",
+        "id": "Lycan Win Rate",
+        "data": [
+            [
+                "Lilgun ",
+                0.25
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Magnus Matches Played",
+        "id": "Magnus Matches Played",
+        "data": [
+            [
+                "OB.Neon",
+                3
+            ],
+            [
+                "T1",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Matches Won",
+        "id": "Magnus Matches Won",
+        "data": [
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Win Rate",
+        "id": "Magnus Win Rate",
+        "data": [
+            [
+                "OB.Neon",
+                0.3333333333333333
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Mars Matches Played",
+        "id": "Mars Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                4
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Mars Matches Won",
+        "id": "Mars Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                0
+            ],
+            [
+                "Lilgun ",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Win Rate",
+        "id": "Mars Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.5
+            ],
+            [
+                "Execration",
+                0.5
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Medusa Matches Played",
+        "id": "Medusa Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                3
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                3
+            ],
+            [
+                "TNC Predator",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Matches Won",
+        "id": "Medusa Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "TNC Predator",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Win Rate",
+        "id": "Medusa Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.3333333333333333
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.5
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "T1",
+                0.6666666666666666
+            ],
+            [
+                "TNC Predator",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Mirana Matches Played",
+        "id": "Mirana Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                3
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "OB.Neon",
+                9
+            ],
+            [
+                "TNC Predator",
+                6
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Matches Won",
+        "id": "Mirana Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "OB.Neon",
+                6
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Win Rate",
+        "id": "Mirana Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.6666666666666666
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.5
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                0.6666666666666666
+            ],
+            [
+                "TNC Predator",
+                0.3333333333333333
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Morphling Matches Played",
+        "id": "Morphling Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Execration",
+                3
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Matches Won",
+        "id": "Morphling Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Execration",
+                2
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Win Rate",
+        "id": "Morphling Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                0.6666666666666666
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Nature's Prophet Matches Played",
+        "id": "Nature's Prophet Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "OB.Neon",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Matches Won",
+        "id": "Nature's Prophet Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Fnatic",
+                0
+            ],
+            [
+                "OB.Neon",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Win Rate",
+        "id": "Nature's Prophet Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.5
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Necrophos Matches Played",
+        "id": "Necrophos Matches Played",
+        "data": [
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "T1",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Matches Won",
+        "id": "Necrophos Matches Won",
+        "data": [
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "T1",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Win Rate",
+        "id": "Necrophos Win Rate",
+        "data": [
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Night Stalker Matches Played",
+        "id": "Night Stalker Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Matches Won",
+        "id": "Night Stalker Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Win Rate",
+        "id": "Night Stalker Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Nyx Assassin Matches Played",
+        "id": "Nyx Assassin Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                3
+            ],
+            [
+                "Lilgun ",
+                3
+            ],
+            [
+                "OB.Neon",
+                6
+            ],
+            [
+                "T1",
+                3
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                5
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Matches Won",
+        "id": "Nyx Assassin Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                3
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "OB.Neon",
+                3
+            ],
+            [
+                "T1",
+                3
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Win Rate",
+        "id": "Nyx Assassin Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.5
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.5
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "Ωmega Esports",
+                0.4
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ogre Magi Matches Played",
+        "id": "Ogre Magi Matches Played",
+        "data": [
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ogre Magi Matches Won",
+        "id": "Ogre Magi Matches Won",
+        "data": [
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Ogre Magi Win Rate",
+        "id": "Ogre Magi Win Rate",
+        "data": [
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Omniknight Matches Played",
+        "id": "Omniknight Matches Played",
+        "data": [
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Omniknight Matches Won",
+        "id": "Omniknight Matches Won",
+        "data": [
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "OB.Neon",
+                0
+            ],
+            [
+                "T1",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Omniknight Win Rate",
+        "id": "Omniknight Win Rate",
+        "data": [
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Oracle Matches Played",
+        "id": "Oracle Matches Played",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Matches Won",
+        "id": "Oracle Matches Won",
+        "data": [
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Fnatic",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Win Rate",
+        "id": "Oracle Win Rate",
+        "data": [
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Outworld Devourer Matches Played",
+        "id": "Outworld Devourer Matches Played",
+        "data": [
+            [
+                "TNC Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Outworld Devourer Matches Won",
+        "id": "Outworld Devourer Matches Won",
+        "data": [
+            [
+                "TNC Predator",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Outworld Devourer Win Rate",
+        "id": "Outworld Devourer Win Rate",
+        "data": [
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Pangolier Matches Played",
+        "id": "Pangolier Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                3
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "TNC Predator",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Matches Won",
+        "id": "Pangolier Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Fnatic",
+                0
+            ],
+            [
+                "TNC Predator",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Win Rate",
+        "id": "Pangolier Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.3333333333333333
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Phantom Assassin Matches Played",
+        "id": "Phantom Assassin Matches Played",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "OB.Neon",
+                2
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Matches Won",
+        "id": "Phantom Assassin Matches Won",
+        "data": [
+            [
+                "Execration",
+                0
+            ],
+            [
+                "OB.Neon",
+                2
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Win Rate",
+        "id": "Phantom Assassin Win Rate",
+        "data": [
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Phantom Lancer Matches Played",
+        "id": "Phantom Lancer Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Matches Won",
+        "id": "Phantom Lancer Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "OB.Neon",
+                0
+            ],
+            [
+                "T1",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Win Rate",
+        "id": "Phantom Lancer Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "T1",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Phoenix Matches Played",
+        "id": "Phoenix Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                5
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Lilgun ",
+                4
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Matches Won",
+        "id": "Phoenix Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                4
+            ],
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Win Rate",
+        "id": "Phoenix Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.8
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Puck Matches Played",
+        "id": "Puck Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "OB.Neon",
+                5
+            ],
+            [
+                "T1",
+                3
+            ],
+            [
+                "TNC Predator",
+                5
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Puck Matches Won",
+        "id": "Puck Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "OB.Neon",
+                3
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "TNC Predator",
+                4
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Puck Win Rate",
+        "id": "Puck Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                0.6
+            ],
+            [
+                "T1",
+                0.3333333333333333
+            ],
+            [
+                "TNC Predator",
+                0.8
+            ],
+            [
+                "Ωmega Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Pudge Matches Played",
+        "id": "Pudge Matches Played",
+        "data": [
+            [
+                "Lilgun ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Pudge Matches Won",
+        "id": "Pudge Matches Won",
+        "data": [
+            [
+                "Lilgun ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Pudge Win Rate",
+        "id": "Pudge Win Rate",
+        "data": [
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Queen of Pain Matches Played",
+        "id": "Queen of Pain Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Matches Won",
+        "id": "Queen of Pain Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Win Rate",
+        "id": "Queen of Pain Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Razor Matches Played",
+        "id": "Razor Matches Played",
+        "data": [
+            [
+                "T1",
+                3
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Razor Matches Won",
+        "id": "Razor Matches Won",
+        "data": [
+            [
+                "T1",
+                3
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Win Rate",
+        "id": "Razor Win Rate",
+        "data": [
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Riki Matches Played",
+        "id": "Riki Matches Played",
+        "data": [
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Riki Matches Won",
+        "id": "Riki Matches Won",
+        "data": [
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Riki Win Rate",
+        "id": "Riki Win Rate",
+        "data": [
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Rubick Matches Played",
+        "id": "Rubick Matches Played",
+        "data": [
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Matches Won",
+        "id": "Rubick Matches Won",
+        "data": [
+            [
+                "Fnatic",
+                0
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Win Rate",
+        "id": "Rubick Win Rate",
+        "data": [
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Sand King Matches Played",
+        "id": "Sand King Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "OB.Neon",
+                8
+            ],
+            [
+                "T1",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Matches Won",
+        "id": "Sand King Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "OB.Neon",
+                5
+            ],
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Win Rate",
+        "id": "Sand King Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                0.625
+            ],
+            [
+                "T1",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Shadow Demon Matches Played",
+        "id": "Shadow Demon Matches Played",
+        "data": [
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Matches Won",
+        "id": "Shadow Demon Matches Won",
+        "data": [
+            [
+                "Fnatic",
+                0
+            ],
+            [
+                "T1",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Win Rate",
+        "id": "Shadow Demon Win Rate",
+        "data": [
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Shadow Fiend Matches Played",
+        "id": "Shadow Fiend Matches Played",
+        "data": [
+            [
+                "TNC Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Fiend Matches Won",
+        "id": "Shadow Fiend Matches Won",
+        "data": [
+            [
+                "TNC Predator",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Fiend Win Rate",
+        "id": "Shadow Fiend Win Rate",
+        "data": [
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Skywrath Mage Matches Played",
+        "id": "Skywrath Mage Matches Played",
+        "data": [
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Matches Won",
+        "id": "Skywrath Mage Matches Won",
+        "data": [
+            [
+                "OB.Neon",
+                0
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Win Rate",
+        "id": "Skywrath Mage Win Rate",
+        "data": [
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Slardar Matches Played",
+        "id": "Slardar Matches Played",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "OB.Neon",
+                2
+            ],
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Matches Won",
+        "id": "Slardar Matches Won",
+        "data": [
+            [
+                "Execration",
+                0
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Win Rate",
+        "id": "Slardar Win Rate",
+        "data": [
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.5
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Slark Matches Played",
+        "id": "Slark Matches Played",
+        "data": [
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Slark Matches Won",
+        "id": "Slark Matches Won",
+        "data": [
+            [
+                "Execration",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Slark Win Rate",
+        "id": "Slark Win Rate",
+        "data": [
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Snapfire Matches Played",
+        "id": "Snapfire Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                5
+            ],
+            [
+                "Execration",
+                4
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "T1",
+                7
+            ],
+            [
+                "TNC Predator",
+                5
+            ],
+            [
+                "Ωmega Esports",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Matches Won",
+        "id": "Snapfire Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                3
+            ],
+            [
+                "Execration",
+                3
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "T1",
+                5
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Win Rate",
+        "id": "Snapfire Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.6
+            ],
+            [
+                "Execration",
+                0.75
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "T1",
+                0.7142857142857143
+            ],
+            [
+                "TNC Predator",
+                0.2
+            ],
+            [
+                "Ωmega Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Sniper Matches Played",
+        "id": "Sniper Matches Played",
+        "data": [
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Sniper Matches Won",
+        "id": "Sniper Matches Won",
+        "data": [
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Sniper Win Rate",
+        "id": "Sniper Win Rate",
+        "data": [
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Spectre Matches Played",
+        "id": "Spectre Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Matches Won",
+        "id": "Spectre Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Fnatic",
+                0
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Win Rate",
+        "id": "Spectre Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Storm Spirit Matches Played",
+        "id": "Storm Spirit Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Matches Won",
+        "id": "Storm Spirit Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Fnatic",
+                0
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Win Rate",
+        "id": "Storm Spirit Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.5
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Sven Matches Played",
+        "id": "Sven Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Sven Matches Won",
+        "id": "Sven Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Win Rate",
+        "id": "Sven Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Templar Assassin Matches Played",
+        "id": "Templar Assassin Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                3
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                2
+            ],
+            [
+                "OB.Neon",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Matches Won",
+        "id": "Templar Assassin Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "OB.Neon",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Win Rate",
+        "id": "Templar Assassin Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.3333333333333333
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Terrorblade Matches Played",
+        "id": "Terrorblade Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "T1",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Matches Won",
+        "id": "Terrorblade Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Fnatic",
+                0
+            ],
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Win Rate",
+        "id": "Terrorblade Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "T1",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tidehunter Matches Played",
+        "id": "Tidehunter Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "OB.Neon",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Matches Won",
+        "id": "Tidehunter Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Win Rate",
+        "id": "Tidehunter Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.5
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Timbersaw Matches Played",
+        "id": "Timbersaw Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                3
+            ],
+            [
+                "Fnatic",
+                3
+            ],
+            [
+                "Lilgun ",
+                2
+            ],
+            [
+                "T1",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Matches Won",
+        "id": "Timbersaw Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "T1",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Win Rate",
+        "id": "Timbersaw Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.6666666666666666
+            ],
+            [
+                "Fnatic",
+                0.3333333333333333
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tiny Matches Played",
+        "id": "Tiny Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Execration",
+                4
+            ],
+            [
+                "Lilgun ",
+                10
+            ],
+            [
+                "OB.Neon",
+                3
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "TNC Predator",
+                8
+            ],
+            [
+                "Ωmega Esports",
+                5
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Matches Won",
+        "id": "Tiny Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Execration",
+                3
+            ],
+            [
+                "Lilgun ",
+                2
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "TNC Predator",
+                4
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Win Rate",
+        "id": "Tiny Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.5
+            ],
+            [
+                "Execration",
+                0.75
+            ],
+            [
+                "Lilgun ",
+                0.2
+            ],
+            [
+                "OB.Neon",
+                0.3333333333333333
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "Ωmega Esports",
+                0.4
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Treant Protector Matches Played",
+        "id": "Treant Protector Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Execration",
+                3
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Matches Won",
+        "id": "Treant Protector Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                0
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Win Rate",
+        "id": "Treant Protector Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                0.3333333333333333
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Troll Warlord Matches Played",
+        "id": "Troll Warlord Matches Played",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Matches Won",
+        "id": "Troll Warlord Matches Won",
+        "data": [
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Fnatic",
+                0
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "TNC Predator",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Win Rate",
+        "id": "Troll Warlord Win Rate",
+        "data": [
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tusk Matches Played",
+        "id": "Tusk Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Execration",
+                3
+            ],
+            [
+                "Fnatic",
+                4
+            ],
+            [
+                "OB.Neon",
+                2
+            ],
+            [
+                "T1",
+                4
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Matches Won",
+        "id": "Tusk Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                2
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                2
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Win Rate",
+        "id": "Tusk Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Execration",
+                0.3333333333333333
+            ],
+            [
+                "Fnatic",
+                0.5
+            ],
+            [
+                "OB.Neon",
+                0.5
+            ],
+            [
+                "T1",
+                0.5
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Underlord Matches Played",
+        "id": "Underlord Matches Played",
+        "data": [
+            [
+                "Lilgun ",
+                5
+            ],
+            [
+                "OB.Neon",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Matches Won",
+        "id": "Underlord Matches Won",
+        "data": [
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Win Rate",
+        "id": "Underlord Win Rate",
+        "data": [
+            [
+                "Lilgun ",
+                0.2
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Undying Matches Played",
+        "id": "Undying Matches Played",
+        "data": [
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Undying Matches Won",
+        "id": "Undying Matches Won",
+        "data": [
+            [
+                "Fnatic",
+                0
+            ],
+            [
+                "Lilgun ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Undying Win Rate",
+        "id": "Undying Win Rate",
+        "data": [
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ursa Matches Played",
+        "id": "Ursa Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "TNC Predator",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Matches Won",
+        "id": "Ursa Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                0
+            ],
+            [
+                "OB.Neon",
+                0
+            ],
+            [
+                "TNC Predator",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Win Rate",
+        "id": "Ursa Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.5
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.5
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Vengeful Spirit Matches Played",
+        "id": "Vengeful Spirit Matches Played",
+        "data": [
+            [
+                "TNC Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Vengeful Spirit Matches Won",
+        "id": "Vengeful Spirit Matches Won",
+        "data": [
+            [
+                "TNC Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Vengeful Spirit Win Rate",
+        "id": "Vengeful Spirit Win Rate",
+        "data": [
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Venomancer Matches Played",
+        "id": "Venomancer Matches Played",
+        "data": [
+            [
+                "Lilgun ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Matches Won",
+        "id": "Venomancer Matches Won",
+        "data": [
+            [
+                "Lilgun ",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Win Rate",
+        "id": "Venomancer Win Rate",
+        "data": [
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Viper Matches Played",
+        "id": "Viper Matches Played",
+        "data": [
+            [
+                "Lilgun ",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Viper Matches Won",
+        "id": "Viper Matches Won",
+        "data": [
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Win Rate",
+        "id": "Viper Win Rate",
+        "data": [
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Visage Matches Played",
+        "id": "Visage Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                2
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Visage Matches Won",
+        "id": "Visage Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Visage Win Rate",
+        "id": "Visage Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Void Spirit Matches Played",
+        "id": "Void Spirit Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Execration",
+                6
+            ],
+            [
+                "OB.Neon",
+                3
+            ],
+            [
+                "T1",
+                1
+            ],
+            [
+                "Ωmega Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Matches Won",
+        "id": "Void Spirit Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Execration",
+                3
+            ],
+            [
+                "OB.Neon",
+                2
+            ],
+            [
+                "T1",
+                0
+            ],
+            [
+                "Ωmega Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Win Rate",
+        "id": "Void Spirit Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                0.5
+            ],
+            [
+                "OB.Neon",
+                0.6666666666666666
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Warlock Matches Played",
+        "id": "Warlock Matches Played",
+        "data": [
+            [
+                "BOOM Esports",
+                1
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "OB.Neon",
+                2
+            ],
+            [
+                "T1",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Matches Won",
+        "id": "Warlock Matches Won",
+        "data": [
+            [
+                "BOOM Esports",
+                0
+            ],
+            [
+                "Execration",
+                1
+            ],
+            [
+                "OB.Neon",
+                1
+            ],
+            [
+                "T1",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Win Rate",
+        "id": "Warlock Win Rate",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                0.5
+            ],
+            [
+                "T1",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Windranger Matches Played",
+        "id": "Windranger Matches Played",
+        "data": [
+            [
+                "OB.Neon",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Matches Won",
+        "id": "Windranger Matches Won",
+        "data": [
+            [
+                "OB.Neon",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Win Rate",
+        "id": "Windranger Win Rate",
+        "data": [
+            [
+                "OB.Neon",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Witch Doctor Matches Played",
+        "id": "Witch Doctor Matches Played",
+        "data": [
+            [
+                "T1",
+                1
+            ],
+            [
+                "TNC Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Matches Won",
+        "id": "Witch Doctor Matches Won",
+        "data": [
+            [
+                "T1",
+                0
+            ],
+            [
+                "TNC Predator",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Win Rate",
+        "id": "Witch Doctor Win Rate",
+        "data": [
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Wraith King Matches Played",
+        "id": "Wraith King Matches Played",
+        "data": [
+            [
+                "Execration",
+                1
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                2
+            ],
+            [
+                "OB.Neon",
+                3
+            ],
+            [
+                "T1",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Matches Won",
+        "id": "Wraith King Matches Won",
+        "data": [
+            [
+                "Execration",
+                0
+            ],
+            [
+                "Fnatic",
+                1
+            ],
+            [
+                "Lilgun ",
+                0
+            ],
+            [
+                "OB.Neon",
+                3
+            ],
+            [
+                "T1",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Win Rate",
+        "id": "Wraith King Win Rate",
+        "data": [
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    }
+]

@@ -1,0 +1,347 @@
+[
+    {
+        "match": "Army Geniuses vs Motivate.Trust Gaming",
+        "y": 69,
+        "name": 1260
+    },
+    {
+        "match": "Army Geniuses vs Team Mystery",
+        "y": 68,
+        "name": 1302
+    },
+    {
+        "match": "496 Gaming vs Army Geniuses",
+        "y": 67,
+        "name": 1318
+    },
+    {
+        "match": "496 Gaming vs Team Mystery",
+        "y": 66,
+        "name": 1325
+    },
+    {
+        "match": "Galaxy Racer Esports vs Team SMG",
+        "y": 65,
+        "name": 1442
+    },
+    {
+        "match": "Motivate.Trust Gaming vs Team Mystery",
+        "y": 64,
+        "name": 1462
+    },
+    {
+        "match": "Cignal Ultra vs Team SMG",
+        "y": 63,
+        "name": 1476
+    },
+    {
+        "match": "496 Gaming vs Motivate.Trust Gaming",
+        "y": 62,
+        "name": 1510
+    },
+    {
+        "match": "Army Geniuses vs Team SMG",
+        "y": 61,
+        "name": 1519
+    },
+    {
+        "match": "Galaxy Racer Esports vs Army Geniuses",
+        "y": 60,
+        "name": 1552
+    },
+    {
+        "match": "496 Gaming vs Galaxy Racer Esports",
+        "y": 59,
+        "name": 1609
+    },
+    {
+        "match": "Cignal Ultra vs 496 Gaming",
+        "y": 58,
+        "name": 1648
+    },
+    {
+        "match": "Team SMG vs Cignal Ultra",
+        "y": 57,
+        "name": 1650
+    },
+    {
+        "match": "Army Geniuses vs Team Mystery",
+        "y": 56,
+        "name": 1669
+    },
+    {
+        "match": "Team SMG vs Army Geniuses",
+        "y": 55,
+        "name": 1693
+    },
+    {
+        "match": "Team Mystery vs Team SMG",
+        "y": 54,
+        "name": 1701
+    },
+    {
+        "match": "Galaxy Racer Esports vs Team Mystery",
+        "y": 53,
+        "name": 1714
+    },
+    {
+        "match": "Army Geniuses vs Galaxy Racer Esports",
+        "y": 52,
+        "name": 1795
+    },
+    {
+        "match": "Team SMG vs Team Mystery",
+        "y": 51,
+        "name": 1828
+    },
+    {
+        "match": "Team Mystery vs Cignal Ultra",
+        "y": 50,
+        "name": 1843
+    },
+    {
+        "match": "496 Gaming vs Galaxy Racer Esports",
+        "y": 49,
+        "name": 1852
+    },
+    {
+        "match": "Cignal Ultra vs Motivate.Trust Gaming",
+        "y": 48,
+        "name": 1861
+    },
+    {
+        "match": "Cignal Ultra vs Team Mystery",
+        "y": 47,
+        "name": 1862
+    },
+    {
+        "match": "Cignal Ultra vs Army Geniuses",
+        "y": 46,
+        "name": 1862
+    },
+    {
+        "match": "Army Geniuses vs South Built Esports",
+        "y": 45,
+        "name": 1870
+    },
+    {
+        "match": "Army Geniuses vs Team Mystery",
+        "y": 44,
+        "name": 1881
+    },
+    {
+        "match": "Cignal Ultra vs South Built Esports",
+        "y": 43,
+        "name": 1891
+    },
+    {
+        "match": "South Built Esports vs Galaxy Racer Esports",
+        "y": 42,
+        "name": 1894
+    },
+    {
+        "match": "Army Geniuses vs South Built Esports",
+        "y": 41,
+        "name": 1918
+    },
+    {
+        "match": "Team Mystery vs South Built Esports",
+        "y": 40,
+        "name": 1962
+    },
+    {
+        "match": "Team SMG vs 496 Gaming",
+        "y": 39,
+        "name": 1962
+    },
+    {
+        "match": "496 Gaming vs South Built Esports",
+        "y": 38,
+        "name": 1997
+    },
+    {
+        "match": "Cignal Ultra vs South Built Esports",
+        "y": 37,
+        "name": 2013
+    },
+    {
+        "match": "Galaxy Racer Esports vs Cignal Ultra",
+        "y": 36,
+        "name": 2032
+    },
+    {
+        "match": "Cignal Ultra vs Galaxy Racer Esports",
+        "y": 35,
+        "name": 2042
+    },
+    {
+        "match": "496 Gaming vs South Built Esports",
+        "y": 34,
+        "name": 2057
+    },
+    {
+        "match": "Team Mystery vs 496 Gaming",
+        "y": 33,
+        "name": 2074
+    },
+    {
+        "match": "South Built Esports vs Team Mystery",
+        "y": 32,
+        "name": 2102
+    },
+    {
+        "match": "Army Geniuses vs Motivate.Trust Gaming",
+        "y": 31,
+        "name": 2137
+    },
+    {
+        "match": "Motivate.Trust Gaming vs South Built Esports",
+        "y": 30,
+        "name": 2158
+    },
+    {
+        "match": "South Built Esports vs Motivate.Trust Gaming",
+        "y": 29,
+        "name": 2189
+    },
+    {
+        "match": "Team SMG vs 496 Gaming",
+        "y": 28,
+        "name": 2201
+    },
+    {
+        "match": "South Built Esports vs Army Geniuses",
+        "y": 27,
+        "name": 2243
+    },
+    {
+        "match": "Cignal Ultra vs South Built Esports",
+        "y": 26,
+        "name": 2249
+    },
+    {
+        "match": "496 Gaming vs Army Geniuses",
+        "y": 25,
+        "name": 2249
+    },
+    {
+        "match": "Galaxy Racer Esports vs Team Mystery",
+        "y": 24,
+        "name": 2266
+    },
+    {
+        "match": "South Built Esports vs Team SMG",
+        "y": 23,
+        "name": 2285
+    },
+    {
+        "match": "Team SMG vs Motivate.Trust Gaming",
+        "y": 22,
+        "name": 2301
+    },
+    {
+        "match": "Galaxy Racer Esports vs Motivate.Trust Gaming",
+        "y": 21,
+        "name": 2308
+    },
+    {
+        "match": "Army Geniuses vs Cignal Ultra",
+        "y": 20,
+        "name": 2309
+    },
+    {
+        "match": "South Built Esports vs Team SMG",
+        "y": 19,
+        "name": 2395
+    },
+    {
+        "match": "Army Geniuses vs Team Mystery",
+        "y": 18,
+        "name": 2409
+    },
+    {
+        "match": "Motivate.Trust Gaming vs 496 Gaming",
+        "y": 17,
+        "name": 2426
+    },
+    {
+        "match": "Motivate.Trust Gaming vs Army Geniuses",
+        "y": 16,
+        "name": 2427
+    },
+    {
+        "match": "Cignal Ultra vs Motivate.Trust Gaming",
+        "y": 15,
+        "name": 2472
+    },
+    {
+        "match": "Cignal Ultra vs 496 Gaming",
+        "y": 14,
+        "name": 2510
+    },
+    {
+        "match": "South Built Esports vs 496 Gaming",
+        "y": 13,
+        "name": 2562
+    },
+    {
+        "match": "Army Geniuses vs 496 Gaming",
+        "y": 12,
+        "name": 2567
+    },
+    {
+        "match": "Team Mystery vs Motivate.Trust Gaming",
+        "y": 11,
+        "name": 2629
+    },
+    {
+        "match": "Team SMG vs Galaxy Racer Esports",
+        "y": 10,
+        "name": 2643
+    },
+    {
+        "match": "Galaxy Racer Esports vs 496 Gaming",
+        "y": 9,
+        "name": 2728
+    },
+    {
+        "match": "Galaxy Racer Esports vs South Built Esports",
+        "y": 8,
+        "name": 2902
+    },
+    {
+        "match": "South Built Esports vs Team Mystery",
+        "y": 7,
+        "name": 2923
+    },
+    {
+        "match": "Motivate.Trust Gaming vs Galaxy Racer Esports",
+        "y": 6,
+        "name": 3087
+    },
+    {
+        "match": "Galaxy Racer Esports vs Motivate.Trust Gaming",
+        "y": 5,
+        "name": 3117
+    },
+    {
+        "match": "Team SMG vs Motivate.Trust Gaming",
+        "y": 4,
+        "name": 3152
+    },
+    {
+        "match": "Army Geniuses vs South Built Esports",
+        "y": 3,
+        "name": 3313
+    },
+    {
+        "match": "Galaxy Racer Esports vs Cignal Ultra",
+        "y": 2,
+        "name": 3353
+    },
+    {
+        "match": "Galaxy Racer Esports vs Motivate.Trust Gaming",
+        "y": 1,
+        "name": 3372
+    }
+]

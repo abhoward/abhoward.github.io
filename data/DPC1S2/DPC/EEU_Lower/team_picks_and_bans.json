@@ -1,0 +1,5146 @@
+[
+    {
+        "name": "Abaddon Picks For",
+        "id": "Abaddon Picks",
+        "data": [
+            [
+                "Prosti Esli",
+                6.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Bans Against",
+        "id": "Abaddon Bans",
+        "data": [
+            [
+                "Prosti Esli",
+                5.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Picks For",
+        "id": "Alchemist Picks",
+        "data": [
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Bans Against",
+        "id": "Alchemist Bans",
+        "data": [
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "B8",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Picks For",
+        "id": "Ancient Apparition Picks",
+        "data": [
+            [
+                "Fantastic Five",
+                6.0
+            ],
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                3.0
+            ],
+            [
+                "Trident Clan",
+                3.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Bans Against",
+        "id": "Ancient Apparition Bans",
+        "data": [
+            [
+                "Fantastic Five",
+                4.0
+            ],
+            [
+                "Team Empire",
+                5.0
+            ],
+            [
+                "Prosti Esli",
+                3.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Picks For",
+        "id": "Anti-Mage Picks",
+        "data": [
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Bans Against",
+        "id": "Anti-Mage Bans",
+        "data": [
+            [
+                "Trident Clan",
+                3.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "B8",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Picks For",
+        "id": "Axe Picks",
+        "data": [
+            [
+                "NoTechies",
+                4.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Bans Against",
+        "id": "Axe Bans",
+        "data": [
+            [
+                "NoTechies",
+                3.0
+            ],
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "B8",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Bane Picks For",
+        "id": "Bane Picks",
+        "data": [
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Bane Bans Against",
+        "id": "Bane Bans",
+        "data": [
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Picks For",
+        "id": "Beastmaster Picks",
+        "data": [
+            [
+                "B8",
+                3.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Bans Against",
+        "id": "Beastmaster Bans",
+        "data": [
+            [
+                "B8",
+                4.0
+            ],
+            [
+                "NoTechies",
+                4.0
+            ],
+            [
+                "Fantastic Five",
+                4.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "HellRaisers",
+                3.0
+            ],
+            [
+                "Team Empire",
+                3.0
+            ],
+            [
+                "Trident Clan",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Picks For",
+        "id": "Bloodseeker Picks",
+        "data": [
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Bans Against",
+        "id": "Bloodseeker Bans",
+        "data": [
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bounty Hunter Picks For",
+        "id": "Bounty Hunter Picks",
+        "data": [
+            [
+                "Team Empire",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bounty Hunter Bans Against",
+        "id": "Bounty Hunter Bans",
+        "data": [
+            [
+                "Team Empire",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Picks For",
+        "id": "Brewmaster Picks",
+        "data": [
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "B8",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Bans Against",
+        "id": "Brewmaster Bans",
+        "data": [
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Picks For",
+        "id": "Bristleback Picks",
+        "data": [
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Bans Against",
+        "id": "Bristleback Bans",
+        "data": [
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Picks For",
+        "id": "Broodmother Picks",
+        "data": [
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Bans Against",
+        "id": "Broodmother Bans",
+        "data": [
+            [
+                "Team Empire",
+                3.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Picks For",
+        "id": "Centaur Warrunner Picks",
+        "data": [
+            [
+                "Team Empire",
+                5.0
+            ],
+            [
+                "B8",
+                4.0
+            ],
+            [
+                "Fantastic Five",
+                3.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Bans Against",
+        "id": "Centaur Warrunner Bans",
+        "data": [
+            [
+                "Team Empire",
+                6.0
+            ],
+            [
+                "B8",
+                4.0
+            ],
+            [
+                "Fantastic Five",
+                4.0
+            ],
+            [
+                "Prosti Esli",
+                5.0
+            ],
+            [
+                "Nemiga Gaming",
+                4.0
+            ],
+            [
+                "NoTechies",
+                4.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Picks For",
+        "id": "Chaos Knight Picks",
+        "data": [
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Bans Against",
+        "id": "Chaos Knight Bans",
+        "data": [
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Chen Picks For",
+        "id": "Chen Picks",
+        "data": [
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Chen Bans Against",
+        "id": "Chen Bans",
+        "data": [
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Picks For",
+        "id": "Clockwerk Picks",
+        "data": [
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Bans Against",
+        "id": "Clockwerk Bans",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Crystal Maiden Picks For",
+        "id": "Crystal Maiden Picks",
+        "data": [
+            [
+                "Fantastic Five",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Crystal Maiden Bans Against",
+        "id": "Crystal Maiden Bans",
+        "data": [
+            [
+                "Fantastic Five",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Picks For",
+        "id": "Dark Seer Picks",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Bans Against",
+        "id": "Dark Seer Bans",
+        "data": [
+            [
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "Fantastic Five",
+                2.0
+            ],
+            [
+                "B8",
+                3.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Picks For",
+        "id": "Dark Willow Picks",
+        "data": [
+            [
+                "Fantastic Five",
+                7.0
+            ],
+            [
+                "HellRaisers",
+                4.0
+            ],
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Bans Against",
+        "id": "Dark Willow Bans",
+        "data": [
+            [
+                "Fantastic Five",
+                3.0
+            ],
+            [
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Picks For",
+        "id": "Death Prophet Picks",
+        "data": [
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Bans Against",
+        "id": "Death Prophet Bans",
+        "data": [
+            [
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Picks For",
+        "id": "Disruptor Picks",
+        "data": [
+            [
+                "B8",
+                3.0
+            ],
+            [
+                "Nemiga Gaming",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Bans Against",
+        "id": "Disruptor Bans",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Picks For",
+        "id": "Doom Picks",
+        "data": [
+            [
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                3.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Bans Against",
+        "id": "Doom Bans",
+        "data": [
+            [
+                "HellRaisers",
+                10.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Picks For",
+        "id": "Dragon Knight Picks",
+        "data": [
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Bans Against",
+        "id": "Dragon Knight Bans",
+        "data": [
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Picks For",
+        "id": "Drow Ranger Picks",
+        "data": [
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "Fantastic Five",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Bans Against",
+        "id": "Drow Ranger Bans",
+        "data": [
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Picks For",
+        "id": "Earth Spirit Picks",
+        "data": [
+            [
+                "Prosti Esli",
+                3.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Bans Against",
+        "id": "Earth Spirit Bans",
+        "data": [
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "NoTechies",
+                3.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "B8",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Picks For",
+        "id": "Elder Titan Picks",
+        "data": [
+            [
+                "HellRaisers",
+                6.0
+            ],
+            [
+                "Trident Clan",
+                3.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Bans Against",
+        "id": "Elder Titan Bans",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Picks For",
+        "id": "Ember Spirit Picks",
+        "data": [
+            [
+                "HellRaisers",
+                4.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Bans Against",
+        "id": "Ember Spirit Bans",
+        "data": [
+            [
+                "HellRaisers",
+                3.0
+            ],
+            [
+                "Trident Clan",
+                3.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Picks For",
+        "id": "Enchantress Picks",
+        "data": [
+            [
+                "Team Empire",
+                6.0
+            ],
+            [
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Bans Against",
+        "id": "Enchantress Bans",
+        "data": [
+            [
+                "Team Empire",
+                4.0
+            ],
+            [
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "B8",
+                4.0
+            ],
+            [
+                "NoTechies",
+                3.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Picks For",
+        "id": "Enigma Picks",
+        "data": [
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Bans Against",
+        "id": "Enigma Bans",
+        "data": [
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Picks For",
+        "id": "Faceless Void Picks",
+        "data": [
+            [
+                "HellRaisers",
+                4.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Bans Against",
+        "id": "Faceless Void Bans",
+        "data": [
+            [
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "Nemiga Gaming",
+                4.0
+            ],
+            [
+                "Team Empire",
+                4.0
+            ],
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Picks For",
+        "id": "Grimstroke Picks",
+        "data": [
+            [
+                "HellRaisers",
+                5.0
+            ],
+            [
+                "Fantastic Five",
+                5.0
+            ],
+            [
+                "Team Empire",
+                4.0
+            ],
+            [
+                "Nemiga Gaming",
+                5.0
+            ],
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                3.0
+            ],
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "B8",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Bans Against",
+        "id": "Grimstroke Bans",
+        "data": [
+            [
+                "HellRaisers",
+                8.0
+            ],
+            [
+                "Fantastic Five",
+                5.0
+            ],
+            [
+                "Team Empire",
+                5.0
+            ],
+            [
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "Trident Clan",
+                5.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Picks For",
+        "id": "Gyrocopter Picks",
+        "data": [
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Bans Against",
+        "id": "Gyrocopter Bans",
+        "data": [
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Picks For",
+        "id": "Hoodwink Picks",
+        "data": [
+            [
+                "Trident Clan",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Bans Against",
+        "id": "Hoodwink Bans",
+        "data": [
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Huskar Picks For",
+        "id": "Huskar Picks",
+        "data": [
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Huskar Bans Against",
+        "id": "Huskar Bans",
+        "data": [
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Picks For",
+        "id": "Invoker Picks",
+        "data": [
+            [
+                "Team Empire",
+                7.0
+            ],
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Bans Against",
+        "id": "Invoker Bans",
+        "data": [
+            [
+                "Team Empire",
+                6.0
+            ],
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "NoTechies",
+                4.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Io Picks For",
+        "id": "Io Picks",
+        "data": [
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "B8",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Io Bans Against",
+        "id": "Io Bans",
+        "data": [
+            [
+                "Trident Clan",
+                17.0
+            ],
+            [
+                "B8",
+                4.0
+            ]
+        ]
+    },
+    {
+        "name": "Jakiro Picks For",
+        "id": "Jakiro Picks",
+        "data": [
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Jakiro Bans Against",
+        "id": "Jakiro Bans",
+        "data": [
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Picks For",
+        "id": "Juggernaut Picks",
+        "data": [
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "NoTechies",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Bans Against",
+        "id": "Juggernaut Bans",
+        "data": [
+            [
+                "Nemiga Gaming",
+                5.0
+            ],
+            [
+                "Fantastic Five",
+                6.0
+            ],
+            [
+                "B8",
+                3.0
+            ],
+            [
+                "HellRaisers",
+                5.0
+            ],
+            [
+                "Trident Clan",
+                4.0
+            ],
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Picks For",
+        "id": "Kunkka Picks",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Bans Against",
+        "id": "Kunkka Bans",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Picks For",
+        "id": "Legion Commander Picks",
+        "data": [
+            [
+                "Prosti Esli",
+                3.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Bans Against",
+        "id": "Legion Commander Bans",
+        "data": [
+            [
+                "Prosti Esli",
+                7.0
+            ],
+            [
+                "Fantastic Five",
+                6.0
+            ],
+            [
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Picks For",
+        "id": "Leshrac Picks",
+        "data": [
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Bans Against",
+        "id": "Leshrac Bans",
+        "data": [
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lich Picks For",
+        "id": "Lich Picks",
+        "data": [
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lich Bans Against",
+        "id": "Lich Bans",
+        "data": [
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Picks For",
+        "id": "Lifestealer Picks",
+        "data": [
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Bans Against",
+        "id": "Lifestealer Bans",
+        "data": [
+            [
+                "Trident Clan",
+                5.0
+            ],
+            [
+                "Fantastic Five",
+                6.0
+            ],
+            [
+                "B8",
+                4.0
+            ],
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "Team Empire",
+                4.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Picks For",
+        "id": "Lina Picks",
+        "data": [
+            [
+                "Prosti Esli",
+                4.0
+            ],
+            [
+                "B8",
+                3.0
+            ],
+            [
+                "Nemiga Gaming",
+                4.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                4.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Bans Against",
+        "id": "Lina Bans",
+        "data": [
+            [
+                "Prosti Esli",
+                5.0
+            ],
+            [
+                "B8",
+                4.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Team Empire",
+                3.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Picks For",
+        "id": "Lion Picks",
+        "data": [
+            [
+                "Team Empire",
+                5.0
+            ],
+            [
+                "NoTechies",
+                6.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                3.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Bans Against",
+        "id": "Lion Bans",
+        "data": [
+            [
+                "Team Empire",
+                4.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Picks For",
+        "id": "Luna Picks",
+        "data": [
+            [
+                "NoTechies",
+                3.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Bans Against",
+        "id": "Luna Bans",
+        "data": [
+            [
+                "NoTechies",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Lycan Picks For",
+        "id": "Lycan Picks",
+        "data": [
+            [
+                "Team Empire",
+                3.0
+            ]
+        ]
+    },
+    {
+        "name": "Lycan Bans Against",
+        "id": "Lycan Bans",
+        "data": [
+            [
+                "Team Empire",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Picks For",
+        "id": "Magnus Picks",
+        "data": [
+            [
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "B8",
+                3.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Bans Against",
+        "id": "Magnus Bans",
+        "data": [
+            [
+                "Nemiga Gaming",
+                5.0
+            ],
+            [
+                "B8",
+                4.0
+            ],
+            [
+                "Trident Clan",
+                3.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Picks For",
+        "id": "Mars Picks",
+        "data": [
+            [
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "NoTechies",
+                5.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                3.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Bans Against",
+        "id": "Mars Bans",
+        "data": [
+            [
+                "Nemiga Gaming",
+                11.0
+            ],
+            [
+                "NoTechies",
+                4.0
+            ],
+            [
+                "Fantastic Five",
+                6.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                3.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Picks For",
+        "id": "Medusa Picks",
+        "data": [
+            [
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Bans Against",
+        "id": "Medusa Bans",
+        "data": [
+            [
+                "HellRaisers",
+                7.0
+            ],
+            [
+                "Team Empire",
+                7.0
+            ],
+            [
+                "Fantastic Five",
+                7.0
+            ],
+            [
+                "Prosti Esli",
+                6.0
+            ],
+            [
+                "NoTechies",
+                5.0
+            ],
+            [
+                "Nemiga Gaming",
+                4.0
+            ],
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Picks For",
+        "id": "Mirana Picks",
+        "data": [
+            [
+                "Trident Clan",
+                4.0
+            ],
+            [
+                "B8",
+                3.0
+            ],
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Bans Against",
+        "id": "Mirana Bans",
+        "data": [
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Picks For",
+        "id": "Monkey King Picks",
+        "data": [
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Bans Against",
+        "id": "Monkey King Bans",
+        "data": [
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Picks For",
+        "id": "Morphling Picks",
+        "data": [
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Bans Against",
+        "id": "Morphling Bans",
+        "data": [
+            [
+                "NoTechies",
+                7.0
+            ],
+            [
+                "HellRaisers",
+                6.0
+            ],
+            [
+                "B8",
+                5.0
+            ],
+            [
+                "Team Empire",
+                4.0
+            ],
+            [
+                "Trident Clan",
+                4.0
+            ],
+            [
+                "Prosti Esli",
+                4.0
+            ],
+            [
+                "Nemiga Gaming",
+                3.0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Picks For",
+        "id": "Nature's Prophet Picks",
+        "data": [
+            [
+                "Prosti Esli",
+                3.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Bans Against",
+        "id": "Nature's Prophet Bans",
+        "data": [
+            [
+                "Prosti Esli",
+                13.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Picks For",
+        "id": "Necrophos Picks",
+        "data": [
+            [
+                "HellRaisers",
+                3.0
+            ],
+            [
+                "Fantastic Five",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Bans Against",
+        "id": "Necrophos Bans",
+        "data": [
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Picks For",
+        "id": "Night Stalker Picks",
+        "data": [
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Bans Against",
+        "id": "Night Stalker Bans",
+        "data": [
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Picks For",
+        "id": "Nyx Assassin Picks",
+        "data": [
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Bans Against",
+        "id": "Nyx Assassin Bans",
+        "data": [
+            [
+                "B8",
+                3.0
+            ],
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ogre Magi Picks For",
+        "id": "Ogre Magi Picks",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ogre Magi Bans Against",
+        "id": "Ogre Magi Bans",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Omniknight Picks For",
+        "id": "Omniknight Picks",
+        "data": [
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Omniknight Bans Against",
+        "id": "Omniknight Bans",
+        "data": [
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "B8",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Picks For",
+        "id": "Oracle Picks",
+        "data": [
+            [
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "Trident Clan",
+                3.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Bans Against",
+        "id": "Oracle Bans",
+        "data": [
+            [
+                "Nemiga Gaming",
+                4.0
+            ],
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "HellRaisers",
+                3.0
+            ],
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Picks For",
+        "id": "Pangolier Picks",
+        "data": [
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Bans Against",
+        "id": "Pangolier Bans",
+        "data": [
+            [
+                "Nemiga Gaming",
+                9.0
+            ],
+            [
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Picks For",
+        "id": "Phantom Assassin Picks",
+        "data": [
+            [
+                "Fantastic Five",
+                5.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Bans Against",
+        "id": "Phantom Assassin Bans",
+        "data": [
+            [
+                "Fantastic Five",
+                3.0
+            ],
+            [
+                "HellRaisers",
+                7.0
+            ],
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                4.0
+            ],
+            [
+                "B8",
+                3.0
+            ],
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Picks For",
+        "id": "Phantom Lancer Picks",
+        "data": [
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Bans Against",
+        "id": "Phantom Lancer Bans",
+        "data": [
+            [
+                "NoTechies",
+                7.0
+            ],
+            [
+                "B8",
+                5.0
+            ],
+            [
+                "Trident Clan",
+                4.0
+            ],
+            [
+                "Prosti Esli",
+                4.0
+            ],
+            [
+                "Team Empire",
+                4.0
+            ],
+            [
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "HellRaisers",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Picks For",
+        "id": "Phoenix Picks",
+        "data": [
+            [
+                "NoTechies",
+                4.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                3.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Bans Against",
+        "id": "Phoenix Bans",
+        "data": [
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "B8",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Picks For",
+        "id": "Puck Picks",
+        "data": [
+            [
+                "Fantastic Five",
+                6.0
+            ],
+            [
+                "B8",
+                3.0
+            ],
+            [
+                "HellRaisers",
+                4.0
+            ],
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                3.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Bans Against",
+        "id": "Puck Bans",
+        "data": [
+            [
+                "Fantastic Five",
+                9.0
+            ],
+            [
+                "B8",
+                9.0
+            ],
+            [
+                "HellRaisers",
+                6.0
+            ],
+            [
+                "NoTechies",
+                6.0
+            ],
+            [
+                "Trident Clan",
+                4.0
+            ],
+            [
+                "Nemiga Gaming",
+                4.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "Team Empire",
+                3.0
+            ]
+        ]
+    },
+    {
+        "name": "Pudge Picks For",
+        "id": "Pudge Picks",
+        "data": [
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pudge Bans Against",
+        "id": "Pudge Bans",
+        "data": [
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Picks For",
+        "id": "Pugna Picks",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Bans Against",
+        "id": "Pugna Bans",
+        "data": [
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Picks For",
+        "id": "Queen of Pain Picks",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Bans Against",
+        "id": "Queen of Pain Bans",
+        "data": [
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Picks For",
+        "id": "Razor Picks",
+        "data": [
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "B8",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Bans Against",
+        "id": "Razor Bans",
+        "data": [
+            [
+                "NoTechies",
+                4.0
+            ],
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Riki Picks For",
+        "id": "Riki Picks",
+        "data": [
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Riki Bans Against",
+        "id": "Riki Bans",
+        "data": [
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Picks For",
+        "id": "Rubick Picks",
+        "data": [
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                3.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "B8",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Bans Against",
+        "id": "Rubick Bans",
+        "data": [
+            [
+                "Team Empire",
+                5.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Picks For",
+        "id": "Sand King Picks",
+        "data": [
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Bans Against",
+        "id": "Sand King Bans",
+        "data": [
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Picks For",
+        "id": "Shadow Demon Picks",
+        "data": [
+            [
+                "Nemiga Gaming",
+                4.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Bans Against",
+        "id": "Shadow Demon Bans",
+        "data": [
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Fiend Picks For",
+        "id": "Shadow Fiend Picks",
+        "data": [
+            [
+                "NoTechies",
+                3.0
+            ],
+            [
+                "B8",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Fiend Bans Against",
+        "id": "Shadow Fiend Bans",
+        "data": [
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "B8",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Picks For",
+        "id": "Shadow Shaman Picks",
+        "data": [
+            [
+                "NoTechies",
+                5.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Bans Against",
+        "id": "Shadow Shaman Bans",
+        "data": [
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Picks For",
+        "id": "Skywrath Mage Picks",
+        "data": [
+            [
+                "Prosti Esli",
+                3.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Bans Against",
+        "id": "Skywrath Mage Bans",
+        "data": [
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Picks For",
+        "id": "Slardar Picks",
+        "data": [
+            [
+                "Fantastic Five",
+                4.0
+            ],
+            [
+                "Trident Clan",
+                3.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Team Empire",
+                3.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Bans Against",
+        "id": "Slardar Bans",
+        "data": [
+            [
+                "Fantastic Five",
+                3.0
+            ],
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Slark Picks For",
+        "id": "Slark Picks",
+        "data": [
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Slark Bans Against",
+        "id": "Slark Bans",
+        "data": [
+            [
+                "Fantastic Five",
+                2.0
+            ],
+            [
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Picks For",
+        "id": "Snapfire Picks",
+        "data": [
+            [
+                "Team Empire",
+                4.0
+            ],
+            [
+                "HellRaisers",
+                4.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                4.0
+            ],
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Bans Against",
+        "id": "Snapfire Bans",
+        "data": [
+            [
+                "Team Empire",
+                3.0
+            ],
+            [
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "Fantastic Five",
+                5.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sniper Picks For",
+        "id": "Sniper Picks",
+        "data": [
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sniper Bans Against",
+        "id": "Sniper Bans",
+        "data": [
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Picks For",
+        "id": "Spectre Picks",
+        "data": [
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Bans Against",
+        "id": "Spectre Bans",
+        "data": [
+            [
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "B8",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Spirit Breaker Picks For",
+        "id": "Spirit Breaker Picks",
+        "data": [
+            [
+                "Prosti Esli",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Spirit Breaker Bans Against",
+        "id": "Spirit Breaker Bans",
+        "data": [
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Picks For",
+        "id": "Storm Spirit Picks",
+        "data": [
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                4.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                3.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Bans Against",
+        "id": "Storm Spirit Bans",
+        "data": [
+            [
+                "Prosti Esli",
+                4.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "B8",
+                4.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                4.0
+            ],
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Picks For",
+        "id": "Sven Picks",
+        "data": [
+            [
+                "Fantastic Five",
+                4.0
+            ],
+            [
+                "Trident Clan",
+                4.0
+            ],
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Bans Against",
+        "id": "Sven Bans",
+        "data": [
+            [
+                "Fantastic Five",
+                4.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "B8",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Techies Picks For",
+        "id": "Techies Picks",
+        "data": [
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Techies Bans Against",
+        "id": "Techies Bans",
+        "data": [
+            [
+                "NoTechies",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Picks For",
+        "id": "Templar Assassin Picks",
+        "data": [
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Bans Against",
+        "id": "Templar Assassin Bans",
+        "data": [
+            [
+                "Prosti Esli",
+                7.0
+            ],
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Picks For",
+        "id": "Terrorblade Picks",
+        "data": [
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Bans Against",
+        "id": "Terrorblade Bans",
+        "data": [
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Picks For",
+        "id": "Tidehunter Picks",
+        "data": [
+            [
+                "Trident Clan",
+                3.0
+            ],
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "Fantastic Five",
+                2.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                3.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Bans Against",
+        "id": "Tidehunter Bans",
+        "data": [
+            [
+                "Trident Clan",
+                3.0
+            ],
+            [
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "Fantastic Five",
+                3.0
+            ],
+            [
+                "NoTechies",
+                3.0
+            ],
+            [
+                "Team Empire",
+                3.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Picks For",
+        "id": "Timbersaw Picks",
+        "data": [
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "NoTechies",
+                3.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Bans Against",
+        "id": "Timbersaw Bans",
+        "data": [
+            [
+                "Team Empire",
+                8.0
+            ],
+            [
+                "NoTechies",
+                6.0
+            ],
+            [
+                "HellRaisers",
+                5.0
+            ],
+            [
+                "B8",
+                4.0
+            ],
+            [
+                "Prosti Esli",
+                3.0
+            ],
+            [
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "Fantastic Five",
+                3.0
+            ],
+            [
+                "Trident Clan",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Picks For",
+        "id": "Tiny Picks",
+        "data": [
+            [
+                "Nemiga Gaming",
+                5.0
+            ],
+            [
+                "Team Empire",
+                4.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "NoTechies",
+                3.0
+            ],
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "Fantastic Five",
+                2.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Bans Against",
+        "id": "Tiny Bans",
+        "data": [
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Picks For",
+        "id": "Treant Protector Picks",
+        "data": [
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "HellRaisers",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Bans Against",
+        "id": "Treant Protector Bans",
+        "data": [
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Picks For",
+        "id": "Troll Warlord Picks",
+        "data": [
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                4.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Team Empire",
+                3.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Bans Against",
+        "id": "Troll Warlord Bans",
+        "data": [
+            [
+                "NoTechies",
+                11.0
+            ],
+            [
+                "Nemiga Gaming",
+                5.0
+            ],
+            [
+                "Trident Clan",
+                5.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Picks For",
+        "id": "Tusk Picks",
+        "data": [
+            [
+                "Team Empire",
+                3.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Bans Against",
+        "id": "Tusk Bans",
+        "data": [
+            [
+                "Team Empire",
+                2.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Picks For",
+        "id": "Underlord Picks",
+        "data": [
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                2.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Bans Against",
+        "id": "Underlord Bans",
+        "data": [
+            [
+                "Fantastic Five",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "B8",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Picks For",
+        "id": "Undying Picks",
+        "data": [
+            [
+                "Fantastic Five",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Bans Against",
+        "id": "Undying Bans",
+        "data": [
+            [
+                "Fantastic Five",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Picks For",
+        "id": "Ursa Picks",
+        "data": [
+            [
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "B8",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Bans Against",
+        "id": "Ursa Bans",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                3.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Picks For",
+        "id": "Venomancer Picks",
+        "data": [
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Bans Against",
+        "id": "Venomancer Bans",
+        "data": [
+            [
+                "Prosti Esli",
+                3.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Picks For",
+        "id": "Viper Picks",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Bans Against",
+        "id": "Viper Bans",
+        "data": [
+            [
+                "B8",
+                5.0
+            ],
+            [
+                "Nemiga Gaming",
+                2.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Visage Picks For",
+        "id": "Visage Picks",
+        "data": [
+            [
+                "Prosti Esli",
+                3.0
+            ]
+        ]
+    },
+    {
+        "name": "Visage Bans Against",
+        "id": "Visage Bans",
+        "data": [
+            [
+                "Prosti Esli",
+                5.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Picks For",
+        "id": "Void Spirit Picks",
+        "data": [
+            [
+                "Fantastic Five",
+                7.0
+            ],
+            [
+                "Prosti Esli",
+                4.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Team Empire",
+                3.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Bans Against",
+        "id": "Void Spirit Bans",
+        "data": [
+            [
+                "Fantastic Five",
+                2.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "HellRaisers",
+                4.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Picks For",
+        "id": "Warlock Picks",
+        "data": [
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Bans Against",
+        "id": "Warlock Bans",
+        "data": [
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "B8",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Weaver Picks For",
+        "id": "Weaver Picks",
+        "data": [
+            [
+                "Nemiga Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Weaver Bans Against",
+        "id": "Weaver Bans",
+        "data": [
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Picks For",
+        "id": "Windranger Picks",
+        "data": [
+            [
+                "Nemiga Gaming",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Bans Against",
+        "id": "Windranger Bans",
+        "data": [
+            [
+                "Nemiga Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Picks For",
+        "id": "Winter Wyvern Picks",
+        "data": [
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Bans Against",
+        "id": "Winter Wyvern Bans",
+        "data": [
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Picks For",
+        "id": "Witch Doctor Picks",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "NoTechies",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Bans Against",
+        "id": "Witch Doctor Bans",
+        "data": [
+            [
+                "B8",
+                2.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Picks For",
+        "id": "Wraith King Picks",
+        "data": [
+            [
+                "Team Empire",
+                3.0
+            ],
+            [
+                "Fantastic Five",
+                3.0
+            ],
+            [
+                "Trident Clan",
+                4.0
+            ],
+            [
+                "Prosti Esli",
+                2.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Bans Against",
+        "id": "Wraith King Bans",
+        "data": [
+            [
+                "Team Empire",
+                8.0
+            ],
+            [
+                "Fantastic Five",
+                4.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "B8",
+                3.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ]
+        ]
+    }
+]

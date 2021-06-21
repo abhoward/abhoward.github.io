@@ -1,0 +1,4954 @@
+[
+    {
+        "name": "Abaddon Picks For",
+        "id": "Abaddon Picks",
+        "data": [
+            [
+                "DogChamp",
+                5.0
+            ],
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Bans Against",
+        "id": "Abaddon Bans",
+        "data": [
+            [
+                "DogChamp",
+                5.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Picks For",
+        "id": "Alchemist Picks",
+        "data": [
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Bans Against",
+        "id": "Alchemist Bans",
+        "data": [
+            [
+                "5ManMidas",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Picks For",
+        "id": "Ancient Apparition Picks",
+        "data": [
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                2.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Bans Against",
+        "id": "Ancient Apparition Bans",
+        "data": [
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Picks For",
+        "id": "Anti-Mage Picks",
+        "data": [
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Bans Against",
+        "id": "Anti-Mage Bans",
+        "data": [
+            [
+                "felt",
+                4.0
+            ],
+            [
+                "D2 Hustlers",
+                4.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Picks For",
+        "id": "Axe Picks",
+        "data": [
+            [
+                "felt",
+                4.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Bans Against",
+        "id": "Axe Bans",
+        "data": [
+            [
+                "felt",
+                8.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bane Picks For",
+        "id": "Bane Picks",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                5.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bane Bans Against",
+        "id": "Bane Bans",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                9.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Picks For",
+        "id": "Batrider Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Bans Against",
+        "id": "Batrider Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Picks For",
+        "id": "Beastmaster Picks",
+        "data": [
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Bans Against",
+        "id": "Beastmaster Bans",
+        "data": [
+            [
+                "felt",
+                7.0
+            ],
+            [
+                "Electronic Boys",
+                7.0
+            ],
+            [
+                "D2 Hustlers",
+                6.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Picks For",
+        "id": "Bloodseeker Picks",
+        "data": [
+            [
+                "5ManMidas",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Bans Against",
+        "id": "Bloodseeker Bans",
+        "data": [
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Picks For",
+        "id": "Brewmaster Picks",
+        "data": [
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Bans Against",
+        "id": "Brewmaster Bans",
+        "data": [
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Picks For",
+        "id": "Bristleback Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Bans Against",
+        "id": "Bristleback Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                4.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Picks For",
+        "id": "Broodmother Picks",
+        "data": [
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Bans Against",
+        "id": "Broodmother Bans",
+        "data": [
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Electronic Boys",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Picks For",
+        "id": "Centaur Warrunner Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                4.0
+            ],
+            [
+                "Wind and Rain",
+                4.0
+            ],
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Bans Against",
+        "id": "Centaur Warrunner Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                5.0
+            ],
+            [
+                "Wind and Rain",
+                4.0
+            ],
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Picks For",
+        "id": "Chaos Knight Picks",
+        "data": [
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Bans Against",
+        "id": "Chaos Knight Bans",
+        "data": [
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Picks For",
+        "id": "Clockwerk Picks",
+        "data": [
+            [
+                "Electronic Boys",
+                5.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Bans Against",
+        "id": "Clockwerk Bans",
+        "data": [
+            [
+                "Electronic Boys",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Crystal Maiden Picks For",
+        "id": "Crystal Maiden Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Crystal Maiden Bans Against",
+        "id": "Crystal Maiden Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Picks For",
+        "id": "Dark Seer Picks",
+        "data": [
+            [
+                "Electronic Boys",
+                3.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Bans Against",
+        "id": "Dark Seer Bans",
+        "data": [
+            [
+                "Electronic Boys",
+                4.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Picks For",
+        "id": "Dark Willow Picks",
+        "data": [
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Bans Against",
+        "id": "Dark Willow Bans",
+        "data": [
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Picks For",
+        "id": "Death Prophet Picks",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                6.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Bans Against",
+        "id": "Death Prophet Bans",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                8.0
+            ],
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Picks For",
+        "id": "Disruptor Picks",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                4.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Bans Against",
+        "id": "Disruptor Bans",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Picks For",
+        "id": "Doom Picks",
+        "data": [
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Bans Against",
+        "id": "Doom Bans",
+        "data": [
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Picks For",
+        "id": "Dragon Knight Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                5.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Bans Against",
+        "id": "Dragon Knight Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                3.0
+            ],
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Picks For",
+        "id": "Drow Ranger Picks",
+        "data": [
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Bans Against",
+        "id": "Drow Ranger Bans",
+        "data": [
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Picks For",
+        "id": "Earth Spirit Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Bans Against",
+        "id": "Earth Spirit Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                7.0
+            ],
+            [
+                "5ManMidas",
+                3.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Earthshaker Picks For",
+        "id": "Earthshaker Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earthshaker Bans Against",
+        "id": "Earthshaker Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Picks For",
+        "id": "Elder Titan Picks",
+        "data": [
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Bans Against",
+        "id": "Elder Titan Bans",
+        "data": [
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Picks For",
+        "id": "Ember Spirit Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                6.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                3.0
+            ],
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Bans Against",
+        "id": "Ember Spirit Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                5.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                3.0
+            ],
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Picks For",
+        "id": "Enchantress Picks",
+        "data": [
+            [
+                "Wind and Rain",
+                3.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Bans Against",
+        "id": "Enchantress Bans",
+        "data": [
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Picks For",
+        "id": "Faceless Void Picks",
+        "data": [
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Bans Against",
+        "id": "Faceless Void Bans",
+        "data": [
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "Electronic Boys",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Picks For",
+        "id": "Grimstroke Picks",
+        "data": [
+            [
+                "Wind and Rain",
+                6.0
+            ],
+            [
+                "5ManMidas",
+                3.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Bans Against",
+        "id": "Grimstroke Bans",
+        "data": [
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                3.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Picks For",
+        "id": "Gyrocopter Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                4.0
+            ],
+            [
+                "Wind and Rain",
+                5.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Bans Against",
+        "id": "Gyrocopter Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                6.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Picks For",
+        "id": "Hoodwink Picks",
+        "data": [
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Bans Against",
+        "id": "Hoodwink Bans",
+        "data": [
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Huskar Picks For",
+        "id": "Huskar Picks",
+        "data": [
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Huskar Bans Against",
+        "id": "Huskar Bans",
+        "data": [
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Picks For",
+        "id": "Invoker Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                7.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                3.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Bans Against",
+        "id": "Invoker Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                4.0
+            ],
+            [
+                "5ManMidas",
+                9.0
+            ],
+            [
+                "Electronic Boys",
+                3.0
+            ],
+            [
+                "Wind and Rain",
+                3.0
+            ],
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Io Picks For",
+        "id": "Io Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                4.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Io Bans Against",
+        "id": "Io Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                6.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Picks For",
+        "id": "Juggernaut Picks",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "Electronic Boys",
+                3.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Bans Against",
+        "id": "Juggernaut Bans",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                8.0
+            ],
+            [
+                "D2 Hustlers",
+                8.0
+            ],
+            [
+                "Electronic Boys",
+                5.0
+            ],
+            [
+                "Wind and Rain",
+                6.0
+            ],
+            [
+                "5ManMidas",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Keeper of the Light Picks For",
+        "id": "Keeper of the Light Picks",
+        "data": [
+            [
+                "DogChamp",
+                4.0
+            ],
+            [
+                "5ManMidas",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Keeper of the Light Bans Against",
+        "id": "Keeper of the Light Bans",
+        "data": [
+            [
+                "DogChamp",
+                7.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Picks For",
+        "id": "Kunkka Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Bans Against",
+        "id": "Kunkka Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Picks For",
+        "id": "Legion Commander Picks",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Bans Against",
+        "id": "Legion Commander Bans",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Picks For",
+        "id": "Leshrac Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                5.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Bans Against",
+        "id": "Leshrac Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lich Picks For",
+        "id": "Lich Picks",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                3.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lich Bans Against",
+        "id": "Lich Bans",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Picks For",
+        "id": "Lifestealer Picks",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                4.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Bans Against",
+        "id": "Lifestealer Bans",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                6.0
+            ],
+            [
+                "Electronic Boys",
+                7.0
+            ],
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                5.0
+            ],
+            [
+                "DogChamp",
+                3.0
+            ],
+            [
+                "Wind and Rain",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Picks For",
+        "id": "Lina Picks",
+        "data": [
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Bans Against",
+        "id": "Lina Bans",
+        "data": [
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Picks For",
+        "id": "Lion Picks",
+        "data": [
+            [
+                "Wind and Rain",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                4.0
+            ],
+            [
+                "DogChamp",
+                3.0
+            ],
+            [
+                "5ManMidas",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Bans Against",
+        "id": "Lion Bans",
+        "data": [
+            [
+                "Wind and Rain",
+                4.0
+            ],
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Picks For",
+        "id": "Luna Picks",
+        "data": [
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Bans Against",
+        "id": "Luna Bans",
+        "data": [
+            [
+                "felt",
+                4.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Picks For",
+        "id": "Magnus Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Bans Against",
+        "id": "Magnus Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                8.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Picks For",
+        "id": "Mars Picks",
+        "data": [
+            [
+                "DogChamp",
+                9.0
+            ],
+            [
+                "felt",
+                4.0
+            ],
+            [
+                "5ManMidas",
+                4.0
+            ],
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Bans Against",
+        "id": "Mars Bans",
+        "data": [
+            [
+                "DogChamp",
+                3.0
+            ],
+            [
+                "felt",
+                6.0
+            ],
+            [
+                "5ManMidas",
+                3.0
+            ],
+            [
+                "Wind and Rain",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                3.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Picks For",
+        "id": "Medusa Picks",
+        "data": [
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Bans Against",
+        "id": "Medusa Bans",
+        "data": [
+            [
+                "Wind and Rain",
+                3.0
+            ],
+            [
+                "5ManMidas",
+                3.0
+            ],
+            [
+                "Electronic Boys",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Picks For",
+        "id": "Mirana Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Bans Against",
+        "id": "Mirana Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Picks For",
+        "id": "Monkey King Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Bans Against",
+        "id": "Monkey King Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "Electronic Boys",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Picks For",
+        "id": "Morphling Picks",
+        "data": [
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Electronic Boys",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Bans Against",
+        "id": "Morphling Bans",
+        "data": [
+            [
+                "felt",
+                5.0
+            ],
+            [
+                "5ManMidas",
+                3.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Electronic Boys",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Picks For",
+        "id": "Nature's Prophet Picks",
+        "data": [
+            [
+                "Electronic Boys",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Bans Against",
+        "id": "Nature's Prophet Bans",
+        "data": [
+            [
+                "Electronic Boys",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Picks For",
+        "id": "Necrophos Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Bans Against",
+        "id": "Necrophos Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Picks For",
+        "id": "Night Stalker Picks",
+        "data": [
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Bans Against",
+        "id": "Night Stalker Bans",
+        "data": [
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Picks For",
+        "id": "Nyx Assassin Picks",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Bans Against",
+        "id": "Nyx Assassin Bans",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                14.0
+            ],
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ogre Magi Picks For",
+        "id": "Ogre Magi Picks",
+        "data": [
+            [
+                "felt",
+                4.0
+            ]
+        ]
+    },
+    {
+        "name": "Ogre Magi Bans Against",
+        "id": "Ogre Magi Bans",
+        "data": [
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Omniknight Picks For",
+        "id": "Omniknight Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Omniknight Bans Against",
+        "id": "Omniknight Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Picks For",
+        "id": "Oracle Picks",
+        "data": [
+            [
+                "DogChamp",
+                4.0
+            ],
+            [
+                "Wind and Rain",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "Electronic Boys",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Bans Against",
+        "id": "Oracle Bans",
+        "data": [
+            [
+                "DogChamp",
+                5.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Outworld Devourer Picks For",
+        "id": "Outworld Devourer Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Outworld Devourer Bans Against",
+        "id": "Outworld Devourer Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Picks For",
+        "id": "Pangolier Picks",
+        "data": [
+            [
+                "DogChamp",
+                4.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Bans Against",
+        "id": "Pangolier Bans",
+        "data": [
+            [
+                "DogChamp",
+                10.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Picks For",
+        "id": "Phantom Assassin Picks",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                2.0
+            ],
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Bans Against",
+        "id": "Phantom Assassin Bans",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                5.0
+            ],
+            [
+                "D2 Hustlers",
+                5.0
+            ],
+            [
+                "Wind and Rain",
+                4.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Picks For",
+        "id": "Phantom Lancer Picks",
+        "data": [
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Bans Against",
+        "id": "Phantom Lancer Bans",
+        "data": [
+            [
+                "Wind and Rain",
+                5.0
+            ],
+            [
+                "Arkosh Gaming",
+                4.0
+            ],
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                3.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Picks For",
+        "id": "Phoenix Picks",
+        "data": [
+            [
+                "5ManMidas",
+                4.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Bans Against",
+        "id": "Phoenix Bans",
+        "data": [
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Picks For",
+        "id": "Puck Picks",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                4.0
+            ],
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Bans Against",
+        "id": "Puck Bans",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                9.0
+            ],
+            [
+                "Wind and Rain",
+                9.0
+            ],
+            [
+                "Electronic Boys",
+                9.0
+            ],
+            [
+                "5ManMidas",
+                8.0
+            ],
+            [
+                "D2 Hustlers",
+                4.0
+            ],
+            [
+                "felt",
+                4.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pudge Picks For",
+        "id": "Pudge Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                3.0
+            ]
+        ]
+    },
+    {
+        "name": "Pudge Bans Against",
+        "id": "Pudge Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Picks For",
+        "id": "Pugna Picks",
+        "data": [
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Bans Against",
+        "id": "Pugna Bans",
+        "data": [
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Picks For",
+        "id": "Queen of Pain Picks",
+        "data": [
+            [
+                "DogChamp",
+                4.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Bans Against",
+        "id": "Queen of Pain Bans",
+        "data": [
+            [
+                "DogChamp",
+                5.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                4.0
+            ],
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Picks For",
+        "id": "Razor Picks",
+        "data": [
+            [
+                "Electronic Boys",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Bans Against",
+        "id": "Razor Bans",
+        "data": [
+            [
+                "Electronic Boys",
+                4.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Riki Picks For",
+        "id": "Riki Picks",
+        "data": [
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Riki Bans Against",
+        "id": "Riki Bans",
+        "data": [
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Picks For",
+        "id": "Rubick Picks",
+        "data": [
+            [
+                "felt",
+                4.0
+            ],
+            [
+                "DogChamp",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                3.0
+            ],
+            [
+                "Wind and Rain",
+                3.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Bans Against",
+        "id": "Rubick Bans",
+        "data": [
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Picks For",
+        "id": "Sand King Picks",
+        "data": [
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Bans Against",
+        "id": "Sand King Bans",
+        "data": [
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Picks For",
+        "id": "Shadow Demon Picks",
+        "data": [
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Bans Against",
+        "id": "Shadow Demon Bans",
+        "data": [
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Fiend Picks For",
+        "id": "Shadow Fiend Picks",
+        "data": [
+            [
+                "Wind and Rain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Fiend Bans Against",
+        "id": "Shadow Fiend Bans",
+        "data": [
+            [
+                "Wind and Rain",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Picks For",
+        "id": "Shadow Shaman Picks",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Bans Against",
+        "id": "Shadow Shaman Bans",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Silencer Picks For",
+        "id": "Silencer Picks",
+        "data": [
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Silencer Bans Against",
+        "id": "Silencer Bans",
+        "data": [
+            [
+                "DogChamp",
+                3.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Picks For",
+        "id": "Skywrath Mage Picks",
+        "data": [
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Bans Against",
+        "id": "Skywrath Mage Bans",
+        "data": [
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Picks For",
+        "id": "Slardar Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Bans Against",
+        "id": "Slardar Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Slark Picks For",
+        "id": "Slark Picks",
+        "data": [
+            [
+                "DogChamp",
+                3.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Slark Bans Against",
+        "id": "Slark Bans",
+        "data": [
+            [
+                "DogChamp",
+                3.0
+            ],
+            [
+                "Electronic Boys",
+                3.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Picks For",
+        "id": "Snapfire Picks",
+        "data": [
+            [
+                "felt",
+                7.0
+            ],
+            [
+                "Electronic Boys",
+                4.0
+            ],
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Bans Against",
+        "id": "Snapfire Bans",
+        "data": [
+            [
+                "felt",
+                5.0
+            ],
+            [
+                "Electronic Boys",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Sniper Picks For",
+        "id": "Sniper Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sniper Bans Against",
+        "id": "Sniper Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Picks For",
+        "id": "Spectre Picks",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Bans Against",
+        "id": "Spectre Bans",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Spirit Breaker Picks For",
+        "id": "Spirit Breaker Picks",
+        "data": [
+            [
+                "Electronic Boys",
+                4.0
+            ],
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Spirit Breaker Bans Against",
+        "id": "Spirit Breaker Bans",
+        "data": [
+            [
+                "Electronic Boys",
+                4.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Picks For",
+        "id": "Storm Spirit Picks",
+        "data": [
+            [
+                "DogChamp",
+                6.0
+            ],
+            [
+                "Arkosh Gaming",
+                4.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Bans Against",
+        "id": "Storm Spirit Bans",
+        "data": [
+            [
+                "DogChamp",
+                9.0
+            ],
+            [
+                "Arkosh Gaming",
+                4.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                5.0
+            ],
+            [
+                "Electronic Boys",
+                3.0
+            ],
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Picks For",
+        "id": "Sven Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Bans Against",
+        "id": "Sven Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Techies Picks For",
+        "id": "Techies Picks",
+        "data": [
+            [
+                "DogChamp",
+                4.0
+            ]
+        ]
+    },
+    {
+        "name": "Techies Bans Against",
+        "id": "Techies Bans",
+        "data": [
+            [
+                "DogChamp",
+                9.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Picks For",
+        "id": "Templar Assassin Picks",
+        "data": [
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Bans Against",
+        "id": "Templar Assassin Bans",
+        "data": [
+            [
+                "felt",
+                10.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Picks For",
+        "id": "Terrorblade Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Bans Against",
+        "id": "Terrorblade Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Picks For",
+        "id": "Tidehunter Picks",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Bans Against",
+        "id": "Tidehunter Bans",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Picks For",
+        "id": "Timbersaw Picks",
+        "data": [
+            [
+                "Wind and Rain",
+                4.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Bans Against",
+        "id": "Timbersaw Bans",
+        "data": [
+            [
+                "Wind and Rain",
+                6.0
+            ],
+            [
+                "D2 Hustlers",
+                4.0
+            ],
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "5ManMidas",
+                3.0
+            ],
+            [
+                "Electronic Boys",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Picks For",
+        "id": "Tiny Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "Electronic Boys",
+                3.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                4.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Bans Against",
+        "id": "Tiny Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "Electronic Boys",
+                2.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Picks For",
+        "id": "Treant Protector Picks",
+        "data": [
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Bans Against",
+        "id": "Treant Protector Bans",
+        "data": [
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Picks For",
+        "id": "Troll Warlord Picks",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                3.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Bans Against",
+        "id": "Troll Warlord Bans",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                8.0
+            ],
+            [
+                "DogChamp",
+                4.0
+            ],
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "Wind and Rain",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Picks For",
+        "id": "Tusk Picks",
+        "data": [
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                5.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                2.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Bans Against",
+        "id": "Tusk Bans",
+        "data": [
+            [
+                "Wind and Rain",
+                4.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Picks For",
+        "id": "Underlord Picks",
+        "data": [
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Bans Against",
+        "id": "Underlord Bans",
+        "data": [
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Picks For",
+        "id": "Undying Picks",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Bans Against",
+        "id": "Undying Bans",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Picks For",
+        "id": "Ursa Picks",
+        "data": [
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Bans Against",
+        "id": "Ursa Bans",
+        "data": [
+            [
+                "Electronic Boys",
+                6.0
+            ],
+            [
+                "DogChamp",
+                5.0
+            ],
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                4.0
+            ],
+            [
+                "5ManMidas",
+                3.0
+            ],
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "felt",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Vengeful Spirit Picks For",
+        "id": "Vengeful Spirit Picks",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Vengeful Spirit Bans Against",
+        "id": "Vengeful Spirit Bans",
+        "data": [
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Picks For",
+        "id": "Venomancer Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Bans Against",
+        "id": "Venomancer Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Picks For",
+        "id": "Viper Picks",
+        "data": [
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Bans Against",
+        "id": "Viper Bans",
+        "data": [
+            [
+                "5ManMidas",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                4.0
+            ],
+            [
+                "Electronic Boys",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Visage Picks For",
+        "id": "Visage Picks",
+        "data": [
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Visage Bans Against",
+        "id": "Visage Bans",
+        "data": [
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Picks For",
+        "id": "Void Spirit Picks",
+        "data": [
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                4.0
+            ],
+            [
+                "Electronic Boys",
+                2.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Bans Against",
+        "id": "Void Spirit Bans",
+        "data": [
+            [
+                "5ManMidas",
+                11.0
+            ],
+            [
+                "D2 Hustlers",
+                4.0
+            ],
+            [
+                "Electronic Boys",
+                4.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Picks For",
+        "id": "Warlock Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                4.0
+            ],
+            [
+                "Electronic Boys",
+                4.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Bans Against",
+        "id": "Warlock Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                4.0
+            ],
+            [
+                "Electronic Boys",
+                2.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Weaver Picks For",
+        "id": "Weaver Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Weaver Bans Against",
+        "id": "Weaver Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Picks For",
+        "id": "Windranger Picks",
+        "data": [
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Wind and Rain",
+                0.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Bans Against",
+        "id": "Windranger Bans",
+        "data": [
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Wind and Rain",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Picks For",
+        "id": "Winter Wyvern Picks",
+        "data": [
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Bans Against",
+        "id": "Winter Wyvern Bans",
+        "data": [
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Picks For",
+        "id": "Witch Doctor Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                5.0
+            ],
+            [
+                "felt",
+                3.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Bans Against",
+        "id": "Witch Doctor Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Picks For",
+        "id": "Wraith King Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "Wind and Rain",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                3.0
+            ],
+            [
+                "Electronic Boys",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Bans Against",
+        "id": "Wraith King Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "Wind and Rain",
+                3.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Electronic Boys",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Pecado Squad Gaming",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Zeus Picks For",
+        "id": "Zeus Picks",
+        "data": [
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Zeus Bans Against",
+        "id": "Zeus Bans",
+        "data": [
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    }
+]

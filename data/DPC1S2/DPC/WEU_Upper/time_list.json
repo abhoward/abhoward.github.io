@@ -1,0 +1,392 @@
+[
+    {
+        "match": "OG vs Team Liquid",
+        "y": 78,
+        "name": 1316
+    },
+    {
+        "match": "Tundra Esports  vs Team Liquid",
+        "y": 77,
+        "name": 1317
+    },
+    {
+        "match": "Nigma vs Brame",
+        "y": 76,
+        "name": 1382
+    },
+    {
+        "match": "Nigma vs Brame",
+        "y": 75,
+        "name": 1394
+    },
+    {
+        "match": "Hellbear Smashers vs Team Liquid",
+        "y": 74,
+        "name": 1417
+    },
+    {
+        "match": "Team Secret vs Brame",
+        "y": 73,
+        "name": 1473
+    },
+    {
+        "match": "Alliance vs Hellbear Smashers",
+        "y": 72,
+        "name": 1565
+    },
+    {
+        "match": "Nigma vs Team Secret",
+        "y": 71,
+        "name": 1623
+    },
+    {
+        "match": "Hellbear Smashers vs Team Secret",
+        "y": 70,
+        "name": 1651
+    },
+    {
+        "match": "Alliance vs Tundra Esports ",
+        "y": 69,
+        "name": 1679
+    },
+    {
+        "match": "Team Liquid vs Tundra Esports ",
+        "y": 68,
+        "name": 1688
+    },
+    {
+        "match": "Team Secret vs Tundra Esports ",
+        "y": 67,
+        "name": 1694
+    },
+    {
+        "match": "Brame vs Team Liquid",
+        "y": 66,
+        "name": 1702
+    },
+    {
+        "match": "Team Liquid vs Team Secret",
+        "y": 65,
+        "name": 1712
+    },
+    {
+        "match": "Tundra Esports  vs OG",
+        "y": 64,
+        "name": 1732
+    },
+    {
+        "match": "Tundra Esports  vs Brame",
+        "y": 63,
+        "name": 1741
+    },
+    {
+        "match": "Tundra Esports  vs OG",
+        "y": 62,
+        "name": 1778
+    },
+    {
+        "match": "Brame vs Hellbear Smashers",
+        "y": 61,
+        "name": 1779
+    },
+    {
+        "match": "OG vs Hellbear Smashers",
+        "y": 60,
+        "name": 1809
+    },
+    {
+        "match": "Team Secret vs Hellbear Smashers",
+        "y": 59,
+        "name": 1875
+    },
+    {
+        "match": "Brame vs Hellbear Smashers",
+        "y": 58,
+        "name": 1877
+    },
+    {
+        "match": "OG vs Alliance",
+        "y": 57,
+        "name": 1889
+    },
+    {
+        "match": "Team Secret vs Tundra Esports ",
+        "y": 56,
+        "name": 1927
+    },
+    {
+        "match": "Alliance vs Tundra Esports ",
+        "y": 55,
+        "name": 1928
+    },
+    {
+        "match": "Hellbear Smashers vs Alliance",
+        "y": 54,
+        "name": 1933
+    },
+    {
+        "match": "Brame vs Tundra Esports ",
+        "y": 53,
+        "name": 1959
+    },
+    {
+        "match": "Hellbear Smashers vs Tundra Esports ",
+        "y": 52,
+        "name": 1961
+    },
+    {
+        "match": "Brame vs Hellbear Smashers",
+        "y": 51,
+        "name": 1980
+    },
+    {
+        "match": "Nigma vs Team Liquid",
+        "y": 50,
+        "name": 2021
+    },
+    {
+        "match": "Team Secret vs Hellbear Smashers",
+        "y": 49,
+        "name": 2023
+    },
+    {
+        "match": "Team Liquid vs Team Secret",
+        "y": 48,
+        "name": 2048
+    },
+    {
+        "match": "Nigma vs Tundra Esports ",
+        "y": 47,
+        "name": 2078
+    },
+    {
+        "match": "Team Liquid vs Alliance",
+        "y": 46,
+        "name": 2099
+    },
+    {
+        "match": "Team Secret vs Tundra Esports ",
+        "y": 45,
+        "name": 2100
+    },
+    {
+        "match": "Brame vs Team Liquid",
+        "y": 44,
+        "name": 2106
+    },
+    {
+        "match": "Hellbear Smashers vs Team Liquid",
+        "y": 43,
+        "name": 2117
+    },
+    {
+        "match": "Nigma vs OG",
+        "y": 42,
+        "name": 2119
+    },
+    {
+        "match": "Tundra Esports  vs Hellbear Smashers",
+        "y": 41,
+        "name": 2193
+    },
+    {
+        "match": "Team Liquid vs Alliance",
+        "y": 40,
+        "name": 2204
+    },
+    {
+        "match": "Nigma vs Hellbear Smashers",
+        "y": 39,
+        "name": 2228
+    },
+    {
+        "match": "Brame vs Alliance",
+        "y": 38,
+        "name": 2247
+    },
+    {
+        "match": "Team Secret vs Alliance",
+        "y": 37,
+        "name": 2271
+    },
+    {
+        "match": "Nigma vs Team Liquid",
+        "y": 36,
+        "name": 2279
+    },
+    {
+        "match": "Team Secret vs Alliance",
+        "y": 35,
+        "name": 2321
+    },
+    {
+        "match": "Brame vs Alliance",
+        "y": 34,
+        "name": 2324
+    },
+    {
+        "match": "Brame vs OG",
+        "y": 33,
+        "name": 2327
+    },
+    {
+        "match": "OG vs Brame",
+        "y": 32,
+        "name": 2352
+    },
+    {
+        "match": "Brame vs OG",
+        "y": 31,
+        "name": 2399
+    },
+    {
+        "match": "OG vs Hellbear Smashers",
+        "y": 30,
+        "name": 2410
+    },
+    {
+        "match": "Hellbear Smashers vs OG",
+        "y": 29,
+        "name": 2423
+    },
+    {
+        "match": "Nigma vs Alliance",
+        "y": 28,
+        "name": 2427
+    },
+    {
+        "match": "OG vs Nigma",
+        "y": 27,
+        "name": 2456
+    },
+    {
+        "match": "Alliance vs OG",
+        "y": 26,
+        "name": 2499
+    },
+    {
+        "match": "Nigma vs Alliance",
+        "y": 25,
+        "name": 2512
+    },
+    {
+        "match": "Tundra Esports  vs Nigma",
+        "y": 24,
+        "name": 2515
+    },
+    {
+        "match": "Team Secret vs OG",
+        "y": 23,
+        "name": 2533
+    },
+    {
+        "match": "Team Secret vs Team Liquid",
+        "y": 22,
+        "name": 2536
+    },
+    {
+        "match": "OG vs Team Liquid",
+        "y": 21,
+        "name": 2583
+    },
+    {
+        "match": "Nigma vs Team Secret",
+        "y": 20,
+        "name": 2599
+    },
+    {
+        "match": "Hellbear Smashers vs Tundra Esports ",
+        "y": 19,
+        "name": 2607
+    },
+    {
+        "match": "Nigma vs Brame",
+        "y": 18,
+        "name": 2616
+    },
+    {
+        "match": "Alliance vs Team Liquid",
+        "y": 17,
+        "name": 2663
+    },
+    {
+        "match": "Alliance vs Team Secret",
+        "y": 16,
+        "name": 2677
+    },
+    {
+        "match": "Team Liquid vs Nigma",
+        "y": 15,
+        "name": 2701
+    },
+    {
+        "match": "Tundra Esports  vs OG",
+        "y": 14,
+        "name": 2739
+    },
+    {
+        "match": "Tundra Esports  vs Nigma",
+        "y": 13,
+        "name": 2771
+    },
+    {
+        "match": "Tundra Esports  vs OG",
+        "y": 12,
+        "name": 2781
+    },
+    {
+        "match": "Brame vs Tundra Esports ",
+        "y": 11,
+        "name": 2786
+    },
+    {
+        "match": "Team Liquid vs Tundra Esports ",
+        "y": 10,
+        "name": 2876
+    },
+    {
+        "match": "Alliance vs OG",
+        "y": 9,
+        "name": 2939
+    },
+    {
+        "match": "Alliance vs Nigma",
+        "y": 8,
+        "name": 3046
+    },
+    {
+        "match": "Nigma vs Team Liquid",
+        "y": 7,
+        "name": 3086
+    },
+    {
+        "match": "Hellbear Smashers vs Nigma",
+        "y": 6,
+        "name": 3087
+    },
+    {
+        "match": "Brame vs Team Liquid",
+        "y": 5,
+        "name": 3136
+    },
+    {
+        "match": "Tundra Esports  vs Alliance",
+        "y": 4,
+        "name": 3136
+    },
+    {
+        "match": "Team Secret vs OG",
+        "y": 3,
+        "name": 3321
+    },
+    {
+        "match": "Team Secret vs Brame",
+        "y": 2,
+        "name": 3390
+    },
+    {
+        "match": "Alliance vs Brame",
+        "y": 1,
+        "name": 3480
+    }
+]

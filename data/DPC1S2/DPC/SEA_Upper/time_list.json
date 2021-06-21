@@ -1,0 +1,392 @@
+[
+    {
+        "match": "BOOM Esports vs Ωmega Esports",
+        "y": 78,
+        "name": 1312
+    },
+    {
+        "match": "OB.Neon vs Lilgun ",
+        "y": 77,
+        "name": 1356
+    },
+    {
+        "match": "OB.Neon vs Ωmega Esports",
+        "y": 76,
+        "name": 1374
+    },
+    {
+        "match": "OB.Neon vs Ωmega Esports",
+        "y": 75,
+        "name": 1417
+    },
+    {
+        "match": "OB.Neon vs Fnatic",
+        "y": 74,
+        "name": 1637
+    },
+    {
+        "match": "Lilgun  vs Ωmega Esports",
+        "y": 73,
+        "name": 1678
+    },
+    {
+        "match": "OB.Neon vs TNC Predator",
+        "y": 72,
+        "name": 1692
+    },
+    {
+        "match": "T1 vs Lilgun ",
+        "y": 71,
+        "name": 1713
+    },
+    {
+        "match": "Ωmega Esports vs T1",
+        "y": 70,
+        "name": 1736
+    },
+    {
+        "match": "Lilgun  vs OB.Neon",
+        "y": 69,
+        "name": 1737
+    },
+    {
+        "match": "Fnatic vs Lilgun ",
+        "y": 68,
+        "name": 1748
+    },
+    {
+        "match": "T1 vs Fnatic",
+        "y": 67,
+        "name": 1749
+    },
+    {
+        "match": "BOOM Esports vs Lilgun ",
+        "y": 66,
+        "name": 1790
+    },
+    {
+        "match": "Fnatic vs OB.Neon",
+        "y": 65,
+        "name": 1809
+    },
+    {
+        "match": "T1 vs TNC Predator",
+        "y": 64,
+        "name": 1834
+    },
+    {
+        "match": "Execration vs BOOM Esports",
+        "y": 63,
+        "name": 1842
+    },
+    {
+        "match": "Lilgun  vs BOOM Esports",
+        "y": 62,
+        "name": 1851
+    },
+    {
+        "match": "Lilgun  vs TNC Predator",
+        "y": 61,
+        "name": 1896
+    },
+    {
+        "match": "T1 vs Execration",
+        "y": 60,
+        "name": 1900
+    },
+    {
+        "match": "OB.Neon vs TNC Predator",
+        "y": 59,
+        "name": 1937
+    },
+    {
+        "match": "BOOM Esports vs Fnatic",
+        "y": 58,
+        "name": 1938
+    },
+    {
+        "match": "BOOM Esports vs TNC Predator",
+        "y": 57,
+        "name": 1948
+    },
+    {
+        "match": "Ωmega Esports vs TNC Predator",
+        "y": 56,
+        "name": 1967
+    },
+    {
+        "match": "BOOM Esports vs OB.Neon",
+        "y": 55,
+        "name": 1967
+    },
+    {
+        "match": "Execration vs T1",
+        "y": 54,
+        "name": 1975
+    },
+    {
+        "match": "Fnatic vs BOOM Esports",
+        "y": 53,
+        "name": 2017
+    },
+    {
+        "match": "OB.Neon vs BOOM Esports",
+        "y": 52,
+        "name": 2030
+    },
+    {
+        "match": "Execration vs TNC Predator",
+        "y": 51,
+        "name": 2044
+    },
+    {
+        "match": "BOOM Esports vs TNC Predator",
+        "y": 50,
+        "name": 2052
+    },
+    {
+        "match": "Ωmega Esports vs BOOM Esports",
+        "y": 49,
+        "name": 2056
+    },
+    {
+        "match": "Lilgun  vs Ωmega Esports",
+        "y": 48,
+        "name": 2057
+    },
+    {
+        "match": "Execration vs BOOM Esports",
+        "y": 47,
+        "name": 2057
+    },
+    {
+        "match": "Ωmega Esports vs Execration",
+        "y": 46,
+        "name": 2075
+    },
+    {
+        "match": "Fnatic vs TNC Predator",
+        "y": 45,
+        "name": 2092
+    },
+    {
+        "match": "BOOM Esports vs T1",
+        "y": 44,
+        "name": 2092
+    },
+    {
+        "match": "BOOM Esports vs TNC Predator",
+        "y": 43,
+        "name": 2095
+    },
+    {
+        "match": "TNC Predator vs T1",
+        "y": 42,
+        "name": 2106
+    },
+    {
+        "match": "Fnatic vs Ωmega Esports",
+        "y": 41,
+        "name": 2130
+    },
+    {
+        "match": "Fnatic vs T1",
+        "y": 40,
+        "name": 2166
+    },
+    {
+        "match": "TNC Predator vs Ωmega Esports",
+        "y": 39,
+        "name": 2176
+    },
+    {
+        "match": "OB.Neon vs Execration",
+        "y": 38,
+        "name": 2178
+    },
+    {
+        "match": "Ωmega Esports vs Fnatic",
+        "y": 37,
+        "name": 2228
+    },
+    {
+        "match": "Lilgun  vs Ωmega Esports",
+        "y": 36,
+        "name": 2264
+    },
+    {
+        "match": "BOOM Esports vs Fnatic",
+        "y": 35,
+        "name": 2284
+    },
+    {
+        "match": "Ωmega Esports vs OB.Neon",
+        "y": 34,
+        "name": 2304
+    },
+    {
+        "match": "Execration vs BOOM Esports",
+        "y": 33,
+        "name": 2318
+    },
+    {
+        "match": "Execration vs Fnatic",
+        "y": 32,
+        "name": 2336
+    },
+    {
+        "match": "TNC Predator vs Execration",
+        "y": 31,
+        "name": 2350
+    },
+    {
+        "match": "Fnatic vs Execration",
+        "y": 30,
+        "name": 2388
+    },
+    {
+        "match": "TNC Predator vs T1",
+        "y": 29,
+        "name": 2419
+    },
+    {
+        "match": "Fnatic vs Ωmega Esports",
+        "y": 28,
+        "name": 2420
+    },
+    {
+        "match": "Fnatic vs Execration",
+        "y": 27,
+        "name": 2442
+    },
+    {
+        "match": "Lilgun  vs Execration",
+        "y": 26,
+        "name": 2452
+    },
+    {
+        "match": "Lilgun  vs Fnatic",
+        "y": 25,
+        "name": 2522
+    },
+    {
+        "match": "OB.Neon vs T1",
+        "y": 24,
+        "name": 2532
+    },
+    {
+        "match": "T1 vs Ωmega Esports",
+        "y": 23,
+        "name": 2546
+    },
+    {
+        "match": "OB.Neon vs TNC Predator",
+        "y": 22,
+        "name": 2556
+    },
+    {
+        "match": "OB.Neon vs BOOM Esports",
+        "y": 21,
+        "name": 2572
+    },
+    {
+        "match": "OB.Neon vs Execration",
+        "y": 20,
+        "name": 2584
+    },
+    {
+        "match": "TNC Predator vs T1",
+        "y": 19,
+        "name": 2606
+    },
+    {
+        "match": "TNC Predator vs T1",
+        "y": 18,
+        "name": 2641
+    },
+    {
+        "match": "TNC Predator vs Lilgun ",
+        "y": 17,
+        "name": 2659
+    },
+    {
+        "match": "Execration vs OB.Neon",
+        "y": 16,
+        "name": 2759
+    },
+    {
+        "match": "T1 vs Lilgun ",
+        "y": 15,
+        "name": 2809
+    },
+    {
+        "match": "Fnatic vs TNC Predator",
+        "y": 14,
+        "name": 2820
+    },
+    {
+        "match": "Execration vs Fnatic",
+        "y": 13,
+        "name": 2844
+    },
+    {
+        "match": "TNC Predator vs Fnatic",
+        "y": 12,
+        "name": 2929
+    },
+    {
+        "match": "Execration vs Lilgun ",
+        "y": 11,
+        "name": 2934
+    },
+    {
+        "match": "OB.Neon vs T1",
+        "y": 10,
+        "name": 2999
+    },
+    {
+        "match": "T1 vs Execration",
+        "y": 9,
+        "name": 3006
+    },
+    {
+        "match": "OB.Neon vs T1",
+        "y": 8,
+        "name": 3071
+    },
+    {
+        "match": "T1 vs Ωmega Esports",
+        "y": 7,
+        "name": 3085
+    },
+    {
+        "match": "Execration vs Ωmega Esports",
+        "y": 6,
+        "name": 3184
+    },
+    {
+        "match": "Ωmega Esports vs BOOM Esports",
+        "y": 5,
+        "name": 3244
+    },
+    {
+        "match": "OB.Neon vs BOOM Esports",
+        "y": 4,
+        "name": 3312
+    },
+    {
+        "match": "BOOM Esports vs T1",
+        "y": 3,
+        "name": 3358
+    },
+    {
+        "match": "BOOM Esports vs T1",
+        "y": 2,
+        "name": 3447
+    },
+    {
+        "match": "BOOM Esports vs Ωmega Esports",
+        "y": 1,
+        "name": 3668
+    }
+]

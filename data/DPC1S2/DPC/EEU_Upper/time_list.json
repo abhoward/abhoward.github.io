@@ -1,0 +1,342 @@
+[
+    {
+        "match": "Virtus.pro vs Natus Vincere",
+        "y": 68,
+        "name": 1215
+    },
+    {
+        "match": "Winstrike Team vs  EXTREMUM",
+        "y": 67,
+        "name": 1299
+    },
+    {
+        "match": "Virtus.pro vs PuckChamp",
+        "y": 66,
+        "name": 1325
+    },
+    {
+        "match": "Team Unique vs Winstrike Team",
+        "y": 65,
+        "name": 1440
+    },
+    {
+        "match": "PuckChamp vs Natus Vincere",
+        "y": 64,
+        "name": 1642
+    },
+    {
+        "match": " EXTREMUM vs Team Spirit",
+        "y": 63,
+        "name": 1682
+    },
+    {
+        "match": "PuckChamp vs AS Monaco Gambit",
+        "y": 62,
+        "name": 1693
+    },
+    {
+        "match": " EXTREMUM vs Virtus.pro",
+        "y": 61,
+        "name": 1700
+    },
+    {
+        "match": "Natus Vincere vs PuckChamp",
+        "y": 60,
+        "name": 1707
+    },
+    {
+        "match": "Virtus.pro vs Winstrike Team",
+        "y": 59,
+        "name": 1751
+    },
+    {
+        "match": "Virtus.pro vs Team Unique",
+        "y": 58,
+        "name": 1753
+    },
+    {
+        "match": " EXTREMUM vs Natus Vincere",
+        "y": 57,
+        "name": 1799
+    },
+    {
+        "match": "Winstrike Team vs Virtus.pro",
+        "y": 56,
+        "name": 1825
+    },
+    {
+        "match": "Team Spirit vs Natus Vincere",
+        "y": 55,
+        "name": 1858
+    },
+    {
+        "match": " EXTREMUM vs PuckChamp",
+        "y": 54,
+        "name": 1870
+    },
+    {
+        "match": "Winstrike Team vs  EXTREMUM",
+        "y": 53,
+        "name": 1896
+    },
+    {
+        "match": "Team Spirit vs Team Unique",
+        "y": 52,
+        "name": 1900
+    },
+    {
+        "match": "Team Spirit vs Winstrike Team",
+        "y": 51,
+        "name": 1911
+    },
+    {
+        "match": "Team Spirit vs  EXTREMUM",
+        "y": 50,
+        "name": 1914
+    },
+    {
+        "match": "AS Monaco Gambit vs  EXTREMUM",
+        "y": 49,
+        "name": 1917
+    },
+    {
+        "match": "AS Monaco Gambit vs Team Unique",
+        "y": 48,
+        "name": 1930
+    },
+    {
+        "match": "Winstrike Team vs Natus Vincere",
+        "y": 47,
+        "name": 1936
+    },
+    {
+        "match": "Natus Vincere vs Virtus.pro",
+        "y": 46,
+        "name": 1942
+    },
+    {
+        "match": "Team Spirit vs AS Monaco Gambit",
+        "y": 45,
+        "name": 1949
+    },
+    {
+        "match": "PuckChamp vs Team Unique",
+        "y": 44,
+        "name": 1951
+    },
+    {
+        "match": "Virtus.pro vs Team Unique",
+        "y": 43,
+        "name": 1953
+    },
+    {
+        "match": " EXTREMUM vs Team Unique",
+        "y": 42,
+        "name": 1953
+    },
+    {
+        "match": "PuckChamp vs Virtus.pro",
+        "y": 41,
+        "name": 1964
+    },
+    {
+        "match": " EXTREMUM vs Team Unique",
+        "y": 40,
+        "name": 1969
+    },
+    {
+        "match": " EXTREMUM vs Team Unique",
+        "y": 39,
+        "name": 1978
+    },
+    {
+        "match": "Winstrike Team vs PuckChamp",
+        "y": 38,
+        "name": 1988
+    },
+    {
+        "match": "PuckChamp vs  EXTREMUM",
+        "y": 37,
+        "name": 1991
+    },
+    {
+        "match": "Team Spirit vs PuckChamp",
+        "y": 36,
+        "name": 1993
+    },
+    {
+        "match": "Natus Vincere vs Team Spirit",
+        "y": 35,
+        "name": 1994
+    },
+    {
+        "match": "Winstrike Team vs Team Unique",
+        "y": 34,
+        "name": 1995
+    },
+    {
+        "match": " EXTREMUM vs AS Monaco Gambit",
+        "y": 33,
+        "name": 2008
+    },
+    {
+        "match": "AS Monaco Gambit vs PuckChamp",
+        "y": 32,
+        "name": 2023
+    },
+    {
+        "match": "Natus Vincere vs AS Monaco Gambit",
+        "y": 31,
+        "name": 2078
+    },
+    {
+        "match": "Natus Vincere vs  EXTREMUM",
+        "y": 30,
+        "name": 2092
+    },
+    {
+        "match": "Virtus.pro vs AS Monaco Gambit",
+        "y": 29,
+        "name": 2111
+    },
+    {
+        "match": "AS Monaco Gambit vs  EXTREMUM",
+        "y": 28,
+        "name": 2136
+    },
+    {
+        "match": "Virtus.pro vs Team Spirit",
+        "y": 27,
+        "name": 2141
+    },
+    {
+        "match": "PuckChamp vs Natus Vincere",
+        "y": 26,
+        "name": 2145
+    },
+    {
+        "match": "Team Spirit vs Winstrike Team",
+        "y": 25,
+        "name": 2150
+    },
+    {
+        "match": "PuckChamp vs Team Unique",
+        "y": 24,
+        "name": 2156
+    },
+    {
+        "match": "AS Monaco Gambit vs Virtus.pro",
+        "y": 23,
+        "name": 2158
+    },
+    {
+        "match": "Winstrike Team vs Natus Vincere",
+        "y": 22,
+        "name": 2207
+    },
+    {
+        "match": "Team Spirit vs Team Unique",
+        "y": 21,
+        "name": 2225
+    },
+    {
+        "match": "Virtus.pro vs Team Spirit",
+        "y": 20,
+        "name": 2275
+    },
+    {
+        "match": "AS Monaco Gambit vs Virtus.pro",
+        "y": 19,
+        "name": 2290
+    },
+    {
+        "match": "PuckChamp vs Team Spirit",
+        "y": 18,
+        "name": 2306
+    },
+    {
+        "match": "AS Monaco Gambit vs Natus Vincere",
+        "y": 17,
+        "name": 2309
+    },
+    {
+        "match": "PuckChamp vs Winstrike Team",
+        "y": 16,
+        "name": 2367
+    },
+    {
+        "match": "Virtus.pro vs  EXTREMUM",
+        "y": 15,
+        "name": 2377
+    },
+    {
+        "match": "Winstrike Team vs Team Unique",
+        "y": 14,
+        "name": 2380
+    },
+    {
+        "match": "Team Unique vs AS Monaco Gambit",
+        "y": 13,
+        "name": 2442
+    },
+    {
+        "match": "Team Spirit vs Virtus.pro",
+        "y": 12,
+        "name": 2473
+    },
+    {
+        "match": "Winstrike Team vs AS Monaco Gambit",
+        "y": 11,
+        "name": 2528
+    },
+    {
+        "match": "PuckChamp vs Team Unique",
+        "y": 10,
+        "name": 2575
+    },
+    {
+        "match": "PuckChamp vs Winstrike Team",
+        "y": 9,
+        "name": 2610
+    },
+    {
+        "match": "Team Spirit vs AS Monaco Gambit",
+        "y": 8,
+        "name": 2625
+    },
+    {
+        "match": "Natus Vincere vs Team Unique",
+        "y": 7,
+        "name": 2808
+    },
+    {
+        "match": "Team Unique vs Natus Vincere",
+        "y": 6,
+        "name": 2883
+    },
+    {
+        "match": "Natus Vincere vs PuckChamp",
+        "y": 5,
+        "name": 3093
+    },
+    {
+        "match": "Team Spirit vs Winstrike Team",
+        "y": 4,
+        "name": 3252
+    },
+    {
+        "match": "AS Monaco Gambit vs Winstrike Team",
+        "y": 3,
+        "name": 3384
+    },
+    {
+        "match": " EXTREMUM vs Winstrike Team",
+        "y": 2,
+        "name": 3488
+    },
+    {
+        "match": "Team Unique vs Natus Vincere",
+        "y": 1,
+        "name": 4219
+    }
+]

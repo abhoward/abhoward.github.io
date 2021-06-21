@@ -1,0 +1,6980 @@
+[
+    {
+        "name": "Abaddon Matches Played",
+        "id": "Abaddon Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                2
+            ],
+            [
+                "Cignal Ultra",
+                2
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                5
+            ],
+            [
+                "Team Mystery",
+                4
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Matches Won",
+        "id": "Abaddon Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                0
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                2
+            ],
+            [
+                "Team Mystery",
+                1
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Win Rate",
+        "id": "Abaddon Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.0
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.4
+            ],
+            [
+                "Team Mystery",
+                0.25
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Alchemist Matches Played",
+        "id": "Alchemist Matches Played",
+        "data": [
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "South Built Esports",
+                5
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Matches Won",
+        "id": "Alchemist Matches Won",
+        "data": [
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "South Built Esports",
+                4
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Win Rate",
+        "id": "Alchemist Win Rate",
+        "data": [
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "South Built Esports",
+                0.8
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ancient Apparition Matches Played",
+        "id": "Ancient Apparition Matches Played",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Matches Won",
+        "id": "Ancient Apparition Matches Won",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Win Rate",
+        "id": "Ancient Apparition Win Rate",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Anti-Mage Matches Played",
+        "id": "Anti-Mage Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "South Built Esports",
+                2
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Matches Won",
+        "id": "Anti-Mage Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                0
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "South Built Esports",
+                0
+            ],
+            [
+                "Team Mystery",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Win Rate",
+        "id": "Anti-Mage Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.0
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "South Built Esports",
+                0.0
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Axe Matches Played",
+        "id": "Axe Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Axe Matches Won",
+        "id": "Axe Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "Team Mystery",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Win Rate",
+        "id": "Axe Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.5
+            ],
+            [
+                "Army Geniuses",
+                1.0
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Batrider Matches Played",
+        "id": "Batrider Matches Played",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Matches Won",
+        "id": "Batrider Matches Won",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Win Rate",
+        "id": "Batrider Win Rate",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Beastmaster Matches Played",
+        "id": "Beastmaster Matches Played",
+        "data": [
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team SMG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Matches Won",
+        "id": "Beastmaster Matches Won",
+        "data": [
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Win Rate",
+        "id": "Beastmaster Win Rate",
+        "data": [
+            [
+                "South Built Esports",
+                1.0
+            ],
+            [
+                "Team SMG",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bloodseeker Matches Played",
+        "id": "Bloodseeker Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Cignal Ultra",
+                2
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team SMG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Matches Won",
+        "id": "Bloodseeker Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                0
+            ],
+            [
+                "Team SMG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Win Rate",
+        "id": "Bloodseeker Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.5
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.0
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Brewmaster Matches Played",
+        "id": "Brewmaster Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Team SMG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Matches Won",
+        "id": "Brewmaster Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Win Rate",
+        "id": "Brewmaster Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                1.0
+            ],
+            [
+                "Team SMG",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bristleback Matches Played",
+        "id": "Bristleback Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "South Built Esports",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Matches Won",
+        "id": "Bristleback Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "South Built Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Win Rate",
+        "id": "Bristleback Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Broodmother Matches Played",
+        "id": "Broodmother Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                2
+            ],
+            [
+                "South Built Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Matches Won",
+        "id": "Broodmother Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Win Rate",
+        "id": "Broodmother Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.5
+            ],
+            [
+                "South Built Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Centaur Warrunner Matches Played",
+        "id": "Centaur Warrunner Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                3
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                3
+            ],
+            [
+                "Galaxy Racer Esports",
+                4
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Matches Won",
+        "id": "Centaur Warrunner Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Army Geniuses",
+                0
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                3
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "South Built Esports",
+                0
+            ],
+            [
+                "Team Mystery",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Win Rate",
+        "id": "Centaur Warrunner Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.6666666666666666
+            ],
+            [
+                "Army Geniuses",
+                0.0
+            ],
+            [
+                "Cignal Ultra",
+                0.3333333333333333
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.75
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.0
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Chaos Knight Matches Played",
+        "id": "Chaos Knight Matches Played",
+        "data": [
+            [
+                "Team SMG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Matches Won",
+        "id": "Chaos Knight Matches Won",
+        "data": [
+            [
+                "Team SMG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Win Rate",
+        "id": "Chaos Knight Win Rate",
+        "data": [
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Clockwerk Matches Played",
+        "id": "Clockwerk Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                4
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                4
+            ],
+            [
+                "South Built Esports",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Matches Won",
+        "id": "Clockwerk Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                3
+            ],
+            [
+                "Galaxy Racer Esports",
+                0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                4
+            ],
+            [
+                "South Built Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Win Rate",
+        "id": "Clockwerk Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.75
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Crystal Maiden Matches Played",
+        "id": "Crystal Maiden Matches Played",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Crystal Maiden Matches Won",
+        "id": "Crystal Maiden Matches Won",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Crystal Maiden Win Rate",
+        "id": "Crystal Maiden Win Rate",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dark Seer Matches Played",
+        "id": "Dark Seer Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Army Geniuses",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Matches Won",
+        "id": "Dark Seer Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Win Rate",
+        "id": "Dark Seer Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.5
+            ],
+            [
+                "Army Geniuses",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dark Willow Matches Played",
+        "id": "Dark Willow Matches Played",
+        "data": [
+            [
+                "Team Mystery",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Matches Won",
+        "id": "Dark Willow Matches Won",
+        "data": [
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Win Rate",
+        "id": "Dark Willow Win Rate",
+        "data": [
+            [
+                "Team Mystery",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dazzle Matches Played",
+        "id": "Dazzle Matches Played",
+        "data": [
+            [
+                "Cignal Ultra",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dazzle Matches Won",
+        "id": "Dazzle Matches Won",
+        "data": [
+            [
+                "Cignal Ultra",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Dazzle Win Rate",
+        "id": "Dazzle Win Rate",
+        "data": [
+            [
+                "Cignal Ultra",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Death Prophet Matches Played",
+        "id": "Death Prophet Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                3
+            ],
+            [
+                "Army Geniuses",
+                3
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Matches Won",
+        "id": "Death Prophet Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                2
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Win Rate",
+        "id": "Death Prophet Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.3333333333333333
+            ],
+            [
+                "Army Geniuses",
+                0.6666666666666666
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Doom Matches Played",
+        "id": "Doom Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                2
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Doom Matches Won",
+        "id": "Doom Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Army Geniuses",
+                0
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Doom Win Rate",
+        "id": "Doom Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                1.0
+            ],
+            [
+                "Army Geniuses",
+                0.0
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dragon Knight Matches Played",
+        "id": "Dragon Knight Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                2
+            ],
+            [
+                "South Built Esports",
+                3
+            ],
+            [
+                "Team Mystery",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Matches Won",
+        "id": "Dragon Knight Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Win Rate",
+        "id": "Dragon Knight Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.5
+            ],
+            [
+                "South Built Esports",
+                0.3333333333333333
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Drow Ranger Matches Played",
+        "id": "Drow Ranger Matches Played",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Matches Won",
+        "id": "Drow Ranger Matches Won",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Win Rate",
+        "id": "Drow Ranger Win Rate",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Earth Spirit Matches Played",
+        "id": "Earth Spirit Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                4
+            ],
+            [
+                "Army Geniuses",
+                5
+            ],
+            [
+                "Galaxy Racer Esports",
+                4
+            ],
+            [
+                "South Built Esports",
+                2
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Matches Won",
+        "id": "Earth Spirit Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                4
+            ],
+            [
+                "Galaxy Racer Esports",
+                2
+            ],
+            [
+                "South Built Esports",
+                0
+            ],
+            [
+                "Team Mystery",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Win Rate",
+        "id": "Earth Spirit Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.25
+            ],
+            [
+                "Army Geniuses",
+                0.8
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.5
+            ],
+            [
+                "South Built Esports",
+                0.0
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Earthshaker Matches Played",
+        "id": "Earthshaker Matches Played",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "Team Mystery",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Earthshaker Matches Won",
+        "id": "Earthshaker Matches Won",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Earthshaker Win Rate",
+        "id": "Earthshaker Win Rate",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "Team Mystery",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Elder Titan Matches Played",
+        "id": "Elder Titan Matches Played",
+        "data": [
+            [
+                "Cignal Ultra",
+                2
+            ],
+            [
+                "Motivate.Trust Gaming",
+                7
+            ],
+            [
+                "Team SMG",
+                5
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Matches Won",
+        "id": "Elder Titan Matches Won",
+        "data": [
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                5
+            ],
+            [
+                "Team SMG",
+                5
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Win Rate",
+        "id": "Elder Titan Win Rate",
+        "data": [
+            [
+                "Cignal Ultra",
+                0.5
+            ],
+            [
+                "Motivate.Trust Gaming",
+                0.7142857142857143
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ember Spirit Matches Played",
+        "id": "Ember Spirit Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                4
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "South Built Esports",
+                2
+            ],
+            [
+                "Team Mystery",
+                2
+            ],
+            [
+                "Team SMG",
+                7
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Matches Won",
+        "id": "Ember Spirit Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                0
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                2
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "South Built Esports",
+                2
+            ],
+            [
+                "Team Mystery",
+                0
+            ],
+            [
+                "Team SMG",
+                6
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Win Rate",
+        "id": "Ember Spirit Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.0
+            ],
+            [
+                "Army Geniuses",
+                1.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.5
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                1.0
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ],
+            [
+                "Team SMG",
+                0.8571428571428571
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Enchantress Matches Played",
+        "id": "Enchantress Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                4
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team SMG",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Matches Won",
+        "id": "Enchantress Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                3
+            ],
+            [
+                "Galaxy Racer Esports",
+                0
+            ],
+            [
+                "South Built Esports",
+                0
+            ],
+            [
+                "Team SMG",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Win Rate",
+        "id": "Enchantress Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.75
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ],
+            [
+                "South Built Esports",
+                0.0
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Faceless Void Matches Played",
+        "id": "Faceless Void Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                2
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "Team Mystery",
+                1
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Matches Won",
+        "id": "Faceless Void Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                0
+            ],
+            [
+                "Team Mystery",
+                1
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Win Rate",
+        "id": "Faceless Void Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                1.0
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                0.0
+            ],
+            [
+                "Team Mystery",
+                1.0
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Grimstroke Matches Played",
+        "id": "Grimstroke Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                3
+            ],
+            [
+                "Army Geniuses",
+                3
+            ],
+            [
+                "Cignal Ultra",
+                4
+            ],
+            [
+                "Galaxy Racer Esports",
+                8
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                2
+            ],
+            [
+                "Team Mystery",
+                5
+            ],
+            [
+                "Team SMG",
+                9
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Matches Won",
+        "id": "Grimstroke Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                5
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                2
+            ],
+            [
+                "Team SMG",
+                9
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Win Rate",
+        "id": "Grimstroke Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.6666666666666666
+            ],
+            [
+                "Army Geniuses",
+                0.3333333333333333
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.625
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.5
+            ],
+            [
+                "Team Mystery",
+                0.4
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Gyrocopter Matches Played",
+        "id": "Gyrocopter Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                2
+            ],
+            [
+                "Cignal Ultra",
+                2
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                5
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Matches Won",
+        "id": "Gyrocopter Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Win Rate",
+        "id": "Gyrocopter Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.5
+            ],
+            [
+                "Cignal Ultra",
+                0.5
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.8
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Hoodwink Matches Played",
+        "id": "Hoodwink Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Matches Won",
+        "id": "Hoodwink Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                0
+            ],
+            [
+                "Army Geniuses",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Win Rate",
+        "id": "Hoodwink Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.0
+            ],
+            [
+                "Army Geniuses",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Huskar Matches Played",
+        "id": "Huskar Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Huskar Matches Won",
+        "id": "Huskar Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Huskar Win Rate",
+        "id": "Huskar Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.25
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Invoker Matches Played",
+        "id": "Invoker Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Matches Won",
+        "id": "Invoker Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Win Rate",
+        "id": "Invoker Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Juggernaut Matches Played",
+        "id": "Juggernaut Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                4
+            ],
+            [
+                "Cignal Ultra",
+                2
+            ],
+            [
+                "Galaxy Racer Esports",
+                3
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "Team Mystery",
+                2
+            ],
+            [
+                "Team SMG",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Matches Won",
+        "id": "Juggernaut Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                2
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "Team Mystery",
+                0
+            ],
+            [
+                "Team SMG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Win Rate",
+        "id": "Juggernaut Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.5
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.3333333333333333
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ],
+            [
+                "Team SMG",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Keeper of the Light Matches Played",
+        "id": "Keeper of the Light Matches Played",
+        "data": [
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "South Built Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Keeper of the Light Matches Won",
+        "id": "Keeper of the Light Matches Won",
+        "data": [
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Keeper of the Light Win Rate",
+        "id": "Keeper of the Light Win Rate",
+        "data": [
+            [
+                "Cignal Ultra",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Kunkka Matches Played",
+        "id": "Kunkka Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Matches Won",
+        "id": "Kunkka Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Win Rate",
+        "id": "Kunkka Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                1.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Legion Commander Matches Played",
+        "id": "Legion Commander Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                2
+            ],
+            [
+                "Cignal Ultra",
+                2
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "Team Mystery",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Matches Won",
+        "id": "Legion Commander Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                0
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Win Rate",
+        "id": "Legion Commander Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.0
+            ],
+            [
+                "Cignal Ultra",
+                0.5
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "Team Mystery",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Leshrac Matches Played",
+        "id": "Leshrac Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                2
+            ],
+            [
+                "Motivate.Trust Gaming",
+                3
+            ],
+            [
+                "South Built Esports",
+                2
+            ],
+            [
+                "Team Mystery",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Matches Won",
+        "id": "Leshrac Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "South Built Esports",
+                0
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Win Rate",
+        "id": "Leshrac Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.5
+            ],
+            [
+                "Army Geniuses",
+                1.0
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                0.6666666666666666
+            ],
+            [
+                "South Built Esports",
+                0.0
+            ],
+            [
+                "Team Mystery",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lifestealer Matches Played",
+        "id": "Lifestealer Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                4
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                2
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Matches Won",
+        "id": "Lifestealer Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                3
+            ],
+            [
+                "South Built Esports",
+                0
+            ],
+            [
+                "Team Mystery",
+                1
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Win Rate",
+        "id": "Lifestealer Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.75
+            ],
+            [
+                "South Built Esports",
+                0.0
+            ],
+            [
+                "Team Mystery",
+                0.5
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lina Matches Played",
+        "id": "Lina Matches Played",
+        "data": [
+            [
+                "Cignal Ultra",
+                2
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lina Matches Won",
+        "id": "Lina Matches Won",
+        "data": [
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Win Rate",
+        "id": "Lina Win Rate",
+        "data": [
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lion Matches Played",
+        "id": "Lion Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                7
+            ],
+            [
+                "Galaxy Racer Esports",
+                2
+            ],
+            [
+                "Motivate.Trust Gaming",
+                5
+            ],
+            [
+                "South Built Esports",
+                5
+            ],
+            [
+                "Team Mystery",
+                3
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lion Matches Won",
+        "id": "Lion Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                0
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                4
+            ],
+            [
+                "South Built Esports",
+                2
+            ],
+            [
+                "Team Mystery",
+                0
+            ],
+            [
+                "Team SMG",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Win Rate",
+        "id": "Lion Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.0
+            ],
+            [
+                "Cignal Ultra",
+                0.14285714285714285
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.5
+            ],
+            [
+                "Motivate.Trust Gaming",
+                0.8
+            ],
+            [
+                "South Built Esports",
+                0.4
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ],
+            [
+                "Team SMG",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Luna Matches Played",
+        "id": "Luna Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                3
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Luna Matches Won",
+        "id": "Luna Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                2
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Luna Win Rate",
+        "id": "Luna Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.6666666666666666
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1.0
+            ],
+            [
+                "Team Mystery",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lycan Matches Played",
+        "id": "Lycan Matches Played",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lycan Matches Won",
+        "id": "Lycan Matches Won",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Lycan Win Rate",
+        "id": "Lycan Win Rate",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Magnus Matches Played",
+        "id": "Magnus Matches Played",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                2
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Matches Won",
+        "id": "Magnus Matches Won",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                0
+            ],
+            [
+                "Team Mystery",
+                0
+            ],
+            [
+                "Team SMG",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Win Rate",
+        "id": "Magnus Win Rate",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ],
+            [
+                "Team SMG",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Mars Matches Played",
+        "id": "Mars Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                2
+            ],
+            [
+                "Team Mystery",
+                5
+            ]
+        ]
+    },
+    {
+        "name": "Mars Matches Won",
+        "id": "Mars Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                0
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Mars Win Rate",
+        "id": "Mars Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.0
+            ],
+            [
+                "Army Geniuses",
+                1.0
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Team Mystery",
+                0.2
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Medusa Matches Played",
+        "id": "Medusa Matches Played",
+        "data": [
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "Team Mystery",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Matches Won",
+        "id": "Medusa Matches Won",
+        "data": [
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Win Rate",
+        "id": "Medusa Win Rate",
+        "data": [
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "Team Mystery",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Meepo Matches Played",
+        "id": "Meepo Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Meepo Matches Won",
+        "id": "Meepo Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Meepo Win Rate",
+        "id": "Meepo Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Mirana Matches Played",
+        "id": "Mirana Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                3
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "South Built Esports",
+                4
+            ],
+            [
+                "Team Mystery",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Matches Won",
+        "id": "Mirana Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                0
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                0
+            ],
+            [
+                "South Built Esports",
+                2
+            ],
+            [
+                "Team Mystery",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Win Rate",
+        "id": "Mirana Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.0
+            ],
+            [
+                "Army Geniuses",
+                0.3333333333333333
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ],
+            [
+                "South Built Esports",
+                0.5
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Monkey King Matches Played",
+        "id": "Monkey King Matches Played",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team SMG",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Matches Won",
+        "id": "Monkey King Matches Won",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "South Built Esports",
+                0
+            ],
+            [
+                "Team SMG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Win Rate",
+        "id": "Monkey King Win Rate",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.0
+            ],
+            [
+                "Team SMG",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Morphling Matches Played",
+        "id": "Morphling Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Army Geniuses",
+                3
+            ],
+            [
+                "Galaxy Racer Esports",
+                2
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "South Built Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Matches Won",
+        "id": "Morphling Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "South Built Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Win Rate",
+        "id": "Morphling Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.5
+            ],
+            [
+                "Army Geniuses",
+                0.3333333333333333
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.5
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Nature's Prophet Matches Played",
+        "id": "Nature's Prophet Matches Played",
+        "data": [
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Matches Won",
+        "id": "Nature's Prophet Matches Won",
+        "data": [
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Win Rate",
+        "id": "Nature's Prophet Win Rate",
+        "data": [
+            [
+                "South Built Esports",
+                1.0
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Necrophos Matches Played",
+        "id": "Necrophos Matches Played",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                2
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Matches Won",
+        "id": "Necrophos Matches Won",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                2
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Win Rate",
+        "id": "Necrophos Win Rate",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                1.0
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Night Stalker Matches Played",
+        "id": "Night Stalker Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Matches Won",
+        "id": "Night Stalker Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Win Rate",
+        "id": "Night Stalker Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                1.0
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Nyx Assassin Matches Played",
+        "id": "Nyx Assassin Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Army Geniuses",
+                2
+            ],
+            [
+                "Cignal Ultra",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Matches Won",
+        "id": "Nyx Assassin Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Win Rate",
+        "id": "Nyx Assassin Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.5
+            ],
+            [
+                "Army Geniuses",
+                0.5
+            ],
+            [
+                "Cignal Ultra",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ogre Magi Matches Played",
+        "id": "Ogre Magi Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                10
+            ]
+        ]
+    },
+    {
+        "name": "Ogre Magi Matches Won",
+        "id": "Ogre Magi Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                5
+            ]
+        ]
+    },
+    {
+        "name": "Ogre Magi Win Rate",
+        "id": "Ogre Magi Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Omniknight Matches Played",
+        "id": "Omniknight Matches Played",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "Team SMG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Omniknight Matches Won",
+        "id": "Omniknight Matches Won",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                0
+            ],
+            [
+                "Team SMG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Omniknight Win Rate",
+        "id": "Omniknight Win Rate",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                0.0
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Oracle Matches Played",
+        "id": "Oracle Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                4
+            ],
+            [
+                "South Built Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Matches Won",
+        "id": "Oracle Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                4
+            ],
+            [
+                "South Built Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Win Rate",
+        "id": "Oracle Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.5
+            ],
+            [
+                "Galaxy Racer Esports",
+                1.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Outworld Devourer Matches Played",
+        "id": "Outworld Devourer Matches Played",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Outworld Devourer Matches Won",
+        "id": "Outworld Devourer Matches Won",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Outworld Devourer Win Rate",
+        "id": "Outworld Devourer Win Rate",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Pangolier Matches Played",
+        "id": "Pangolier Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                2
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Matches Won",
+        "id": "Pangolier Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                0
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Win Rate",
+        "id": "Pangolier Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.0
+            ],
+            [
+                "Army Geniuses",
+                1.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.5
+            ],
+            [
+                "Team Mystery",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Phantom Assassin Matches Played",
+        "id": "Phantom Assassin Matches Played",
+        "data": [
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Matches Won",
+        "id": "Phantom Assassin Matches Won",
+        "data": [
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Win Rate",
+        "id": "Phantom Assassin Win Rate",
+        "data": [
+            [
+                "South Built Esports",
+                1.0
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Phantom Lancer Matches Played",
+        "id": "Phantom Lancer Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                2
+            ],
+            [
+                "Team Mystery",
+                1
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Matches Won",
+        "id": "Phantom Lancer Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                0
+            ],
+            [
+                "Team Mystery",
+                0
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Win Rate",
+        "id": "Phantom Lancer Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                1.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Phoenix Matches Played",
+        "id": "Phoenix Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                5
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Matches Won",
+        "id": "Phoenix Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                3
+            ],
+            [
+                "Army Geniuses",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Win Rate",
+        "id": "Phoenix Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.6
+            ],
+            [
+                "Army Geniuses",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ],
+            [
+                "Team Mystery",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Puck Matches Played",
+        "id": "Puck Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                3
+            ],
+            [
+                "Cignal Ultra",
+                4
+            ],
+            [
+                "Galaxy Racer Esports",
+                2
+            ],
+            [
+                "Motivate.Trust Gaming",
+                5
+            ],
+            [
+                "South Built Esports",
+                3
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Puck Matches Won",
+        "id": "Puck Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                5
+            ],
+            [
+                "South Built Esports",
+                3
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Puck Win Rate",
+        "id": "Puck Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                1.0
+            ],
+            [
+                "Army Geniuses",
+                0.3333333333333333
+            ],
+            [
+                "Cignal Ultra",
+                0.25
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.5
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                1.0
+            ],
+            [
+                "Team Mystery",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Pugna Matches Played",
+        "id": "Pugna Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Matches Won",
+        "id": "Pugna Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Win Rate",
+        "id": "Pugna Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Queen of Pain Matches Played",
+        "id": "Queen of Pain Matches Played",
+        "data": [
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Matches Won",
+        "id": "Queen of Pain Matches Won",
+        "data": [
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Win Rate",
+        "id": "Queen of Pain Win Rate",
+        "data": [
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Razor Matches Played",
+        "id": "Razor Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "South Built Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Razor Matches Won",
+        "id": "Razor Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                0
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                0
+            ],
+            [
+                "South Built Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Razor Win Rate",
+        "id": "Razor Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                1.0
+            ],
+            [
+                "Army Geniuses",
+                0.0
+            ],
+            [
+                "Cignal Ultra",
+                1.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ],
+            [
+                "South Built Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Riki Matches Played",
+        "id": "Riki Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                2
+            ],
+            [
+                "Team SMG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Riki Matches Won",
+        "id": "Riki Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Riki Win Rate",
+        "id": "Riki Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.5
+            ],
+            [
+                "Team SMG",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Rubick Matches Played",
+        "id": "Rubick Matches Played",
+        "data": [
+            [
+                "Cignal Ultra",
+                4
+            ],
+            [
+                "South Built Esports",
+                2
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Matches Won",
+        "id": "Rubick Matches Won",
+        "data": [
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "South Built Esports",
+                2
+            ],
+            [
+                "Team SMG",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Win Rate",
+        "id": "Rubick Win Rate",
+        "data": [
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "South Built Esports",
+                1.0
+            ],
+            [
+                "Team SMG",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Sand King Matches Played",
+        "id": "Sand King Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                2
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Matches Won",
+        "id": "Sand King Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                0
+            ],
+            [
+                "Team Mystery",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Win Rate",
+        "id": "Sand King Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.5
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.0
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Shadow Demon Matches Played",
+        "id": "Shadow Demon Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Matches Won",
+        "id": "Shadow Demon Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Win Rate",
+        "id": "Shadow Demon Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                1.0
+            ],
+            [
+                "Army Geniuses",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Shadow Shaman Matches Played",
+        "id": "Shadow Shaman Matches Played",
+        "data": [
+            [
+                "Cignal Ultra",
+                2
+            ],
+            [
+                "South Built Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Matches Won",
+        "id": "Shadow Shaman Matches Won",
+        "data": [
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "South Built Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Win Rate",
+        "id": "Shadow Shaman Win Rate",
+        "data": [
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "South Built Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Skywrath Mage Matches Played",
+        "id": "Skywrath Mage Matches Played",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Matches Won",
+        "id": "Skywrath Mage Matches Won",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "Team Mystery",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Win Rate",
+        "id": "Skywrath Mage Win Rate",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Slardar Matches Played",
+        "id": "Slardar Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Matches Won",
+        "id": "Slardar Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                0
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                0
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Win Rate",
+        "id": "Slardar Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.0
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.0
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Slark Matches Played",
+        "id": "Slark Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Team SMG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Slark Matches Won",
+        "id": "Slark Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Team SMG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Slark Win Rate",
+        "id": "Slark Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1.0
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Snapfire Matches Played",
+        "id": "Snapfire Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                6
+            ],
+            [
+                "Army Geniuses",
+                5
+            ],
+            [
+                "Galaxy Racer Esports",
+                4
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                3
+            ],
+            [
+                "Team SMG",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Matches Won",
+        "id": "Snapfire Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Army Geniuses",
+                3
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                0
+            ],
+            [
+                "Team Mystery",
+                0
+            ],
+            [
+                "Team SMG",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Win Rate",
+        "id": "Snapfire Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.3333333333333333
+            ],
+            [
+                "Army Geniuses",
+                0.6
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.25
+            ],
+            [
+                "Motivate.Trust Gaming",
+                0.5
+            ],
+            [
+                "South Built Esports",
+                0.0
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Spectre Matches Played",
+        "id": "Spectre Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Matches Won",
+        "id": "Spectre Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Win Rate",
+        "id": "Spectre Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Spirit Breaker Matches Played",
+        "id": "Spirit Breaker Matches Played",
+        "data": [
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Spirit Breaker Matches Won",
+        "id": "Spirit Breaker Matches Won",
+        "data": [
+            [
+                "Team Mystery",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Spirit Breaker Win Rate",
+        "id": "Spirit Breaker Win Rate",
+        "data": [
+            [
+                "Team Mystery",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Storm Spirit Matches Played",
+        "id": "Storm Spirit Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                2
+            ],
+            [
+                "Galaxy Racer Esports",
+                3
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "South Built Esports",
+                3
+            ],
+            [
+                "Team Mystery",
+                1
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Matches Won",
+        "id": "Storm Spirit Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                1
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Win Rate",
+        "id": "Storm Spirit Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                1.0
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.3333333333333333
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.3333333333333333
+            ],
+            [
+                "Team Mystery",
+                1.0
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Sven Matches Played",
+        "id": "Sven Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                3
+            ],
+            [
+                "Army Geniuses",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Sven Matches Won",
+        "id": "Sven Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Army Geniuses",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Sven Win Rate",
+        "id": "Sven Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.6666666666666666
+            ],
+            [
+                "Army Geniuses",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Templar Assassin Matches Played",
+        "id": "Templar Assassin Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Matches Won",
+        "id": "Templar Assassin Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "South Built Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Win Rate",
+        "id": "Templar Assassin Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                1.0
+            ],
+            [
+                "Army Geniuses",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Terrorblade Matches Played",
+        "id": "Terrorblade Matches Played",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Matches Won",
+        "id": "Terrorblade Matches Won",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Win Rate",
+        "id": "Terrorblade Win Rate",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tidehunter Matches Played",
+        "id": "Tidehunter Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Matches Won",
+        "id": "Tidehunter Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                0
+            ],
+            [
+                "Army Geniuses",
+                0
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Win Rate",
+        "id": "Tidehunter Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.0
+            ],
+            [
+                "Army Geniuses",
+                0.0
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Timbersaw Matches Played",
+        "id": "Timbersaw Matches Played",
+        "data": [
+            [
+                "Army Geniuses",
+                4
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Team Mystery",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Matches Won",
+        "id": "Timbersaw Matches Won",
+        "data": [
+            [
+                "Army Geniuses",
+                3
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Team Mystery",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Win Rate",
+        "id": "Timbersaw Win Rate",
+        "data": [
+            [
+                "Army Geniuses",
+                0.75
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Team Mystery",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tiny Matches Played",
+        "id": "Tiny Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                3
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                3
+            ],
+            [
+                "Galaxy Racer Esports",
+                2
+            ],
+            [
+                "South Built Esports",
+                3
+            ],
+            [
+                "Team Mystery",
+                2
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Matches Won",
+        "id": "Tiny Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                0
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                0
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Win Rate",
+        "id": "Tiny Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.0
+            ],
+            [
+                "Army Geniuses",
+                1.0
+            ],
+            [
+                "Cignal Ultra",
+                0.3333333333333333
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.5
+            ],
+            [
+                "South Built Esports",
+                0.3333333333333333
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Treant Protector Matches Played",
+        "id": "Treant Protector Matches Played",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                2
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Matches Won",
+        "id": "Treant Protector Matches Won",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                0
+            ],
+            [
+                "Team Mystery",
+                0
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Win Rate",
+        "id": "Treant Protector Win Rate",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.0
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Troll Warlord Matches Played",
+        "id": "Troll Warlord Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                3
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team SMG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Matches Won",
+        "id": "Troll Warlord Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                0
+            ],
+            [
+                "Army Geniuses",
+                0
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                0
+            ],
+            [
+                "Team SMG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Win Rate",
+        "id": "Troll Warlord Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.0
+            ],
+            [
+                "Army Geniuses",
+                0.0
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.0
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tusk Matches Played",
+        "id": "Tusk Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                4
+            ],
+            [
+                "Army Geniuses",
+                2
+            ],
+            [
+                "Galaxy Racer Esports",
+                4
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                5
+            ],
+            [
+                "Team Mystery",
+                5
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Matches Won",
+        "id": "Tusk Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Army Geniuses",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                3
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "South Built Esports",
+                4
+            ],
+            [
+                "Team Mystery",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Win Rate",
+        "id": "Tusk Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.5
+            ],
+            [
+                "Army Geniuses",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                0.75
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.8
+            ],
+            [
+                "Team Mystery",
+                0.4
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Underlord Matches Played",
+        "id": "Underlord Matches Played",
+        "data": [
+            [
+                "South Built Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Matches Won",
+        "id": "Underlord Matches Won",
+        "data": [
+            [
+                "South Built Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Win Rate",
+        "id": "Underlord Win Rate",
+        "data": [
+            [
+                "South Built Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Undying Matches Played",
+        "id": "Undying Matches Played",
+        "data": [
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Team SMG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Undying Matches Won",
+        "id": "Undying Matches Won",
+        "data": [
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Team SMG",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Win Rate",
+        "id": "Undying Win Rate",
+        "data": [
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Team SMG",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ursa Matches Played",
+        "id": "Ursa Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                4
+            ],
+            [
+                "South Built Esports",
+                3
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Matches Won",
+        "id": "Ursa Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                0
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                4
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Win Rate",
+        "id": "Ursa Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.0
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.3333333333333333
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Venomancer Matches Played",
+        "id": "Venomancer Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Cignal Ultra",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Matches Won",
+        "id": "Venomancer Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                0
+            ],
+            [
+                "Cignal Ultra",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Win Rate",
+        "id": "Venomancer Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.0
+            ],
+            [
+                "Cignal Ultra",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Viper Matches Played",
+        "id": "Viper Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Viper Matches Won",
+        "id": "Viper Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Viper Win Rate",
+        "id": "Viper Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                1.0
+            ],
+            [
+                "Army Geniuses",
+                1.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Visage Matches Played",
+        "id": "Visage Matches Played",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Visage Matches Won",
+        "id": "Visage Matches Won",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Visage Win Rate",
+        "id": "Visage Win Rate",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Void Spirit Matches Played",
+        "id": "Void Spirit Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "South Built Esports",
+                3
+            ],
+            [
+                "Team Mystery",
+                2
+            ],
+            [
+                "Team SMG",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Matches Won",
+        "id": "Void Spirit Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "South Built Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                0
+            ],
+            [
+                "Team SMG",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Win Rate",
+        "id": "Void Spirit Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.0
+            ],
+            [
+                "Galaxy Racer Esports",
+                1.0
+            ],
+            [
+                "South Built Esports",
+                0.3333333333333333
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ],
+            [
+                "Team SMG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Warlock Matches Played",
+        "id": "Warlock Matches Played",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Matches Won",
+        "id": "Warlock Matches Won",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Win Rate",
+        "id": "Warlock Win Rate",
+        "data": [
+            [
+                "Galaxy Racer Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Windranger Matches Played",
+        "id": "Windranger Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                2
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Matches Won",
+        "id": "Windranger Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Team Mystery",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Win Rate",
+        "id": "Windranger Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.5
+            ],
+            [
+                "Galaxy Racer Esports",
+                1.0
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Winter Wyvern Matches Played",
+        "id": "Winter Wyvern Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Matches Won",
+        "id": "Winter Wyvern Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Win Rate",
+        "id": "Winter Wyvern Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Witch Doctor Matches Played",
+        "id": "Witch Doctor Matches Played",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Matches Won",
+        "id": "Witch Doctor Matches Won",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Win Rate",
+        "id": "Witch Doctor Win Rate",
+        "data": [
+            [
+                "Motivate.Trust Gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Wraith King Matches Played",
+        "id": "Wraith King Matches Played",
+        "data": [
+            [
+                "496 Gaming",
+                1
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                1
+            ],
+            [
+                "Team Mystery",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Matches Won",
+        "id": "Wraith King Matches Won",
+        "data": [
+            [
+                "496 Gaming",
+                0
+            ],
+            [
+                "Army Geniuses",
+                1
+            ],
+            [
+                "Motivate.Trust Gaming",
+                0
+            ],
+            [
+                "Team Mystery",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Win Rate",
+        "id": "Wraith King Win Rate",
+        "data": [
+            [
+                "496 Gaming",
+                0.0
+            ],
+            [
+                "Army Geniuses",
+                1.0
+            ],
+            [
+                "Motivate.Trust Gaming",
+                0.0
+            ],
+            [
+                "Team Mystery",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    }
+]

@@ -1,0 +1,7148 @@
+[
+    {
+        "name": "Abaddon Matches Played",
+        "id": "Abaddon Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                6
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Matches Won",
+        "id": "Abaddon Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Prosti Esli",
+                3
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Win Rate",
+        "id": "Abaddon Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.5
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Alchemist Matches Played",
+        "id": "Alchemist Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Matches Won",
+        "id": "Alchemist Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Win Rate",
+        "id": "Alchemist Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ancient Apparition Matches Played",
+        "id": "Ancient Apparition Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                6
+            ],
+            [
+                "Prosti Esli",
+                3
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Trident Clan",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Matches Won",
+        "id": "Ancient Apparition Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "Fantastic Five",
+                4
+            ],
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Win Rate",
+        "id": "Ancient Apparition Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.6666666666666666
+            ],
+            [
+                "Prosti Esli",
+                0.6666666666666666
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Anti-Mage Matches Played",
+        "id": "Anti-Mage Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "HellRaisers",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Matches Won",
+        "id": "Anti-Mage Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "HellRaisers",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Win Rate",
+        "id": "Anti-Mage Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Axe Matches Played",
+        "id": "Axe Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "NoTechies",
+                4
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Axe Matches Won",
+        "id": "Axe Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Win Rate",
+        "id": "Axe Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bane Matches Played",
+        "id": "Bane Matches Played",
+        "data": [
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bane Matches Won",
+        "id": "Bane Matches Won",
+        "data": [
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Bane Win Rate",
+        "id": "Bane Win Rate",
+        "data": [
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Beastmaster Matches Played",
+        "id": "Beastmaster Matches Played",
+        "data": [
+            [
+                "B8",
+                3
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Matches Won",
+        "id": "Beastmaster Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                0
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Prosti Esli",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Win Rate",
+        "id": "Beastmaster Win Rate",
+        "data": [
+            [
+                "B8",
+                0.3333333333333333
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bloodseeker Matches Played",
+        "id": "Bloodseeker Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Matches Won",
+        "id": "Bloodseeker Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Win Rate",
+        "id": "Bloodseeker Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bounty Hunter Matches Played",
+        "id": "Bounty Hunter Matches Played",
+        "data": [
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bounty Hunter Matches Won",
+        "id": "Bounty Hunter Matches Won",
+        "data": [
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bounty Hunter Win Rate",
+        "id": "Bounty Hunter Win Rate",
+        "data": [
+            [
+                "Team Empire",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Brewmaster Matches Played",
+        "id": "Brewmaster Matches Played",
+        "data": [
+            [
+                "Prosti Esli",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Matches Won",
+        "id": "Brewmaster Matches Won",
+        "data": [
+            [
+                "Prosti Esli",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Win Rate",
+        "id": "Brewmaster Win Rate",
+        "data": [
+            [
+                "Prosti Esli",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bristleback Matches Played",
+        "id": "Bristleback Matches Played",
+        "data": [
+            [
+                "Prosti Esli",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Matches Won",
+        "id": "Bristleback Matches Won",
+        "data": [
+            [
+                "Prosti Esli",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Win Rate",
+        "id": "Bristleback Win Rate",
+        "data": [
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Broodmother Matches Played",
+        "id": "Broodmother Matches Played",
+        "data": [
+            [
+                "NoTechies",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Matches Won",
+        "id": "Broodmother Matches Won",
+        "data": [
+            [
+                "NoTechies",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Win Rate",
+        "id": "Broodmother Win Rate",
+        "data": [
+            [
+                "NoTechies",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Centaur Warrunner Matches Played",
+        "id": "Centaur Warrunner Matches Played",
+        "data": [
+            [
+                "B8",
+                4
+            ],
+            [
+                "Fantastic Five",
+                3
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Team Empire",
+                5
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Matches Won",
+        "id": "Centaur Warrunner Matches Won",
+        "data": [
+            [
+                "B8",
+                3
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Team Empire",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Win Rate",
+        "id": "Centaur Warrunner Win Rate",
+        "data": [
+            [
+                "B8",
+                0.75
+            ],
+            [
+                "Fantastic Five",
+                0.3333333333333333
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.5
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.5
+            ],
+            [
+                "Team Empire",
+                0.8
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Chaos Knight Matches Played",
+        "id": "Chaos Knight Matches Played",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Matches Won",
+        "id": "Chaos Knight Matches Won",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Win Rate",
+        "id": "Chaos Knight Win Rate",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Chen Matches Played",
+        "id": "Chen Matches Played",
+        "data": [
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Chen Matches Won",
+        "id": "Chen Matches Won",
+        "data": [
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Chen Win Rate",
+        "id": "Chen Win Rate",
+        "data": [
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Clockwerk Matches Played",
+        "id": "Clockwerk Matches Played",
+        "data": [
+            [
+                "B8",
+                2
+            ],
+            [
+                "Prosti Esli",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Matches Won",
+        "id": "Clockwerk Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "Prosti Esli",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Win Rate",
+        "id": "Clockwerk Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dark Seer Matches Played",
+        "id": "Dark Seer Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Matches Won",
+        "id": "Dark Seer Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Prosti Esli",
+                0
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Win Rate",
+        "id": "Dark Seer Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dark Willow Matches Played",
+        "id": "Dark Willow Matches Played",
+        "data": [
+            [
+                "B8",
+                2
+            ],
+            [
+                "Fantastic Five",
+                7
+            ],
+            [
+                "HellRaisers",
+                4
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Matches Won",
+        "id": "Dark Willow Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                6
+            ],
+            [
+                "HellRaisers",
+                3
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Win Rate",
+        "id": "Dark Willow Win Rate",
+        "data": [
+            [
+                "B8",
+                0.5
+            ],
+            [
+                "Fantastic Five",
+                0.8571428571428571
+            ],
+            [
+                "HellRaisers",
+                0.75
+            ],
+            [
+                "Nemiga Gaming",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Death Prophet Matches Played",
+        "id": "Death Prophet Matches Played",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Prosti Esli",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Matches Won",
+        "id": "Death Prophet Matches Won",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                0
+            ],
+            [
+                "Prosti Esli",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Win Rate",
+        "id": "Death Prophet Win Rate",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Disruptor Matches Played",
+        "id": "Disruptor Matches Played",
+        "data": [
+            [
+                "B8",
+                3
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Matches Won",
+        "id": "Disruptor Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Win Rate",
+        "id": "Disruptor Win Rate",
+        "data": [
+            [
+                "B8",
+                0.3333333333333333
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Doom Matches Played",
+        "id": "Doom Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Trident Clan",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Doom Matches Won",
+        "id": "Doom Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Win Rate",
+        "id": "Doom Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Team Empire",
+                0.5
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dragon Knight Matches Played",
+        "id": "Dragon Knight Matches Played",
+        "data": [
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Matches Won",
+        "id": "Dragon Knight Matches Won",
+        "data": [
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Win Rate",
+        "id": "Dragon Knight Win Rate",
+        "data": [
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Drow Ranger Matches Played",
+        "id": "Drow Ranger Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                2
+            ],
+            [
+                "NoTechies",
+                2
+            ],
+            [
+                "Prosti Esli",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Matches Won",
+        "id": "Drow Ranger Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Prosti Esli",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Win Rate",
+        "id": "Drow Ranger Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.5
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Earth Spirit Matches Played",
+        "id": "Earth Spirit Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Prosti Esli",
+                3
+            ],
+            [
+                "Trident Clan",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Matches Won",
+        "id": "Earth Spirit Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Prosti Esli",
+                0
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Win Rate",
+        "id": "Earth Spirit Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Elder Titan Matches Played",
+        "id": "Elder Titan Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                6
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Trident Clan",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Matches Won",
+        "id": "Elder Titan Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                4
+            ],
+            [
+                "Nemiga Gaming",
+                0
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Win Rate",
+        "id": "Elder Titan Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                0.6666666666666666
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.5
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ember Spirit Matches Played",
+        "id": "Ember Spirit Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                4
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Matches Won",
+        "id": "Ember Spirit Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "HellRaisers",
+                4
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Prosti Esli",
+                0
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Win Rate",
+        "id": "Ember Spirit Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Enchantress Matches Played",
+        "id": "Enchantress Matches Played",
+        "data": [
+            [
+                "B8",
+                2
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "NoTechies",
+                2
+            ],
+            [
+                "Team Empire",
+                6
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Matches Won",
+        "id": "Enchantress Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Team Empire",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Win Rate",
+        "id": "Enchantress Win Rate",
+        "data": [
+            [
+                "B8",
+                0.5
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.3333333333333333
+            ],
+            [
+                "NoTechies",
+                0.5
+            ],
+            [
+                "Team Empire",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Enigma Matches Played",
+        "id": "Enigma Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Matches Won",
+        "id": "Enigma Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Win Rate",
+        "id": "Enigma Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Faceless Void Matches Played",
+        "id": "Faceless Void Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "HellRaisers",
+                4
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Matches Won",
+        "id": "Faceless Void Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Prosti Esli",
+                0
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Win Rate",
+        "id": "Faceless Void Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                0.5
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Grimstroke Matches Played",
+        "id": "Grimstroke Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                5
+            ],
+            [
+                "HellRaisers",
+                5
+            ],
+            [
+                "Nemiga Gaming",
+                5
+            ],
+            [
+                "NoTechies",
+                2
+            ],
+            [
+                "Prosti Esli",
+                3
+            ],
+            [
+                "Team Empire",
+                4
+            ],
+            [
+                "Trident Clan",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Matches Won",
+        "id": "Grimstroke Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                4
+            ],
+            [
+                "HellRaisers",
+                5
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Prosti Esli",
+                0
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Win Rate",
+        "id": "Grimstroke Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.8
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.6
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.5
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Gyrocopter Matches Played",
+        "id": "Gyrocopter Matches Played",
+        "data": [
+            [
+                "B8",
+                2
+            ],
+            [
+                "Team Empire",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Matches Won",
+        "id": "Gyrocopter Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Win Rate",
+        "id": "Gyrocopter Win Rate",
+        "data": [
+            [
+                "B8",
+                0.5
+            ],
+            [
+                "Team Empire",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Hoodwink Matches Played",
+        "id": "Hoodwink Matches Played",
+        "data": [
+            [
+                "Trident Clan",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Matches Won",
+        "id": "Hoodwink Matches Won",
+        "data": [
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Win Rate",
+        "id": "Hoodwink Win Rate",
+        "data": [
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Huskar Matches Played",
+        "id": "Huskar Matches Played",
+        "data": [
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Huskar Matches Won",
+        "id": "Huskar Matches Won",
+        "data": [
+            [
+                "Team Empire",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Huskar Win Rate",
+        "id": "Huskar Win Rate",
+        "data": [
+            [
+                "Team Empire",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Invoker Matches Played",
+        "id": "Invoker Matches Played",
+        "data": [
+            [
+                "B8",
+                2
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Team Empire",
+                7
+            ],
+            [
+                "Trident Clan",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Matches Won",
+        "id": "Invoker Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Prosti Esli",
+                0
+            ],
+            [
+                "Team Empire",
+                6
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Win Rate",
+        "id": "Invoker Win Rate",
+        "data": [
+            [
+                "B8",
+                0.5
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.8571428571428571
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Io Matches Played",
+        "id": "Io Matches Played",
+        "data": [
+            [
+                "B8",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Io Matches Won",
+        "id": "Io Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Io Win Rate",
+        "id": "Io Win Rate",
+        "data": [
+            [
+                "B8",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Jakiro Matches Played",
+        "id": "Jakiro Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Jakiro Matches Won",
+        "id": "Jakiro Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "HellRaisers",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Jakiro Win Rate",
+        "id": "Jakiro Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Juggernaut Matches Played",
+        "id": "Juggernaut Matches Played",
+        "data": [
+            [
+                "B8",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "NoTechies",
+                2
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Matches Won",
+        "id": "Juggernaut Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Win Rate",
+        "id": "Juggernaut Win Rate",
+        "data": [
+            [
+                "B8",
+                0.5
+            ],
+            [
+                "Nemiga Gaming",
+                0.5
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.5
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Kunkka Matches Played",
+        "id": "Kunkka Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Matches Won",
+        "id": "Kunkka Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Win Rate",
+        "id": "Kunkka Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Legion Commander Matches Played",
+        "id": "Legion Commander Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "Prosti Esli",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Matches Won",
+        "id": "Legion Commander Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "Prosti Esli",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Win Rate",
+        "id": "Legion Commander Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Leshrac Matches Played",
+        "id": "Leshrac Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Trident Clan",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Matches Won",
+        "id": "Leshrac Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Win Rate",
+        "id": "Leshrac Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lich Matches Played",
+        "id": "Lich Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Team Empire",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Lich Matches Won",
+        "id": "Lich Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lich Win Rate",
+        "id": "Lich Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lifestealer Matches Played",
+        "id": "Lifestealer Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Trident Clan",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Matches Won",
+        "id": "Lifestealer Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Prosti Esli",
+                0
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Win Rate",
+        "id": "Lifestealer Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lina Matches Played",
+        "id": "Lina Matches Played",
+        "data": [
+            [
+                "B8",
+                3
+            ],
+            [
+                "Fantastic Five",
+                4
+            ],
+            [
+                "Nemiga Gaming",
+                4
+            ],
+            [
+                "Prosti Esli",
+                4
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lina Matches Won",
+        "id": "Lina Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                4
+            ],
+            [
+                "Prosti Esli",
+                3
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lina Win Rate",
+        "id": "Lina Win Rate",
+        "data": [
+            [
+                "B8",
+                0.3333333333333333
+            ],
+            [
+                "Fantastic Five",
+                0.25
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.75
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lion Matches Played",
+        "id": "Lion Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "NoTechies",
+                6
+            ],
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Team Empire",
+                5
+            ],
+            [
+                "Trident Clan",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Lion Matches Won",
+        "id": "Lion Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                0
+            ],
+            [
+                "NoTechies",
+                2
+            ],
+            [
+                "Prosti Esli",
+                0
+            ],
+            [
+                "Team Empire",
+                3
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Win Rate",
+        "id": "Lion Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.3333333333333333
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.6
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Luna Matches Played",
+        "id": "Luna Matches Played",
+        "data": [
+            [
+                "NoTechies",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Luna Matches Won",
+        "id": "Luna Matches Won",
+        "data": [
+            [
+                "NoTechies",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Win Rate",
+        "id": "Luna Win Rate",
+        "data": [
+            [
+                "NoTechies",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lycan Matches Played",
+        "id": "Lycan Matches Played",
+        "data": [
+            [
+                "Team Empire",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Lycan Matches Won",
+        "id": "Lycan Matches Won",
+        "data": [
+            [
+                "Team Empire",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Lycan Win Rate",
+        "id": "Lycan Win Rate",
+        "data": [
+            [
+                "Team Empire",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Magnus Matches Played",
+        "id": "Magnus Matches Played",
+        "data": [
+            [
+                "B8",
+                3
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Matches Won",
+        "id": "Magnus Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Win Rate",
+        "id": "Magnus Win Rate",
+        "data": [
+            [
+                "B8",
+                0.3333333333333333
+            ],
+            [
+                "Nemiga Gaming",
+                0.6666666666666666
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Mars Matches Played",
+        "id": "Mars Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                3
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "NoTechies",
+                5
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Mars Matches Won",
+        "id": "Mars Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Win Rate",
+        "id": "Mars Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                0.6666666666666666
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.2
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Medusa Matches Played",
+        "id": "Medusa Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Team Empire",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Matches Won",
+        "id": "Medusa Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Team Empire",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Win Rate",
+        "id": "Medusa Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.5
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Mirana Matches Played",
+        "id": "Mirana Matches Played",
+        "data": [
+            [
+                "B8",
+                3
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Trident Clan",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Matches Won",
+        "id": "Mirana Matches Won",
+        "data": [
+            [
+                "B8",
+                3
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Prosti Esli",
+                0
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Win Rate",
+        "id": "Mirana Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.25
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Monkey King Matches Played",
+        "id": "Monkey King Matches Played",
+        "data": [
+            [
+                "Trident Clan",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Matches Won",
+        "id": "Monkey King Matches Won",
+        "data": [
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Win Rate",
+        "id": "Monkey King Win Rate",
+        "data": [
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Morphling Matches Played",
+        "id": "Morphling Matches Played",
+        "data": [
+            [
+                "B8",
+                2
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Team Empire",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Matches Won",
+        "id": "Morphling Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Win Rate",
+        "id": "Morphling Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.5
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Team Empire",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Nature's Prophet Matches Played",
+        "id": "Nature's Prophet Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Prosti Esli",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Matches Won",
+        "id": "Nature's Prophet Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Prosti Esli",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Win Rate",
+        "id": "Nature's Prophet Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Necrophos Matches Played",
+        "id": "Necrophos Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                2
+            ],
+            [
+                "HellRaisers",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Matches Won",
+        "id": "Necrophos Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                2
+            ],
+            [
+                "HellRaisers",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Win Rate",
+        "id": "Necrophos Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Night Stalker Matches Played",
+        "id": "Night Stalker Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Matches Won",
+        "id": "Night Stalker Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Win Rate",
+        "id": "Night Stalker Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Nyx Assassin Matches Played",
+        "id": "Nyx Assassin Matches Played",
+        "data": [
+            [
+                "B8",
+                2
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Trident Clan",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Matches Won",
+        "id": "Nyx Assassin Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Win Rate",
+        "id": "Nyx Assassin Win Rate",
+        "data": [
+            [
+                "B8",
+                0.5
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ogre Magi Matches Played",
+        "id": "Ogre Magi Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ogre Magi Matches Won",
+        "id": "Ogre Magi Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Prosti Esli",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Ogre Magi Win Rate",
+        "id": "Ogre Magi Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Omniknight Matches Played",
+        "id": "Omniknight Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Trident Clan",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Omniknight Matches Won",
+        "id": "Omniknight Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Omniknight Win Rate",
+        "id": "Omniknight Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Oracle Matches Played",
+        "id": "Oracle Matches Played",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Trident Clan",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Matches Won",
+        "id": "Oracle Matches Won",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Trident Clan",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Win Rate",
+        "id": "Oracle Win Rate",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.3333333333333333
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Pangolier Matches Played",
+        "id": "Pangolier Matches Played",
+        "data": [
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Matches Won",
+        "id": "Pangolier Matches Won",
+        "data": [
+            [
+                "Nemiga Gaming",
+                0
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Win Rate",
+        "id": "Pangolier Win Rate",
+        "data": [
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.5
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Phantom Assassin Matches Played",
+        "id": "Phantom Assassin Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                5
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Matches Won",
+        "id": "Phantom Assassin Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "Fantastic Five",
+                4
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Prosti Esli",
+                0
+            ],
+            [
+                "Team Empire",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Win Rate",
+        "id": "Phantom Assassin Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.8
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.3333333333333333
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Phantom Lancer Matches Played",
+        "id": "Phantom Lancer Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Trident Clan",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Matches Won",
+        "id": "Phantom Lancer Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Prosti Esli",
+                0
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Win Rate",
+        "id": "Phantom Lancer Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Phoenix Matches Played",
+        "id": "Phoenix Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "NoTechies",
+                4
+            ],
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Trident Clan",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Matches Won",
+        "id": "Phoenix Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Win Rate",
+        "id": "Phoenix Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.25
+            ],
+            [
+                "Prosti Esli",
+                0.5
+            ],
+            [
+                "Trident Clan",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Puck Matches Played",
+        "id": "Puck Matches Played",
+        "data": [
+            [
+                "B8",
+                3
+            ],
+            [
+                "Fantastic Five",
+                6
+            ],
+            [
+                "HellRaisers",
+                4
+            ],
+            [
+                "NoTechies",
+                2
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Trident Clan",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Puck Matches Won",
+        "id": "Puck Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "Fantastic Five",
+                4
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                0
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Puck Win Rate",
+        "id": "Puck Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.6666666666666666
+            ],
+            [
+                "HellRaisers",
+                0.5
+            ],
+            [
+                "NoTechies",
+                0.5
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Pudge Matches Played",
+        "id": "Pudge Matches Played",
+        "data": [
+            [
+                "NoTechies",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Pudge Matches Won",
+        "id": "Pudge Matches Won",
+        "data": [
+            [
+                "NoTechies",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Pudge Win Rate",
+        "id": "Pudge Win Rate",
+        "data": [
+            [
+                "NoTechies",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Pugna Matches Played",
+        "id": "Pugna Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Matches Won",
+        "id": "Pugna Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Win Rate",
+        "id": "Pugna Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Queen of Pain Matches Played",
+        "id": "Queen of Pain Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Matches Won",
+        "id": "Queen of Pain Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Win Rate",
+        "id": "Queen of Pain Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Razor Matches Played",
+        "id": "Razor Matches Played",
+        "data": [
+            [
+                "NoTechies",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Razor Matches Won",
+        "id": "Razor Matches Won",
+        "data": [
+            [
+                "NoTechies",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Win Rate",
+        "id": "Razor Win Rate",
+        "data": [
+            [
+                "NoTechies",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Riki Matches Played",
+        "id": "Riki Matches Played",
+        "data": [
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Riki Matches Won",
+        "id": "Riki Matches Won",
+        "data": [
+            [
+                "Nemiga Gaming",
+                0
+            ],
+            [
+                "NoTechies",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Riki Win Rate",
+        "id": "Riki Win Rate",
+        "data": [
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Rubick Matches Played",
+        "id": "Rubick Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Trident Clan",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Matches Won",
+        "id": "Rubick Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Win Rate",
+        "id": "Rubick Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.5
+            ],
+            [
+                "Trident Clan",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Sand King Matches Played",
+        "id": "Sand King Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Matches Won",
+        "id": "Sand King Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Win Rate",
+        "id": "Sand King Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Shadow Demon Matches Played",
+        "id": "Shadow Demon Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                4
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Matches Won",
+        "id": "Shadow Demon Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Win Rate",
+        "id": "Shadow Demon Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.5
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Shadow Fiend Matches Played",
+        "id": "Shadow Fiend Matches Played",
+        "data": [
+            [
+                "B8",
+                2
+            ],
+            [
+                "NoTechies",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Fiend Matches Won",
+        "id": "Shadow Fiend Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "NoTechies",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Fiend Win Rate",
+        "id": "Shadow Fiend Win Rate",
+        "data": [
+            [
+                "B8",
+                0.5
+            ],
+            [
+                "NoTechies",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Shadow Shaman Matches Played",
+        "id": "Shadow Shaman Matches Played",
+        "data": [
+            [
+                "NoTechies",
+                5
+            ],
+            [
+                "Prosti Esli",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Matches Won",
+        "id": "Shadow Shaman Matches Won",
+        "data": [
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Win Rate",
+        "id": "Shadow Shaman Win Rate",
+        "data": [
+            [
+                "NoTechies",
+                0.2
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Skywrath Mage Matches Played",
+        "id": "Skywrath Mage Matches Played",
+        "data": [
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Prosti Esli",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Matches Won",
+        "id": "Skywrath Mage Matches Won",
+        "data": [
+            [
+                "Nemiga Gaming",
+                0
+            ],
+            [
+                "Prosti Esli",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Win Rate",
+        "id": "Skywrath Mage Win Rate",
+        "data": [
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Slardar Matches Played",
+        "id": "Slardar Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                4
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Team Empire",
+                3
+            ],
+            [
+                "Trident Clan",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Matches Won",
+        "id": "Slardar Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                3
+            ],
+            [
+                "Nemiga Gaming",
+                0
+            ],
+            [
+                "Team Empire",
+                3
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Win Rate",
+        "id": "Slardar Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.75
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Slark Matches Played",
+        "id": "Slark Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Slark Matches Won",
+        "id": "Slark Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Slark Win Rate",
+        "id": "Slark Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Snapfire Matches Played",
+        "id": "Snapfire Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                4
+            ],
+            [
+                "Nemiga Gaming",
+                4
+            ],
+            [
+                "NoTechies",
+                2
+            ],
+            [
+                "Team Empire",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Matches Won",
+        "id": "Snapfire Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                3
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Team Empire",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Win Rate",
+        "id": "Snapfire Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                0.75
+            ],
+            [
+                "Nemiga Gaming",
+                0.75
+            ],
+            [
+                "NoTechies",
+                0.5
+            ],
+            [
+                "Team Empire",
+                0.75
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Sniper Matches Played",
+        "id": "Sniper Matches Played",
+        "data": [
+            [
+                "Prosti Esli",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Sniper Matches Won",
+        "id": "Sniper Matches Won",
+        "data": [
+            [
+                "Prosti Esli",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Sniper Win Rate",
+        "id": "Sniper Win Rate",
+        "data": [
+            [
+                "Prosti Esli",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Spectre Matches Played",
+        "id": "Spectre Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Matches Won",
+        "id": "Spectre Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Win Rate",
+        "id": "Spectre Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Spirit Breaker Matches Played",
+        "id": "Spirit Breaker Matches Played",
+        "data": [
+            [
+                "Prosti Esli",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Spirit Breaker Matches Won",
+        "id": "Spirit Breaker Matches Won",
+        "data": [
+            [
+                "Prosti Esli",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Spirit Breaker Win Rate",
+        "id": "Spirit Breaker Win Rate",
+        "data": [
+            [
+                "Prosti Esli",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Storm Spirit Matches Played",
+        "id": "Storm Spirit Matches Played",
+        "data": [
+            [
+                "HellRaisers",
+                3
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Trident Clan",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Matches Won",
+        "id": "Storm Spirit Matches Won",
+        "data": [
+            [
+                "HellRaisers",
+                3
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Prosti Esli",
+                0
+            ],
+            [
+                "Team Empire",
+                0
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Win Rate",
+        "id": "Storm Spirit Win Rate",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.25
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Sven Matches Played",
+        "id": "Sven Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                4
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "Trident Clan",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Sven Matches Won",
+        "id": "Sven Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "Fantastic Five",
+                3
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Trident Clan",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Sven Win Rate",
+        "id": "Sven Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.75
+            ],
+            [
+                "Nemiga Gaming",
+                0.5
+            ],
+            [
+                "Trident Clan",
+                0.75
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Templar Assassin Matches Played",
+        "id": "Templar Assassin Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Matches Won",
+        "id": "Templar Assassin Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Win Rate",
+        "id": "Templar Assassin Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Terrorblade Matches Played",
+        "id": "Terrorblade Matches Played",
+        "data": [
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Matches Won",
+        "id": "Terrorblade Matches Won",
+        "data": [
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Win Rate",
+        "id": "Terrorblade Win Rate",
+        "data": [
+            [
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tidehunter Matches Played",
+        "id": "Tidehunter Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                2
+            ],
+            [
+                "HellRaisers",
+                3
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Trident Clan",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Matches Won",
+        "id": "Tidehunter Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                2
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                0
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Team Empire",
+                0
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Win Rate",
+        "id": "Tidehunter Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                0.6666666666666666
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Timbersaw Matches Played",
+        "id": "Timbersaw Matches Played",
+        "data": [
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                3
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Team Empire",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Matches Won",
+        "id": "Timbersaw Matches Won",
+        "data": [
+            [
+                "Nemiga Gaming",
+                0
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                0
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Win Rate",
+        "id": "Timbersaw Win Rate",
+        "data": [
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.3333333333333333
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tiny Matches Played",
+        "id": "Tiny Matches Played",
+        "data": [
+            [
+                "B8",
+                2
+            ],
+            [
+                "Fantastic Five",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                5
+            ],
+            [
+                "NoTechies",
+                3
+            ],
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Team Empire",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Matches Won",
+        "id": "Tiny Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "Fantastic Five",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Team Empire",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Win Rate",
+        "id": "Tiny Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.6
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                1.0
+            ],
+            [
+                "Team Empire",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Treant Protector Matches Played",
+        "id": "Treant Protector Matches Played",
+        "data": [
+            [
+                "B8",
+                2
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Team Empire",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Matches Won",
+        "id": "Treant Protector Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Team Empire",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Win Rate",
+        "id": "Treant Protector Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.5
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Troll Warlord Matches Played",
+        "id": "Troll Warlord Matches Played",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                4
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Team Empire",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Matches Won",
+        "id": "Troll Warlord Matches Won",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Team Empire",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Win Rate",
+        "id": "Troll Warlord Win Rate",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.5
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tusk Matches Played",
+        "id": "Tusk Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "Prosti Esli",
+                1
+            ],
+            [
+                "Team Empire",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Matches Won",
+        "id": "Tusk Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "Prosti Esli",
+                0
+            ],
+            [
+                "Team Empire",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Win Rate",
+        "id": "Tusk Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Underlord Matches Played",
+        "id": "Underlord Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Trident Clan",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Matches Won",
+        "id": "Underlord Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Win Rate",
+        "id": "Underlord Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Undying Matches Played",
+        "id": "Undying Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Undying Matches Won",
+        "id": "Undying Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Undying Win Rate",
+        "id": "Undying Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ursa Matches Played",
+        "id": "Ursa Matches Played",
+        "data": [
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Matches Won",
+        "id": "Ursa Matches Won",
+        "data": [
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Win Rate",
+        "id": "Ursa Win Rate",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Venomancer Matches Played",
+        "id": "Venomancer Matches Played",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Matches Won",
+        "id": "Venomancer Matches Won",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Team Empire",
+                0
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Win Rate",
+        "id": "Venomancer Win Rate",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Viper Matches Played",
+        "id": "Viper Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Viper Matches Won",
+        "id": "Viper Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "HellRaisers",
+                0
+            ],
+            [
+                "NoTechies",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Win Rate",
+        "id": "Viper Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Visage Matches Played",
+        "id": "Visage Matches Played",
+        "data": [
+            [
+                "Prosti Esli",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Visage Matches Won",
+        "id": "Visage Matches Won",
+        "data": [
+            [
+                "Prosti Esli",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Visage Win Rate",
+        "id": "Visage Win Rate",
+        "data": [
+            [
+                "Prosti Esli",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Void Spirit Matches Played",
+        "id": "Void Spirit Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                7
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Prosti Esli",
+                4
+            ],
+            [
+                "Team Empire",
+                3
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Matches Won",
+        "id": "Void Spirit Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "Fantastic Five",
+                4
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Prosti Esli",
+                3
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Win Rate",
+        "id": "Void Spirit Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.5714285714285714
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Prosti Esli",
+                0.75
+            ],
+            [
+                "Team Empire",
+                0.6666666666666666
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Warlock Matches Played",
+        "id": "Warlock Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Matches Won",
+        "id": "Warlock Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "NoTechies",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Win Rate",
+        "id": "Warlock Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Windranger Matches Played",
+        "id": "Windranger Matches Played",
+        "data": [
+            [
+                "Nemiga Gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Matches Won",
+        "id": "Windranger Matches Won",
+        "data": [
+            [
+                "Nemiga Gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Win Rate",
+        "id": "Windranger Win Rate",
+        "data": [
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Winter Wyvern Matches Played",
+        "id": "Winter Wyvern Matches Played",
+        "data": [
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Matches Won",
+        "id": "Winter Wyvern Matches Won",
+        "data": [
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Win Rate",
+        "id": "Winter Wyvern Win Rate",
+        "data": [
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Witch Doctor Matches Played",
+        "id": "Witch Doctor Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "NoTechies",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Matches Won",
+        "id": "Witch Doctor Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "NoTechies",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Win Rate",
+        "id": "Witch Doctor Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Wraith King Matches Played",
+        "id": "Wraith King Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                3
+            ],
+            [
+                "Prosti Esli",
+                2
+            ],
+            [
+                "Team Empire",
+                3
+            ],
+            [
+                "Trident Clan",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Matches Won",
+        "id": "Wraith King Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Prosti Esli",
+                0
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Win Rate",
+        "id": "Wraith King Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.3333333333333333
+            ],
+            [
+                "Prosti Esli",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.6666666666666666
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    }
+]

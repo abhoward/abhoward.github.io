@@ -1,0 +1,5602 @@
+[
+    {
+        "name": "Abaddon Picks For",
+        "id": "Abaddon Picks",
+        "data": [
+            [
+                "BOOM Esports",
+                5.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Bans Against",
+        "id": "Abaddon Bans",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Picks For",
+        "id": "Alchemist Picks",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Bans Against",
+        "id": "Alchemist Bans",
+        "data": [
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Picks For",
+        "id": "Ancient Apparition Picks",
+        "data": [
+            [
+                "OB.Neon",
+                3.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Bans Against",
+        "id": "Ancient Apparition Bans",
+        "data": [
+            [
+                "OB.Neon",
+                7.0
+            ],
+            [
+                "Ωmega Esports",
+                4.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Picks For",
+        "id": "Anti-Mage Picks",
+        "data": [
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Bans Against",
+        "id": "Anti-Mage Bans",
+        "data": [
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Picks For",
+        "id": "Arc Warden Picks",
+        "data": [
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Bans Against",
+        "id": "Arc Warden Bans",
+        "data": [
+            [
+                "Fnatic",
+                4.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Picks For",
+        "id": "Axe Picks",
+        "data": [
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Bans Against",
+        "id": "Axe Bans",
+        "data": [
+            [
+                "OB.Neon",
+                3.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Picks For",
+        "id": "Batrider Picks",
+        "data": [
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Bans Against",
+        "id": "Batrider Bans",
+        "data": [
+            [
+                "T1",
+                6.0
+            ],
+            [
+                "BOOM Esports",
+                4.0
+            ],
+            [
+                "Fnatic",
+                5.0
+            ],
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "OB.Neon",
+                3.0
+            ],
+            [
+                "Ωmega Esports",
+                3.0
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Picks For",
+        "id": "Beastmaster Picks",
+        "data": [
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                6.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "Fnatic",
+                4.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Bans Against",
+        "id": "Beastmaster Bans",
+        "data": [
+            [
+                "BOOM Esports",
+                7.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                6.0
+            ],
+            [
+                "Fnatic",
+                3.0
+            ],
+            [
+                "T1",
+                4.0
+            ],
+            [
+                "Execration",
+                3.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Picks For",
+        "id": "Bloodseeker Picks",
+        "data": [
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Bans Against",
+        "id": "Bloodseeker Bans",
+        "data": [
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Execration",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Bounty Hunter Picks For",
+        "id": "Bounty Hunter Picks",
+        "data": [
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bounty Hunter Bans Against",
+        "id": "Bounty Hunter Bans",
+        "data": [
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Picks For",
+        "id": "Brewmaster Picks",
+        "data": [
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Bans Against",
+        "id": "Brewmaster Bans",
+        "data": [
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Picks For",
+        "id": "Bristleback Picks",
+        "data": [
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "Ωmega Esports",
+                4.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                4.0
+            ],
+            [
+                "Fnatic",
+                3.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Bans Against",
+        "id": "Bristleback Bans",
+        "data": [
+            [
+                "TNC Predator",
+                14.0
+            ],
+            [
+                "Ωmega Esports",
+                6.0
+            ],
+            [
+                "Execration",
+                5.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Picks For",
+        "id": "Broodmother Picks",
+        "data": [
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Bans Against",
+        "id": "Broodmother Bans",
+        "data": [
+            [
+                "Lilgun ",
+                14.0
+            ],
+            [
+                "Ωmega Esports",
+                7.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Picks For",
+        "id": "Centaur Warrunner Picks",
+        "data": [
+            [
+                "Execration",
+                6.0
+            ],
+            [
+                "Fnatic",
+                5.0
+            ],
+            [
+                "Ωmega Esports",
+                7.0
+            ],
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "T1",
+                4.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Bans Against",
+        "id": "Centaur Warrunner Bans",
+        "data": [
+            [
+                "Execration",
+                8.0
+            ],
+            [
+                "Fnatic",
+                8.0
+            ],
+            [
+                "Ωmega Esports",
+                4.0
+            ],
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "BOOM Esports",
+                4.0
+            ],
+            [
+                "T1",
+                3.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "Lilgun ",
+                3.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Picks For",
+        "id": "Chaos Knight Picks",
+        "data": [
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Bans Against",
+        "id": "Chaos Knight Bans",
+        "data": [
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Picks For",
+        "id": "Clockwerk Picks",
+        "data": [
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Bans Against",
+        "id": "Clockwerk Bans",
+        "data": [
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Crystal Maiden Picks For",
+        "id": "Crystal Maiden Picks",
+        "data": [
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Crystal Maiden Bans Against",
+        "id": "Crystal Maiden Bans",
+        "data": [
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Picks For",
+        "id": "Dark Seer Picks",
+        "data": [
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "T1",
+                3.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Bans Against",
+        "id": "Dark Seer Bans",
+        "data": [
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Picks For",
+        "id": "Dark Willow Picks",
+        "data": [
+            [
+                "Lilgun ",
+                3.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Bans Against",
+        "id": "Dark Willow Bans",
+        "data": [
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dazzle Picks For",
+        "id": "Dazzle Picks",
+        "data": [
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dazzle Bans Against",
+        "id": "Dazzle Bans",
+        "data": [
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Picks For",
+        "id": "Death Prophet Picks",
+        "data": [
+            [
+                "Fnatic",
+                3.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Bans Against",
+        "id": "Death Prophet Bans",
+        "data": [
+            [
+                "Fnatic",
+                8.0
+            ],
+            [
+                "Execration",
+                9.0
+            ],
+            [
+                "OB.Neon",
+                5.0
+            ],
+            [
+                "T1",
+                5.0
+            ],
+            [
+                "Ωmega Esports",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Picks For",
+        "id": "Disruptor Picks",
+        "data": [
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Bans Against",
+        "id": "Disruptor Bans",
+        "data": [
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Picks For",
+        "id": "Doom Picks",
+        "data": [
+            [
+                "T1",
+                5.0
+            ],
+            [
+                "Execration",
+                4.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Bans Against",
+        "id": "Doom Bans",
+        "data": [
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Picks For",
+        "id": "Dragon Knight Picks",
+        "data": [
+            [
+                "Ωmega Esports",
+                4.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Bans Against",
+        "id": "Dragon Knight Bans",
+        "data": [
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Picks For",
+        "id": "Drow Ranger Picks",
+        "data": [
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Bans Against",
+        "id": "Drow Ranger Bans",
+        "data": [
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Picks For",
+        "id": "Earth Spirit Picks",
+        "data": [
+            [
+                "Execration",
+                3.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Bans Against",
+        "id": "Earth Spirit Bans",
+        "data": [
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Earthshaker Picks For",
+        "id": "Earthshaker Picks",
+        "data": [
+            [
+                "BOOM Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earthshaker Bans Against",
+        "id": "Earthshaker Bans",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Picks For",
+        "id": "Elder Titan Picks",
+        "data": [
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "Execration",
+                5.0
+            ],
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "Ωmega Esports",
+                3.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Bans Against",
+        "id": "Elder Titan Bans",
+        "data": [
+            [
+                "OB.Neon",
+                7.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Picks For",
+        "id": "Ember Spirit Picks",
+        "data": [
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                3.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                3.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Bans Against",
+        "id": "Ember Spirit Bans",
+        "data": [
+            [
+                "BOOM Esports",
+                4.0
+            ],
+            [
+                "Fnatic",
+                4.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "T1",
+                3.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Picks For",
+        "id": "Enchantress Picks",
+        "data": [
+            [
+                "OB.Neon",
+                4.0
+            ],
+            [
+                "Ωmega Esports",
+                7.0
+            ],
+            [
+                "T1",
+                5.0
+            ],
+            [
+                "Fnatic",
+                6.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Bans Against",
+        "id": "Enchantress Bans",
+        "data": [
+            [
+                "OB.Neon",
+                8.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "T1",
+                3.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Picks For",
+        "id": "Enigma Picks",
+        "data": [
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Bans Against",
+        "id": "Enigma Bans",
+        "data": [
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Picks For",
+        "id": "Faceless Void Picks",
+        "data": [
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Bans Against",
+        "id": "Faceless Void Bans",
+        "data": [
+            [
+                "Execration",
+                5.0
+            ],
+            [
+                "T1",
+                3.0
+            ],
+            [
+                "Ωmega Esports",
+                3.0
+            ],
+            [
+                "Lilgun ",
+                3.0
+            ],
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "OB.Neon",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Picks For",
+        "id": "Grimstroke Picks",
+        "data": [
+            [
+                "Execration",
+                6.0
+            ],
+            [
+                "Fnatic",
+                3.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "Lilgun ",
+                4.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Bans Against",
+        "id": "Grimstroke Bans",
+        "data": [
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Fnatic",
+                3.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Picks For",
+        "id": "Gyrocopter Picks",
+        "data": [
+            [
+                "OB.Neon",
+                3.0
+            ],
+            [
+                "Fnatic",
+                3.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Bans Against",
+        "id": "Gyrocopter Bans",
+        "data": [
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Picks For",
+        "id": "Hoodwink Picks",
+        "data": [
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Bans Against",
+        "id": "Hoodwink Bans",
+        "data": [
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Huskar Picks For",
+        "id": "Huskar Picks",
+        "data": [
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Huskar Bans Against",
+        "id": "Huskar Bans",
+        "data": [
+            [
+                "Lilgun ",
+                11.0
+            ],
+            [
+                "Ωmega Esports",
+                3.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Picks For",
+        "id": "Invoker Picks",
+        "data": [
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Bans Against",
+        "id": "Invoker Bans",
+        "data": [
+            [
+                "Execration",
+                3.0
+            ],
+            [
+                "Ωmega Esports",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Io Picks For",
+        "id": "Io Picks",
+        "data": [
+            [
+                "BOOM Esports",
+                5.0
+            ],
+            [
+                "Fnatic",
+                4.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                4.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Io Bans Against",
+        "id": "Io Bans",
+        "data": [
+            [
+                "BOOM Esports",
+                7.0
+            ],
+            [
+                "Fnatic",
+                6.0
+            ],
+            [
+                "Ωmega Esports",
+                6.0
+            ],
+            [
+                "TNC Predator",
+                6.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Execration",
+                3.0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Picks For",
+        "id": "Juggernaut Picks",
+        "data": [
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Bans Against",
+        "id": "Juggernaut Bans",
+        "data": [
+            [
+                "T1",
+                3.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Picks For",
+        "id": "Kunkka Picks",
+        "data": [
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Bans Against",
+        "id": "Kunkka Bans",
+        "data": [
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Picks For",
+        "id": "Legion Commander Picks",
+        "data": [
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Bans Against",
+        "id": "Legion Commander Bans",
+        "data": [
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "OB.Neon",
+                3.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Picks For",
+        "id": "Leshrac Picks",
+        "data": [
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Bans Against",
+        "id": "Leshrac Bans",
+        "data": [
+            [
+                "Fnatic",
+                4.0
+            ],
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lich Picks For",
+        "id": "Lich Picks",
+        "data": [
+            [
+                "T1",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lich Bans Against",
+        "id": "Lich Bans",
+        "data": [
+            [
+                "T1",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Picks For",
+        "id": "Lifestealer Picks",
+        "data": [
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Execration",
+                3.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Bans Against",
+        "id": "Lifestealer Bans",
+        "data": [
+            [
+                "T1",
+                6.0
+            ],
+            [
+                "BOOM Esports",
+                4.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                4.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Picks For",
+        "id": "Lina Picks",
+        "data": [
+            [
+                "T1",
+                3.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Bans Against",
+        "id": "Lina Bans",
+        "data": [
+            [
+                "T1",
+                4.0
+            ],
+            [
+                "Lilgun ",
+                2.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Picks For",
+        "id": "Lion Picks",
+        "data": [
+            [
+                "T1",
+                9.0
+            ],
+            [
+                "TNC Predator",
+                8.0
+            ],
+            [
+                "BOOM Esports",
+                5.0
+            ],
+            [
+                "Fnatic",
+                4.0
+            ],
+            [
+                "Ωmega Esports",
+                4.0
+            ],
+            [
+                "Lilgun ",
+                4.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Bans Against",
+        "id": "Lion Bans",
+        "data": [
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lone Druid Picks For",
+        "id": "Lone Druid Picks",
+        "data": [
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lone Druid Bans Against",
+        "id": "Lone Druid Bans",
+        "data": [
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Picks For",
+        "id": "Luna Picks",
+        "data": [
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "Fnatic",
+                3.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Bans Against",
+        "id": "Luna Bans",
+        "data": [
+            [
+                "T1",
+                6.0
+            ],
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lycan Picks For",
+        "id": "Lycan Picks",
+        "data": [
+            [
+                "Lilgun ",
+                4.0
+            ]
+        ]
+    },
+    {
+        "name": "Lycan Bans Against",
+        "id": "Lycan Bans",
+        "data": [
+            [
+                "Lilgun ",
+                7.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Picks For",
+        "id": "Magnus Picks",
+        "data": [
+            [
+                "OB.Neon",
+                3.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Bans Against",
+        "id": "Magnus Bans",
+        "data": [
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Picks For",
+        "id": "Mars Picks",
+        "data": [
+            [
+                "BOOM Esports",
+                4.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Bans Against",
+        "id": "Mars Bans",
+        "data": [
+            [
+                "BOOM Esports",
+                6.0
+            ],
+            [
+                "Execration",
+                6.0
+            ],
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Picks For",
+        "id": "Medusa Picks",
+        "data": [
+            [
+                "T1",
+                3.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Bans Against",
+        "id": "Medusa Bans",
+        "data": [
+            [
+                "T1",
+                6.0
+            ],
+            [
+                "Ωmega Esports",
+                9.0
+            ],
+            [
+                "Fnatic",
+                6.0
+            ],
+            [
+                "BOOM Esports",
+                4.0
+            ],
+            [
+                "Lilgun ",
+                5.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Execration",
+                3.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Picks For",
+        "id": "Mirana Picks",
+        "data": [
+            [
+                "OB.Neon",
+                9.0
+            ],
+            [
+                "TNC Predator",
+                6.0
+            ],
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Bans Against",
+        "id": "Mirana Bans",
+        "data": [
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Picks For",
+        "id": "Monkey King Picks",
+        "data": [
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Bans Against",
+        "id": "Monkey King Bans",
+        "data": [
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Picks For",
+        "id": "Morphling Picks",
+        "data": [
+            [
+                "Execration",
+                3.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Bans Against",
+        "id": "Morphling Bans",
+        "data": [
+            [
+                "Execration",
+                8.0
+            ],
+            [
+                "T1",
+                8.0
+            ],
+            [
+                "Lilgun ",
+                7.0
+            ],
+            [
+                "Ωmega Esports",
+                3.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren Picks For",
+        "id": "Naga Siren Picks",
+        "data": [
+            [
+                "OB.Neon",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren Bans Against",
+        "id": "Naga Siren Bans",
+        "data": [
+            [
+                "OB.Neon",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Picks For",
+        "id": "Nature's Prophet Picks",
+        "data": [
+            [
+                "OB.Neon",
+                3.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Bans Against",
+        "id": "Nature's Prophet Bans",
+        "data": [
+            [
+                "OB.Neon",
+                7.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Picks For",
+        "id": "Necrophos Picks",
+        "data": [
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Bans Against",
+        "id": "Necrophos Bans",
+        "data": [
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Picks For",
+        "id": "Night Stalker Picks",
+        "data": [
+            [
+                "BOOM Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Bans Against",
+        "id": "Night Stalker Bans",
+        "data": [
+            [
+                "BOOM Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Picks For",
+        "id": "Nyx Assassin Picks",
+        "data": [
+            [
+                "T1",
+                3.0
+            ],
+            [
+                "OB.Neon",
+                6.0
+            ],
+            [
+                "Ωmega Esports",
+                5.0
+            ],
+            [
+                "Fnatic",
+                3.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Lilgun ",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Bans Against",
+        "id": "Nyx Assassin Bans",
+        "data": [
+            [
+                "T1",
+                7.0
+            ],
+            [
+                "OB.Neon",
+                3.0
+            ],
+            [
+                "Ωmega Esports",
+                4.0
+            ],
+            [
+                "Fnatic",
+                4.0
+            ],
+            [
+                "Execration",
+                4.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ogre Magi Picks For",
+        "id": "Ogre Magi Picks",
+        "data": [
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ogre Magi Bans Against",
+        "id": "Ogre Magi Bans",
+        "data": [
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Omniknight Picks For",
+        "id": "Omniknight Picks",
+        "data": [
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Omniknight Bans Against",
+        "id": "Omniknight Bans",
+        "data": [
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Picks For",
+        "id": "Oracle Picks",
+        "data": [
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Bans Against",
+        "id": "Oracle Bans",
+        "data": [
+            [
+                "Lilgun ",
+                2.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Outworld Devourer Picks For",
+        "id": "Outworld Devourer Picks",
+        "data": [
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Outworld Devourer Bans Against",
+        "id": "Outworld Devourer Bans",
+        "data": [
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Picks For",
+        "id": "Pangolier Picks",
+        "data": [
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Bans Against",
+        "id": "Pangolier Bans",
+        "data": [
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Picks For",
+        "id": "Phantom Assassin Picks",
+        "data": [
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Bans Against",
+        "id": "Phantom Assassin Bans",
+        "data": [
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Picks For",
+        "id": "Phantom Lancer Picks",
+        "data": [
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "T1",
+                3.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Bans Against",
+        "id": "Phantom Lancer Bans",
+        "data": [
+            [
+                "OB.Neon",
+                7.0
+            ],
+            [
+                "T1",
+                4.0
+            ],
+            [
+                "Execration",
+                5.0
+            ],
+            [
+                "Ωmega Esports",
+                5.0
+            ],
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "Lilgun ",
+                2.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Picks For",
+        "id": "Phoenix Picks",
+        "data": [
+            [
+                "BOOM Esports",
+                5.0
+            ],
+            [
+                "Lilgun ",
+                4.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Bans Against",
+        "id": "Phoenix Bans",
+        "data": [
+            [
+                "BOOM Esports",
+                6.0
+            ],
+            [
+                "Lilgun ",
+                3.0
+            ],
+            [
+                "Execration",
+                4.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Picks For",
+        "id": "Puck Picks",
+        "data": [
+            [
+                "T1",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                5.0
+            ],
+            [
+                "OB.Neon",
+                5.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Bans Against",
+        "id": "Puck Bans",
+        "data": [
+            [
+                "T1",
+                12.0
+            ],
+            [
+                "TNC Predator",
+                9.0
+            ],
+            [
+                "OB.Neon",
+                7.0
+            ],
+            [
+                "BOOM Esports",
+                8.0
+            ],
+            [
+                "Fnatic",
+                10.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "Lilgun ",
+                2.0
+            ],
+            [
+                "Execration",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Pudge Picks For",
+        "id": "Pudge Picks",
+        "data": [
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pudge Bans Against",
+        "id": "Pudge Bans",
+        "data": [
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Picks For",
+        "id": "Pugna Picks",
+        "data": [
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Bans Against",
+        "id": "Pugna Bans",
+        "data": [
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Picks For",
+        "id": "Queen of Pain Picks",
+        "data": [
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Bans Against",
+        "id": "Queen of Pain Bans",
+        "data": [
+            [
+                "T1",
+                4.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Picks For",
+        "id": "Razor Picks",
+        "data": [
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "T1",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Bans Against",
+        "id": "Razor Bans",
+        "data": [
+            [
+                "Ωmega Esports",
+                9.0
+            ],
+            [
+                "Lilgun ",
+                4.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Riki Picks For",
+        "id": "Riki Picks",
+        "data": [
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Riki Bans Against",
+        "id": "Riki Bans",
+        "data": [
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Picks For",
+        "id": "Rubick Picks",
+        "data": [
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Bans Against",
+        "id": "Rubick Bans",
+        "data": [
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Picks For",
+        "id": "Sand King Picks",
+        "data": [
+            [
+                "OB.Neon",
+                8.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Bans Against",
+        "id": "Sand King Bans",
+        "data": [
+            [
+                "OB.Neon",
+                4.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Picks For",
+        "id": "Shadow Demon Picks",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Bans Against",
+        "id": "Shadow Demon Bans",
+        "data": [
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Fiend Picks For",
+        "id": "Shadow Fiend Picks",
+        "data": [
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Fiend Bans Against",
+        "id": "Shadow Fiend Bans",
+        "data": [
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Picks For",
+        "id": "Shadow Shaman Picks",
+        "data": [
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Bans Against",
+        "id": "Shadow Shaman Bans",
+        "data": [
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Picks For",
+        "id": "Skywrath Mage Picks",
+        "data": [
+            [
+                "Ωmega Esports",
+                4.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Bans Against",
+        "id": "Skywrath Mage Bans",
+        "data": [
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Picks For",
+        "id": "Slardar Picks",
+        "data": [
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Bans Against",
+        "id": "Slardar Bans",
+        "data": [
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Slark Picks For",
+        "id": "Slark Picks",
+        "data": [
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Slark Bans Against",
+        "id": "Slark Bans",
+        "data": [
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Picks For",
+        "id": "Snapfire Picks",
+        "data": [
+            [
+                "T1",
+                7.0
+            ],
+            [
+                "TNC Predator",
+                5.0
+            ],
+            [
+                "BOOM Esports",
+                5.0
+            ],
+            [
+                "Execration",
+                4.0
+            ],
+            [
+                "Ωmega Esports",
+                4.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Bans Against",
+        "id": "Snapfire Bans",
+        "data": [
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Sniper Picks For",
+        "id": "Sniper Picks",
+        "data": [
+            [
+                "Ωmega Esports",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Sniper Bans Against",
+        "id": "Sniper Bans",
+        "data": [
+            [
+                "Ωmega Esports",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Picks For",
+        "id": "Spectre Picks",
+        "data": [
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Bans Against",
+        "id": "Spectre Bans",
+        "data": [
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Spirit Breaker Picks For",
+        "id": "Spirit Breaker Picks",
+        "data": [
+            [
+                "T1",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Spirit Breaker Bans Against",
+        "id": "Spirit Breaker Bans",
+        "data": [
+            [
+                "T1",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Picks For",
+        "id": "Storm Spirit Picks",
+        "data": [
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Bans Against",
+        "id": "Storm Spirit Bans",
+        "data": [
+            [
+                "Fnatic",
+                4.0
+            ],
+            [
+                "Ωmega Esports",
+                4.0
+            ],
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Lilgun ",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Picks For",
+        "id": "Sven Picks",
+        "data": [
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Bans Against",
+        "id": "Sven Bans",
+        "data": [
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Picks For",
+        "id": "Templar Assassin Picks",
+        "data": [
+            [
+                "Lilgun ",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Bans Against",
+        "id": "Templar Assassin Bans",
+        "data": [
+            [
+                "Lilgun ",
+                4.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                3.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Picks For",
+        "id": "Terrorblade Picks",
+        "data": [
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Bans Against",
+        "id": "Terrorblade Bans",
+        "data": [
+            [
+                "Fnatic",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                4.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Picks For",
+        "id": "Tidehunter Picks",
+        "data": [
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Bans Against",
+        "id": "Tidehunter Bans",
+        "data": [
+            [
+                "Fnatic",
+                4.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Picks For",
+        "id": "Timbersaw Picks",
+        "data": [
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "T1",
+                3.0
+            ],
+            [
+                "Fnatic",
+                3.0
+            ],
+            [
+                "Lilgun ",
+                2.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Bans Against",
+        "id": "Timbersaw Bans",
+        "data": [
+            [
+                "BOOM Esports",
+                15.0
+            ],
+            [
+                "T1",
+                8.0
+            ],
+            [
+                "Fnatic",
+                6.0
+            ],
+            [
+                "Lilgun ",
+                5.0
+            ],
+            [
+                "Execration",
+                4.0
+            ],
+            [
+                "OB.Neon",
+                3.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tinker Picks For",
+        "id": "Tinker Picks",
+        "data": [
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tinker Bans Against",
+        "id": "Tinker Bans",
+        "data": [
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Picks For",
+        "id": "Tiny Picks",
+        "data": [
+            [
+                "TNC Predator",
+                8.0
+            ],
+            [
+                "Lilgun ",
+                10.0
+            ],
+            [
+                "Ωmega Esports",
+                5.0
+            ],
+            [
+                "Execration",
+                4.0
+            ],
+            [
+                "OB.Neon",
+                3.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Bans Against",
+        "id": "Tiny Bans",
+        "data": [
+            [
+                "TNC Predator",
+                5.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                3.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Picks For",
+        "id": "Treant Protector Picks",
+        "data": [
+            [
+                "Execration",
+                3.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Bans Against",
+        "id": "Treant Protector Bans",
+        "data": [
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Picks For",
+        "id": "Troll Warlord Picks",
+        "data": [
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Bans Against",
+        "id": "Troll Warlord Bans",
+        "data": [
+            [
+                "Execration",
+                8.0
+            ],
+            [
+                "Lilgun ",
+                3.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Picks For",
+        "id": "Tusk Picks",
+        "data": [
+            [
+                "Fnatic",
+                4.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "T1",
+                4.0
+            ],
+            [
+                "Execration",
+                3.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Bans Against",
+        "id": "Tusk Bans",
+        "data": [
+            [
+                "Fnatic",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                3.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Picks For",
+        "id": "Underlord Picks",
+        "data": [
+            [
+                "Lilgun ",
+                5.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Bans Against",
+        "id": "Underlord Bans",
+        "data": [
+            [
+                "Lilgun ",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Picks For",
+        "id": "Undying Picks",
+        "data": [
+            [
+                "Lilgun ",
+                3.0
+            ],
+            [
+                "Fnatic",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Bans Against",
+        "id": "Undying Bans",
+        "data": [
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Picks For",
+        "id": "Ursa Picks",
+        "data": [
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Bans Against",
+        "id": "Ursa Bans",
+        "data": [
+            [
+                "Fnatic",
+                5.0
+            ],
+            [
+                "Ωmega Esports",
+                4.0
+            ],
+            [
+                "OB.Neon",
+                3.0
+            ],
+            [
+                "TNC Predator",
+                2.0
+            ],
+            [
+                "T1",
+                3.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Vengeful Spirit Picks For",
+        "id": "Vengeful Spirit Picks",
+        "data": [
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Vengeful Spirit Bans Against",
+        "id": "Vengeful Spirit Bans",
+        "data": [
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Picks For",
+        "id": "Venomancer Picks",
+        "data": [
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Bans Against",
+        "id": "Venomancer Bans",
+        "data": [
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Picks For",
+        "id": "Viper Picks",
+        "data": [
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                1.0
+            ],
+            [
+                "Execration",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Bans Against",
+        "id": "Viper Bans",
+        "data": [
+            [
+                "T1",
+                4.0
+            ],
+            [
+                "OB.Neon",
+                4.0
+            ],
+            [
+                "Ωmega Esports",
+                4.0
+            ],
+            [
+                "Lilgun ",
+                2.0
+            ],
+            [
+                "Execration",
+                3.0
+            ],
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "Fnatic",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Visage Picks For",
+        "id": "Visage Picks",
+        "data": [
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Visage Bans Against",
+        "id": "Visage Bans",
+        "data": [
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Picks For",
+        "id": "Void Spirit Picks",
+        "data": [
+            [
+                "Execration",
+                6.0
+            ],
+            [
+                "T1",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                3.0
+            ],
+            [
+                "Fnatic",
+                0.0
+            ],
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "Ωmega Esports",
+                1.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Bans Against",
+        "id": "Void Spirit Bans",
+        "data": [
+            [
+                "Execration",
+                4.0
+            ],
+            [
+                "T1",
+                4.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "Fnatic",
+                4.0
+            ],
+            [
+                "BOOM Esports",
+                2.0
+            ],
+            [
+                "Ωmega Esports",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Picks For",
+        "id": "Warlock Picks",
+        "data": [
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                2.0
+            ],
+            [
+                "Execration",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Bans Against",
+        "id": "Warlock Bans",
+        "data": [
+            [
+                "BOOM Esports",
+                1.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Execration",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Picks For",
+        "id": "Windranger Picks",
+        "data": [
+            [
+                "BOOM Esports",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "OB.Neon",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Bans Against",
+        "id": "Windranger Bans",
+        "data": [
+            [
+                "BOOM Esports",
+                3.0
+            ],
+            [
+                "Lilgun ",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Picks For",
+        "id": "Winter Wyvern Picks",
+        "data": [
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Bans Against",
+        "id": "Winter Wyvern Bans",
+        "data": [
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Picks For",
+        "id": "Witch Doctor Picks",
+        "data": [
+            [
+                "TNC Predator",
+                1.0
+            ],
+            [
+                "T1",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Bans Against",
+        "id": "Witch Doctor Bans",
+        "data": [
+            [
+                "TNC Predator",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Picks For",
+        "id": "Wraith King Picks",
+        "data": [
+            [
+                "Fnatic",
+                1.0
+            ],
+            [
+                "Execration",
+                1.0
+            ],
+            [
+                "OB.Neon",
+                3.0
+            ],
+            [
+                "Lilgun ",
+                2.0
+            ],
+            [
+                "T1",
+                2.0
+            ],
+            [
+                "TNC Predator",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Bans Against",
+        "id": "Wraith King Bans",
+        "data": [
+            [
+                "Fnatic",
+                4.0
+            ],
+            [
+                "Execration",
+                2.0
+            ],
+            [
+                "OB.Neon",
+                0.0
+            ],
+            [
+                "Lilgun ",
+                0.0
+            ],
+            [
+                "T1",
+                0.0
+            ],
+            [
+                "TNC Predator",
+                1.0
+            ]
+        ]
+    }
+]

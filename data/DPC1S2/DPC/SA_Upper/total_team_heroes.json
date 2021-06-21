@@ -1,0 +1,7274 @@
+[
+    {
+        "name": "Abaddon Matches Played",
+        "id": "Abaddon Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                3
+            ],
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "Unknown Team",
+                3
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Matches Won",
+        "id": "Abaddon Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "SG esports",
+                0
+            ],
+            [
+                "Thunder Predator",
+                0
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Win Rate",
+        "id": "Abaddon Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.3333333333333333
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Alchemist Matches Played",
+        "id": "Alchemist Matches Played",
+        "data": [
+            [
+                "NoPing Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Matches Won",
+        "id": "Alchemist Matches Won",
+        "data": [
+            [
+                "NoPing Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Win Rate",
+        "id": "Alchemist Win Rate",
+        "data": [
+            [
+                "NoPing Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ancient Apparition Matches Played",
+        "id": "Ancient Apparition Matches Played",
+        "data": [
+            [
+                "SG esports",
+                3
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Matches Won",
+        "id": "Ancient Apparition Matches Won",
+        "data": [
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Win Rate",
+        "id": "Ancient Apparition Win Rate",
+        "data": [
+            [
+                "SG esports",
+                0.6666666666666666
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Anti-Mage Matches Played",
+        "id": "Anti-Mage Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Thunder Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Matches Won",
+        "id": "Anti-Mage Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Thunder Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Win Rate",
+        "id": "Anti-Mage Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.5
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Arc Warden Matches Played",
+        "id": "Arc Warden Matches Played",
+        "data": [
+            [
+                "SG esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Matches Won",
+        "id": "Arc Warden Matches Won",
+        "data": [
+            [
+                "SG esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Win Rate",
+        "id": "Arc Warden Win Rate",
+        "data": [
+            [
+                "SG esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Axe Matches Played",
+        "id": "Axe Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Infinity",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Axe Matches Won",
+        "id": "Axe Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Infinity",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Axe Win Rate",
+        "id": "Axe Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bane Matches Played",
+        "id": "Bane Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bane Matches Won",
+        "id": "Bane Matches Won",
+        "data": [
+            [
+                "Hokori",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bane Win Rate",
+        "id": "Bane Win Rate",
+        "data": [
+            [
+                "Hokori",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Batrider Matches Played",
+        "id": "Batrider Matches Played",
+        "data": [
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Matches Won",
+        "id": "Batrider Matches Won",
+        "data": [
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "beastcoast",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Win Rate",
+        "id": "Batrider Win Rate",
+        "data": [
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Beastmaster Matches Played",
+        "id": "Beastmaster Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "Unknown Team",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Matches Won",
+        "id": "Beastmaster Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Win Rate",
+        "id": "Beastmaster Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.5
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bloodseeker Matches Played",
+        "id": "Bloodseeker Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Matches Won",
+        "id": "Bloodseeker Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Win Rate",
+        "id": "Bloodseeker Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.5
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bounty Hunter Matches Played",
+        "id": "Bounty Hunter Matches Played",
+        "data": [
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bounty Hunter Matches Won",
+        "id": "Bounty Hunter Matches Won",
+        "data": [
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Bounty Hunter Win Rate",
+        "id": "Bounty Hunter Win Rate",
+        "data": [
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Brewmaster Matches Played",
+        "id": "Brewmaster Matches Played",
+        "data": [
+            [
+                "SG esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Matches Won",
+        "id": "Brewmaster Matches Won",
+        "data": [
+            [
+                "SG esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Win Rate",
+        "id": "Brewmaster Win Rate",
+        "data": [
+            [
+                "SG esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bristleback Matches Played",
+        "id": "Bristleback Matches Played",
+        "data": [
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Matches Won",
+        "id": "Bristleback Matches Won",
+        "data": [
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Win Rate",
+        "id": "Bristleback Win Rate",
+        "data": [
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.5
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Broodmother Matches Played",
+        "id": "Broodmother Matches Played",
+        "data": [
+            [
+                "Hokori",
+                3
+            ],
+            [
+                "Infinity",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Matches Won",
+        "id": "Broodmother Matches Won",
+        "data": [
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infinity",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Win Rate",
+        "id": "Broodmother Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.6666666666666666
+            ],
+            [
+                "Infinity",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Centaur Warrunner Matches Played",
+        "id": "Centaur Warrunner Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "NoPing Esports",
+                7
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                4
+            ],
+            [
+                "Unknown Team",
+                3
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Matches Won",
+        "id": "Centaur Warrunner Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "NoPing Esports",
+                6
+            ],
+            [
+                "SG esports",
+                0
+            ],
+            [
+                "Thunder Predator",
+                3
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Win Rate",
+        "id": "Centaur Warrunner Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.8571428571428571
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                0.75
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Clockwerk Matches Played",
+        "id": "Clockwerk Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Matches Won",
+        "id": "Clockwerk Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "Thunder Predator",
+                0
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Win Rate",
+        "id": "Clockwerk Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.5
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dark Seer Matches Played",
+        "id": "Dark Seer Matches Played",
+        "data": [
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Matches Won",
+        "id": "Dark Seer Matches Won",
+        "data": [
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Win Rate",
+        "id": "Dark Seer Win Rate",
+        "data": [
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dark Willow Matches Played",
+        "id": "Dark Willow Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                3
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Thunder Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Matches Won",
+        "id": "Dark Willow Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "Thunder Predator",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Win Rate",
+        "id": "Dark Willow Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.3333333333333333
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Death Prophet Matches Played",
+        "id": "Death Prophet Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "SG esports",
+                4
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Matches Won",
+        "id": "Death Prophet Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                0
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Win Rate",
+        "id": "Death Prophet Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.5
+            ],
+            [
+                "SG esports",
+                0.25
+            ],
+            [
+                "Thunder Predator",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Disruptor Matches Played",
+        "id": "Disruptor Matches Played",
+        "data": [
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Matches Won",
+        "id": "Disruptor Matches Won",
+        "data": [
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Win Rate",
+        "id": "Disruptor Win Rate",
+        "data": [
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Doom Matches Played",
+        "id": "Doom Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Unknown Team",
+                2
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Doom Matches Won",
+        "id": "Doom Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "SG esports",
+                0
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Doom Win Rate",
+        "id": "Doom Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.5
+            ],
+            [
+                "beastcoast",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dragon Knight Matches Played",
+        "id": "Dragon Knight Matches Played",
+        "data": [
+            [
+                "Hokori",
+                3
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Matches Won",
+        "id": "Dragon Knight Matches Won",
+        "data": [
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "SG esports",
+                0
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Win Rate",
+        "id": "Dragon Knight Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.6666666666666666
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Earth Spirit Matches Played",
+        "id": "Earth Spirit Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                5
+            ],
+            [
+                "Infinity",
+                4
+            ],
+            [
+                "Thunder Predator",
+                3
+            ],
+            [
+                "Unknown Team",
+                2
+            ],
+            [
+                "beastcoast",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Matches Won",
+        "id": "Earth Spirit Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                3
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Win Rate",
+        "id": "Earth Spirit Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.6
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                0.3333333333333333
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.75
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Earthshaker Matches Played",
+        "id": "Earthshaker Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Earthshaker Matches Won",
+        "id": "Earthshaker Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Earthshaker Win Rate",
+        "id": "Earthshaker Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Elder Titan Matches Played",
+        "id": "Elder Titan Matches Played",
+        "data": [
+            [
+                "Thunder Predator",
+                3
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Matches Won",
+        "id": "Elder Titan Matches Won",
+        "data": [
+            [
+                "Thunder Predator",
+                3
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Win Rate",
+        "id": "Elder Titan Win Rate",
+        "data": [
+            [
+                "Thunder Predator",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ember Spirit Matches Played",
+        "id": "Ember Spirit Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                3
+            ],
+            [
+                "SG esports",
+                3
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Matches Won",
+        "id": "Ember Spirit Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Win Rate",
+        "id": "Ember Spirit Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.6666666666666666
+            ],
+            [
+                "SG esports",
+                0.3333333333333333
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Enchantress Matches Played",
+        "id": "Enchantress Matches Played",
+        "data": [
+            [
+                "SG esports",
+                5
+            ],
+            [
+                "Thunder Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Matches Won",
+        "id": "Enchantress Matches Won",
+        "data": [
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "Thunder Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Win Rate",
+        "id": "Enchantress Win Rate",
+        "data": [
+            [
+                "SG esports",
+                0.4
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Enigma Matches Played",
+        "id": "Enigma Matches Played",
+        "data": [
+            [
+                "SG esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Matches Won",
+        "id": "Enigma Matches Won",
+        "data": [
+            [
+                "SG esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Win Rate",
+        "id": "Enigma Win Rate",
+        "data": [
+            [
+                "SG esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Faceless Void Matches Played",
+        "id": "Faceless Void Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "beastcoast",
+                5
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Matches Won",
+        "id": "Faceless Void Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "beastcoast",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Win Rate",
+        "id": "Faceless Void Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                0.5
+            ],
+            [
+                "beastcoast",
+                0.6
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Grimstroke Matches Played",
+        "id": "Grimstroke Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Unknown Team",
+                3
+            ],
+            [
+                "beastcoast",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Matches Won",
+        "id": "Grimstroke Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "SG esports",
+                0
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Win Rate",
+        "id": "Grimstroke Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.3333333333333333
+            ],
+            [
+                "beastcoast",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Gyrocopter Matches Played",
+        "id": "Gyrocopter Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                6
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Matches Won",
+        "id": "Gyrocopter Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                3
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Win Rate",
+        "id": "Gyrocopter Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.5
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.6666666666666666
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Hoodwink Matches Played",
+        "id": "Hoodwink Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                3
+            ],
+            [
+                "NoPing Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Matches Won",
+        "id": "Hoodwink Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "NoPing Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Win Rate",
+        "id": "Hoodwink Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.6666666666666666
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Huskar Matches Played",
+        "id": "Huskar Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Huskar Matches Won",
+        "id": "Huskar Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Huskar Win Rate",
+        "id": "Huskar Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Invoker Matches Played",
+        "id": "Invoker Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                3
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Matches Won",
+        "id": "Invoker Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                3
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "SG esports",
+                0
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Win Rate",
+        "id": "Invoker Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.5
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Io Matches Played",
+        "id": "Io Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Io Matches Won",
+        "id": "Io Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Io Win Rate",
+        "id": "Io Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Jakiro Matches Played",
+        "id": "Jakiro Matches Played",
+        "data": [
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Jakiro Matches Won",
+        "id": "Jakiro Matches Won",
+        "data": [
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Jakiro Win Rate",
+        "id": "Jakiro Win Rate",
+        "data": [
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Juggernaut Matches Played",
+        "id": "Juggernaut Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "beastcoast",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Matches Won",
+        "id": "Juggernaut Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "SG esports",
+                0
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Win Rate",
+        "id": "Juggernaut Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.5
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Keeper of the Light Matches Played",
+        "id": "Keeper of the Light Matches Played",
+        "data": [
+            [
+                "Thunder Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Keeper of the Light Matches Won",
+        "id": "Keeper of the Light Matches Won",
+        "data": [
+            [
+                "Thunder Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Keeper of the Light Win Rate",
+        "id": "Keeper of the Light Win Rate",
+        "data": [
+            [
+                "Thunder Predator",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Kunkka Matches Played",
+        "id": "Kunkka Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Unknown Team",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Matches Won",
+        "id": "Kunkka Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Win Rate",
+        "id": "Kunkka Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Leshrac Matches Played",
+        "id": "Leshrac Matches Played",
+        "data": [
+            [
+                "Hokori",
+                4
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Infinity",
+                4
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "Unknown Team",
+                4
+            ],
+            [
+                "beastcoast",
+                5
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Matches Won",
+        "id": "Leshrac Matches Won",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "Unknown Team",
+                2
+            ],
+            [
+                "beastcoast",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Win Rate",
+        "id": "Leshrac Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.25
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.25
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.5
+            ],
+            [
+                "beastcoast",
+                0.6
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lifestealer Matches Played",
+        "id": "Lifestealer Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "Unknown Team",
+                2
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Matches Won",
+        "id": "Lifestealer Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Win Rate",
+        "id": "Lifestealer Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.5
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lina Matches Played",
+        "id": "Lina Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                3
+            ],
+            [
+                "Thunder Predator",
+                3
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Lina Matches Won",
+        "id": "Lina Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Thunder Predator",
+                3
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lina Win Rate",
+        "id": "Lina Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.3333333333333333
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lion Matches Played",
+        "id": "Lion Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                4
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "SG esports",
+                5
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lion Matches Won",
+        "id": "Lion Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                3
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Win Rate",
+        "id": "Lion Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.75
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.2
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Luna Matches Played",
+        "id": "Luna Matches Played",
+        "data": [
+            [
+                "Hokori",
+                3
+            ],
+            [
+                "Infinity",
+                3
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Luna Matches Won",
+        "id": "Luna Matches Won",
+        "data": [
+            [
+                "Hokori",
+                3
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Win Rate",
+        "id": "Luna Win Rate",
+        "data": [
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.5
+            ],
+            [
+                "Thunder Predator",
+                0.5
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Magnus Matches Played",
+        "id": "Magnus Matches Played",
+        "data": [
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "beastcoast",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Matches Won",
+        "id": "Magnus Matches Won",
+        "data": [
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Win Rate",
+        "id": "Magnus Win Rate",
+        "data": [
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Mars Matches Played",
+        "id": "Mars Matches Played",
+        "data": [
+            [
+                "Hokori",
+                3
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "NoPing Esports",
+                6
+            ],
+            [
+                "SG esports",
+                7
+            ],
+            [
+                "Thunder Predator",
+                5
+            ],
+            [
+                "Unknown Team",
+                2
+            ],
+            [
+                "beastcoast",
+                5
+            ]
+        ]
+    },
+    {
+        "name": "Mars Matches Won",
+        "id": "Mars Matches Won",
+        "data": [
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "NoPing Esports",
+                6
+            ],
+            [
+                "SG esports",
+                3
+            ],
+            [
+                "Thunder Predator",
+                5
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                5
+            ]
+        ]
+    },
+    {
+        "name": "Mars Win Rate",
+        "id": "Mars Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.6666666666666666
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.42857142857142855
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Medusa Matches Played",
+        "id": "Medusa Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "NoPing Esports",
+                4
+            ],
+            [
+                "SG esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Matches Won",
+        "id": "Medusa Matches Won",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "NoPing Esports",
+                4
+            ],
+            [
+                "SG esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Win Rate",
+        "id": "Medusa Win Rate",
+        "data": [
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Mirana Matches Played",
+        "id": "Mirana Matches Played",
+        "data": [
+            [
+                "Hokori",
+                3
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Unknown Team",
+                2
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Matches Won",
+        "id": "Mirana Matches Won",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Win Rate",
+        "id": "Mirana Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.3333333333333333
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Monkey King Matches Played",
+        "id": "Monkey King Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Matches Won",
+        "id": "Monkey King Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "beastcoast",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Win Rate",
+        "id": "Monkey King Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Morphling Matches Played",
+        "id": "Morphling Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "Unknown Team",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Matches Won",
+        "id": "Morphling Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Win Rate",
+        "id": "Morphling Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Naga Siren Matches Played",
+        "id": "Naga Siren Matches Played",
+        "data": [
+            [
+                "NoPing Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren Matches Won",
+        "id": "Naga Siren Matches Won",
+        "data": [
+            [
+                "NoPing Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren Win Rate",
+        "id": "Naga Siren Win Rate",
+        "data": [
+            [
+                "NoPing Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Nature's Prophet Matches Played",
+        "id": "Nature's Prophet Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                3
+            ],
+            [
+                "NoPing Esports",
+                5
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Matches Won",
+        "id": "Nature's Prophet Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "NoPing Esports",
+                4
+            ],
+            [
+                "Thunder Predator",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Win Rate",
+        "id": "Nature's Prophet Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.8
+            ],
+            [
+                "Thunder Predator",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Necrophos Matches Played",
+        "id": "Necrophos Matches Played",
+        "data": [
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Matches Won",
+        "id": "Necrophos Matches Won",
+        "data": [
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "SG esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Win Rate",
+        "id": "Necrophos Win Rate",
+        "data": [
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Night Stalker Matches Played",
+        "id": "Night Stalker Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Matches Won",
+        "id": "Night Stalker Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Win Rate",
+        "id": "Night Stalker Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Nyx Assassin Matches Played",
+        "id": "Nyx Assassin Matches Played",
+        "data": [
+            [
+                "Hokori",
+                4
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "NoPing Esports",
+                5
+            ],
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "beastcoast",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Matches Won",
+        "id": "Nyx Assassin Matches Won",
+        "data": [
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "SG esports",
+                0
+            ],
+            [
+                "beastcoast",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Win Rate",
+        "id": "Nyx Assassin Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.5
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.6
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ogre Magi Matches Played",
+        "id": "Ogre Magi Matches Played",
+        "data": [
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "SG esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ogre Magi Matches Won",
+        "id": "Ogre Magi Matches Won",
+        "data": [
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "SG esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ogre Magi Win Rate",
+        "id": "Ogre Magi Win Rate",
+        "data": [
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Oracle Matches Played",
+        "id": "Oracle Matches Played",
+        "data": [
+            [
+                "Hokori",
+                4
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                3
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Matches Won",
+        "id": "Oracle Matches Won",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Win Rate",
+        "id": "Oracle Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.25
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.3333333333333333
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Pangolier Matches Played",
+        "id": "Pangolier Matches Played",
+        "data": [
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Thunder Predator",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Matches Won",
+        "id": "Pangolier Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "Thunder Predator",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Win Rate",
+        "id": "Pangolier Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Phantom Assassin Matches Played",
+        "id": "Phantom Assassin Matches Played",
+        "data": [
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Matches Won",
+        "id": "Phantom Assassin Matches Won",
+        "data": [
+            [
+                "SG esports",
+                0
+            ],
+            [
+                "Thunder Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Win Rate",
+        "id": "Phantom Assassin Win Rate",
+        "data": [
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Phantom Lancer Matches Played",
+        "id": "Phantom Lancer Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Unknown Team",
+                3
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Matches Won",
+        "id": "Phantom Lancer Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Win Rate",
+        "id": "Phantom Lancer Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.3333333333333333
+            ],
+            [
+                "beastcoast",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Phoenix Matches Played",
+        "id": "Phoenix Matches Played",
+        "data": [
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "Thunder Predator",
+                5
+            ],
+            [
+                "Unknown Team",
+                3
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Matches Won",
+        "id": "Phoenix Matches Won",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                4
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Win Rate",
+        "id": "Phoenix Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.5
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.5
+            ],
+            [
+                "Thunder Predator",
+                0.8
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Puck Matches Played",
+        "id": "Puck Matches Played",
+        "data": [
+            [
+                "Hokori",
+                3
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "Thunder Predator",
+                5
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Puck Matches Won",
+        "id": "Puck Matches Won",
+        "data": [
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                4
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Puck Win Rate",
+        "id": "Puck Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.6666666666666666
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.5
+            ],
+            [
+                "Thunder Predator",
+                0.8
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Pudge Matches Played",
+        "id": "Pudge Matches Played",
+        "data": [
+            [
+                "SG esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Pudge Matches Won",
+        "id": "Pudge Matches Won",
+        "data": [
+            [
+                "SG esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Pudge Win Rate",
+        "id": "Pudge Win Rate",
+        "data": [
+            [
+                "SG esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Pugna Matches Played",
+        "id": "Pugna Matches Played",
+        "data": [
+            [
+                "Infinity",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Matches Won",
+        "id": "Pugna Matches Won",
+        "data": [
+            [
+                "Infinity",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Win Rate",
+        "id": "Pugna Win Rate",
+        "data": [
+            [
+                "Infinity",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Queen of Pain Matches Played",
+        "id": "Queen of Pain Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Matches Won",
+        "id": "Queen of Pain Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Win Rate",
+        "id": "Queen of Pain Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Razor Matches Played",
+        "id": "Razor Matches Played",
+        "data": [
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Razor Matches Won",
+        "id": "Razor Matches Won",
+        "data": [
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "SG esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Razor Win Rate",
+        "id": "Razor Win Rate",
+        "data": [
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Riki Matches Played",
+        "id": "Riki Matches Played",
+        "data": [
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Riki Matches Won",
+        "id": "Riki Matches Won",
+        "data": [
+            [
+                "beastcoast",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Riki Win Rate",
+        "id": "Riki Win Rate",
+        "data": [
+            [
+                "beastcoast",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Rubick Matches Played",
+        "id": "Rubick Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Matches Won",
+        "id": "Rubick Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Win Rate",
+        "id": "Rubick Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.5
+            ],
+            [
+                "beastcoast",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Sand King Matches Played",
+        "id": "Sand King Matches Played",
+        "data": [
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Matches Won",
+        "id": "Sand King Matches Won",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Win Rate",
+        "id": "Sand King Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.5
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Shadow Demon Matches Played",
+        "id": "Shadow Demon Matches Played",
+        "data": [
+            [
+                "SG esports",
+                3
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Matches Won",
+        "id": "Shadow Demon Matches Won",
+        "data": [
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Win Rate",
+        "id": "Shadow Demon Win Rate",
+        "data": [
+            [
+                "SG esports",
+                0.3333333333333333
+            ],
+            [
+                "Thunder Predator",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Shadow Shaman Matches Played",
+        "id": "Shadow Shaman Matches Played",
+        "data": [
+            [
+                "Thunder Predator",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Matches Won",
+        "id": "Shadow Shaman Matches Won",
+        "data": [
+            [
+                "Thunder Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Win Rate",
+        "id": "Shadow Shaman Win Rate",
+        "data": [
+            [
+                "Thunder Predator",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Skywrath Mage Matches Played",
+        "id": "Skywrath Mage Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Matches Won",
+        "id": "Skywrath Mage Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "NoPing Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Win Rate",
+        "id": "Skywrath Mage Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Slardar Matches Played",
+        "id": "Slardar Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Matches Won",
+        "id": "Slardar Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Win Rate",
+        "id": "Slardar Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Slark Matches Played",
+        "id": "Slark Matches Played",
+        "data": [
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Slark Matches Won",
+        "id": "Slark Matches Won",
+        "data": [
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "beastcoast",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Slark Win Rate",
+        "id": "Slark Win Rate",
+        "data": [
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Snapfire Matches Played",
+        "id": "Snapfire Matches Played",
+        "data": [
+            [
+                "Hokori",
+                4
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "Unknown Team",
+                7
+            ],
+            [
+                "beastcoast",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Matches Won",
+        "id": "Snapfire Matches Won",
+        "data": [
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "SG esports",
+                0
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "Unknown Team",
+                2
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Win Rate",
+        "id": "Snapfire Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.5
+            ],
+            [
+                "Infamous Gaming",
+                0.5
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                0.5
+            ],
+            [
+                "Unknown Team",
+                0.2857142857142857
+            ],
+            [
+                "beastcoast",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Spectre Matches Played",
+        "id": "Spectre Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "Thunder Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Matches Won",
+        "id": "Spectre Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Thunder Predator",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Win Rate",
+        "id": "Spectre Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.5
+            ],
+            [
+                "Thunder Predator",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Spirit Breaker Matches Played",
+        "id": "Spirit Breaker Matches Played",
+        "data": [
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Thunder Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Spirit Breaker Matches Won",
+        "id": "Spirit Breaker Matches Won",
+        "data": [
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "Thunder Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Spirit Breaker Win Rate",
+        "id": "Spirit Breaker Win Rate",
+        "data": [
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Storm Spirit Matches Played",
+        "id": "Storm Spirit Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Matches Won",
+        "id": "Storm Spirit Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "SG esports",
+                0
+            ],
+            [
+                "Thunder Predator",
+                0
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Win Rate",
+        "id": "Storm Spirit Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Sven Matches Played",
+        "id": "Sven Matches Played",
+        "data": [
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Sven Matches Won",
+        "id": "Sven Matches Won",
+        "data": [
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Sven Win Rate",
+        "id": "Sven Win Rate",
+        "data": [
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.5
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Templar Assassin Matches Played",
+        "id": "Templar Assassin Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "SG esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Matches Won",
+        "id": "Templar Assassin Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "SG esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Win Rate",
+        "id": "Templar Assassin Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.6666666666666666
+            ],
+            [
+                "SG esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Terrorblade Matches Played",
+        "id": "Terrorblade Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Matches Won",
+        "id": "Terrorblade Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "SG esports",
+                0
+            ],
+            [
+                "Thunder Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Win Rate",
+        "id": "Terrorblade Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tidehunter Matches Played",
+        "id": "Tidehunter Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                3
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "Unknown Team",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Matches Won",
+        "id": "Tidehunter Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Win Rate",
+        "id": "Tidehunter Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.6666666666666666
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Thunder Predator",
+                0.5
+            ],
+            [
+                "Unknown Team",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Timbersaw Matches Played",
+        "id": "Timbersaw Matches Played",
+        "data": [
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "beastcoast",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Matches Won",
+        "id": "Timbersaw Matches Won",
+        "data": [
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                0
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Win Rate",
+        "id": "Timbersaw Win Rate",
+        "data": [
+            [
+                "NoPing Esports",
+                0.6666666666666666
+            ],
+            [
+                "SG esports",
+                0.5
+            ],
+            [
+                "Thunder Predator",
+                0.0
+            ],
+            [
+                "beastcoast",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tiny Matches Played",
+        "id": "Tiny Matches Played",
+        "data": [
+            [
+                "Hokori",
+                4
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "NoPing Esports",
+                9
+            ],
+            [
+                "SG esports",
+                4
+            ],
+            [
+                "Thunder Predator",
+                5
+            ],
+            [
+                "Unknown Team",
+                4
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Matches Won",
+        "id": "Tiny Matches Won",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "NoPing Esports",
+                7
+            ],
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "Thunder Predator",
+                3
+            ],
+            [
+                "Unknown Team",
+                2
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Win Rate",
+        "id": "Tiny Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.25
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.7777777777777778
+            ],
+            [
+                "SG esports",
+                0.5
+            ],
+            [
+                "Thunder Predator",
+                0.6
+            ],
+            [
+                "Unknown Team",
+                0.5
+            ],
+            [
+                "beastcoast",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Treant Protector Matches Played",
+        "id": "Treant Protector Matches Played",
+        "data": [
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Matches Won",
+        "id": "Treant Protector Matches Won",
+        "data": [
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "SG esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Win Rate",
+        "id": "Treant Protector Win Rate",
+        "data": [
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Troll Warlord Matches Played",
+        "id": "Troll Warlord Matches Played",
+        "data": [
+            [
+                "Hokori",
+                4
+            ],
+            [
+                "Infamous Gaming",
+                3
+            ],
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Matches Won",
+        "id": "Troll Warlord Matches Won",
+        "data": [
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Win Rate",
+        "id": "Troll Warlord Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.5
+            ],
+            [
+                "Infamous Gaming",
+                0.6666666666666666
+            ],
+            [
+                "SG esports",
+                0.5
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tusk Matches Played",
+        "id": "Tusk Matches Played",
+        "data": [
+            [
+                "Hokori",
+                3
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Infinity",
+                4
+            ],
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                4
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Matches Won",
+        "id": "Tusk Matches Won",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Win Rate",
+        "id": "Tusk Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.3333333333333333
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.5
+            ],
+            [
+                "SG esports",
+                0.5
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.75
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Underlord Matches Played",
+        "id": "Underlord Matches Played",
+        "data": [
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Matches Won",
+        "id": "Underlord Matches Won",
+        "data": [
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Win Rate",
+        "id": "Underlord Win Rate",
+        "data": [
+            [
+                "beastcoast",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Undying Matches Played",
+        "id": "Undying Matches Played",
+        "data": [
+            [
+                "Hokori",
+                4
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Undying Matches Won",
+        "id": "Undying Matches Won",
+        "data": [
+            [
+                "Hokori",
+                3
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Undying Win Rate",
+        "id": "Undying Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.75
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ursa Matches Played",
+        "id": "Ursa Matches Played",
+        "data": [
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Matches Won",
+        "id": "Ursa Matches Won",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "SG esports",
+                0
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Win Rate",
+        "id": "Ursa Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.5
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.5
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Venomancer Matches Played",
+        "id": "Venomancer Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Matches Won",
+        "id": "Venomancer Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Win Rate",
+        "id": "Venomancer Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Viper Matches Played",
+        "id": "Viper Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "NoPing Esports",
+                4
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Viper Matches Won",
+        "id": "Viper Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "SG esports",
+                0
+            ],
+            [
+                "Thunder Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Viper Win Rate",
+        "id": "Viper Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.75
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Void Spirit Matches Played",
+        "id": "Void Spirit Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Thunder Predator",
+                3
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Matches Won",
+        "id": "Void Spirit Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "SG esports",
+                0
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "Unknown Team",
+                0
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Win Rate",
+        "id": "Void Spirit Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                0.3333333333333333
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Warlock Matches Played",
+        "id": "Warlock Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Matches Won",
+        "id": "Warlock Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Win Rate",
+        "id": "Warlock Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Weaver Matches Played",
+        "id": "Weaver Matches Played",
+        "data": [
+            [
+                "Thunder Predator",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Weaver Matches Won",
+        "id": "Weaver Matches Won",
+        "data": [
+            [
+                "Thunder Predator",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Weaver Win Rate",
+        "id": "Weaver Win Rate",
+        "data": [
+            [
+                "Thunder Predator",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Windranger Matches Played",
+        "id": "Windranger Matches Played",
+        "data": [
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Matches Won",
+        "id": "Windranger Matches Won",
+        "data": [
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Thunder Predator",
+                1
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Win Rate",
+        "id": "Windranger Win Rate",
+        "data": [
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Thunder Predator",
+                1.0
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Winter Wyvern Matches Played",
+        "id": "Winter Wyvern Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "NoPing Esports",
+                7
+            ],
+            [
+                "beastcoast",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Matches Won",
+        "id": "Winter Wyvern Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "NoPing Esports",
+                6
+            ],
+            [
+                "beastcoast",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Win Rate",
+        "id": "Winter Wyvern Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.8571428571428571
+            ],
+            [
+                "beastcoast",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Witch Doctor Matches Played",
+        "id": "Witch Doctor Matches Played",
+        "data": [
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "beastcoast",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Matches Won",
+        "id": "Witch Doctor Matches Won",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "NoPing Esports",
+                0
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Win Rate",
+        "id": "Witch Doctor Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.5
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "beastcoast",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Wraith King Matches Played",
+        "id": "Wraith King Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Thunder Predator",
+                3
+            ],
+            [
+                "Unknown Team",
+                2
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Matches Won",
+        "id": "Wraith King Matches Won",
+        "data": [
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "Thunder Predator",
+                2
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "beastcoast",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Win Rate",
+        "id": "Wraith King Win Rate",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.5
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Thunder Predator",
+                0.6666666666666666
+            ],
+            [
+                "Unknown Team",
+                0.5
+            ],
+            [
+                "beastcoast",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Zeus Matches Played",
+        "id": "Zeus Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Zeus Matches Won",
+        "id": "Zeus Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Zeus Win Rate",
+        "id": "Zeus Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    }
+]

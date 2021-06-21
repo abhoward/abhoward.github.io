@@ -1,0 +1,352 @@
+[
+    {
+        "match": "Unknown Team vs Infamous Gaming",
+        "y": 70,
+        "name": 1106
+    },
+    {
+        "match": "NoPing Esports vs Hokori",
+        "y": 69,
+        "name": 1150
+    },
+    {
+        "match": "NoPing Esports vs beastcoast",
+        "y": 68,
+        "name": 1340
+    },
+    {
+        "match": "Thunder Predator vs Unknown Team",
+        "y": 67,
+        "name": 1349
+    },
+    {
+        "match": "Infinity vs NoPing Esports",
+        "y": 66,
+        "name": 1363
+    },
+    {
+        "match": "Thunder Predator vs NoPing Esports",
+        "y": 65,
+        "name": 1411
+    },
+    {
+        "match": "beastcoast vs NoPing Esports",
+        "y": 64,
+        "name": 1501
+    },
+    {
+        "match": "beastcoast vs Thunder Predator",
+        "y": 63,
+        "name": 1514
+    },
+    {
+        "match": "SG esports vs NoPing Esports",
+        "y": 62,
+        "name": 1546
+    },
+    {
+        "match": "Infamous Gaming vs SG esports",
+        "y": 61,
+        "name": 1599
+    },
+    {
+        "match": "Hokori vs Thunder Predator",
+        "y": 60,
+        "name": 1623
+    },
+    {
+        "match": "Infinity vs Infamous Gaming",
+        "y": 59,
+        "name": 1642
+    },
+    {
+        "match": "Thunder Predator vs Unknown Team",
+        "y": 58,
+        "name": 1662
+    },
+    {
+        "match": "NoPing Esports vs Infamous Gaming",
+        "y": 57,
+        "name": 1684
+    },
+    {
+        "match": "NoPing Esports vs Unknown Team",
+        "y": 56,
+        "name": 1700
+    },
+    {
+        "match": "Thunder Predator vs beastcoast",
+        "y": 55,
+        "name": 1728
+    },
+    {
+        "match": "Thunder Predator vs Infinity",
+        "y": 54,
+        "name": 1730
+    },
+    {
+        "match": "beastcoast vs Thunder Predator",
+        "y": 53,
+        "name": 1732
+    },
+    {
+        "match": "beastcoast vs NoPing Esports",
+        "y": 52,
+        "name": 1745
+    },
+    {
+        "match": "Thunder Predator vs Hokori",
+        "y": 51,
+        "name": 1763
+    },
+    {
+        "match": "Thunder Predator vs NoPing Esports",
+        "y": 50,
+        "name": 1763
+    },
+    {
+        "match": "Unknown Team vs SG esports",
+        "y": 49,
+        "name": 1776
+    },
+    {
+        "match": "Hokori vs Infinity",
+        "y": 48,
+        "name": 1862
+    },
+    {
+        "match": "Thunder Predator vs SG esports",
+        "y": 47,
+        "name": 1900
+    },
+    {
+        "match": "Infamous Gaming vs beastcoast",
+        "y": 46,
+        "name": 1901
+    },
+    {
+        "match": "beastcoast vs Infinity",
+        "y": 45,
+        "name": 1915
+    },
+    {
+        "match": "SG esports vs Unknown Team",
+        "y": 44,
+        "name": 1923
+    },
+    {
+        "match": "NoPing Esports vs Hokori",
+        "y": 43,
+        "name": 1951
+    },
+    {
+        "match": "Infinity vs Thunder Predator",
+        "y": 42,
+        "name": 1961
+    },
+    {
+        "match": "Thunder Predator vs Infamous Gaming",
+        "y": 41,
+        "name": 1975
+    },
+    {
+        "match": "Thunder Predator vs NoPing Esports",
+        "y": 40,
+        "name": 1986
+    },
+    {
+        "match": "Hokori vs Infamous Gaming",
+        "y": 39,
+        "name": 1989
+    },
+    {
+        "match": "Infamous Gaming vs Infinity",
+        "y": 38,
+        "name": 1997
+    },
+    {
+        "match": "SG esports vs Infinity",
+        "y": 37,
+        "name": 2014
+    },
+    {
+        "match": "Hokori vs beastcoast",
+        "y": 36,
+        "name": 2026
+    },
+    {
+        "match": "Infinity vs SG esports",
+        "y": 35,
+        "name": 2060
+    },
+    {
+        "match": "NoPing Esports vs Infinity",
+        "y": 34,
+        "name": 2068
+    },
+    {
+        "match": "beastcoast vs NoPing Esports",
+        "y": 33,
+        "name": 2071
+    },
+    {
+        "match": "SG esports vs Hokori",
+        "y": 32,
+        "name": 2104
+    },
+    {
+        "match": "Thunder Predator vs SG esports",
+        "y": 31,
+        "name": 2109
+    },
+    {
+        "match": "Infamous Gaming vs NoPing Esports",
+        "y": 30,
+        "name": 2183
+    },
+    {
+        "match": "Unknown Team vs Hokori",
+        "y": 29,
+        "name": 2211
+    },
+    {
+        "match": "Unknown Team vs beastcoast",
+        "y": 28,
+        "name": 2241
+    },
+    {
+        "match": "Hokori vs Infinity",
+        "y": 27,
+        "name": 2258
+    },
+    {
+        "match": "Infamous Gaming vs Hokori",
+        "y": 26,
+        "name": 2289
+    },
+    {
+        "match": "NoPing Esports vs SG esports",
+        "y": 25,
+        "name": 2291
+    },
+    {
+        "match": "SG esports vs Infamous Gaming",
+        "y": 24,
+        "name": 2313
+    },
+    {
+        "match": "beastcoast vs Infamous Gaming",
+        "y": 23,
+        "name": 2335
+    },
+    {
+        "match": "Unknown Team vs beastcoast",
+        "y": 22,
+        "name": 2375
+    },
+    {
+        "match": "Hokori vs Infinity",
+        "y": 21,
+        "name": 2420
+    },
+    {
+        "match": "NoPing Esports vs beastcoast",
+        "y": 20,
+        "name": 2423
+    },
+    {
+        "match": "Thunder Predator vs Infamous Gaming",
+        "y": 19,
+        "name": 2441
+    },
+    {
+        "match": "Hokori vs SG esports",
+        "y": 18,
+        "name": 2449
+    },
+    {
+        "match": "Infamous Gaming vs Unknown Team",
+        "y": 17,
+        "name": 2494
+    },
+    {
+        "match": "Infamous Gaming vs Thunder Predator",
+        "y": 16,
+        "name": 2508
+    },
+    {
+        "match": "SG esports vs Unknown Team",
+        "y": 15,
+        "name": 2520
+    },
+    {
+        "match": "SG esports vs beastcoast",
+        "y": 14,
+        "name": 2526
+    },
+    {
+        "match": "SG esports vs Thunder Predator",
+        "y": 13,
+        "name": 2620
+    },
+    {
+        "match": "Hokori vs Unknown Team",
+        "y": 12,
+        "name": 2687
+    },
+    {
+        "match": "beastcoast vs SG esports",
+        "y": 11,
+        "name": 2891
+    },
+    {
+        "match": "Unknown Team vs NoPing Esports",
+        "y": 10,
+        "name": 2931
+    },
+    {
+        "match": "beastcoast vs Infinity",
+        "y": 9,
+        "name": 2942
+    },
+    {
+        "match": "Unknown Team vs Infinity",
+        "y": 8,
+        "name": 2995
+    },
+    {
+        "match": "Infamous Gaming vs Hokori",
+        "y": 7,
+        "name": 3089
+    },
+    {
+        "match": "Infamous Gaming vs beastcoast",
+        "y": 6,
+        "name": 3095
+    },
+    {
+        "match": "Thunder Predator vs Unknown Team",
+        "y": 5,
+        "name": 3148
+    },
+    {
+        "match": "beastcoast vs Infamous Gaming",
+        "y": 4,
+        "name": 3179
+    },
+    {
+        "match": "Hokori vs beastcoast",
+        "y": 3,
+        "name": 3201
+    },
+    {
+        "match": "SG esports vs Hokori",
+        "y": 2,
+        "name": 3226
+    },
+    {
+        "match": "Infinity vs Unknown Team",
+        "y": 1,
+        "name": 3467
+    }
+]

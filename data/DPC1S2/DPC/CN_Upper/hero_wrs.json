@@ -1,0 +1,607 @@
+[
+    {
+        "name": "Abaddon",
+        "y": 0.5833333333333334,
+        "drilldown": "Abaddon Win Rate"
+    },
+    {
+        "name": "Alchemist",
+        "y": 0.0,
+        "drilldown": "Alchemist Win Rate"
+    },
+    {
+        "name": "Ancient Apparition",
+        "y": 0.3333333333333333,
+        "drilldown": "Ancient Apparition Win Rate"
+    },
+    {
+        "name": "Anti-Mage",
+        "y": 0.3333333333333333,
+        "drilldown": "Anti-Mage Win Rate"
+    },
+    {
+        "name": "Arc Warden",
+        "y": 0.0,
+        "drilldown": "Arc Warden Win Rate"
+    },
+    {
+        "name": "Axe",
+        "y": 0.8,
+        "drilldown": "Axe Win Rate"
+    },
+    {
+        "name": "Bane",
+        "y": 1.0,
+        "drilldown": "Bane Win Rate"
+    },
+    {
+        "name": "Batrider",
+        "y": 0.0,
+        "drilldown": "Batrider Win Rate"
+    },
+    {
+        "name": "Beastmaster",
+        "y": 0.75,
+        "drilldown": "Beastmaster Win Rate"
+    },
+    {
+        "name": "Bloodseeker",
+        "y": 1.0,
+        "drilldown": "Bloodseeker Win Rate"
+    },
+    {
+        "name": "Bounty Hunter",
+        "y": 0.0,
+        "drilldown": "Bounty Hunter Win Rate"
+    },
+    {
+        "name": "Brewmaster",
+        "y": 0.0,
+        "drilldown": "Brewmaster Win Rate"
+    },
+    {
+        "name": "Bristleback",
+        "y": 0.5,
+        "drilldown": "Bristleback Win Rate"
+    },
+    {
+        "name": "Broodmother",
+        "y": 0.5714285714285714,
+        "drilldown": "Broodmother Win Rate"
+    },
+    {
+        "name": "Centaur Warrunner",
+        "y": 0.3888888888888889,
+        "drilldown": "Centaur Warrunner Win Rate"
+    },
+    {
+        "name": "Chaos Knight",
+        "y": 0.5714285714285714,
+        "drilldown": "Chaos Knight Win Rate"
+    },
+    {
+        "name": "Chen",
+        "y": 0.0,
+        "drilldown": "Chen Win Rate"
+    },
+    {
+        "name": "Clinkz",
+        "y": 1.0,
+        "drilldown": "Clinkz Win Rate"
+    },
+    {
+        "name": "Clockwerk",
+        "y": 0.5454545454545454,
+        "drilldown": "Clockwerk Win Rate"
+    },
+    {
+        "name": "Crystal Maiden",
+        "y": 0.0,
+        "drilldown": "Crystal Maiden Win Rate"
+    },
+    {
+        "name": "Dark Seer",
+        "y": 0.4444444444444444,
+        "drilldown": "Dark Seer Win Rate"
+    },
+    {
+        "name": "Dark Willow",
+        "y": 0.3333333333333333,
+        "drilldown": "Dark Willow Win Rate"
+    },
+    {
+        "name": "Dawnbreaker",
+        "y": 0.0,
+        "drilldown": "Dawnbreaker Win Rate"
+    },
+    {
+        "name": "Dazzle",
+        "y": 0.6666666666666666,
+        "drilldown": "Dazzle Win Rate"
+    },
+    {
+        "name": "Death Prophet",
+        "y": 0.6666666666666666,
+        "drilldown": "Death Prophet Win Rate"
+    },
+    {
+        "name": "Disruptor",
+        "y": 0.2857142857142857,
+        "drilldown": "Disruptor Win Rate"
+    },
+    {
+        "name": "Doom",
+        "y": 0.45454545454545453,
+        "drilldown": "Doom Win Rate"
+    },
+    {
+        "name": "Dragon Knight",
+        "y": 0.25,
+        "drilldown": "Dragon Knight Win Rate"
+    },
+    {
+        "name": "Drow Ranger",
+        "y": 0.6666666666666666,
+        "drilldown": "Drow Ranger Win Rate"
+    },
+    {
+        "name": "Earth Spirit",
+        "y": 0.5,
+        "drilldown": "Earth Spirit Win Rate"
+    },
+    {
+        "name": "Earthshaker",
+        "y": 0.0,
+        "drilldown": "Earthshaker Win Rate"
+    },
+    {
+        "name": "Elder Titan",
+        "y": 0.6086956521739131,
+        "drilldown": "Elder Titan Win Rate"
+    },
+    {
+        "name": "Ember Spirit",
+        "y": 0.4,
+        "drilldown": "Ember Spirit Win Rate"
+    },
+    {
+        "name": "Enchantress",
+        "y": 0.46153846153846156,
+        "drilldown": "Enchantress Win Rate"
+    },
+    {
+        "name": "Enigma",
+        "y": 0.5,
+        "drilldown": "Enigma Win Rate"
+    },
+    {
+        "name": "Faceless Void",
+        "y": 0.7142857142857143,
+        "drilldown": "Faceless Void Win Rate"
+    },
+    {
+        "name": "Grimstroke",
+        "y": 0.6666666666666666,
+        "drilldown": "Grimstroke Win Rate"
+    },
+    {
+        "name": "Gyrocopter",
+        "y": 0.0,
+        "drilldown": "Gyrocopter Win Rate"
+    },
+    {
+        "name": "Hoodwink",
+        "y": 0.5,
+        "drilldown": "Hoodwink Win Rate"
+    },
+    {
+        "name": "Huskar",
+        "y": 0.0,
+        "drilldown": "Huskar Win Rate"
+    },
+    {
+        "name": "Invoker",
+        "y": 0.2,
+        "drilldown": "Invoker Win Rate"
+    },
+    {
+        "name": "Io",
+        "y": 0.0,
+        "drilldown": "Io Win Rate"
+    },
+    {
+        "name": "Jakiro",
+        "y": 0.0,
+        "drilldown": "Jakiro Win Rate"
+    },
+    {
+        "name": "Juggernaut",
+        "y": 0.5333333333333333,
+        "drilldown": "Juggernaut Win Rate"
+    },
+    {
+        "name": "Keeper of the Light",
+        "y": 0.0,
+        "drilldown": "Keeper of the Light Win Rate"
+    },
+    {
+        "name": "Kunkka",
+        "y": 0.0,
+        "drilldown": "Kunkka Win Rate"
+    },
+    {
+        "name": "Legion Commander",
+        "y": 0.6875,
+        "drilldown": "Legion Commander Win Rate"
+    },
+    {
+        "name": "Leshrac",
+        "y": 0.5909090909090909,
+        "drilldown": "Leshrac Win Rate"
+    },
+    {
+        "name": "Lich",
+        "y": 0.0,
+        "drilldown": "Lich Win Rate"
+    },
+    {
+        "name": "Lifestealer",
+        "y": 0.25,
+        "drilldown": "Lifestealer Win Rate"
+    },
+    {
+        "name": "Lina",
+        "y": 0.6,
+        "drilldown": "Lina Win Rate"
+    },
+    {
+        "name": "Lion",
+        "y": 0.4583333333333333,
+        "drilldown": "Lion Win Rate"
+    },
+    {
+        "name": "Lone Druid",
+        "y": 0.0,
+        "drilldown": "Lone Druid Win Rate"
+    },
+    {
+        "name": "Luna",
+        "y": 0.3333333333333333,
+        "drilldown": "Luna Win Rate"
+    },
+    {
+        "name": "Lycan",
+        "y": 0.0,
+        "drilldown": "Lycan Win Rate"
+    },
+    {
+        "name": "Magnus",
+        "y": 0.5,
+        "drilldown": "Magnus Win Rate"
+    },
+    {
+        "name": "Mars",
+        "y": 0.5238095238095238,
+        "drilldown": "Mars Win Rate"
+    },
+    {
+        "name": "Medusa",
+        "y": 0.2857142857142857,
+        "drilldown": "Medusa Win Rate"
+    },
+    {
+        "name": "Meepo",
+        "y": 0.0,
+        "drilldown": "Meepo Win Rate"
+    },
+    {
+        "name": "Mirana",
+        "y": 0.3333333333333333,
+        "drilldown": "Mirana Win Rate"
+    },
+    {
+        "name": "Monkey King",
+        "y": 0.0,
+        "drilldown": "Monkey King Win Rate"
+    },
+    {
+        "name": "Morphling",
+        "y": 0.7142857142857143,
+        "drilldown": "Morphling Win Rate"
+    },
+    {
+        "name": "Naga Siren",
+        "y": 0.0,
+        "drilldown": "Naga Siren Win Rate"
+    },
+    {
+        "name": "Nature's Prophet",
+        "y": 0.4,
+        "drilldown": "Nature's Prophet Win Rate"
+    },
+    {
+        "name": "Necrophos",
+        "y": 0.3333333333333333,
+        "drilldown": "Necrophos Win Rate"
+    },
+    {
+        "name": "Night Stalker",
+        "y": 0.0,
+        "drilldown": "Night Stalker Win Rate"
+    },
+    {
+        "name": "Nyx Assassin",
+        "y": 0.6666666666666666,
+        "drilldown": "Nyx Assassin Win Rate"
+    },
+    {
+        "name": "Ogre Magi",
+        "y": 0.8,
+        "drilldown": "Ogre Magi Win Rate"
+    },
+    {
+        "name": "Omniknight",
+        "y": 1.0,
+        "drilldown": "Omniknight Win Rate"
+    },
+    {
+        "name": "Oracle",
+        "y": 0.16666666666666666,
+        "drilldown": "Oracle Win Rate"
+    },
+    {
+        "name": "Outworld Devourer",
+        "y": 0.6666666666666666,
+        "drilldown": "Outworld Devourer Win Rate"
+    },
+    {
+        "name": "Pangolier",
+        "y": 0.5,
+        "drilldown": "Pangolier Win Rate"
+    },
+    {
+        "name": "Phantom Assassin",
+        "y": 0.0,
+        "drilldown": "Phantom Assassin Win Rate"
+    },
+    {
+        "name": "Phantom Lancer",
+        "y": 0.5,
+        "drilldown": "Phantom Lancer Win Rate"
+    },
+    {
+        "name": "Phoenix",
+        "y": 0.4166666666666667,
+        "drilldown": "Phoenix Win Rate"
+    },
+    {
+        "name": "Puck",
+        "y": 0.3076923076923077,
+        "drilldown": "Puck Win Rate"
+    },
+    {
+        "name": "Pudge",
+        "y": 0.0,
+        "drilldown": "Pudge Win Rate"
+    },
+    {
+        "name": "Pugna",
+        "y": 0.0,
+        "drilldown": "Pugna Win Rate"
+    },
+    {
+        "name": "Queen of Pain",
+        "y": 0.0,
+        "drilldown": "Queen of Pain Win Rate"
+    },
+    {
+        "name": "Razor",
+        "y": 0.75,
+        "drilldown": "Razor Win Rate"
+    },
+    {
+        "name": "Riki",
+        "y": 1.0,
+        "drilldown": "Riki Win Rate"
+    },
+    {
+        "name": "Rubick",
+        "y": 0.0,
+        "drilldown": "Rubick Win Rate"
+    },
+    {
+        "name": "Sand King",
+        "y": 0.3333333333333333,
+        "drilldown": "Sand King Win Rate"
+    },
+    {
+        "name": "Shadow Demon",
+        "y": 0.6,
+        "drilldown": "Shadow Demon Win Rate"
+    },
+    {
+        "name": "Shadow Fiend",
+        "y": 1.0,
+        "drilldown": "Shadow Fiend Win Rate"
+    },
+    {
+        "name": "Shadow Shaman",
+        "y": 0.45454545454545453,
+        "drilldown": "Shadow Shaman Win Rate"
+    },
+    {
+        "name": "Silencer",
+        "y": 0.0,
+        "drilldown": "Silencer Win Rate"
+    },
+    {
+        "name": "Skywrath Mage",
+        "y": 0.42857142857142855,
+        "drilldown": "Skywrath Mage Win Rate"
+    },
+    {
+        "name": "Slardar",
+        "y": 1.0,
+        "drilldown": "Slardar Win Rate"
+    },
+    {
+        "name": "Slark",
+        "y": 0.0,
+        "drilldown": "Slark Win Rate"
+    },
+    {
+        "name": "Snapfire",
+        "y": 0.5172413793103449,
+        "drilldown": "Snapfire Win Rate"
+    },
+    {
+        "name": "Sniper",
+        "y": 0.0,
+        "drilldown": "Sniper Win Rate"
+    },
+    {
+        "name": "Spectre",
+        "y": 0.6153846153846154,
+        "drilldown": "Spectre Win Rate"
+    },
+    {
+        "name": "Spirit Breaker",
+        "y": 0.0,
+        "drilldown": "Spirit Breaker Win Rate"
+    },
+    {
+        "name": "Storm Spirit",
+        "y": 0.6,
+        "drilldown": "Storm Spirit Win Rate"
+    },
+    {
+        "name": "Sven",
+        "y": 0.5555555555555556,
+        "drilldown": "Sven Win Rate"
+    },
+    {
+        "name": "Techies",
+        "y": 0.0,
+        "drilldown": "Techies Win Rate"
+    },
+    {
+        "name": "Templar Assassin",
+        "y": 0.42857142857142855,
+        "drilldown": "Templar Assassin Win Rate"
+    },
+    {
+        "name": "Terrorblade",
+        "y": 0.6666666666666666,
+        "drilldown": "Terrorblade Win Rate"
+    },
+    {
+        "name": "Tidehunter",
+        "y": 0.5,
+        "drilldown": "Tidehunter Win Rate"
+    },
+    {
+        "name": "Timbersaw",
+        "y": 0.375,
+        "drilldown": "Timbersaw Win Rate"
+    },
+    {
+        "name": "Tinker",
+        "y": 0.0,
+        "drilldown": "Tinker Win Rate"
+    },
+    {
+        "name": "Tiny",
+        "y": 0.4666666666666667,
+        "drilldown": "Tiny Win Rate"
+    },
+    {
+        "name": "Treant Protector",
+        "y": 0.5882352941176471,
+        "drilldown": "Treant Protector Win Rate"
+    },
+    {
+        "name": "Troll Warlord",
+        "y": 0.4444444444444444,
+        "drilldown": "Troll Warlord Win Rate"
+    },
+    {
+        "name": "Tusk",
+        "y": 0.0,
+        "drilldown": "Tusk Win Rate"
+    },
+    {
+        "name": "Underlord",
+        "y": 0.0,
+        "drilldown": "Underlord Win Rate"
+    },
+    {
+        "name": "Undying",
+        "y": 0.0,
+        "drilldown": "Undying Win Rate"
+    },
+    {
+        "name": "Ursa",
+        "y": 0.4666666666666667,
+        "drilldown": "Ursa Win Rate"
+    },
+    {
+        "name": "Vengeful Spirit",
+        "y": 0.0,
+        "drilldown": "Vengeful Spirit Win Rate"
+    },
+    {
+        "name": "Venomancer",
+        "y": 0.0,
+        "drilldown": "Venomancer Win Rate"
+    },
+    {
+        "name": "Viper",
+        "y": 0.0,
+        "drilldown": "Viper Win Rate"
+    },
+    {
+        "name": "Visage",
+        "y": 0.3333333333333333,
+        "drilldown": "Visage Win Rate"
+    },
+    {
+        "name": "Void Spirit",
+        "y": 0.5,
+        "drilldown": "Void Spirit Win Rate"
+    },
+    {
+        "name": "Warlock",
+        "y": 0.5,
+        "drilldown": "Warlock Win Rate"
+    },
+    {
+        "name": "Weaver",
+        "y": 0.0,
+        "drilldown": "Weaver Win Rate"
+    },
+    {
+        "name": "Windranger",
+        "y": 0.3333333333333333,
+        "drilldown": "Windranger Win Rate"
+    },
+    {
+        "name": "Winter Wyvern",
+        "y": 0.0,
+        "drilldown": "Winter Wyvern Win Rate"
+    },
+    {
+        "name": "Witch Doctor",
+        "y": 0.0,
+        "drilldown": "Witch Doctor Win Rate"
+    },
+    {
+        "name": "Wraith King",
+        "y": 0.7,
+        "drilldown": "Wraith King Win Rate"
+    },
+    {
+        "name": "Zeus",
+        "y": 0.0,
+        "drilldown": "Zeus Win Rate"
+    }
+]

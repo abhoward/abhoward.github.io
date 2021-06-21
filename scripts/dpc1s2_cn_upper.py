@@ -22,7 +22,7 @@ API_KEY = os.getenv('API_KEY')
 # instantiating a counter to track how many calls we make to opendota's API
 api_counter = 0
 
-save_file_path = "..\\data\\DPC1S2\\Non-DPC\\ESLOne\\{}"
+save_file_path = "..\\data\\DPC1S2\\DPC\\CN_Upper\\{}"
 dfs_to_convert = {}
 jsons_to_upload = {}
 
@@ -38,8 +38,8 @@ df = pd.DataFrame(data)
 
 print('Pulling all relevant matches...')
 
-# time at which the first match of esl one started
-start_time = 1623844558
+# time at which the first match started
+start_time = 1618308488
 
 while df[-1::]['start_time'].iloc[0] > start_time:
     print('Appending new set of data ending in match_id: {}'.format(df[-1::]['match_id'].iloc[0]))
@@ -49,17 +49,16 @@ while df[-1::]['start_time'].iloc[0] > start_time:
     data = json.loads(r.text)
     df = df.append(pd.DataFrame(data))
 
-# --- ESLONE DATA FILTER--- #
+# --- DATA FILTER--- #
 
-# esl one summer 2021 league ID
-league_id = 13228 
+league_id = 13112 
 
-eslone_matches = df[(df['leagueid'] == league_id) & (df['start_time'] >= start_time)]
+matches = df[(df['leagueid'] == league_id) & (df['start_time'] >= start_time)]
 
 # adding milliseconds to epoch time so Highcharts can properly read it
-eslone_matches['start_time'] = eslone_matches['start_time'] * 1000
+matches['start_time'] = matches['start_time'] * 1000
 
-dfs_to_convert['eslone_matches'] = eslone_matches
+dfs_to_convert['matches'] = matches
 
 hero_stats = pd.DataFrame()
 total_pbs = pd.DataFrame()
@@ -68,7 +67,7 @@ excluded_match_ids = []
 
 print('Extracting detailed match data...')
 
-for match_id in eslone_matches['match_id'].tolist():
+for match_id in matches['match_id'].tolist():
     if match_id not in excluded_match_ids:
         match_link = '{}/matches/{}?api_key={}'.format(api, match_id, API_KEY)
         r = requests.get(match_link)
@@ -80,7 +79,7 @@ for match_id in eslone_matches['match_id'].tolist():
 
         draft_pbs_df = pd.DataFrame(data['picks_bans'])
         draft_pbs_df['team'] = ['Radiant' if i == 0 else 'Dire' for i in draft_pbs_df['team'].tolist()]
-        draft_pbs_df['timestamp'] = eslone_matches[eslone_matches['match_id'] == match_id]['start_time'].tolist()[0]
+        draft_pbs_df['timestamp'] = matches[matches['match_id'] == match_id]['start_time'].tolist()[0]
         
         if data['radiant_win']:
             draft_pbs_df['winning_team'] = 'Radiant' 
@@ -173,23 +172,23 @@ SELECT  total_pbs.match_id,
             WHEN total_pbs.is_pick = False THEN 'ban'
         END AS draft_type,
         CASE 
-            WHEN total_pbs.team = 'Radiant' THEN am.radiant_name
-            WHEN total_pbs.team = 'Dire' THEN am.dire_name
+            WHEN total_pbs.team = 'Radiant' THEN matches.radiant_name
+            WHEN total_pbs.team = 'Dire' THEN matches.dire_name
         END AS picking_team,
         CASE 
-            WHEN total_pbs.team = 'Radiant' THEN am.dire_name
-            WHEN total_pbs.team = 'Dire' THEN am.radiant_name
+            WHEN total_pbs.team = 'Radiant' THEN matches.dire_name
+            WHEN total_pbs.team = 'Dire' THEN matches.radiant_name
         END AS opposing_team,
         CASE 
-            WHEN total_pbs.winning_team = 'Radiant' THEN am.radiant_name
-            WHEN total_pbs.winning_team = 'Dire' THEN am.dire_name
+            WHEN total_pbs.winning_team = 'Radiant' THEN matches.radiant_name
+            WHEN total_pbs.winning_team = 'Dire' THEN matches.dire_name
         END AS winning_team,
         total_pbs.ord AS draft_order
 FROM total_pbs
 JOIN heroes
 ON total_pbs.hero_id = heroes.id
-JOIN eslone_matches AS am
-ON total_pbs.match_id = am.match_id
+JOIN matches
+ON total_pbs.match_id = matches.match_id
 """
 
 team_pbs = ps.sqldf(sql_query)
@@ -227,14 +226,14 @@ SELECT  heroes.localized_name AS hero_name,
             ELSE 'Dire'
         END AS picking_team,
         CASE
-            WHEN am.radiant_win = True THEN 'Radiant'
+            WHEN matches.radiant_win = True THEN 'Radiant'
             ELSE 'Dire'
         END AS winning_team
 FROM hero_stats
 JOIN heroes
 ON hero_stats.hero_id = heroes.id
-JOIN eslone_matches AS am
-ON hero_stats.match_id = am.match_id
+JOIN matches
+ON hero_stats.match_id = matches.match_id
 WHERE hero_stats.pick = True
 """
 
@@ -267,7 +266,7 @@ SELECT  match_id,
             ELSE 0
         END AS result,
         duration
-FROM eslone_matches
+FROM matches
 UNION ALL
 SELECT  match_id,
         dire_name AS team,
@@ -276,7 +275,7 @@ SELECT  match_id,
             ELSE 1
         END AS result,
         duration
-FROM eslone_matches
+FROM matches
 """
 
 team_stats = ps.sqldf(sql_query)
@@ -382,14 +381,14 @@ hero_brs_ts = []
 
 for hero in sorted(heroes['localized_name']):
     hero_match_combo = pd.DataFrame()
-    for match, ts in eslone_matches[['match_id', 'start_time']].sort_values(by = 'start_time').values:
+    for match, ts in matches[['match_id', 'start_time']].sort_values(by = 'start_time').values:
         temp_ts = hero_ts_data[(hero_ts_data['name'] == hero) & (hero_ts_data['match_id'] == match)]
         if temp_ts.empty:
             hero_match_combo = hero_match_combo.append({'match_id': match, 'name': hero, 'timestamp': ts, 'picks': 0, 'bans': 0, 'wins': 0, 'losses': 0}, ignore_index = True, sort = False)
         else:
             hero_match_combo = hero_match_combo.append(temp_ts[['match_id', 'name', 'timestamp', 'picks', 'bans', 'wins', 'losses']], ignore_index = True, sort = False)
             
-    hero_match_combo['running_matches'] = range(1, len(eslone_matches) + 1)
+    hero_match_combo['running_matches'] = range(1, len(matches) + 1)
     hero_match_combo['cum_wins'] = hero_match_combo['wins'].cumsum()
     hero_match_combo['cum_losses'] = hero_match_combo['losses'].cumsum()
     hero_match_combo['cum_winrate'] = hero_match_combo['cum_wins'] / (hero_match_combo['cum_wins'] + hero_match_combo['cum_losses'])
@@ -450,7 +449,7 @@ jsons_to_upload['fps_dict'] = fps_dict
 
 print('Creating data transformation for match lengths...')
 
-match_lengths = eslone_matches[['radiant_name', 'dire_name', 'radiant_win', 'duration']]
+match_lengths = matches[['radiant_name', 'dire_name', 'radiant_win', 'duration']]
 match_lengths['name'] = match_lengths['radiant_name'] + ' vs ' + match_lengths['dire_name']
 match_lengths = match_lengths.sort_values(by = 'duration', ascending = True).reset_index(drop = True)
 match_lengths['running_total'] = range(len(match_lengths), 0, -1)
