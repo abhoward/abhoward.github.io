@@ -5,3 +5,5 @@ Below you can find various visualizations based on data and statistics from pro-
 - ### DPC Season 1 Stats & Graphs (_WIP_)
 
 - ### [DPC Season 2 Stats & Graphs](DPC1S2)
+
+- ### [The International Stats & Graphs](TI)
