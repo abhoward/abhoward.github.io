@@ -1,0 +1,5122 @@
+[
+    {
+        "match": "BEZ-B vs Brave FoX",
+        "y": 1024,
+        "name": 456
+    },
+    {
+        "match": "Hellbear Smashers vs BEZ-B",
+        "y": 1023,
+        "name": 507
+    },
+    {
+        "match": "Sunset 87.1 vs Devil Eyes",
+        "y": 1022,
+        "name": 592
+    },
+    {
+        "match": "Dream Maker vs kastuDon",
+        "y": 1021,
+        "name": 836
+    },
+    {
+        "match": "MoonLightPlayers vs Nemiga Gaming",
+        "y": 1020,
+        "name": 855
+    },
+    {
+        "match": "DIVIZON vs WaterDragons",
+        "y": 1019,
+        "name": 867
+    },
+    {
+        "match": "Selemene vs Forest",
+        "y": 1018,
+        "name": 896
+    },
+    {
+        "match": "Fantastic Five vs irandotoweaker.2",
+        "y": 1017,
+        "name": 913
+    },
+    {
+        "match": "EGOBOYS vs Inverse",
+        "y": 1016,
+        "name": 924
+    },
+    {
+        "match": "kastuDon vs Selemene",
+        "y": 1015,
+        "name": 932
+    },
+    {
+        "match": "Lilgun  vs Xtreme  Gaming",
+        "y": 1014,
+        "name": 943
+    },
+    {
+        "match": "Nigma vs Vici Gaming",
+        "y": 1013,
+        "name": 988
+    },
+    {
+        "match": "kastuDon vs Dream Maker",
+        "y": 1012,
+        "name": 1001
+    },
+    {
+        "match": "Dream Maker vs kastuDon",
+        "y": 1011,
+        "name": 1019
+    },
+    {
+        "match": "Dream Maker vs Yangon Galacticos",
+        "y": 1010,
+        "name": 1032
+    },
+    {
+        "match": "TeamYoung vs Hippomaniacs",
+        "y": 1009,
+        "name": 1033
+    },
+    {
+        "match": "Demon Slayer vs Forest",
+        "y": 1008,
+        "name": 1035
+    },
+    {
+        "match": "Devil Eyes vs Exelero-Professional",
+        "y": 1007,
+        "name": 1037
+    },
+    {
+        "match": "Dream Maker vs Selemene",
+        "y": 1006,
+        "name": 1042
+    },
+    {
+        "match": "PuckChamp vs Peasant Gaming",
+        "y": 1005,
+        "name": 1043
+    },
+    {
+        "match": "Lilgun  vs iG.Vitality",
+        "y": 1004,
+        "name": 1053
+    },
+    {
+        "match": "OB.Neon vs Dragon",
+        "y": 1003,
+        "name": 1056
+    },
+    {
+        "match": NaN,
+        "y": 1002,
+        "name": 1067
+    },
+    {
+        "match": "Shinigami vs kastuDon",
+        "y": 1001,
+        "name": 1070
+    },
+    {
+        "match": "Trident Clan vs LFT",
+        "y": 1000,
+        "name": 1070
+    },
+    {
+        "match": "InterActive Philippines vs Wlid Doek",
+        "y": 999,
+        "name": 1076
+    },
+    {
+        "match": "The Cut vs Undying",
+        "y": 998,
+        "name": 1078
+    },
+    {
+        "match": "OB.Neon vs Dragon",
+        "y": 997,
+        "name": 1084
+    },
+    {
+        "match": "ViKin.gg vs Steel Phoenix",
+        "y": 996,
+        "name": 1090
+    },
+    {
+        "match": "Sweet Boys vs MATKA.BEE",
+        "y": 995,
+        "name": 1097
+    },
+    {
+        "match": "plan-B esports vs krysenishy",
+        "y": 994,
+        "name": 1102
+    },
+    {
+        "match": "5CATS vs Selemene",
+        "y": 993,
+        "name": 1116
+    },
+    {
+        "match": "Forest vs 5CATS",
+        "y": 992,
+        "name": 1116
+    },
+    {
+        "match": "kastuDon vs Selemene",
+        "y": 991,
+        "name": 1118
+    },
+    {
+        "match": "tiltacionxxx vs Crypto Gaming",
+        "y": 990,
+        "name": 1118
+    },
+    {
+        "match": "AS Monaco Gambit vs INVICTUS GAMING",
+        "y": 989,
+        "name": 1123
+    },
+    {
+        "match": "Selemene vs kastuDon",
+        "y": 988,
+        "name": 1125
+    },
+    {
+        "match": "Selemene vs The Prime",
+        "y": 987,
+        "name": 1133
+    },
+    {
+        "match": "Hokori vs EGOBOYS",
+        "y": 986,
+        "name": 1147
+    },
+    {
+        "match": "Forest vs rush b!",
+        "y": 985,
+        "name": 1157
+    },
+    {
+        "match": "CyberLife eSports vs Thats Hawt",
+        "y": 984,
+        "name": 1166
+    },
+    {
+        "match": "INVICTUS GAMING vs Vici Gaming",
+        "y": 983,
+        "name": 1174
+    },
+    {
+        "match": "Devil Eyes vs 123",
+        "y": 982,
+        "name": 1176
+    },
+    {
+        "match": "Dream Maker vs kastuDon",
+        "y": 981,
+        "name": 1182
+    },
+    {
+        "match": "AS Monaco Gambit vs HellRaisers",
+        "y": 980,
+        "name": 1186
+    },
+    {
+        "match": "Forest vs Selemene",
+        "y": 979,
+        "name": 1189
+    },
+    {
+        "match": "5CATS vs rush b!",
+        "y": 978,
+        "name": 1199
+    },
+    {
+        "match": "The Prime vs Selemene",
+        "y": 977,
+        "name": 1199
+    },
+    {
+        "match": "TMU vs BINOMISTAS",
+        "y": 976,
+        "name": 1204
+    },
+    {
+        "match": "Yangon Galacticos vs 5CATS",
+        "y": 975,
+        "name": 1208
+    },
+    {
+        "match": "EGOBOYS vs Inverse",
+        "y": 974,
+        "name": 1213
+    },
+    {
+        "match": "OG vs Virtus.pro",
+        "y": 973,
+        "name": 1231
+    },
+    {
+        "match": "Infamous Gaming vs Omega Gaming",
+        "y": 972,
+        "name": 1233
+    },
+    {
+        "match": "Quincy Crew vs NoPing Esports",
+        "y": 971,
+        "name": 1238
+    },
+    {
+        "match": "kastuDon vs The Prime",
+        "y": 970,
+        "name": 1239
+    },
+    {
+        "match": "Cignal Ultra vs Selemene",
+        "y": 969,
+        "name": 1239
+    },
+    {
+        "match": "Deep Ravage vs SPL",
+        "y": 968,
+        "name": 1245
+    },
+    {
+        "match": "BOOM Esports vs South Built Esports",
+        "y": 967,
+        "name": 1247
+    },
+    {
+        "match": "kastuDon vs Forest",
+        "y": 966,
+        "name": 1264
+    },
+    {
+        "match": "OB.Neon vs South Built Esports",
+        "y": 965,
+        "name": 1269
+    },
+    {
+        "match": NaN,
+        "y": 964,
+        "name": 1272
+    },
+    {
+        "match": "Forest vs The Prime",
+        "y": 963,
+        "name": 1275
+    },
+    {
+        "match": NaN,
+        "y": 962,
+        "name": 1278
+    },
+    {
+        "match": "Hokori vs Infamous Gaming",
+        "y": 961,
+        "name": 1286
+    },
+    {
+        "match": "5CATS vs kastuDon",
+        "y": 960,
+        "name": 1287
+    },
+    {
+        "match": "Undying vs D2 Hustlers",
+        "y": 959,
+        "name": 1293
+    },
+    {
+        "match": "Infinity vs Inverse",
+        "y": 958,
+        "name": 1293
+    },
+    {
+        "match": NaN,
+        "y": 957,
+        "name": 1294
+    },
+    {
+        "match": "rush b! vs Shinigami",
+        "y": 956,
+        "name": 1296
+    },
+    {
+        "match": NaN,
+        "y": 955,
+        "name": 1299
+    },
+    {
+        "match": "SSstorm vs MoonLightPlayers",
+        "y": 954,
+        "name": 1305
+    },
+    {
+        "match": "The Prime vs 5CATS",
+        "y": 953,
+        "name": 1313
+    },
+    {
+        "match": "kastuDon vs Dream Maker",
+        "y": 952,
+        "name": 1313
+    },
+    {
+        "match": "Lilgun  vs Team SMG",
+        "y": 951,
+        "name": 1315
+    },
+    {
+        "match": "Devil Eyes vs FRIENDZONE",
+        "y": 950,
+        "name": 1320
+    },
+    {
+        "match": "Team Mystery vs Battle Cry",
+        "y": 949,
+        "name": 1321
+    },
+    {
+        "match": "Crocodile vs Moon Chasers",
+        "y": 948,
+        "name": 1322
+    },
+    {
+        "match": "rush b! vs kastuDon",
+        "y": 947,
+        "name": 1322
+    },
+    {
+        "match": "rush b! vs Forest",
+        "y": 946,
+        "name": 1327
+    },
+    {
+        "match": "FRIENDZONE vs Siberian Gold",
+        "y": 945,
+        "name": 1328
+    },
+    {
+        "match": "BINOMISTAS vs Hokori",
+        "y": 944,
+        "name": 1331
+    },
+    {
+        "match": "Shinigami vs Yangon Galacticos",
+        "y": 943,
+        "name": 1333
+    },
+    {
+        "match": "Selemene vs Yangon Galacticos",
+        "y": 942,
+        "name": 1338
+    },
+    {
+        "match": "Crocodile vs iG.Vitality",
+        "y": 941,
+        "name": 1339
+    },
+    {
+        "match": "Infamous Gaming vs Undying",
+        "y": 940,
+        "name": 1339
+    },
+    {
+        "match": "Team Spirit vs Evil Geniuses",
+        "y": 939,
+        "name": 1340
+    },
+    {
+        "match": "Ink Ice vs SHENZHEN",
+        "y": 938,
+        "name": 1345
+    },
+    {
+        "match": "fp pudge lp techies vs Winstrike Team",
+        "y": 937,
+        "name": 1346
+    },
+    {
+        "match": "rush b! vs The Prime",
+        "y": 936,
+        "name": 1346
+    },
+    {
+        "match": "Team Secret vs Nigma",
+        "y": 935,
+        "name": 1347
+    },
+    {
+        "match": "BINOMISTAS vs Inverse",
+        "y": 934,
+        "name": 1350
+    },
+    {
+        "match": "Demon Slayer vs kastuDon",
+        "y": 933,
+        "name": 1353
+    },
+    {
+        "match": "Deep Ravage vs SPL",
+        "y": 932,
+        "name": 1353
+    },
+    {
+        "match": "Infinity vs Inverse",
+        "y": 931,
+        "name": 1365
+    },
+    {
+        "match": "Wlid Doek vs Ink Ice",
+        "y": 930,
+        "name": 1366
+    },
+    {
+        "match": "Hellbear Smashers vs ViKin.gg",
+        "y": 929,
+        "name": 1366
+    },
+    {
+        "match": "Ωmega Esports vs South Built Esports",
+        "y": 928,
+        "name": 1378
+    },
+    {
+        "match": "Infamous Gaming vs TMU",
+        "y": 927,
+        "name": 1383
+    },
+    {
+        "match": "potn9ki- vs Trident Clan",
+        "y": 926,
+        "name": 1384
+    },
+    {
+        "match": "Sunset 87.1 vs WildWays",
+        "y": 925,
+        "name": 1388
+    },
+    {
+        "match": "Devil Eyes vs Melodia",
+        "y": 924,
+        "name": 1397
+    },
+    {
+        "match": "Yangon Galacticos vs Dream Maker",
+        "y": 923,
+        "name": 1401
+    },
+    {
+        "match": "Selemene vs kastuDon",
+        "y": 922,
+        "name": 1406
+    },
+    {
+        "match": "5CATS vs Selemene",
+        "y": 921,
+        "name": 1408
+    },
+    {
+        "match": "5CATS vs Yangon Galacticos",
+        "y": 920,
+        "name": 1408
+    },
+    {
+        "match": "HellRaisers vs LAWYERMSB FANBOYS",
+        "y": 919,
+        "name": 1414
+    },
+    {
+        "match": "lowkees vs EYE gaming",
+        "y": 918,
+        "name": 1415
+    },
+    {
+        "match": "D2 Hustlers vs Undying",
+        "y": 917,
+        "name": 1415
+    },
+    {
+        "match": "Сascade Esports vs Banka Cola",
+        "y": 916,
+        "name": 1418
+    },
+    {
+        "match": "Lilgun  vs Motivate.Trust Gaming",
+        "y": 915,
+        "name": 1419
+    },
+    {
+        "match": "Moon Chasers vs Crocodile",
+        "y": 914,
+        "name": 1426
+    },
+    {
+        "match": "The Prime vs kastuDon",
+        "y": 913,
+        "name": 1429
+    },
+    {
+        "match": "Infinity vs NoPing Esports",
+        "y": 912,
+        "name": 1432
+    },
+    {
+        "match": "Nigma vs Vici Gaming",
+        "y": 911,
+        "name": 1437
+    },
+    {
+        "match": "Siberian Gold vs Devil Eyes",
+        "y": 910,
+        "name": 1438
+    },
+    {
+        "match": "Selemene vs Forest",
+        "y": 909,
+        "name": 1439
+    },
+    {
+        "match": "Vici Gaming vs Evil Geniuses",
+        "y": 908,
+        "name": 1440
+    },
+    {
+        "match": "Cignal Ultra vs kastuDon",
+        "y": 907,
+        "name": 1441
+    },
+    {
+        "match": "Unknown Team vs Infinity",
+        "y": 906,
+        "name": 1446
+    },
+    {
+        "match": "5CATS vs Forest",
+        "y": 905,
+        "name": 1446
+    },
+    {
+        "match": "Hippomaniacs vs Inae.Rozbíječi",
+        "y": 904,
+        "name": 1447
+    },
+    {
+        "match": "OB.Neon vs Team SMG",
+        "y": 903,
+        "name": 1449
+    },
+    {
+        "match": "Lilgun  vs Team SMG",
+        "y": 902,
+        "name": 1452
+    },
+    {
+        "match": "Dream Maker vs kastuDon",
+        "y": 901,
+        "name": 1452
+    },
+    {
+        "match": "Deep Ravage vs sorrow",
+        "y": 900,
+        "name": 1453
+    },
+    {
+        "match": "OB.Neon vs Lilgun ",
+        "y": 899,
+        "name": 1456
+    },
+    {
+        "match": "kastuDon vs Demon Slayer",
+        "y": 898,
+        "name": 1457
+    },
+    {
+        "match": "Team Aster vs T1",
+        "y": 897,
+        "name": 1458
+    },
+    {
+        "match": "SG esports vs Unknown Team",
+        "y": 896,
+        "name": 1461
+    },
+    {
+        "match": "4 Zoomers vs Hokori",
+        "y": 895,
+        "name": 1463
+    },
+    {
+        "match": " EXTREMUM vs 4Anchors&SeaCaptain",
+        "y": 894,
+        "name": 1464
+    },
+    {
+        "match": "HellRaisers vs Winstrike Team",
+        "y": 893,
+        "name": 1465
+    },
+    {
+        "match": "Infinity vs Infamous Gaming",
+        "y": 892,
+        "name": 1466
+    },
+    {
+        "match": "Quincy Crew vs Vici Gaming",
+        "y": 891,
+        "name": 1467
+    },
+    {
+        "match": "Nature is not for a weak vs sorrow",
+        "y": 890,
+        "name": 1474
+    },
+    {
+        "match": "Hippomaniacs vs eSuba",
+        "y": 889,
+        "name": 1474
+    },
+    {
+        "match": "South Built Esports vs Galaxy Racer Esports",
+        "y": 888,
+        "name": 1474
+    },
+    {
+        "match": "Lilgun  vs Team Veteran",
+        "y": 887,
+        "name": 1475
+    },
+    {
+        "match": "SPL vs Nature is not for a weak",
+        "y": 886,
+        "name": 1480
+    },
+    {
+        "match": "Nature is not for a weak vs SPL",
+        "y": 885,
+        "name": 1482
+    },
+    {
+        "match": "Team Mystery vs Dream Maker",
+        "y": 884,
+        "name": 1484
+    },
+    {
+        "match": "EGOBOYS vs The Cut",
+        "y": 883,
+        "name": 1488
+    },
+    {
+        "match": "SPL vs Deep Ravage",
+        "y": 882,
+        "name": 1489
+    },
+    {
+        "match": " EXTREMUM vs Natus Vincere",
+        "y": 881,
+        "name": 1490
+    },
+    {
+        "match": "Сascade Esports vs ShvagaGange",
+        "y": 880,
+        "name": 1491
+    },
+    {
+        "match": "Selemene vs Shinigami",
+        "y": 879,
+        "name": 1491
+    },
+    {
+        "match": "SG esports vs EGOBOYS",
+        "y": 878,
+        "name": 1498
+    },
+    {
+        "match": "Nigma vs Execration",
+        "y": 877,
+        "name": 1500
+    },
+    {
+        "match": "TNC Predator vs beastcoast",
+        "y": 876,
+        "name": 1503
+    },
+    {
+        "match": "HellRaisers vs Husky",
+        "y": 875,
+        "name": 1503
+    },
+    {
+        "match": "LBZS vs Yangon Galacticos",
+        "y": 874,
+        "name": 1510
+    },
+    {
+        "match": "INVICTUS GAMING vs Vici Gaming",
+        "y": 873,
+        "name": 1511
+    },
+    {
+        "match": "Wlid Doek vs The Prime",
+        "y": 872,
+        "name": 1512
+    },
+    {
+        "match": "Dream Maker vs The Prime",
+        "y": 871,
+        "name": 1512
+    },
+    {
+        "match": "Team GL vs EYE gaming",
+        "y": 870,
+        "name": 1513
+    },
+    {
+        "match": NaN,
+        "y": 869,
+        "name": 1514
+    },
+    {
+        "match": "Lilgun  vs Yangon Galacticos",
+        "y": 868,
+        "name": 1522
+    },
+    {
+        "match": "Lilgun  vs Team Veteran",
+        "y": 867,
+        "name": 1527
+    },
+    {
+        "match": "SPL vs Deep Ravage",
+        "y": 866,
+        "name": 1528
+    },
+    {
+        "match": "X3 vs NoTechies",
+        "y": 865,
+        "name": 1531
+    },
+    {
+        "match": "kastuDon vs Dream Maker",
+        "y": 864,
+        "name": 1531
+    },
+    {
+        "match": "iG.Vitality vs Team Veteran",
+        "y": 863,
+        "name": 1533
+    },
+    {
+        "match": "Nature is not for a weak vs EYE gaming",
+        "y": 862,
+        "name": 1535
+    },
+    {
+        "match": "Nature is not for a weak vs SPL",
+        "y": 861,
+        "name": 1535
+    },
+    {
+        "match": "4Anchors&SeaCaptain vs Normal Team",
+        "y": 860,
+        "name": 1536
+    },
+    {
+        "match": "Nature is not for a weak vs Team GL",
+        "y": 859,
+        "name": 1539
+    },
+    {
+        "match": "Infamous Gaming vs Hokori",
+        "y": 858,
+        "name": 1539
+    },
+    {
+        "match": "Forest vs kastuDon",
+        "y": 857,
+        "name": 1546
+    },
+    {
+        "match": NaN,
+        "y": 856,
+        "name": 1546
+    },
+    {
+        "match": "Khan Bank vs CapitronDota",
+        "y": 855,
+        "name": 1546
+    },
+    {
+        "match": "FRIENDZONE vs WildWays",
+        "y": 854,
+        "name": 1548
+    },
+    {
+        "match": "NoPing Esports vs EGOBOYS",
+        "y": 853,
+        "name": 1548
+    },
+    {
+        "match": "Sazka.BRUTE vs Hippomaniacs",
+        "y": 852,
+        "name": 1548
+    },
+    {
+        "match": "The Prime vs Forest",
+        "y": 851,
+        "name": 1552
+    },
+    {
+        "match": "Team Secret vs Execration",
+        "y": 850,
+        "name": 1554
+    },
+    {
+        "match": "LBZS vs OB.Neon",
+        "y": 849,
+        "name": 1558
+    },
+    {
+        "match": "Banka Cola vs Eagle Eye",
+        "y": 848,
+        "name": 1561
+    },
+    {
+        "match": "Xtreme  Gaming vs Yangon Galacticos",
+        "y": 847,
+        "name": 1563
+    },
+    {
+        "match": "Galaxy Racer Esports vs OB.Neon",
+        "y": 846,
+        "name": 1566
+    },
+    {
+        "match": "Fantastic Five vs Project B",
+        "y": 845,
+        "name": 1566
+    },
+    {
+        "match": "kastuDon vs Demon Slayer",
+        "y": 844,
+        "name": 1569
+    },
+    {
+        "match": "Infamous Gaming vs The Cut",
+        "y": 843,
+        "name": 1570
+    },
+    {
+        "match": "Crocodile vs Team Veteran",
+        "y": 842,
+        "name": 1573
+    },
+    {
+        "match": "Forest vs kastuDon",
+        "y": 841,
+        "name": 1577
+    },
+    {
+        "match": "LBZS vs Motivate.Trust Gaming",
+        "y": 840,
+        "name": 1578
+    },
+    {
+        "match": "Unknown Team vs BINOMISTAS",
+        "y": 839,
+        "name": 1578
+    },
+    {
+        "match": "MushroOms vs Epic Breed",
+        "y": 838,
+        "name": 1580
+    },
+    {
+        "match": "Golomt Bank vs BOGD Bank",
+        "y": 837,
+        "name": 1581
+    },
+    {
+        "match": "твич тв серега пират vs NIGGAtive",
+        "y": 836,
+        "name": 1586
+    },
+    {
+        "match": "Team GL vs sorrow",
+        "y": 835,
+        "name": 1587
+    },
+    {
+        "match": "5CATS vs Dream Maker",
+        "y": 834,
+        "name": 1588
+    },
+    {
+        "match": "Team SMG vs Ωmega Esports",
+        "y": 833,
+        "name": 1589
+    },
+    {
+        "match": "Chicken Fighters vs PuckChamp",
+        "y": 832,
+        "name": 1590
+    },
+    {
+        "match": "Khan Bank vs TDBMongolia",
+        "y": 831,
+        "name": 1599
+    },
+    {
+        "match": "PuckChamp vs Team Empire",
+        "y": 830,
+        "name": 1602
+    },
+    {
+        "match": "Wlid Doek vs SHENZHEN",
+        "y": 829,
+        "name": 1603
+    },
+    {
+        "match": "Wlid Doek vs InterActive Philippines",
+        "y": 828,
+        "name": 1609
+    },
+    {
+        "match": "Lilgun  vs OB.Neon",
+        "y": 827,
+        "name": 1609
+    },
+    {
+        "match": "OB.Neon vs Lilgun ",
+        "y": 826,
+        "name": 1610
+    },
+    {
+        "match": "Shinigami vs Selemene",
+        "y": 825,
+        "name": 1611
+    },
+    {
+        "match": "B8 vs NoTechies",
+        "y": 824,
+        "name": 1612
+    },
+    {
+        "match": "Сascade Esports vs PuckChamp",
+        "y": 823,
+        "name": 1613
+    },
+    {
+        "match": "Lilgun  vs Crocodile",
+        "y": 822,
+        "name": 1614
+    },
+    {
+        "match": "Undying vs EGOBOYS",
+        "y": 821,
+        "name": 1615
+    },
+    {
+        "match": "LBZS vs Motivate.Trust Gaming",
+        "y": 820,
+        "name": 1617
+    },
+    {
+        "match": "Selemene vs kastuDon",
+        "y": 819,
+        "name": 1617
+    },
+    {
+        "match": "iG.Vitality vs Xtreme  Gaming",
+        "y": 818,
+        "name": 1618
+    },
+    {
+        "match": "Hokori vs 4 Zoomers",
+        "y": 817,
+        "name": 1619
+    },
+    {
+        "match": "beastcoast vs Nigma",
+        "y": 816,
+        "name": 1620
+    },
+    {
+        "match": "Sunset 87.1 vs WarsUganda",
+        "y": 815,
+        "name": 1621
+    },
+    {
+        "match": "Lilgun  vs Motivate.Trust Gaming",
+        "y": 814,
+        "name": 1621
+    },
+    {
+        "match": "BINOMISTAS vs Unknown Team",
+        "y": 813,
+        "name": 1624
+    },
+    {
+        "match": "Pavaga Academy vs ponos",
+        "y": 812,
+        "name": 1632
+    },
+    {
+        "match": "4 Zoomers vs Simply TOOBASED",
+        "y": 811,
+        "name": 1633
+    },
+    {
+        "match": "Infamous Gaming vs EGOBOYS",
+        "y": 810,
+        "name": 1634
+    },
+    {
+        "match": "iG.Vitality vs Crocodile",
+        "y": 809,
+        "name": 1637
+    },
+    {
+        "match": "Yangon Galacticos vs Lilgun ",
+        "y": 808,
+        "name": 1644
+    },
+    {
+        "match": "Deep Ravage vs SPL",
+        "y": 807,
+        "name": 1651
+    },
+    {
+        "match": "Unknown Team vs SG esports",
+        "y": 806,
+        "name": 1652
+    },
+    {
+        "match": "OB.Neon vs South Built Esports",
+        "y": 805,
+        "name": 1653
+    },
+    {
+        "match": "5CATS vs The Prime",
+        "y": 804,
+        "name": 1655
+    },
+    {
+        "match": "Team Spirit vs Vici Gaming",
+        "y": 803,
+        "name": 1656
+    },
+    {
+        "match": "TDBMongolia vs CapitronDota",
+        "y": 802,
+        "name": 1657
+    },
+    {
+        "match": "5CATS vs Forest",
+        "y": 801,
+        "name": 1661
+    },
+    {
+        "match": "Sazka.BRUTE vs Hippomaniacs",
+        "y": 800,
+        "name": 1661
+    },
+    {
+        "match": "Crocodile vs iG.Vitality",
+        "y": 799,
+        "name": 1663
+    },
+    {
+        "match": "HellRaisers vs Chicken Fighters",
+        "y": 798,
+        "name": 1667
+    },
+    {
+        "match": "OB.Neon vs BOOM Esports",
+        "y": 797,
+        "name": 1669
+    },
+    {
+        "match": "OB.Neon vs LBZS",
+        "y": 796,
+        "name": 1673
+    },
+    {
+        "match": "eSuba vs Inae.Rozbíječi",
+        "y": 795,
+        "name": 1674
+    },
+    {
+        "match": "The Cut vs D2 Hustlers",
+        "y": 794,
+        "name": 1674
+    },
+    {
+        "match": "Hippomaniacs vs TeamYoung",
+        "y": 793,
+        "name": 1676
+    },
+    {
+        "match": "Ωmega Esports vs Galaxy Racer Esports",
+        "y": 792,
+        "name": 1677
+    },
+    {
+        "match": "Motivate.Trust Gaming vs South Built Esports",
+        "y": 791,
+        "name": 1677
+    },
+    {
+        "match": "D2 Hustlers vs Infamous Gaming",
+        "y": 790,
+        "name": 1677
+    },
+    {
+        "match": "BOOM Esports vs Lilgun ",
+        "y": 789,
+        "name": 1679
+    },
+    {
+        "match": "Moon Chasers vs Lilgun ",
+        "y": 788,
+        "name": 1679
+    },
+    {
+        "match": "Yangon Galacticos vs 5CATS",
+        "y": 787,
+        "name": 1680
+    },
+    {
+        "match": "rush b! vs Cignal Ultra",
+        "y": 786,
+        "name": 1681
+    },
+    {
+        "match": "Team Mystery vs The Prime",
+        "y": 785,
+        "name": 1682
+    },
+    {
+        "match": "Fadee Gaming vs MINDCAT Esports",
+        "y": 784,
+        "name": 1682
+    },
+    {
+        "match": "D2 Hustlers vs EGOBOYS",
+        "y": 783,
+        "name": 1682
+    },
+    {
+        "match": "Cignal Ultra vs rush b!",
+        "y": 782,
+        "name": 1683
+    },
+    {
+        "match": "Guardians of the Maiden Tower vs IQUE.gg",
+        "y": 781,
+        "name": 1686
+    },
+    {
+        "match": "Infamous Gaming vs BINOMISTAS",
+        "y": 780,
+        "name": 1687
+    },
+    {
+        "match": "BINOMISTAS vs Infamous Gaming",
+        "y": 779,
+        "name": 1687
+    },
+    {
+        "match": "BOGD Bank vs TURIIN BANK",
+        "y": 778,
+        "name": 1690
+    },
+    {
+        "match": "Sunset 87.1 vs Melodia",
+        "y": 777,
+        "name": 1691
+    },
+    {
+        "match": "Nigma vs INVICTUS GAMING",
+        "y": 776,
+        "name": 1693
+    },
+    {
+        "match": "EGOBOYS vs Hokori",
+        "y": 775,
+        "name": 1696
+    },
+    {
+        "match": "beastcoast vs PSG.LGD",
+        "y": 774,
+        "name": 1697
+    },
+    {
+        "match": "BINOMISTAS vs Inverse",
+        "y": 773,
+        "name": 1697
+    },
+    {
+        "match": "Nature is not for a weak vs Team GL",
+        "y": 772,
+        "name": 1701
+    },
+    {
+        "match": "Dream Maker vs kastuDon",
+        "y": 771,
+        "name": 1703
+    },
+    {
+        "match": "Unknown Team vs Infamous Gaming",
+        "y": 770,
+        "name": 1705
+    },
+    {
+        "match": "Team Unique vs Team Empire",
+        "y": 769,
+        "name": 1709
+    },
+    {
+        "match": "Lutea vs Inae.Rozbíječi",
+        "y": 768,
+        "name": 1710
+    },
+    {
+        "match": "NoPing Esports vs Evil Geniuses",
+        "y": 767,
+        "name": 1711
+    },
+    {
+        "match": "Golomt Bank vs TDBMongolia",
+        "y": 766,
+        "name": 1712
+    },
+    {
+        "match": "Team Mystery vs Ink Ice",
+        "y": 765,
+        "name": 1715
+    },
+    {
+        "match": "rush b! vs Shinigami",
+        "y": 764,
+        "name": 1715
+    },
+    {
+        "match": "Nemiga Gaming vs ARCRED",
+        "y": 763,
+        "name": 1721
+    },
+    {
+        "match": "Hippomaniacs vs Sazka.BRUTE",
+        "y": 762,
+        "name": 1722
+    },
+    {
+        "match": NaN,
+        "y": 761,
+        "name": 1723
+    },
+    {
+        "match": "Team SMG vs South Built Esports",
+        "y": 760,
+        "name": 1723
+    },
+    {
+        "match": "kastuDon vs Dream Maker",
+        "y": 759,
+        "name": 1723
+    },
+    {
+        "match": "Unknown Team vs Infamous Gaming",
+        "y": 758,
+        "name": 1723
+    },
+    {
+        "match": "Lutea vs TEAM HEROIC",
+        "y": 757,
+        "name": 1726
+    },
+    {
+        "match": "Hokori vs Unknown Team",
+        "y": 756,
+        "name": 1730
+    },
+    {
+        "match": "4 Zoomers vs D2 Hustlers",
+        "y": 755,
+        "name": 1733
+    },
+    {
+        "match": "Forest vs Yangon Galacticos",
+        "y": 754,
+        "name": 1734
+    },
+    {
+        "match": "beastcoast vs Vici Gaming",
+        "y": 753,
+        "name": 1736
+    },
+    {
+        "match": "XACBANK vs Khan Bank",
+        "y": 752,
+        "name": 1736
+    },
+    {
+        "match": "Winstrike Team vs Team Spirit",
+        "y": 751,
+        "name": 1739
+    },
+    {
+        "match": "Team GL vs sorrow",
+        "y": 750,
+        "name": 1739
+    },
+    {
+        "match": "Team SMG vs Ωmega Esports",
+        "y": 749,
+        "name": 1740
+    },
+    {
+        "match": "iG.Vitality vs Yangon Galacticos",
+        "y": 748,
+        "name": 1741
+    },
+    {
+        "match": "Evil Geniuses vs TNC Predator",
+        "y": 747,
+        "name": 1745
+    },
+    {
+        "match": "Virtus.pro vs Alliance",
+        "y": 746,
+        "name": 1746
+    },
+    {
+        "match": "Dream Maker vs 5CATS",
+        "y": 745,
+        "name": 1748
+    },
+    {
+        "match": "OB.Neon vs Dragon",
+        "y": 744,
+        "name": 1749
+    },
+    {
+        "match": "Virtus.pro vs OG",
+        "y": 743,
+        "name": 1749
+    },
+    {
+        "match": "Demon Slayer vs Team Mystery",
+        "y": 742,
+        "name": 1749
+    },
+    {
+        "match": "kastuDon vs Shinigami",
+        "y": 741,
+        "name": 1750
+    },
+    {
+        "match": "The Prime vs Team Mystery",
+        "y": 740,
+        "name": 1751
+    },
+    {
+        "match": "Ink Ice vs Wlid Doek",
+        "y": 739,
+        "name": 1752
+    },
+    {
+        "match": "Alliance vs Team Spirit",
+        "y": 738,
+        "name": 1752
+    },
+    {
+        "match": "Team GL vs SPL",
+        "y": 737,
+        "name": 1753
+    },
+    {
+        "match": "The Prime vs rush b!",
+        "y": 736,
+        "name": 1754
+    },
+    {
+        "match": "Infinity vs Hokori",
+        "y": 735,
+        "name": 1754
+    },
+    {
+        "match": "AS Monaco Gambit vs Execration",
+        "y": 734,
+        "name": 1756
+    },
+    {
+        "match": "EYE gaming vs Team GL",
+        "y": 733,
+        "name": 1756
+    },
+    {
+        "match": "Galaxy Racer Esports vs Motivate.Trust Gaming",
+        "y": 732,
+        "name": 1757
+    },
+    {
+        "match": "Nigma vs beastcoast",
+        "y": 731,
+        "name": 1757
+    },
+    {
+        "match": "EYE gaming vs lowkees",
+        "y": 730,
+        "name": 1759
+    },
+    {
+        "match": "Lilgun  vs Crocodile",
+        "y": 729,
+        "name": 1759
+    },
+    {
+        "match": "Team GL vs SPL",
+        "y": 728,
+        "name": 1759
+    },
+    {
+        "match": "твич тв серега пират vs NoTechies",
+        "y": 727,
+        "name": 1760
+    },
+    {
+        "match": "4 Zoomers vs EGOBOYS",
+        "y": 726,
+        "name": 1761
+    },
+    {
+        "match": "Selemene vs Forest",
+        "y": 725,
+        "name": 1761
+    },
+    {
+        "match": "eSuba vs Hippomaniacs",
+        "y": 724,
+        "name": 1762
+    },
+    {
+        "match": "EGOBOYS vs SG esports",
+        "y": 723,
+        "name": 1763
+    },
+    {
+        "match": "Galaxy Racer Esports vs Team SMG",
+        "y": 722,
+        "name": 1764
+    },
+    {
+        "match": "GoGame Dogs vs CZC.eSuba",
+        "y": 721,
+        "name": 1764
+    },
+    {
+        "match": "Execration vs Nigma",
+        "y": 720,
+        "name": 1765
+    },
+    {
+        "match": "HellRaisers vs AS Monaco Gambit",
+        "y": 719,
+        "name": 1767
+    },
+    {
+        "match": "Battle Cry vs SHENZHEN",
+        "y": 718,
+        "name": 1767
+    },
+    {
+        "match": "The Prime vs InterActive Philippines",
+        "y": 717,
+        "name": 1769
+    },
+    {
+        "match": "Shinigami vs Forest",
+        "y": 716,
+        "name": 1774
+    },
+    {
+        "match": "INVICTUS GAMING vs Team Secret",
+        "y": 715,
+        "name": 1775
+    },
+    {
+        "match": "beastcoast vs TNC Predator",
+        "y": 714,
+        "name": 1778
+    },
+    {
+        "match": "Yangon Galacticos vs Shinigami",
+        "y": 713,
+        "name": 1779
+    },
+    {
+        "match": "BINOMISTAS vs Unknown Team",
+        "y": 712,
+        "name": 1779
+    },
+    {
+        "match": "Dream Maker vs Forest",
+        "y": 711,
+        "name": 1779
+    },
+    {
+        "match": "5CATS vs Shinigami",
+        "y": 710,
+        "name": 1782
+    },
+    {
+        "match": "sorrow vs Deep Ravage",
+        "y": 709,
+        "name": 1783
+    },
+    {
+        "match": "Evil Geniuses vs Nigma",
+        "y": 708,
+        "name": 1783
+    },
+    {
+        "match": "NoPing Esports vs Infinity",
+        "y": 707,
+        "name": 1785
+    },
+    {
+        "match": "Hydra vs SMARACIS eSports",
+        "y": 706,
+        "name": 1787
+    },
+    {
+        "match": "AWE vs Hehe United",
+        "y": 705,
+        "name": 1788
+    },
+    {
+        "match": "Selemene vs 5CATS",
+        "y": 704,
+        "name": 1795
+    },
+    {
+        "match": "Team Unique vs ViKin.gg",
+        "y": 703,
+        "name": 1797
+    },
+    {
+        "match": "Dream Maker vs Selemene",
+        "y": 702,
+        "name": 1797
+    },
+    {
+        "match": "JokanQ and Fans vs PuckChamp",
+        "y": 701,
+        "name": 1798
+    },
+    {
+        "match": "Evil Geniuses vs TNC Predator",
+        "y": 700,
+        "name": 1800
+    },
+    {
+        "match": "OB.Neon vs Dragon",
+        "y": 699,
+        "name": 1805
+    },
+    {
+        "match": "Alliance vs Team Unique",
+        "y": 698,
+        "name": 1806
+    },
+    {
+        "match": "Evil Geniuses vs Team Liquid",
+        "y": 697,
+        "name": 1806
+    },
+    {
+        "match": "South Built Esports vs Ωmega Esports",
+        "y": 696,
+        "name": 1815
+    },
+    {
+        "match": "No Bounty Hunter vs LFT",
+        "y": 695,
+        "name": 1816
+    },
+    {
+        "match": "AS Monaco Gambit vs OG",
+        "y": 694,
+        "name": 1818
+    },
+    {
+        "match": "Alliance vs ViKin.gg",
+        "y": 693,
+        "name": 1819
+    },
+    {
+        "match": "OG vs Nigma",
+        "y": 692,
+        "name": 1822
+    },
+    {
+        "match": "kastuDon vs Dream Maker",
+        "y": 691,
+        "name": 1824
+    },
+    {
+        "match": "No Bounty Hunter vs Sweet Boys",
+        "y": 690,
+        "name": 1826
+    },
+    {
+        "match": "The Prime vs 5CATS",
+        "y": 689,
+        "name": 1827
+    },
+    {
+        "match": "Chicken Fighters vs tiltacionxxx",
+        "y": 688,
+        "name": 1833
+    },
+    {
+        "match": "Forest vs kastuDon",
+        "y": 687,
+        "name": 1833
+    },
+    {
+        "match": "Ink Ice vs The Prime",
+        "y": 686,
+        "name": 1834
+    },
+    {
+        "match": "Forest vs Shinigami",
+        "y": 685,
+        "name": 1834
+    },
+    {
+        "match": "InterActive Philippines vs Team Mystery",
+        "y": 684,
+        "name": 1836
+    },
+    {
+        "match": "The Cut vs EGOBOYS",
+        "y": 683,
+        "name": 1839
+    },
+    {
+        "match": "ViKin.gg vs AS Monaco Gambit",
+        "y": 682,
+        "name": 1841
+    },
+    {
+        "match": "kastuDon vs 5CATS",
+        "y": 681,
+        "name": 1842
+    },
+    {
+        "match": "Shinigami vs 5CATS",
+        "y": 680,
+        "name": 1842
+    },
+    {
+        "match": "Nature is not for a weak vs sorrow",
+        "y": 679,
+        "name": 1844
+    },
+    {
+        "match": "ViKin.gg vs  EXTREMUM",
+        "y": 678,
+        "name": 1844
+    },
+    {
+        "match": "TNC Predator vs Vici Gaming",
+        "y": 677,
+        "name": 1844
+    },
+    {
+        "match": "Virtus.pro vs Alliance",
+        "y": 676,
+        "name": 1844
+    },
+    {
+        "match": "Сascade Esports vs V-Gaming",
+        "y": 675,
+        "name": 1845
+    },
+    {
+        "match": "Team Mystery vs The Prime",
+        "y": 674,
+        "name": 1849
+    },
+    {
+        "match": "Hokori vs Latam Defenders",
+        "y": 673,
+        "name": 1850
+    },
+    {
+        "match": "Nigma vs Team Secret",
+        "y": 672,
+        "name": 1851
+    },
+    {
+        "match": "Ink Ice vs InterActive Philippines",
+        "y": 671,
+        "name": 1854
+    },
+    {
+        "match": "Evil Geniuses vs Nigma",
+        "y": 670,
+        "name": 1854
+    },
+    {
+        "match": "South Built Esports vs Team SMG",
+        "y": 669,
+        "name": 1854
+    },
+    {
+        "match": "Team Mystery vs The Prime",
+        "y": 668,
+        "name": 1855
+    },
+    {
+        "match": "Unknown Team vs Infinity",
+        "y": 667,
+        "name": 1856
+    },
+    {
+        "match": "Galaxy Racer Esports vs Lilgun ",
+        "y": 666,
+        "name": 1858
+    },
+    {
+        "match": "Virtus.pro vs T1",
+        "y": 665,
+        "name": 1860
+    },
+    {
+        "match": ". vs ViKin.gg",
+        "y": 664,
+        "name": 1860
+    },
+    {
+        "match": "iG.Vitality vs Yangon Galacticos",
+        "y": 663,
+        "name": 1861
+    },
+    {
+        "match": "Hippomaniacs vs potn9ki-",
+        "y": 662,
+        "name": 1862
+    },
+    {
+        "match": "Undying vs Hokori",
+        "y": 661,
+        "name": 1863
+    },
+    {
+        "match": "InterActive Philippines vs SHENZHEN",
+        "y": 660,
+        "name": 1865
+    },
+    {
+        "match": "OB.Neon vs Galaxy Racer Esports",
+        "y": 659,
+        "name": 1867
+    },
+    {
+        "match": "Lilgun  vs Motivate. Viper Gaming",
+        "y": 658,
+        "name": 1870
+    },
+    {
+        "match": "Nigma vs Team Secret",
+        "y": 657,
+        "name": 1870
+    },
+    {
+        "match": "Team Mystery vs SHENZHEN",
+        "y": 656,
+        "name": 1871
+    },
+    {
+        "match": "Inae.Rozbíječi vs Hippomaniacs",
+        "y": 655,
+        "name": 1872
+    },
+    {
+        "match": "NoPing Esports vs Interitus",
+        "y": 654,
+        "name": 1874
+    },
+    {
+        "match": "Lilgun  vs Ωmega Esports",
+        "y": 653,
+        "name": 1876
+    },
+    {
+        "match": "Lilgun  vs Galaxy Racer Esports",
+        "y": 652,
+        "name": 1880
+    },
+    {
+        "match": "Infamous Gaming vs Hokori",
+        "y": 651,
+        "name": 1883
+    },
+    {
+        "match": "PuckChamp vs Team Spirit",
+        "y": 650,
+        "name": 1886
+    },
+    {
+        "match": " EXTREMUM vs ViKin.gg",
+        "y": 649,
+        "name": 1888
+    },
+    {
+        "match": "LBZS vs OB.Neon",
+        "y": 648,
+        "name": 1890
+    },
+    {
+        "match": "Team Unique vs B8",
+        "y": 647,
+        "name": 1893
+    },
+    {
+        "match": "Battle Cry vs Team Mystery",
+        "y": 646,
+        "name": 1895
+    },
+    {
+        "match": "NoPing Esports vs Evil Geniuses",
+        "y": 645,
+        "name": 1896
+    },
+    {
+        "match": "EGOBOYS vs Infamous Gaming",
+        "y": 644,
+        "name": 1898
+    },
+    {
+        "match": "T1 vs Alliance",
+        "y": 643,
+        "name": 1898
+    },
+    {
+        "match": "Hokori vs Simply TOOBASED",
+        "y": 642,
+        "name": 1902
+    },
+    {
+        "match": "Evil Geniuses vs Vici Gaming",
+        "y": 641,
+        "name": 1902
+    },
+    {
+        "match": "Unknown Team vs Infamous Gaming",
+        "y": 640,
+        "name": 1903
+    },
+    {
+        "match": "EGOBOYS vs NoPing Esports",
+        "y": 639,
+        "name": 1903
+    },
+    {
+        "match": "Vici Gaming vs Nigma",
+        "y": 638,
+        "name": 1904
+    },
+    {
+        "match": "Selemene vs Dream Maker",
+        "y": 637,
+        "name": 1905
+    },
+    {
+        "match": "Undying vs 4 Zoomers",
+        "y": 636,
+        "name": 1906
+    },
+    {
+        "match": "Hokori vs D2 Hustlers",
+        "y": 635,
+        "name": 1907
+    },
+    {
+        "match": "Dream Maker vs Team Mystery",
+        "y": 634,
+        "name": 1908
+    },
+    {
+        "match": "sorrow vs Team GL",
+        "y": 633,
+        "name": 1908
+    },
+    {
+        "match": "SPL vs Deep Ravage",
+        "y": 632,
+        "name": 1908
+    },
+    {
+        "match": "Team Spirit vs Team Liquid",
+        "y": 631,
+        "name": 1908
+    },
+    {
+        "match": "PSG.LGD vs T1",
+        "y": 630,
+        "name": 1909
+    },
+    {
+        "match": "LBZS vs Yangon Galacticos",
+        "y": 629,
+        "name": 1909
+    },
+    {
+        "match": "Undying vs The Cut",
+        "y": 628,
+        "name": 1910
+    },
+    {
+        "match": "Yangon Galacticos vs Shinigami",
+        "y": 627,
+        "name": 1910
+    },
+    {
+        "match": "Lilgun  vs OB.Neon",
+        "y": 626,
+        "name": 1910
+    },
+    {
+        "match": "kastuDon vs Selemene",
+        "y": 625,
+        "name": 1910
+    },
+    {
+        "match": "Nature is not for a weak vs Team GL",
+        "y": 624,
+        "name": 1914
+    },
+    {
+        "match": "Yangon Galacticos vs Selemene",
+        "y": 623,
+        "name": 1916
+    },
+    {
+        "match": "XACBANK vs TURIIN BANK",
+        "y": 622,
+        "name": 1918
+    },
+    {
+        "match": "Hokori vs NoPing Esports",
+        "y": 621,
+        "name": 1918
+    },
+    {
+        "match": "TeamYoung vs eSuba",
+        "y": 620,
+        "name": 1919
+    },
+    {
+        "match": "Unknown Team vs Infamous Gaming",
+        "y": 619,
+        "name": 1919
+    },
+    {
+        "match": "TMU vs KeyframeGaming",
+        "y": 618,
+        "name": 1919
+    },
+    {
+        "match": "PuckChamp vs Tundra Esports ",
+        "y": 617,
+        "name": 1920
+    },
+    {
+        "match": "Forest vs Selemene",
+        "y": 616,
+        "name": 1920
+    },
+    {
+        "match": "T1 vs Virtus.pro",
+        "y": 615,
+        "name": 1920
+    },
+    {
+        "match": "South Built Esports vs Ωmega Esports",
+        "y": 614,
+        "name": 1922
+    },
+    {
+        "match": "Team Liquid vs TNC Predator",
+        "y": 613,
+        "name": 1923
+    },
+    {
+        "match": "Motivate.Trust Gaming vs Ωmega Esports",
+        "y": 612,
+        "name": 1927
+    },
+    {
+        "match": "Forest vs Demon Slayer",
+        "y": 611,
+        "name": 1928
+    },
+    {
+        "match": "Сascade Esports vs Trident Clan",
+        "y": 610,
+        "name": 1929
+    },
+    {
+        "match": "Simply TOOBASED vs The Cut",
+        "y": 609,
+        "name": 1929
+    },
+    {
+        "match": "LBZS vs Yangon Galacticos",
+        "y": 608,
+        "name": 1930
+    },
+    {
+        "match": "Shinigami vs rush b!",
+        "y": 607,
+        "name": 1932
+    },
+    {
+        "match": "fp pudge lp techies vs LE CLAN",
+        "y": 606,
+        "name": 1932
+    },
+    {
+        "match": "Team Spirit vs beastcoast",
+        "y": 605,
+        "name": 1938
+    },
+    {
+        "match": "INVICTUS GAMING vs AS Monaco Gambit",
+        "y": 604,
+        "name": 1938
+    },
+    {
+        "match": "Infamous Gaming vs Undying",
+        "y": 603,
+        "name": 1940
+    },
+    {
+        "match": "Lilgun  vs Yangon Galacticos",
+        "y": 602,
+        "name": 1940
+    },
+    {
+        "match": "Learn2Play vs ARCRED",
+        "y": 601,
+        "name": 1941
+    },
+    {
+        "match": "5CATS vs Shinigami",
+        "y": 600,
+        "name": 1941
+    },
+    {
+        "match": "SG esports vs Infinity",
+        "y": 599,
+        "name": 1944
+    },
+    {
+        "match": "BOOM Esports vs Motivate.Trust Gaming",
+        "y": 598,
+        "name": 1945
+    },
+    {
+        "match": "ViKin.gg vs Team Unique",
+        "y": 597,
+        "name": 1945
+    },
+    {
+        "match": "Latam Defenders vs Hokori",
+        "y": 596,
+        "name": 1946
+    },
+    {
+        "match": "EGOBOYS vs Simply TOOBASED",
+        "y": 595,
+        "name": 1948
+    },
+    {
+        "match": "Forest vs Dream Maker",
+        "y": 594,
+        "name": 1949
+    },
+    {
+        "match": "Brame vs Monaspa",
+        "y": 593,
+        "name": 1950
+    },
+    {
+        "match": "The Prime vs Battle Cry",
+        "y": 592,
+        "name": 1950
+    },
+    {
+        "match": "Khan Bank vs XACBANK",
+        "y": 591,
+        "name": 1951
+    },
+    {
+        "match": "eSuba vs Inae.Rozbíječi",
+        "y": 590,
+        "name": 1951
+    },
+    {
+        "match": "Motivate.Trust Gaming vs LBZS",
+        "y": 589,
+        "name": 1951
+    },
+    {
+        "match": "4 Zoomers vs Infamous Gaming",
+        "y": 588,
+        "name": 1952
+    },
+    {
+        "match": "Guardians of the Maiden Tower vs Winstrike Team",
+        "y": 587,
+        "name": 1955
+    },
+    {
+        "match": "Yangon Galacticos vs The Prime",
+        "y": 586,
+        "name": 1957
+    },
+    {
+        "match": "South Built Esports vs BOOM Esports",
+        "y": 585,
+        "name": 1957
+    },
+    {
+        "match": "Infamous Gaming vs SG esports",
+        "y": 584,
+        "name": 1959
+    },
+    {
+        "match": "Hellbear Smashers vs  EXTREMUM",
+        "y": 583,
+        "name": 1962
+    },
+    {
+        "match": "EGOBOYS vs Infinity",
+        "y": 582,
+        "name": 1964
+    },
+    {
+        "match": "ViKin.gg vs Tundra Esports ",
+        "y": 581,
+        "name": 1966
+    },
+    {
+        "match": "OB.Neon vs Galaxy Racer Esports",
+        "y": 580,
+        "name": 1967
+    },
+    {
+        "match": "Yangon Galacticos vs rush b!",
+        "y": 579,
+        "name": 1969
+    },
+    {
+        "match": "PSG.LGD vs Team Liquid",
+        "y": 578,
+        "name": 1971
+    },
+    {
+        "match": "Team Secret vs Vici Gaming",
+        "y": 577,
+        "name": 1971
+    },
+    {
+        "match": "Infamous Gaming vs EGOBOYS",
+        "y": 576,
+        "name": 1973
+    },
+    {
+        "match": "Pavaga Academy vs Team Empire",
+        "y": 575,
+        "name": 1973
+    },
+    {
+        "match": "kastuDon vs Yangon Galacticos",
+        "y": 574,
+        "name": 1974
+    },
+    {
+        "match": "LIDOVEJ GAMING vs TeamYoung",
+        "y": 573,
+        "name": 1974
+    },
+    {
+        "match": "Lilgun  vs Xtreme  Gaming",
+        "y": 572,
+        "name": 1975
+    },
+    {
+        "match": "Yangon Galacticos vs kastuDon",
+        "y": 571,
+        "name": 1975
+    },
+    {
+        "match": "SG esports vs Unknown Team",
+        "y": 570,
+        "name": 1976
+    },
+    {
+        "match": "CyberLife eSports vs Disrespect",
+        "y": 569,
+        "name": 1977
+    },
+    {
+        "match": "Ωmega Esports vs Galaxy Racer Esports",
+        "y": 568,
+        "name": 1979
+    },
+    {
+        "match": "EGOBOYS vs Infinity",
+        "y": 567,
+        "name": 1980
+    },
+    {
+        "match": "TDBMongolia vs Golomt Bank",
+        "y": 566,
+        "name": 1982
+    },
+    {
+        "match": "Trident Clan vs Nemiga Gaming",
+        "y": 565,
+        "name": 1982
+    },
+    {
+        "match": "Team Empire vs Team Unique",
+        "y": 564,
+        "name": 1983
+    },
+    {
+        "match": "iG.Vitality vs Team Veteran",
+        "y": 563,
+        "name": 1984
+    },
+    {
+        "match": "Lutea vs CZC.eSuba",
+        "y": 562,
+        "name": 1984
+    },
+    {
+        "match": "Hippomaniacs vs Inae.Rozbíječi",
+        "y": 561,
+        "name": 1984
+    },
+    {
+        "match": "ViKin.gg vs Team Unique",
+        "y": 560,
+        "name": 1984
+    },
+    {
+        "match": "Infamous Gaming vs Omega Gaming",
+        "y": 559,
+        "name": 1984
+    },
+    {
+        "match": "Quincy Crew vs Vici Gaming",
+        "y": 558,
+        "name": 1986
+    },
+    {
+        "match": "Team Mystery vs Dream Maker",
+        "y": 557,
+        "name": 1988
+    },
+    {
+        "match": "T1 vs Virtus.pro",
+        "y": 556,
+        "name": 1988
+    },
+    {
+        "match": "Team Spirit vs Hellbear Smashers",
+        "y": 555,
+        "name": 1988
+    },
+    {
+        "match": "EGOBOYS vs SG esports",
+        "y": 554,
+        "name": 1989
+    },
+    {
+        "match": "Сascade Esports vs ShvagaGange",
+        "y": 553,
+        "name": 1990
+    },
+    {
+        "match": "Virtus.pro vs Vici Gaming",
+        "y": 552,
+        "name": 1990
+    },
+    {
+        "match": "SHENZHEN vs Team Mystery",
+        "y": 551,
+        "name": 1994
+    },
+    {
+        "match": "Team Spirit vs PSG.LGD",
+        "y": 550,
+        "name": 1997
+    },
+    {
+        "match": "Demon Slayer vs Team Mystery",
+        "y": 549,
+        "name": 1997
+    },
+    {
+        "match": "PSG.LGD vs Alliance",
+        "y": 548,
+        "name": 1997
+    },
+    {
+        "match": "SG esports vs EGOBOYS",
+        "y": 547,
+        "name": 1999
+    },
+    {
+        "match": "No Bounty Hunter vs Trident Clan",
+        "y": 546,
+        "name": 2001
+    },
+    {
+        "match": "Unknown Team vs SG esports",
+        "y": 545,
+        "name": 2002
+    },
+    {
+        "match": "BOOM Esports vs Motivate.Trust Gaming",
+        "y": 544,
+        "name": 2002
+    },
+    {
+        "match": "PSG.LGD vs Evil Geniuses",
+        "y": 543,
+        "name": 2003
+    },
+    {
+        "match": "NL vs B8",
+        "y": 542,
+        "name": 2004
+    },
+    {
+        "match": "AS Monaco Gambit vs Nigma",
+        "y": 541,
+        "name": 2004
+    },
+    {
+        "match": "Crocodile vs Motivate.Trust Gaming",
+        "y": 540,
+        "name": 2006
+    },
+    {
+        "match": "Quincy Crew vs OG",
+        "y": 539,
+        "name": 2007
+    },
+    {
+        "match": "V-Gaming vs Into The Breach",
+        "y": 538,
+        "name": 2007
+    },
+    {
+        "match": "Execration vs Team Secret",
+        "y": 537,
+        "name": 2007
+    },
+    {
+        "match": "Unknown Team vs BINOMISTAS",
+        "y": 536,
+        "name": 2009
+    },
+    {
+        "match": "Alliance vs Virtus.pro",
+        "y": 535,
+        "name": 2010
+    },
+    {
+        "match": "BOGD Bank vs XACBANK",
+        "y": 534,
+        "name": 2010
+    },
+    {
+        "match": "The Cut vs 4 Zoomers",
+        "y": 533,
+        "name": 2012
+    },
+    {
+        "match": "Nemiga Gaming vs  EXTREMUM",
+        "y": 532,
+        "name": 2013
+    },
+    {
+        "match": "Galaxy Racer Esports vs South Built Esports",
+        "y": 531,
+        "name": 2013
+    },
+    {
+        "match": "Team Secret vs Alliance",
+        "y": 530,
+        "name": 2013
+    },
+    {
+        "match": "D2 Hustlers vs Infamous Gaming",
+        "y": 529,
+        "name": 2017
+    },
+    {
+        "match": "BOOM Esports vs Motivate.Trust Gaming",
+        "y": 528,
+        "name": 2017
+    },
+    {
+        "match": "kastuDon vs rush b!",
+        "y": 527,
+        "name": 2017
+    },
+    {
+        "match": "Infinity vs NoPing Esports",
+        "y": 526,
+        "name": 2020
+    },
+    {
+        "match": "Alliance vs Team Spirit",
+        "y": 525,
+        "name": 2023
+    },
+    {
+        "match": "MINDCAT Esports vs LIDOVEJ GAMING",
+        "y": 524,
+        "name": 2023
+    },
+    {
+        "match": "Unknown Team vs Infinity",
+        "y": 523,
+        "name": 2023
+    },
+    {
+        "match": "Deep Ravage vs SPL",
+        "y": 522,
+        "name": 2024
+    },
+    {
+        "match": "Team Spirit vs Winstrike Team",
+        "y": 521,
+        "name": 2027
+    },
+    {
+        "match": "Evil Geniuses vs Team Liquid",
+        "y": 520,
+        "name": 2029
+    },
+    {
+        "match": "PSG.LGD vs Evil Geniuses",
+        "y": 519,
+        "name": 2031
+    },
+    {
+        "match": "T1 vs Team Aster",
+        "y": 518,
+        "name": 2031
+    },
+    {
+        "match": "Infamous Gaming vs 4 Zoomers",
+        "y": 517,
+        "name": 2031
+    },
+    {
+        "match": "Hokori vs Infamous Gaming",
+        "y": 516,
+        "name": 2032
+    },
+    {
+        "match": "Team Spirit vs HellRaisers",
+        "y": 515,
+        "name": 2033
+    },
+    {
+        "match": "Nigma vs Team Liquid",
+        "y": 514,
+        "name": 2034
+    },
+    {
+        "match": "Team Unique vs Level UP",
+        "y": 513,
+        "name": 2034
+    },
+    {
+        "match": "AS Monaco Gambit vs OG",
+        "y": 512,
+        "name": 2037
+    },
+    {
+        "match": "Alliance vs T1",
+        "y": 511,
+        "name": 2039
+    },
+    {
+        "match": "Unknown Team vs SG esports",
+        "y": 510,
+        "name": 2040
+    },
+    {
+        "match": "TURIIN BANK vs XACBANK",
+        "y": 509,
+        "name": 2041
+    },
+    {
+        "match": "Virtus.pro vs Nigma",
+        "y": 508,
+        "name": 2041
+    },
+    {
+        "match": "Team Spirit vs Winstrike Team",
+        "y": 507,
+        "name": 2042
+    },
+    {
+        "match": "INVICTUS GAMING vs Execration",
+        "y": 506,
+        "name": 2044
+    },
+    {
+        "match": "OB.Neon vs BOOM Esports",
+        "y": 505,
+        "name": 2046
+    },
+    {
+        "match": "Team SMG vs Lilgun ",
+        "y": 504,
+        "name": 2049
+    },
+    {
+        "match": "Crocodile vs Lilgun ",
+        "y": 503,
+        "name": 2049
+    },
+    {
+        "match": "EGOBOYS vs Infamous Gaming",
+        "y": 502,
+        "name": 2051
+    },
+    {
+        "match": "Tundra Esports  vs PuckChamp",
+        "y": 501,
+        "name": 2055
+    },
+    {
+        "match": "5CATS vs Forest",
+        "y": 500,
+        "name": 2055
+    },
+    {
+        "match": "BOOM Esports vs Motivate.Trust Gaming",
+        "y": 499,
+        "name": 2057
+    },
+    {
+        "match": "The Prime vs Wlid Doek",
+        "y": 498,
+        "name": 2058
+    },
+    {
+        "match": "PuckChamp vs Nemiga Gaming",
+        "y": 497,
+        "name": 2061
+    },
+    {
+        "match": NaN,
+        "y": 496,
+        "name": 2062
+    },
+    {
+        "match": "BOOM Esports vs Motivate.Trust Gaming",
+        "y": 495,
+        "name": 2062
+    },
+    {
+        "match": "Infamous Gaming vs D2 Hustlers",
+        "y": 494,
+        "name": 2064
+    },
+    {
+        "match": "Infinity vs Unknown Team",
+        "y": 493,
+        "name": 2066
+    },
+    {
+        "match": "HellRaisers vs Team Spirit",
+        "y": 492,
+        "name": 2068
+    },
+    {
+        "match": "The Cut vs Hokori",
+        "y": 491,
+        "name": 2069
+    },
+    {
+        "match": "4 Zoomers vs Hokori",
+        "y": 490,
+        "name": 2070
+    },
+    {
+        "match": "PSG.LGD vs Team Liquid",
+        "y": 489,
+        "name": 2072
+    },
+    {
+        "match": "Natus Vincere vs HellRaisers",
+        "y": 488,
+        "name": 2074
+    },
+    {
+        "match": "Undying vs 4 Zoomers",
+        "y": 487,
+        "name": 2074
+    },
+    {
+        "match": "NoPing Esports vs Quincy Crew",
+        "y": 486,
+        "name": 2075
+    },
+    {
+        "match": "Team Secret vs INVICTUS GAMING",
+        "y": 485,
+        "name": 2077
+    },
+    {
+        "match": "Unknown Team vs Infinity",
+        "y": 484,
+        "name": 2080
+    },
+    {
+        "match": "Nigma vs ViKin.gg",
+        "y": 483,
+        "name": 2080
+    },
+    {
+        "match": "sorrow vs Team GL",
+        "y": 482,
+        "name": 2082
+    },
+    {
+        "match": "Nigma vs PSG.LGD",
+        "y": 481,
+        "name": 2083
+    },
+    {
+        "match": "BOOM Esports vs Galaxy Racer Esports",
+        "y": 480,
+        "name": 2083
+    },
+    {
+        "match": "Nigma vs PSG.LGD",
+        "y": 479,
+        "name": 2084
+    },
+    {
+        "match": "Ωmega Esports vs Galaxy Racer Esports",
+        "y": 478,
+        "name": 2084
+    },
+    {
+        "match": "Nigma vs PSG.LGD",
+        "y": 477,
+        "name": 2087
+    },
+    {
+        "match": "OG vs Team Liquid",
+        "y": 476,
+        "name": 2090
+    },
+    {
+        "match": "Lilgun  vs Yangon Galacticos",
+        "y": 475,
+        "name": 2093
+    },
+    {
+        "match": "MINDCAT Esports vs LIDOVEJ GAMING",
+        "y": 474,
+        "name": 2093
+    },
+    {
+        "match": "OB.Neon vs Team SMG",
+        "y": 473,
+        "name": 2094
+    },
+    {
+        "match": "Selemene vs Dream Maker",
+        "y": 472,
+        "name": 2095
+    },
+    {
+        "match": "HellRaisers vs Winstrike Team",
+        "y": 471,
+        "name": 2095
+    },
+    {
+        "match": "ViKin.gg vs KEKWait",
+        "y": 470,
+        "name": 2097
+    },
+    {
+        "match": "5CATS vs The Prime",
+        "y": 469,
+        "name": 2098
+    },
+    {
+        "match": "Team Unique vs ViKin.gg",
+        "y": 468,
+        "name": 2099
+    },
+    {
+        "match": "PSG.LGD vs Nigma",
+        "y": 467,
+        "name": 2099
+    },
+    {
+        "match": "Nemiga Gaming vs Fantastic Five",
+        "y": 466,
+        "name": 2100
+    },
+    {
+        "match": "Til'tuiyt Tol'ko Retardi vs Devil Eyes",
+        "y": 465,
+        "name": 2101
+    },
+    {
+        "match": "BINOMISTAS vs SG esports",
+        "y": 464,
+        "name": 2102
+    },
+    {
+        "match": "Nemiga Gaming vs PuckChamp",
+        "y": 463,
+        "name": 2103
+    },
+    {
+        "match": "KeyframeGaming vs TMU",
+        "y": 462,
+        "name": 2106
+    },
+    {
+        "match": "Tuck E-Sports vs Project B",
+        "y": 461,
+        "name": 2107
+    },
+    {
+        "match": "EGOBOYS vs Infinity",
+        "y": 460,
+        "name": 2109
+    },
+    {
+        "match": "Lilgun  vs Yangon Galacticos",
+        "y": 459,
+        "name": 2110
+    },
+    {
+        "match": "The Cut vs Hokori",
+        "y": 458,
+        "name": 2112
+    },
+    {
+        "match": "AS Monaco Gambit vs Vici Gaming",
+        "y": 457,
+        "name": 2113
+    },
+    {
+        "match": "AS Monaco Gambit vs Fantastic Five",
+        "y": 456,
+        "name": 2118
+    },
+    {
+        "match": "InterActive Philippines vs Team Mystery",
+        "y": 455,
+        "name": 2118
+    },
+    {
+        "match": "ViKin.gg vs Team Unique",
+        "y": 454,
+        "name": 2119
+    },
+    {
+        "match": "D2 Hustlers vs The Cut",
+        "y": 453,
+        "name": 2119
+    },
+    {
+        "match": "PSG.LGD vs T1",
+        "y": 452,
+        "name": 2122
+    },
+    {
+        "match": "PSG.LGD vs Vici Gaming",
+        "y": 451,
+        "name": 2125
+    },
+    {
+        "match": "Selemene vs 5CATS",
+        "y": 450,
+        "name": 2128
+    },
+    {
+        "match": "Ink Ice vs Wlid Doek",
+        "y": 449,
+        "name": 2128
+    },
+    {
+        "match": "Evil Geniuses vs beastcoast",
+        "y": 448,
+        "name": 2130
+    },
+    {
+        "match": "The Prime vs InterActive Philippines",
+        "y": 447,
+        "name": 2132
+    },
+    {
+        "match": "Nigma vs Evil Geniuses",
+        "y": 446,
+        "name": 2132
+    },
+    {
+        "match": "kvp vs NoImprove",
+        "y": 445,
+        "name": 2135
+    },
+    {
+        "match": "Unknown Team vs Hokori",
+        "y": 444,
+        "name": 2146
+    },
+    {
+        "match": "The Prime vs Dream Maker",
+        "y": 443,
+        "name": 2146
+    },
+    {
+        "match": "Evil Geniuses vs Team Spirit",
+        "y": 442,
+        "name": 2147
+    },
+    {
+        "match": "Infamous Gaming vs Unknown Team",
+        "y": 441,
+        "name": 2148
+    },
+    {
+        "match": "Team GL vs Nature is not for a weak",
+        "y": 440,
+        "name": 2157
+    },
+    {
+        "match": "HellRaisers vs Natus Vincere",
+        "y": 439,
+        "name": 2159
+    },
+    {
+        "match": "The Prime vs Team Mystery",
+        "y": 438,
+        "name": 2159
+    },
+    {
+        "match": "Selemene vs Dream Maker",
+        "y": 437,
+        "name": 2160
+    },
+    {
+        "match": "EGOBOYS vs Infamous Gaming",
+        "y": 436,
+        "name": 2160
+    },
+    {
+        "match": "SPL vs Deep Ravage",
+        "y": 435,
+        "name": 2166
+    },
+    {
+        "match": "Inae.Rozbíječi vs Hippomaniacs",
+        "y": 434,
+        "name": 2167
+    },
+    {
+        "match": "No Bounty Hunter vs V-Gaming",
+        "y": 433,
+        "name": 2168
+    },
+    {
+        "match": "iG.Vitality vs Xtreme  Gaming",
+        "y": 432,
+        "name": 2170
+    },
+    {
+        "match": "PSG.LGD vs Evil Geniuses",
+        "y": 431,
+        "name": 2170
+    },
+    {
+        "match": "Execration vs AS Monaco Gambit",
+        "y": 430,
+        "name": 2172
+    },
+    {
+        "match": "Infamous Gaming vs Infinity",
+        "y": 429,
+        "name": 2175
+    },
+    {
+        "match": "PSG.LGD vs Nigma",
+        "y": 428,
+        "name": 2175
+    },
+    {
+        "match": "Hokori vs Infinity",
+        "y": 427,
+        "name": 2177
+    },
+    {
+        "match": "Undying vs Infamous Gaming",
+        "y": 426,
+        "name": 2177
+    },
+    {
+        "match": "Motivate.Trust Gaming vs Team SMG",
+        "y": 425,
+        "name": 2181
+    },
+    {
+        "match": "Nigma vs Evil Geniuses",
+        "y": 424,
+        "name": 2182
+    },
+    {
+        "match": "Chicken Fighters vs IVY",
+        "y": 423,
+        "name": 2182
+    },
+    {
+        "match": "Nemiga Gaming vs PuckChamp",
+        "y": 422,
+        "name": 2184
+    },
+    {
+        "match": "BINOMISTAS vs SG esports",
+        "y": 421,
+        "name": 2186
+    },
+    {
+        "match": "Golomt Bank vs BOGD Bank",
+        "y": 420,
+        "name": 2187
+    },
+    {
+        "match": "LBZS vs Motivate.Trust Gaming",
+        "y": 419,
+        "name": 2191
+    },
+    {
+        "match": "Fantastic Five vs Nemiga Gaming",
+        "y": 418,
+        "name": 2191
+    },
+    {
+        "match": "Infamous Gaming vs Simply TOOBASED",
+        "y": 417,
+        "name": 2191
+    },
+    {
+        "match": "Motivate.Trust Gaming vs BOOM Esports",
+        "y": 416,
+        "name": 2192
+    },
+    {
+        "match": "Lilgun  vs South Built Esports",
+        "y": 415,
+        "name": 2194
+    },
+    {
+        "match": "Infamous Gaming vs SG esports",
+        "y": 414,
+        "name": 2195
+    },
+    {
+        "match": "LBZS vs OB.Neon",
+        "y": 413,
+        "name": 2196
+    },
+    {
+        "match": "PuckChamp vs Сascade Esports",
+        "y": 412,
+        "name": 2197
+    },
+    {
+        "match": "eSuba vs TeamYoung",
+        "y": 411,
+        "name": 2200
+    },
+    {
+        "match": "Execration vs INVICTUS GAMING",
+        "y": 410,
+        "name": 2200
+    },
+    {
+        "match": "Unknown Team vs SG esports",
+        "y": 409,
+        "name": 2202
+    },
+    {
+        "match": "Evil Geniuses vs Vici Gaming",
+        "y": 408,
+        "name": 2203
+    },
+    {
+        "match": "Alliance vs PSG.LGD",
+        "y": 407,
+        "name": 2203
+    },
+    {
+        "match": "PuckChamp vs Team Unique",
+        "y": 406,
+        "name": 2204
+    },
+    {
+        "match": "Unknown Team vs Hokori",
+        "y": 405,
+        "name": 2205
+    },
+    {
+        "match": "HellRaisers vs AS Monaco Gambit",
+        "y": 404,
+        "name": 2205
+    },
+    {
+        "match": "Hellbear Smashers vs Сascade Esports",
+        "y": 403,
+        "name": 2206
+    },
+    {
+        "match": "Lilgun  vs Xtreme  Gaming",
+        "y": 402,
+        "name": 2207
+    },
+    {
+        "match": "T1 vs Evil Geniuses",
+        "y": 401,
+        "name": 2208
+    },
+    {
+        "match": "Team Liquid vs OG",
+        "y": 400,
+        "name": 2209
+    },
+    {
+        "match": "Evil Geniuses vs PSG.LGD",
+        "y": 399,
+        "name": 2212
+    },
+    {
+        "match": "Xtreme  Gaming vs Yangon Galacticos",
+        "y": 398,
+        "name": 2214
+    },
+    {
+        "match": "Inae.Rozbíječi vs Hippomaniacs",
+        "y": 397,
+        "name": 2216
+    },
+    {
+        "match": "SPL vs Team GL",
+        "y": 396,
+        "name": 2220
+    },
+    {
+        "match": "Evil Geniuses vs NoPing Esports",
+        "y": 395,
+        "name": 2221
+    },
+    {
+        "match": "X3 vs  EXTREMUM",
+        "y": 394,
+        "name": 2222
+    },
+    {
+        "match": "X3 vs TOP 8",
+        "y": 393,
+        "name": 2226
+    },
+    {
+        "match": "Crocodile vs Moon Chasers",
+        "y": 392,
+        "name": 2227
+    },
+    {
+        "match": "TURIIN BANK vs Golomt Bank",
+        "y": 391,
+        "name": 2233
+    },
+    {
+        "match": "Tundra Esports  vs Quincy Crew",
+        "y": 390,
+        "name": 2234
+    },
+    {
+        "match": "OB.Neon vs Dragon",
+        "y": 389,
+        "name": 2234
+    },
+    {
+        "match": "XACBANK vs BOGD Bank",
+        "y": 388,
+        "name": 2235
+    },
+    {
+        "match": "The Prime vs Ink Ice",
+        "y": 387,
+        "name": 2236
+    },
+    {
+        "match": "OB.Neon vs LBZS",
+        "y": 386,
+        "name": 2238
+    },
+    {
+        "match": " EXTREMUM vs Hellbear Smashers",
+        "y": 385,
+        "name": 2239
+    },
+    {
+        "match": "LAWYERMSB FANBOYS vs Durka",
+        "y": 384,
+        "name": 2243
+    },
+    {
+        "match": "Trident Clan vs potn9ki-",
+        "y": 383,
+        "name": 2244
+    },
+    {
+        "match": "PuckChamp vs Chicken Fighters",
+        "y": 382,
+        "name": 2244
+    },
+    {
+        "match": "Infamous Gaming vs BINOMISTAS",
+        "y": 381,
+        "name": 2245
+    },
+    {
+        "match": "TDBMongolia vs Khan Bank",
+        "y": 380,
+        "name": 2246
+    },
+    {
+        "match": "Infamous Gaming vs EGOBOYS",
+        "y": 379,
+        "name": 2249
+    },
+    {
+        "match": "OB.Neon vs Galaxy Racer Esports",
+        "y": 378,
+        "name": 2249
+    },
+    {
+        "match": "Team Empire vs Team Unique",
+        "y": 377,
+        "name": 2252
+    },
+    {
+        "match": "InterActive Philippines vs The Prime",
+        "y": 376,
+        "name": 2252
+    },
+    {
+        "match": "Сascade Esports vs Trident Clan",
+        "y": 375,
+        "name": 2252
+    },
+    {
+        "match": "Team Spirit vs Winstrike Team",
+        "y": 374,
+        "name": 2253
+    },
+    {
+        "match": "Interitus vs NoPing Esports",
+        "y": 373,
+        "name": 2255
+    },
+    {
+        "match": "ViKin.gg vs  EXTREMUM",
+        "y": 372,
+        "name": 2255
+    },
+    {
+        "match": "Unknown Team vs Infinity",
+        "y": 371,
+        "name": 2260
+    },
+    {
+        "match": "OB.Neon vs Motivate.Trust Gaming",
+        "y": 370,
+        "name": 2262
+    },
+    {
+        "match": "LBZS vs OB.Neon",
+        "y": 369,
+        "name": 2264
+    },
+    {
+        "match": "Hokori vs 4 Zoomers",
+        "y": 368,
+        "name": 2265
+    },
+    {
+        "match": "Nigma vs Virtus.pro",
+        "y": 367,
+        "name": 2266
+    },
+    {
+        "match": "rush b! vs Yangon Galacticos",
+        "y": 366,
+        "name": 2266
+    },
+    {
+        "match": "Team Spirit vs Winstrike Team",
+        "y": 365,
+        "name": 2268
+    },
+    {
+        "match": "Nigma vs ViKin.gg",
+        "y": 364,
+        "name": 2270
+    },
+    {
+        "match": "Infamous Gaming vs BINOMISTAS",
+        "y": 363,
+        "name": 2272
+    },
+    {
+        "match": "Ink Ice vs The Prime",
+        "y": 362,
+        "name": 2273
+    },
+    {
+        "match": "OB.Neon vs Ωmega Esports",
+        "y": 361,
+        "name": 2276
+    },
+    {
+        "match": "Motivate. Viper Gaming vs Yangon Galacticos",
+        "y": 360,
+        "name": 2276
+    },
+    {
+        "match": NaN,
+        "y": 359,
+        "name": 2276
+    },
+    {
+        "match": "Team Secret vs AS Monaco Gambit",
+        "y": 358,
+        "name": 2285
+    },
+    {
+        "match": "Battle Cry vs The Prime",
+        "y": 357,
+        "name": 2287
+    },
+    {
+        "match": "Team Liquid vs Vici Gaming",
+        "y": 356,
+        "name": 2287
+    },
+    {
+        "match": NaN,
+        "y": 355,
+        "name": 2293
+    },
+    {
+        "match": "SPL vs Team GL",
+        "y": 354,
+        "name": 2294
+    },
+    {
+        "match": "Undying vs 4 Zoomers",
+        "y": 353,
+        "name": 2297
+    },
+    {
+        "match": "HellRaisers vs Into The Breach",
+        "y": 352,
+        "name": 2299
+    },
+    {
+        "match": "South Built Esports vs Motivate.Trust Gaming",
+        "y": 351,
+        "name": 2300
+    },
+    {
+        "match": "5CATS vs Selemene",
+        "y": 350,
+        "name": 2300
+    },
+    {
+        "match": "TNC Predator vs Team Aster",
+        "y": 349,
+        "name": 2301
+    },
+    {
+        "match": "Team Spirit vs PuckChamp",
+        "y": 348,
+        "name": 2301
+    },
+    {
+        "match": "Lutea vs TeamYoung",
+        "y": 347,
+        "name": 2302
+    },
+    {
+        "match": "Unknown Team vs Infamous Gaming",
+        "y": 346,
+        "name": 2304
+    },
+    {
+        "match": "Undying vs Infamous Gaming",
+        "y": 345,
+        "name": 2308
+    },
+    {
+        "match": "ViKin.gg vs Hellbear Smashers",
+        "y": 344,
+        "name": 2310
+    },
+    {
+        "match": "V-Gaming vs Trident Clan",
+        "y": 343,
+        "name": 2314
+    },
+    {
+        "match": "EGOBOYS vs 4 Zoomers",
+        "y": 342,
+        "name": 2315
+    },
+    {
+        "match": "Dragon vs Yangon Galacticos",
+        "y": 341,
+        "name": 2317
+    },
+    {
+        "match": "Yangon Galacticos vs The Prime",
+        "y": 340,
+        "name": 2317
+    },
+    {
+        "match": "Undying vs D2 Hustlers",
+        "y": 339,
+        "name": 2318
+    },
+    {
+        "match": "Fantastic Five vs PuckChamp",
+        "y": 338,
+        "name": 2320
+    },
+    {
+        "match": "Infamous Gaming vs Hokori",
+        "y": 337,
+        "name": 2323
+    },
+    {
+        "match": "Forest vs Demon Slayer",
+        "y": 336,
+        "name": 2326
+    },
+    {
+        "match": "AS Monaco Gambit vs Tundra Esports ",
+        "y": 335,
+        "name": 2328
+    },
+    {
+        "match": "Tundra Esports  vs Team Liquid",
+        "y": 334,
+        "name": 2329
+    },
+    {
+        "match": "kastuDon vs Yangon Galacticos",
+        "y": 333,
+        "name": 2329
+    },
+    {
+        "match": "BOOM Esports vs Ωmega Esports",
+        "y": 332,
+        "name": 2330
+    },
+    {
+        "match": "sorrow vs Nature is not for a weak",
+        "y": 331,
+        "name": 2333
+    },
+    {
+        "match": "Galaxy Racer Esports vs Team SMG",
+        "y": 330,
+        "name": 2334
+    },
+    {
+        "match": "5CATS vs rush b!",
+        "y": 329,
+        "name": 2336
+    },
+    {
+        "match": "Infamous Gaming vs EGOBOYS",
+        "y": 328,
+        "name": 2337
+    },
+    {
+        "match": "Motivate.Trust Gaming vs Galaxy Racer Esports",
+        "y": 327,
+        "name": 2338
+    },
+    {
+        "match": "No Bounty Hunter vs Trident Clan",
+        "y": 326,
+        "name": 2339
+    },
+    {
+        "match": "4 Zoomers vs Undying",
+        "y": 325,
+        "name": 2340
+    },
+    {
+        "match": "Quincy Crew vs Vici Gaming",
+        "y": 324,
+        "name": 2340
+    },
+    {
+        "match": "Team GL vs sorrow",
+        "y": 323,
+        "name": 2344
+    },
+    {
+        "match": "Team Liquid vs Vici Gaming",
+        "y": 322,
+        "name": 2345
+    },
+    {
+        "match": "SPL vs Team GL",
+        "y": 321,
+        "name": 2345
+    },
+    {
+        "match": "Quincy Crew vs T1",
+        "y": 320,
+        "name": 2347
+    },
+    {
+        "match": "BOOM Esports vs Team SMG",
+        "y": 319,
+        "name": 2348
+    },
+    {
+        "match": "Execration vs Vici Gaming",
+        "y": 318,
+        "name": 2350
+    },
+    {
+        "match": "BINOMISTAS vs Hokori",
+        "y": 317,
+        "name": 2352
+    },
+    {
+        "match": "Nigma vs Team Spirit",
+        "y": 316,
+        "name": 2352
+    },
+    {
+        "match": "4 Zoomers vs Undying",
+        "y": 315,
+        "name": 2353
+    },
+    {
+        "match": "Team Spirit vs Team Liquid",
+        "y": 314,
+        "name": 2354
+    },
+    {
+        "match": "Galaxy Racer Esports vs Motivate.Trust Gaming",
+        "y": 313,
+        "name": 2354
+    },
+    {
+        "match": "Winstrike Team vs Team Empire",
+        "y": 312,
+        "name": 2358
+    },
+    {
+        "match": "Alliance vs Team Secret",
+        "y": 311,
+        "name": 2358
+    },
+    {
+        "match": "The Cut vs D2 Hustlers",
+        "y": 310,
+        "name": 2361
+    },
+    {
+        "match": "Nemiga Gaming vs Trident Clan",
+        "y": 309,
+        "name": 2365
+    },
+    {
+        "match": "iG.Vitality vs Team Veteran",
+        "y": 308,
+        "name": 2366
+    },
+    {
+        "match": "HellRaisers vs Team Spirit",
+        "y": 307,
+        "name": 2368
+    },
+    {
+        "match": "EGOBOYS vs Infamous Gaming",
+        "y": 306,
+        "name": 2370
+    },
+    {
+        "match": "BINOMISTAS vs TMU",
+        "y": 305,
+        "name": 2370
+    },
+    {
+        "match": "Сascade Esports vs tokyodrifters",
+        "y": 304,
+        "name": 2370
+    },
+    {
+        "match": "Team Empire vs Natus Vincere",
+        "y": 303,
+        "name": 2371
+    },
+    {
+        "match": "Hippomaniacs vs potn9ki-",
+        "y": 302,
+        "name": 2374
+    },
+    {
+        "match": "SMARACIS eSports vs Winstrike Team",
+        "y": 301,
+        "name": 2374
+    },
+    {
+        "match": "Forest vs 5CATS",
+        "y": 300,
+        "name": 2375
+    },
+    {
+        "match": "Virtus.pro vs T1",
+        "y": 299,
+        "name": 2375
+    },
+    {
+        "match": "Simply TOOBASED vs EGOBOYS",
+        "y": 298,
+        "name": 2376
+    },
+    {
+        "match": "Сascade Esports vs V-Gaming",
+        "y": 297,
+        "name": 2376
+    },
+    {
+        "match": "D2 Hustlers vs 4 Zoomers",
+        "y": 296,
+        "name": 2381
+    },
+    {
+        "match": "Simply TOOBASED vs Infamous Gaming",
+        "y": 295,
+        "name": 2383
+    },
+    {
+        "match": "Hokori vs Infamous Gaming",
+        "y": 294,
+        "name": 2388
+    },
+    {
+        "match": "Virtus.pro vs Vici Gaming",
+        "y": 293,
+        "name": 2392
+    },
+    {
+        "match": "Team GL vs Nature is not for a weak",
+        "y": 292,
+        "name": 2400
+    },
+    {
+        "match": "Team Empire vs PuckChamp",
+        "y": 291,
+        "name": 2400
+    },
+    {
+        "match": "Inae.Rozbíječi vs eSuba",
+        "y": 290,
+        "name": 2401
+    },
+    {
+        "match": "Tundra Esports  vs Team Liquid",
+        "y": 289,
+        "name": 2402
+    },
+    {
+        "match": "Team Unique vs PuckChamp",
+        "y": 288,
+        "name": 2403
+    },
+    {
+        "match": "Lutea vs TeamYoung",
+        "y": 287,
+        "name": 2403
+    },
+    {
+        "match": "EYE gaming vs Nature is not for a weak",
+        "y": 286,
+        "name": 2406
+    },
+    {
+        "match": "Team SMG vs BOOM Esports",
+        "y": 285,
+        "name": 2409
+    },
+    {
+        "match": "Natus Vincere vs Team Empire",
+        "y": 284,
+        "name": 2411
+    },
+    {
+        "match": "The Cut vs Hokori",
+        "y": 283,
+        "name": 2412
+    },
+    {
+        "match": "Motivate. Viper Gaming vs Yangon Galacticos",
+        "y": 282,
+        "name": 2412
+    },
+    {
+        "match": "T1 vs ViKin.gg",
+        "y": 281,
+        "name": 2413
+    },
+    {
+        "match": "NoPing Esports vs Hokori",
+        "y": 280,
+        "name": 2414
+    },
+    {
+        "match": "T1 vs Evil Geniuses",
+        "y": 279,
+        "name": 2416
+    },
+    {
+        "match": " EXTREMUM vs Nemiga Gaming",
+        "y": 278,
+        "name": 2416
+    },
+    {
+        "match": "ViKin.gg vs Alliance",
+        "y": 277,
+        "name": 2417
+    },
+    {
+        "match": "CapitronDota vs TDBMongolia",
+        "y": 276,
+        "name": 2424
+    },
+    {
+        "match": "Team Spirit vs PSG.LGD",
+        "y": 275,
+        "name": 2427
+    },
+    {
+        "match": "Team Unique vs ViKin.gg",
+        "y": 274,
+        "name": 2427
+    },
+    {
+        "match": "Simply TOOBASED vs 4 Zoomers",
+        "y": 273,
+        "name": 2428
+    },
+    {
+        "match": "Hokori vs Unknown Team",
+        "y": 272,
+        "name": 2430
+    },
+    {
+        "match": "4 Zoomers vs Undying",
+        "y": 271,
+        "name": 2430
+    },
+    {
+        "match": "beastcoast vs Team Spirit",
+        "y": 270,
+        "name": 2434
+    },
+    {
+        "match": "AS Monaco Gambit vs Team Secret",
+        "y": 269,
+        "name": 2434
+    },
+    {
+        "match": "BOOM Esports vs Lilgun ",
+        "y": 268,
+        "name": 2438
+    },
+    {
+        "match": "kastuDon vs Forest",
+        "y": 267,
+        "name": 2439
+    },
+    {
+        "match": "Lilgun  vs South Built Esports",
+        "y": 266,
+        "name": 2440
+    },
+    {
+        "match": "B8 vs Team Unique",
+        "y": 265,
+        "name": 2445
+    },
+    {
+        "match": "OB.Neon vs Ωmega Esports",
+        "y": 264,
+        "name": 2447
+    },
+    {
+        "match": "NoPing Esports vs Quincy Crew",
+        "y": 263,
+        "name": 2450
+    },
+    {
+        "match": "Virtus.pro vs Vici Gaming",
+        "y": 262,
+        "name": 2451
+    },
+    {
+        "match": "SG esports vs Infinity",
+        "y": 261,
+        "name": 2452
+    },
+    {
+        "match": "Motivate.Trust Gaming vs Galaxy Racer Esports",
+        "y": 260,
+        "name": 2452
+    },
+    {
+        "match": "Moon Chasers vs Lilgun ",
+        "y": 259,
+        "name": 2454
+    },
+    {
+        "match": "Team Spirit vs ViKin.gg",
+        "y": 258,
+        "name": 2456
+    },
+    {
+        "match": "Evil Geniuses vs Vici Gaming",
+        "y": 257,
+        "name": 2461
+    },
+    {
+        "match": "Nigma vs OG",
+        "y": 256,
+        "name": 2461
+    },
+    {
+        "match": "Trident Clan vs V-Gaming",
+        "y": 255,
+        "name": 2462
+    },
+    {
+        "match": "kastuDon vs Cignal Ultra",
+        "y": 254,
+        "name": 2464
+    },
+    {
+        "match": "Hokori vs EGOBOYS",
+        "y": 253,
+        "name": 2468
+    },
+    {
+        "match": "Nemiga Gaming vs Fantastic Five",
+        "y": 252,
+        "name": 2470
+    },
+    {
+        "match": "SHENZHEN vs Ink Ice",
+        "y": 251,
+        "name": 2472
+    },
+    {
+        "match": "Quincy Crew vs T1",
+        "y": 250,
+        "name": 2473
+    },
+    {
+        "match": "Lilgun  vs Yangon Galacticos",
+        "y": 249,
+        "name": 2476
+    },
+    {
+        "match": "EGOBOYS vs D2 Hustlers",
+        "y": 248,
+        "name": 2478
+    },
+    {
+        "match": "lowkees vs Monaspa",
+        "y": 247,
+        "name": 2479
+    },
+    {
+        "match": "SHENZHEN vs InterActive Philippines",
+        "y": 246,
+        "name": 2480
+    },
+    {
+        "match": "Unknown Team vs Infinity",
+        "y": 245,
+        "name": 2481
+    },
+    {
+        "match": "PuckChamp vs Team Unique",
+        "y": 244,
+        "name": 2483
+    },
+    {
+        "match": "Team SMG vs Motivate.Trust Gaming",
+        "y": 243,
+        "name": 2483
+    },
+    {
+        "match": "Hellbear Smashers vs Chicken Fighters",
+        "y": 242,
+        "name": 2486
+    },
+    {
+        "match": "Team Spirit vs Hellbear Smashers",
+        "y": 241,
+        "name": 2488
+    },
+    {
+        "match": "4 Zoomers vs The Cut",
+        "y": 240,
+        "name": 2489
+    },
+    {
+        "match": "Crocodile vs Team Veteran",
+        "y": 239,
+        "name": 2493
+    },
+    {
+        "match": "XACBANK vs Golomt Bank",
+        "y": 238,
+        "name": 2494
+    },
+    {
+        "match": "Team Liquid vs beastcoast",
+        "y": 237,
+        "name": 2496
+    },
+    {
+        "match": "Infamous Gaming vs SG esports",
+        "y": 236,
+        "name": 2500
+    },
+    {
+        "match": "Quincy Crew vs Tundra Esports ",
+        "y": 235,
+        "name": 2501
+    },
+    {
+        "match": "Team Spirit vs Winstrike Team",
+        "y": 234,
+        "name": 2504
+    },
+    {
+        "match": "TNC Predator vs PSG.LGD",
+        "y": 233,
+        "name": 2509
+    },
+    {
+        "match": "Hokori vs Undying",
+        "y": 232,
+        "name": 2511
+    },
+    {
+        "match": " EXTREMUM vs ViKin.gg",
+        "y": 231,
+        "name": 2512
+    },
+    {
+        "match": "OG vs Quincy Crew",
+        "y": 230,
+        "name": 2513
+    },
+    {
+        "match": "D2 Hustlers vs Undying",
+        "y": 229,
+        "name": 2513
+    },
+    {
+        "match": "Team Spirit vs TNC Predator",
+        "y": 228,
+        "name": 2514
+    },
+    {
+        "match": "Virtus.pro vs T1",
+        "y": 227,
+        "name": 2515
+    },
+    {
+        "match": "PSG.LGD vs TNC Predator",
+        "y": 226,
+        "name": 2518
+    },
+    {
+        "match": "Hippomaniacs vs Inae.Rozbíječi",
+        "y": 225,
+        "name": 2520
+    },
+    {
+        "match": "rush b! vs 5CATS",
+        "y": 224,
+        "name": 2525
+    },
+    {
+        "match": "T1 vs Quincy Crew",
+        "y": 223,
+        "name": 2527
+    },
+    {
+        "match": "Team Secret vs Nigma",
+        "y": 222,
+        "name": 2528
+    },
+    {
+        "match": "Simply TOOBASED vs Hokori",
+        "y": 221,
+        "name": 2528
+    },
+    {
+        "match": "OB.Neon vs BOOM Esports",
+        "y": 220,
+        "name": 2530
+    },
+    {
+        "match": "beastcoast vs Vici Gaming",
+        "y": 219,
+        "name": 2532
+    },
+    {
+        "match": "Infamous Gaming vs Unknown Team",
+        "y": 218,
+        "name": 2532
+    },
+    {
+        "match": "Galaxy Racer Esports vs Ωmega Esports",
+        "y": 217,
+        "name": 2535
+    },
+    {
+        "match": "Nemiga Gaming vs Fantastic Five",
+        "y": 216,
+        "name": 2536
+    },
+    {
+        "match": "Sazka.BRUTE vs LIDOVEJ GAMING",
+        "y": 215,
+        "name": 2536
+    },
+    {
+        "match": "Sunset 87.1 vs YUNG MAFIA BUSINESS",
+        "y": 214,
+        "name": 2537
+    },
+    {
+        "match": "Quincy Crew vs Tundra Esports ",
+        "y": 213,
+        "name": 2538
+    },
+    {
+        "match": "Team Aster vs TNC Predator",
+        "y": 212,
+        "name": 2540
+    },
+    {
+        "match": "Hellbear Smashers vs Сascade Esports",
+        "y": 211,
+        "name": 2542
+    },
+    {
+        "match": "Сascade Esports vs Trident Clan",
+        "y": 210,
+        "name": 2544
+    },
+    {
+        "match": "Team Spirit vs Alliance",
+        "y": 209,
+        "name": 2545
+    },
+    {
+        "match": "Team Liquid vs beastcoast",
+        "y": 208,
+        "name": 2546
+    },
+    {
+        "match": "TNC Predator vs Nigma",
+        "y": 207,
+        "name": 2548
+    },
+    {
+        "match": "beastcoast vs PSG.LGD",
+        "y": 206,
+        "name": 2549
+    },
+    {
+        "match": "Nigma vs Team Liquid",
+        "y": 205,
+        "name": 2549
+    },
+    {
+        "match": "Brame vs Сascade Esports",
+        "y": 204,
+        "name": 2549
+    },
+    {
+        "match": "SG esports vs BINOMISTAS",
+        "y": 203,
+        "name": 2550
+    },
+    {
+        "match": "EGOBOYS vs Infamous Gaming",
+        "y": 202,
+        "name": 2550
+    },
+    {
+        "match": "123 vs team legion",
+        "y": 201,
+        "name": 2553
+    },
+    {
+        "match": "Tundra Esports  vs AS Monaco Gambit",
+        "y": 200,
+        "name": 2558
+    },
+    {
+        "match": "Infamous Gaming vs D2 Hustlers",
+        "y": 199,
+        "name": 2559
+    },
+    {
+        "match": "The Cut vs Infamous Gaming",
+        "y": 198,
+        "name": 2560
+    },
+    {
+        "match": "INVICTUS GAMING vs Nigma",
+        "y": 197,
+        "name": 2569
+    },
+    {
+        "match": "Simply TOOBASED vs D2 Hustlers",
+        "y": 196,
+        "name": 2569
+    },
+    {
+        "match": "eSuba vs TeamYoung",
+        "y": 195,
+        "name": 2570
+    },
+    {
+        "match": "OG vs Nigma",
+        "y": 194,
+        "name": 2572
+    },
+    {
+        "match": "Crocodile vs Team Veteran",
+        "y": 193,
+        "name": 2573
+    },
+    {
+        "match": "Winstrike Team vs ViKin.gg",
+        "y": 192,
+        "name": 2575
+    },
+    {
+        "match": "Quincy Crew vs T1",
+        "y": 191,
+        "name": 2575
+    },
+    {
+        "match": "Virtus.pro vs T1",
+        "y": 190,
+        "name": 2576
+    },
+    {
+        "match": "Undying vs Simply TOOBASED",
+        "y": 189,
+        "name": 2577
+    },
+    {
+        "match": "Team Mystery vs Demon Slayer",
+        "y": 188,
+        "name": 2585
+    },
+    {
+        "match": "Xtreme  Gaming vs Motivate. Viper Gaming",
+        "y": 187,
+        "name": 2585
+    },
+    {
+        "match": "Сascade Esports vs Hellbear Smashers",
+        "y": 186,
+        "name": 2587
+    },
+    {
+        "match": "No Bounty Hunter vs V-Gaming",
+        "y": 185,
+        "name": 2589
+    },
+    {
+        "match": "AS Monaco Gambit vs Vici Gaming",
+        "y": 184,
+        "name": 2590
+    },
+    {
+        "match": "Team Spirit vs Nigma",
+        "y": 183,
+        "name": 2594
+    },
+    {
+        "match": "Team Spirit vs ViKin.gg",
+        "y": 182,
+        "name": 2596
+    },
+    {
+        "match": "EYE gaming vs Team GL",
+        "y": 181,
+        "name": 2598
+    },
+    {
+        "match": "T1 vs Quincy Crew",
+        "y": 180,
+        "name": 2601
+    },
+    {
+        "match": "Natus Vincere vs  EXTREMUM",
+        "y": 179,
+        "name": 2601
+    },
+    {
+        "match": "HellRaisers vs Team Spirit",
+        "y": 178,
+        "name": 2604
+    },
+    {
+        "match": "Сascade Esports vs Winstrike Team",
+        "y": 177,
+        "name": 2606
+    },
+    {
+        "match": "Yangon Galacticos vs 5CATS",
+        "y": 176,
+        "name": 2606
+    },
+    {
+        "match": "Hokori vs The Cut",
+        "y": 175,
+        "name": 2606
+    },
+    {
+        "match": "Nature is not for a weak vs SPL",
+        "y": 174,
+        "name": 2610
+    },
+    {
+        "match": "Ink Ice vs Team Mystery",
+        "y": 173,
+        "name": 2622
+    },
+    {
+        "match": "Team Secret vs Nigma",
+        "y": 172,
+        "name": 2624
+    },
+    {
+        "match": "Yangon Galacticos vs Selemene",
+        "y": 171,
+        "name": 2626
+    },
+    {
+        "match": "Team Empire vs Winstrike Team",
+        "y": 170,
+        "name": 2630
+    },
+    {
+        "match": "Crocodile vs Team Veteran",
+        "y": 169,
+        "name": 2634
+    },
+    {
+        "match": "Team Unique vs Alliance",
+        "y": 168,
+        "name": 2635
+    },
+    {
+        "match": "OB.Neon vs Dragon",
+        "y": 167,
+        "name": 2636
+    },
+    {
+        "match": "LIDOVEJ GAMING vs Lutea",
+        "y": 166,
+        "name": 2636
+    },
+    {
+        "match": "Nature is not for a weak vs EYE gaming",
+        "y": 165,
+        "name": 2642
+    },
+    {
+        "match": "Team Spirit vs HellRaisers",
+        "y": 164,
+        "name": 2660
+    },
+    {
+        "match": "Forest vs The Prime",
+        "y": 163,
+        "name": 2664
+    },
+    {
+        "match": "Team Empire vs Natus Vincere",
+        "y": 162,
+        "name": 2666
+    },
+    {
+        "match": "Infamous Gaming vs EGOBOYS",
+        "y": 161,
+        "name": 2681
+    },
+    {
+        "match": "Team Spirit vs Team Liquid",
+        "y": 160,
+        "name": 2682
+    },
+    {
+        "match": "ViKin.gg vs Tundra Esports ",
+        "y": 159,
+        "name": 2682
+    },
+    {
+        "match": "Team Spirit vs ViKin.gg",
+        "y": 158,
+        "name": 2683
+    },
+    {
+        "match": "sorrow vs Nature is not for a weak",
+        "y": 157,
+        "name": 2684
+    },
+    {
+        "match": "Infinity vs Unknown Team",
+        "y": 156,
+        "name": 2687
+    },
+    {
+        "match": "ViKin.gg vs Team Unique",
+        "y": 155,
+        "name": 2697
+    },
+    {
+        "match": "TNC Predator vs Team Liquid",
+        "y": 154,
+        "name": 2700
+    },
+    {
+        "match": "Virtus.pro vs T1",
+        "y": 153,
+        "name": 2701
+    },
+    {
+        "match": "Nature is not for a weak vs sorrow",
+        "y": 152,
+        "name": 2702
+    },
+    {
+        "match": "Hellbear Smashers vs Into The Breach",
+        "y": 151,
+        "name": 2704
+    },
+    {
+        "match": "OG vs Alliance",
+        "y": 150,
+        "name": 2704
+    },
+    {
+        "match": "Team Spirit vs Vici Gaming",
+        "y": 149,
+        "name": 2710
+    },
+    {
+        "match": "Vici Gaming vs TNC Predator",
+        "y": 148,
+        "name": 2730
+    },
+    {
+        "match": "Lilgun  vs Ωmega Esports",
+        "y": 147,
+        "name": 2730
+    },
+    {
+        "match": "Fantastic Five vs AS Monaco Gambit",
+        "y": 146,
+        "name": 2733
+    },
+    {
+        "match": "T1 vs ViKin.gg",
+        "y": 145,
+        "name": 2736
+    },
+    {
+        "match": "Motivate.Trust Gaming vs Crocodile",
+        "y": 144,
+        "name": 2737
+    },
+    {
+        "match": "CyberLife eSports vs DIVIZON",
+        "y": 143,
+        "name": 2739
+    },
+    {
+        "match": "Winstrike Team vs Team Spirit",
+        "y": 142,
+        "name": 2745
+    },
+    {
+        "match": "SPL vs Team GL",
+        "y": 141,
+        "name": 2759
+    },
+    {
+        "match": "Execration vs Vici Gaming",
+        "y": 140,
+        "name": 2762
+    },
+    {
+        "match": "Undying vs 4 Zoomers",
+        "y": 139,
+        "name": 2762
+    },
+    {
+        "match": "Yangon Galacticos vs Forest",
+        "y": 138,
+        "name": 2766
+    },
+    {
+        "match": "Level UP vs Team Unique",
+        "y": 137,
+        "name": 2767
+    },
+    {
+        "match": "Unknown Team vs Hokori",
+        "y": 136,
+        "name": 2772
+    },
+    {
+        "match": "AS Monaco Gambit vs ViKin.gg",
+        "y": 135,
+        "name": 2777
+    },
+    {
+        "match": "Team Spirit vs ViKin.gg",
+        "y": 134,
+        "name": 2792
+    },
+    {
+        "match": "TDBMongolia vs Khan Bank",
+        "y": 133,
+        "name": 2803
+    },
+    {
+        "match": "SPL vs Nature is not for a weak",
+        "y": 132,
+        "name": 2804
+    },
+    {
+        "match": "MINDCAT Esports vs Fadee Gaming",
+        "y": 131,
+        "name": 2809
+    },
+    {
+        "match": "Tundra Esports  vs ViKin.gg",
+        "y": 130,
+        "name": 2814
+    },
+    {
+        "match": NaN,
+        "y": 129,
+        "name": 2824
+    },
+    {
+        "match": "Chicken Fighters vs HellRaisers",
+        "y": 128,
+        "name": 2824
+    },
+    {
+        "match": "Evil Geniuses vs PSG.LGD",
+        "y": 127,
+        "name": 2831
+    },
+    {
+        "match": "BOOM Esports vs OB.Neon",
+        "y": 126,
+        "name": 2841
+    },
+    {
+        "match": "4 Zoomers vs Undying",
+        "y": 125,
+        "name": 2842
+    },
+    {
+        "match": "Infamous Gaming vs Unknown Team",
+        "y": 124,
+        "name": 2844
+    },
+    {
+        "match": "SHENZHEN vs Battle Cry",
+        "y": 123,
+        "name": 2848
+    },
+    {
+        "match": "OB.Neon vs Dragon",
+        "y": 122,
+        "name": 2850
+    },
+    {
+        "match": "T1 vs PSG.LGD",
+        "y": 121,
+        "name": 2856
+    },
+    {
+        "match": "Motivate. Viper Gaming vs Moon Chasers",
+        "y": 120,
+        "name": 2864
+    },
+    {
+        "match": "NoPing Esports vs Unknown Team",
+        "y": 119,
+        "name": 2866
+    },
+    {
+        "match": "Team Unique vs PuckChamp",
+        "y": 118,
+        "name": 2869
+    },
+    {
+        "match": "Nemiga Gaming vs  EXTREMUM",
+        "y": 117,
+        "name": 2878
+    },
+    {
+        "match": "OB.Neon vs Motivate.Trust Gaming",
+        "y": 116,
+        "name": 2880
+    },
+    {
+        "match": "Lilgun  vs Team SMG",
+        "y": 115,
+        "name": 2890
+    },
+    {
+        "match": "Dragon vs phoenix gaming",
+        "y": 114,
+        "name": 2891
+    },
+    {
+        "match": "The Cut vs Simply TOOBASED",
+        "y": 113,
+        "name": 2904
+    },
+    {
+        "match": "Team Spirit vs Vici Gaming",
+        "y": 112,
+        "name": 2915
+    },
+    {
+        "match": "Crocodile vs Team Veteran",
+        "y": 111,
+        "name": 2916
+    },
+    {
+        "match": "Lilgun  vs iG.Vitality",
+        "y": 110,
+        "name": 2916
+    },
+    {
+        "match": "BINOMISTAS vs Infamous Gaming",
+        "y": 109,
+        "name": 2923
+    },
+    {
+        "match": "Nigma vs TNC Predator",
+        "y": 108,
+        "name": 2924
+    },
+    {
+        "match": "beastcoast vs Evil Geniuses",
+        "y": 107,
+        "name": 2932
+    },
+    {
+        "match": "Khan Bank vs TDBMongolia",
+        "y": 106,
+        "name": 2942
+    },
+    {
+        "match": "LBZS vs Yangon Galacticos",
+        "y": 105,
+        "name": 2952
+    },
+    {
+        "match": "D2 Hustlers vs Simply TOOBASED",
+        "y": 104,
+        "name": 2952
+    },
+    {
+        "match": "TNC Predator vs Evil Geniuses",
+        "y": 103,
+        "name": 2955
+    },
+    {
+        "match": "Alliance vs OG",
+        "y": 102,
+        "name": 2958
+    },
+    {
+        "match": "Xtreme  Gaming vs Lilgun ",
+        "y": 101,
+        "name": 2962
+    },
+    {
+        "match": "5CATS vs Yangon Galacticos",
+        "y": 100,
+        "name": 2994
+    },
+    {
+        "match": "Unknown Team vs Infamous Gaming",
+        "y": 99,
+        "name": 3001
+    },
+    {
+        "match": "Tundra Esports  vs ViKin.gg",
+        "y": 98,
+        "name": 3028
+    },
+    {
+        "match": "Sazka.BRUTE vs CZC.eSuba",
+        "y": 97,
+        "name": 3033
+    },
+    {
+        "match": "Galaxy Racer Esports vs Motivate.Trust Gaming",
+        "y": 96,
+        "name": 3038
+    },
+    {
+        "match": "InterActive Philippines vs Ink Ice",
+        "y": 95,
+        "name": 3038
+    },
+    {
+        "match": "The Prime vs Forest",
+        "y": 94,
+        "name": 3039
+    },
+    {
+        "match": "INVICTUS GAMING vs Nigma",
+        "y": 93,
+        "name": 3074
+    },
+    {
+        "match": "Golomt Bank vs XACBANK",
+        "y": 92,
+        "name": 3080
+    },
+    {
+        "match": "Inae.Rozbíječi vs Hippomaniacs",
+        "y": 91,
+        "name": 3092
+    },
+    {
+        "match": "Motivate. Viper Gaming vs Xtreme  Gaming",
+        "y": 90,
+        "name": 3095
+    },
+    {
+        "match": "Сascade Esports vs Trident Clan",
+        "y": 89,
+        "name": 3096
+    },
+    {
+        "match": "D2 Hustlers vs Hokori",
+        "y": 88,
+        "name": 3098
+    },
+    {
+        "match": " EXTREMUM vs Hellbear Smashers",
+        "y": 87,
+        "name": 3101
+    },
+    {
+        "match": "TNC Predator vs Evil Geniuses",
+        "y": 86,
+        "name": 3106
+    },
+    {
+        "match": "Team Secret vs AS Monaco Gambit",
+        "y": 85,
+        "name": 3112
+    },
+    {
+        "match": "Team Spirit vs Vici Gaming",
+        "y": 84,
+        "name": 3113
+    },
+    {
+        "match": "B8 vs Team Unique",
+        "y": 83,
+        "name": 3114
+    },
+    {
+        "match": "MINDCAT Esports vs B-eturB",
+        "y": 82,
+        "name": 3115
+    },
+    {
+        "match": "SHENZHEN vs Wlid Doek",
+        "y": 81,
+        "name": 3116
+    },
+    {
+        "match": "T1 vs Virtus.pro",
+        "y": 80,
+        "name": 3118
+    },
+    {
+        "match": "Nigma vs AS Monaco Gambit",
+        "y": 79,
+        "name": 3120
+    },
+    {
+        "match": "ViKin.gg vs Winstrike Team",
+        "y": 78,
+        "name": 3127
+    },
+    {
+        "match": "Team Spirit vs ViKin.gg",
+        "y": 77,
+        "name": 3129
+    },
+    {
+        "match": "Hokori vs BINOMISTAS",
+        "y": 76,
+        "name": 3130
+    },
+    {
+        "match": "The Prime vs Yangon Galacticos",
+        "y": 75,
+        "name": 3134
+    },
+    {
+        "match": "Evil Geniuses vs Vici Gaming",
+        "y": 74,
+        "name": 3137
+    },
+    {
+        "match": "PuckChamp vs Team Empire",
+        "y": 73,
+        "name": 3138
+    },
+    {
+        "match": "TURIIN BANK vs BOGD Bank",
+        "y": 72,
+        "name": 3143
+    },
+    {
+        "match": "BOGD Bank vs Golomt Bank",
+        "y": 71,
+        "name": 3145
+    },
+    {
+        "match": "Team Unique vs PuckChamp",
+        "y": 70,
+        "name": 3147
+    },
+    {
+        "match": "Motivate.Trust Gaming vs BOOM Esports",
+        "y": 69,
+        "name": 3150
+    },
+    {
+        "match": "Galaxy Racer Esports vs Motivate.Trust Gaming",
+        "y": 68,
+        "name": 3150
+    },
+    {
+        "match": "Golomt Bank vs XACBANK",
+        "y": 67,
+        "name": 3152
+    },
+    {
+        "match": "YUNG MAFIA BUSINESS vs RAINBOW TIGERS",
+        "y": 66,
+        "name": 3153
+    },
+    {
+        "match": "Xtreme  Gaming vs Lilgun ",
+        "y": 65,
+        "name": 3159
+    },
+    {
+        "match": "Tundra Esports  vs ViKin.gg",
+        "y": 64,
+        "name": 3160
+    },
+    {
+        "match": "BINOMISTAS vs Unknown Team",
+        "y": 63,
+        "name": 3163
+    },
+    {
+        "match": "SMARACIS eSports vs Team Empire",
+        "y": 62,
+        "name": 3176
+    },
+    {
+        "match": "Team Unique vs PuckChamp",
+        "y": 61,
+        "name": 3180
+    },
+    {
+        "match": "EGOBOYS vs Hokori",
+        "y": 60,
+        "name": 3182
+    },
+    {
+        "match": "Battle Cry vs The Prime",
+        "y": 59,
+        "name": 3183
+    },
+    {
+        "match": "EYE gaming vs lowkees",
+        "y": 58,
+        "name": 3186
+    },
+    {
+        "match": "BOOM Esports vs Galaxy Racer Esports",
+        "y": 57,
+        "name": 3193
+    },
+    {
+        "match": "Motivate. Viper Gaming vs Moon Chasers",
+        "y": 56,
+        "name": 3194
+    },
+    {
+        "match": "Ωmega Esports vs Motivate.Trust Gaming",
+        "y": 55,
+        "name": 3194
+    },
+    {
+        "match": "4 Zoomers vs Undying",
+        "y": 54,
+        "name": 3198
+    },
+    {
+        "match": "Natus Vincere vs HellRaisers",
+        "y": 53,
+        "name": 3210
+    },
+    {
+        "match": "Undying vs Hokori",
+        "y": 52,
+        "name": 3214
+    },
+    {
+        "match": "Selemene vs Yangon Galacticos",
+        "y": 51,
+        "name": 3237
+    },
+    {
+        "match": " EXTREMUM vs AWE",
+        "y": 50,
+        "name": 3238
+    },
+    {
+        "match": "NoTechies vs B8",
+        "y": 49,
+        "name": 3250
+    },
+    {
+        "match": "OB.Neon vs Lilgun ",
+        "y": 48,
+        "name": 3251
+    },
+    {
+        "match": "TMU vs Infamous Gaming",
+        "y": 47,
+        "name": 3260
+    },
+    {
+        "match": "Сascade Esports vs V-Gaming",
+        "y": 46,
+        "name": 3265
+    },
+    {
+        "match": "plan-B esports vs Into The Breach",
+        "y": 45,
+        "name": 3275
+    },
+    {
+        "match": "SG esports vs Unknown Team",
+        "y": 44,
+        "name": 3280
+    },
+    {
+        "match": " EXTREMUM vs Hellbear Smashers",
+        "y": 43,
+        "name": 3283
+    },
+    {
+        "match": "XACBANK vs BOGD Bank",
+        "y": 42,
+        "name": 3294
+    },
+    {
+        "match": "Nigma vs Vici Gaming",
+        "y": 41,
+        "name": 3311
+    },
+    {
+        "match": "CyberLife eSports vs PuckChamp",
+        "y": 40,
+        "name": 3316
+    },
+    {
+        "match": "South Built Esports vs Ωmega Esports",
+        "y": 39,
+        "name": 3330
+    },
+    {
+        "match": "LBZS vs Motivate.Trust Gaming",
+        "y": 38,
+        "name": 3331
+    },
+    {
+        "match": "CapitronDota vs Khan Bank",
+        "y": 37,
+        "name": 3335
+    },
+    {
+        "match": "D2 Hustlers vs The Cut",
+        "y": 36,
+        "name": 3346
+    },
+    {
+        "match": "Simply TOOBASED vs Undying",
+        "y": 35,
+        "name": 3358
+    },
+    {
+        "match": "GoGame Dogs vs LIDOVEJ GAMING",
+        "y": 34,
+        "name": 3367
+    },
+    {
+        "match": "TNC Predator vs Team Aster",
+        "y": 33,
+        "name": 3367
+    },
+    {
+        "match": "Galaxy Racer Esports vs Ωmega Esports",
+        "y": 32,
+        "name": 3367
+    },
+    {
+        "match": "Team Mystery vs Battle Cry",
+        "y": 31,
+        "name": 3376
+    },
+    {
+        "match": "TNC Predator vs Evil Geniuses",
+        "y": 30,
+        "name": 3378
+    },
+    {
+        "match": "BOOM Esports vs Ωmega Esports",
+        "y": 29,
+        "name": 3388
+    },
+    {
+        "match": "AS Monaco Gambit vs Team Secret",
+        "y": 28,
+        "name": 3395
+    },
+    {
+        "match": "Level UP vs Team Unique",
+        "y": 27,
+        "name": 3411
+    },
+    {
+        "match": "Motivate. Viper Gaming vs Lilgun ",
+        "y": 26,
+        "name": 3414
+    },
+    {
+        "match": "Revival  vs WildWays",
+        "y": 25,
+        "name": 3422
+    },
+    {
+        "match": "Motivate. Viper Gaming vs Moon Chasers",
+        "y": 24,
+        "name": 3447
+    },
+    {
+        "match": "Lilgun  vs Xtreme  Gaming",
+        "y": 23,
+        "name": 3447
+    },
+    {
+        "match": "Team Unique vs PuckChamp",
+        "y": 22,
+        "name": 3455
+    },
+    {
+        "match": "5CATS vs Forest",
+        "y": 21,
+        "name": 3462
+    },
+    {
+        "match": "Ωmega Esports vs Motivate.Trust Gaming",
+        "y": 20,
+        "name": 3484
+    },
+    {
+        "match": "Tundra Esports  vs PuckChamp",
+        "y": 19,
+        "name": 3488
+    },
+    {
+        "match": "Nigma vs Virtus.pro",
+        "y": 18,
+        "name": 3493
+    },
+    {
+        "match": "Golomt Bank vs TURIIN BANK",
+        "y": 17,
+        "name": 3493
+    },
+    {
+        "match": "Battle Cry vs SHENZHEN",
+        "y": 16,
+        "name": 3524
+    },
+    {
+        "match": "EGOBOYS vs SG esports",
+        "y": 15,
+        "name": 3633
+    },
+    {
+        "match": "Dragon vs Yangon Galacticos",
+        "y": 14,
+        "name": 3717
+    },
+    {
+        "match": "Husky vs WeiAYAYA",
+        "y": 13,
+        "name": 3740
+    },
+    {
+        "match": "Hellbear Smashers vs Team Spirit",
+        "y": 12,
+        "name": 3774
+    },
+    {
+        "match": "Team Secret vs Vici Gaming",
+        "y": 11,
+        "name": 3775
+    },
+    {
+        "match": "Motivate.Trust Gaming vs Galaxy Racer Esports",
+        "y": 10,
+        "name": 3820
+    },
+    {
+        "match": "TNC Predator vs Team Spirit",
+        "y": 9,
+        "name": 3868
+    },
+    {
+        "match": "Hokori vs The Cut",
+        "y": 8,
+        "name": 3873
+    },
+    {
+        "match": "Evil Geniuses vs T1",
+        "y": 7,
+        "name": 3873
+    },
+    {
+        "match": "Simply TOOBASED vs The Cut",
+        "y": 6,
+        "name": 3908
+    },
+    {
+        "match": "PSG.LGD vs Vici Gaming",
+        "y": 5,
+        "name": 3913
+    },
+    {
+        "match": "GoGame Dogs vs LIDOVEJ GAMING",
+        "y": 4,
+        "name": 3964
+    },
+    {
+        "match": "AS Monaco Gambit vs Fantastic Five",
+        "y": 3,
+        "name": 4137
+    },
+    {
+        "match": "BOOM Esports vs Motivate.Trust Gaming",
+        "y": 2,
+        "name": 4538
+    },
+    {
+        "match": "Winstrike Team vs ViKin.gg",
+        "y": 1,
+        "name": 4828
+    }
+]

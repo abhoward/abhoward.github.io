@@ -1012,6 +1012,10 @@
                 1
             ],
             [
+                "Axe",
+                1
+            ],
+            [
                 "Broodmother",
                 2
             ],
@@ -1025,7 +1029,7 @@
             ],
             [
                 "Elder Titan",
-                2
+                3
             ],
             [
                 "Grimstroke",
@@ -1061,10 +1065,14 @@
             ],
             [
                 "Medusa",
-                2
+                3
             ],
             [
                 "Phantom Lancer",
+                1
+            ],
+            [
+                "Phoenix",
                 1
             ],
             [
@@ -1106,6 +1114,10 @@
             [
                 "Witch Doctor",
                 1
+            ],
+            [
+                "Zeus",
+                1
             ]
         ]
     },
@@ -1115,6 +1127,10 @@
         "data": [
             [
                 "Abaddon",
+                0
+            ],
+            [
+                "Axe",
                 0
             ],
             [
@@ -1174,6 +1190,10 @@
                 0
             ],
             [
+                "Phoenix",
+                0
+            ],
+            [
                 "Puck",
                 0
             ],
@@ -1212,6 +1232,10 @@
             [
                 "Witch Doctor",
                 1
+            ],
+            [
+                "Zeus",
+                0
             ]
         ]
     },
@@ -1221,6 +1245,10 @@
         "data": [
             [
                 "Abaddon",
+                0.0
+            ],
+            [
+                "Axe",
                 0.0
             ],
             [
@@ -1237,7 +1265,7 @@
             ],
             [
                 "Elder Titan",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Grimstroke",
@@ -1273,10 +1301,14 @@
             ],
             [
                 "Medusa",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Phantom Lancer",
+                0.0
+            ],
+            [
+                "Phoenix",
                 0.0
             ],
             [
@@ -1318,6 +1350,10 @@
             [
                 "Witch Doctor",
                 1.0
+            ],
+            [
+                "Zeus",
+                0.0
             ]
         ],
         "type": "spline",
@@ -2248,12 +2284,16 @@
                 1
             ],
             [
+                "Dark Willow",
+                1
+            ],
+            [
                 "Death Prophet",
                 3
             ],
             [
                 "Hoodwink",
-                1
+                2
             ],
             [
                 "Leshrac",
@@ -2261,15 +2301,15 @@
             ],
             [
                 "Lifestealer",
-                1
-            ],
-            [
-                "Lina",
                 2
             ],
             [
+                "Lina",
+                3
+            ],
+            [
                 "Lion",
-                4
+                5
             ],
             [
                 "Mars",
@@ -2277,11 +2317,11 @@
             ],
             [
                 "Nyx Assassin",
-                1
+                2
             ],
             [
                 "Pangolier",
-                3
+                4
             ],
             [
                 "Phantom Lancer",
@@ -2293,11 +2333,19 @@
             ],
             [
                 "Terrorblade",
-                2
+                3
+            ],
+            [
+                "Tidehunter",
+                1
             ],
             [
                 "Undying",
                 2
+            ],
+            [
+                "Void Spirit",
+                1
             ],
             [
                 "Windranger",
@@ -2342,12 +2390,16 @@
                 1
             ],
             [
+                "Dark Willow",
+                1
+            ],
+            [
                 "Death Prophet",
                 1
             ],
             [
                 "Hoodwink",
-                1
+                2
             ],
             [
                 "Leshrac",
@@ -2355,11 +2407,11 @@
             ],
             [
                 "Lifestealer",
-                1
+                2
             ],
             [
                 "Lina",
-                1
+                2
             ],
             [
                 "Lion",
@@ -2375,7 +2427,7 @@
             ],
             [
                 "Pangolier",
-                3
+                4
             ],
             [
                 "Phantom Lancer",
@@ -2390,8 +2442,16 @@
                 1
             ],
             [
+                "Tidehunter",
+                0
+            ],
+            [
                 "Undying",
                 1
+            ],
+            [
+                "Void Spirit",
+                0
             ],
             [
                 "Windranger",
@@ -2436,6 +2496,10 @@
                 1.0
             ],
             [
+                "Dark Willow",
+                1.0
+            ],
+            [
                 "Death Prophet",
                 0.3333333333333333
             ],
@@ -2453,11 +2517,11 @@
             ],
             [
                 "Lina",
-                0.5
+                0.6666666666666666
             ],
             [
                 "Lion",
-                0.5
+                0.4
             ],
             [
                 "Mars",
@@ -2465,7 +2529,7 @@
             ],
             [
                 "Nyx Assassin",
-                1.0
+                0.5
             ],
             [
                 "Pangolier",
@@ -2481,11 +2545,19 @@
             ],
             [
                 "Terrorblade",
-                0.5
+                0.3333333333333333
+            ],
+            [
+                "Tidehunter",
+                0.0
             ],
             [
                 "Undying",
                 0.5
+            ],
+            [
+                "Void Spirit",
+                0.0
             ],
             [
                 "Windranger",
@@ -2522,7 +2594,7 @@
         "data": [
             [
                 "Abaddon",
-                2
+                3
             ],
             [
                 "Broodmother",
@@ -2530,15 +2602,15 @@
             ],
             [
                 "Dragon Knight",
-                4
+                5
             ],
             [
                 "Enchantress",
-                6
+                7
             ],
             [
                 "Hoodwink",
-                6
+                7
             ],
             [
                 "Invoker",
@@ -2546,11 +2618,15 @@
             ],
             [
                 "Lina",
-                3
+                4
+            ],
+            [
+                "Lion",
+                1
             ],
             [
                 "Luna",
-                3
+                4
             ],
             [
                 "Magnus",
@@ -2570,15 +2646,15 @@
             ],
             [
                 "Puck",
-                1
+                2
             ],
             [
                 "Spectre",
-                2
+                3
             ],
             [
                 "Timbersaw",
-                2
+                3
             ],
             [
                 "Windranger",
@@ -2596,7 +2672,7 @@
         "data": [
             [
                 "Abaddon",
-                1
+                2
             ],
             [
                 "Broodmother",
@@ -2604,7 +2680,7 @@
             ],
             [
                 "Dragon Knight",
-                4
+                5
             ],
             [
                 "Enchantress",
@@ -2612,7 +2688,7 @@
             ],
             [
                 "Hoodwink",
-                5
+                6
             ],
             [
                 "Invoker",
@@ -2620,11 +2696,15 @@
             ],
             [
                 "Lina",
-                2
+                3
+            ],
+            [
+                "Lion",
+                0
             ],
             [
                 "Luna",
-                2
+                3
             ],
             [
                 "Magnus",
@@ -2670,7 +2750,7 @@
         "data": [
             [
                 "Abaddon",
-                0.5
+                0.6666666666666666
             ],
             [
                 "Broodmother",
@@ -2682,11 +2762,11 @@
             ],
             [
                 "Enchantress",
-                0.8333333333333334
+                0.7142857142857143
             ],
             [
                 "Hoodwink",
-                0.8333333333333334
+                0.8571428571428571
             ],
             [
                 "Invoker",
@@ -2694,11 +2774,15 @@
             ],
             [
                 "Lina",
-                0.6666666666666666
+                0.75
+            ],
+            [
+                "Lion",
+                0.0
             ],
             [
                 "Luna",
-                0.6666666666666666
+                0.75
             ],
             [
                 "Magnus",
@@ -2718,15 +2802,15 @@
             ],
             [
                 "Puck",
-                1.0
+                0.5
             ],
             [
                 "Spectre",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Timbersaw",
-                0.5
+                0.3333333333333333
             ],
             [
                 "Windranger",
@@ -2762,8 +2846,16 @@
                 1
             ],
             [
+                "Death Prophet",
+                1
+            ],
+            [
                 "Dragon Knight",
                 3
+            ],
+            [
+                "Faceless Void",
+                1
             ],
             [
                 "Hoodwink",
@@ -2779,7 +2871,7 @@
             ],
             [
                 "Lina",
-                1
+                2
             ],
             [
                 "Luna",
@@ -2787,7 +2879,7 @@
             ],
             [
                 "Magnus",
-                1
+                2
             ],
             [
                 "Mirana",
@@ -2811,6 +2903,10 @@
             ],
             [
                 "Razor",
+                1
+            ],
+            [
+                "Shadow Demon",
                 1
             ],
             [
@@ -2852,8 +2948,16 @@
                 1
             ],
             [
+                "Death Prophet",
+                1
+            ],
+            [
                 "Dragon Knight",
                 3
+            ],
+            [
+                "Faceless Void",
+                1
             ],
             [
                 "Hoodwink",
@@ -2869,7 +2973,7 @@
             ],
             [
                 "Lina",
-                1
+                2
             ],
             [
                 "Luna",
@@ -2877,7 +2981,7 @@
             ],
             [
                 "Magnus",
-                1
+                2
             ],
             [
                 "Mirana",
@@ -2901,6 +3005,10 @@
             ],
             [
                 "Razor",
+                1
+            ],
+            [
+                "Shadow Demon",
                 1
             ],
             [
@@ -2942,7 +3050,15 @@
                 1.0
             ],
             [
+                "Death Prophet",
+                1.0
+            ],
+            [
                 "Dragon Knight",
+                1.0
+            ],
+            [
+                "Faceless Void",
                 1.0
             ],
             [
@@ -2991,6 +3107,10 @@
             ],
             [
                 "Razor",
+                1.0
+            ],
+            [
+                "Shadow Demon",
                 1.0
             ],
             [

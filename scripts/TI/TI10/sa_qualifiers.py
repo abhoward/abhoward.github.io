@@ -22,7 +22,7 @@ API_KEY = os.getenv('API_KEY')
 # instantiating a counter to track how many calls we make to opendota's API
 api_counter = 0
 
-save_file_path = "..\\..\\..\\data\\TI\\TI10\\EEU_Qualifiers\\{}"
+save_file_path = "..\\..\\..\\data\\TI\\TI10\\SA_Qualifiers\\{}"
 dfs_to_convert = {}
 jsons_to_upload = {}
 

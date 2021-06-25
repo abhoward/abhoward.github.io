@@ -1,0 +1,4222 @@
+[
+    {
+        "name": "Abaddon Picks For",
+        "id": "Abaddon Picks",
+        "data": [
+            [
+                "BINOMISTAS",
+                3.0
+            ],
+            [
+                "Infamous Gaming",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Bans Against",
+        "id": "Abaddon Bans",
+        "data": [
+            [
+                "BINOMISTAS",
+                3.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Picks For",
+        "id": "Ancient Apparition Picks",
+        "data": [
+            [
+                "EGOBOYS",
+                3.0
+            ],
+            [
+                "Unknown Team",
+                3.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Hokori",
+                2.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Bans Against",
+        "id": "Ancient Apparition Bans",
+        "data": [
+            [
+                "EGOBOYS",
+                3.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                3.0
+            ],
+            [
+                "Infinity",
+                3.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Picks For",
+        "id": "Anti-Mage Picks",
+        "data": [
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Bans Against",
+        "id": "Anti-Mage Bans",
+        "data": [
+            [
+                "NoPing Esports",
+                3.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Picks For",
+        "id": "Arc Warden Picks",
+        "data": [
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Bans Against",
+        "id": "Arc Warden Bans",
+        "data": [
+            [
+                "Interitus",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Picks For",
+        "id": "Axe Picks",
+        "data": [
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Interitus",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                2.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Bans Against",
+        "id": "Axe Bans",
+        "data": [
+            [
+                "BINOMISTAS",
+                3.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Picks For",
+        "id": "Batrider Picks",
+        "data": [
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "Hokori",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Bans Against",
+        "id": "Batrider Bans",
+        "data": [
+            [
+                "NoPing Esports",
+                4.0
+            ],
+            [
+                "Infinity",
+                3.0
+            ],
+            [
+                "BINOMISTAS",
+                2.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Picks For",
+        "id": "Beastmaster Picks",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Bans Against",
+        "id": "Beastmaster Bans",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Picks For",
+        "id": "Bloodseeker Picks",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Bans Against",
+        "id": "Bloodseeker Bans",
+        "data": [
+            [
+                "Infamous Gaming",
+                3.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Picks For",
+        "id": "Brewmaster Picks",
+        "data": [
+            [
+                "Unknown Team",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Bans Against",
+        "id": "Brewmaster Bans",
+        "data": [
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Picks For",
+        "id": "Bristleback Picks",
+        "data": [
+            [
+                "Unknown Team",
+                2.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Bans Against",
+        "id": "Bristleback Bans",
+        "data": [
+            [
+                "Unknown Team",
+                4.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Interitus",
+                2.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Picks For",
+        "id": "Broodmother Picks",
+        "data": [
+            [
+                "BINOMISTAS",
+                2.0
+            ],
+            [
+                "Hokori",
+                2.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Bans Against",
+        "id": "Broodmother Bans",
+        "data": [
+            [
+                "BINOMISTAS",
+                3.0
+            ],
+            [
+                "Hokori",
+                3.0
+            ],
+            [
+                "Infamous Gaming",
+                3.0
+            ],
+            [
+                "Latam Defenders",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Picks For",
+        "id": "Centaur Warrunner Picks",
+        "data": [
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Bans Against",
+        "id": "Centaur Warrunner Bans",
+        "data": [
+            [
+                "BINOMISTAS",
+                3.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Picks For",
+        "id": "Chaos Knight Picks",
+        "data": [
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Bans Against",
+        "id": "Chaos Knight Bans",
+        "data": [
+            [
+                "EGOBOYS",
+                2.0
+            ],
+            [
+                "Omega Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Picks For",
+        "id": "Clockwerk Picks",
+        "data": [
+            [
+                "SG esports",
+                3.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Bans Against",
+        "id": "Clockwerk Bans",
+        "data": [
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Picks For",
+        "id": "Dark Seer Picks",
+        "data": [
+            [
+                "BINOMISTAS",
+                2.0
+            ],
+            [
+                "Unknown Team",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                3.0
+            ],
+            [
+                "Infinity",
+                2.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Bans Against",
+        "id": "Dark Seer Bans",
+        "data": [
+            [
+                "BINOMISTAS",
+                3.0
+            ],
+            [
+                "Unknown Team",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                1.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                1.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Picks For",
+        "id": "Dark Willow Picks",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                2.0
+            ],
+            [
+                "Infinity",
+                2.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Bans Against",
+        "id": "Dark Willow Bans",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Picks For",
+        "id": "Death Prophet Picks",
+        "data": [
+            [
+                "BINOMISTAS",
+                2.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Bans Against",
+        "id": "Death Prophet Bans",
+        "data": [
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Infinity",
+                2.0
+            ],
+            [
+                "SG esports",
+                2.0
+            ],
+            [
+                "Hokori",
+                2.0
+            ],
+            [
+                "Infamous Gaming",
+                2.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Picks For",
+        "id": "Disruptor Picks",
+        "data": [
+            [
+                "BINOMISTAS",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Bans Against",
+        "id": "Disruptor Bans",
+        "data": [
+            [
+                "BINOMISTAS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Picks For",
+        "id": "Doom Picks",
+        "data": [
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                2.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Bans Against",
+        "id": "Doom Bans",
+        "data": [
+            [
+                "SG esports",
+                3.0
+            ],
+            [
+                "Unknown Team",
+                2.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Picks For",
+        "id": "Dragon Knight Picks",
+        "data": [
+            [
+                "SG esports",
+                4.0
+            ],
+            [
+                "BINOMISTAS",
+                4.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Bans Against",
+        "id": "Dragon Knight Bans",
+        "data": [
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                1.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Picks For",
+        "id": "Drow Ranger Picks",
+        "data": [
+            [
+                "BINOMISTAS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Bans Against",
+        "id": "Drow Ranger Bans",
+        "data": [
+            [
+                "BINOMISTAS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Picks For",
+        "id": "Earth Spirit Picks",
+        "data": [
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Bans Against",
+        "id": "Earth Spirit Bans",
+        "data": [
+            [
+                "Omega Gaming",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Picks For",
+        "id": "Elder Titan Picks",
+        "data": [
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Bans Against",
+        "id": "Elder Titan Bans",
+        "data": [
+            [
+                "Infinity",
+                2.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Picks For",
+        "id": "Ember Spirit Picks",
+        "data": [
+            [
+                "Hokori",
+                4.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                2.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Bans Against",
+        "id": "Ember Spirit Bans",
+        "data": [
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                3.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Infinity",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                2.0
+            ],
+            [
+                "Latam Defenders",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Picks For",
+        "id": "Enchantress Picks",
+        "data": [
+            [
+                "Infamous Gaming",
+                2.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Bans Against",
+        "id": "Enchantress Bans",
+        "data": [
+            [
+                "Infamous Gaming",
+                3.0
+            ],
+            [
+                "SG esports",
+                3.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Picks For",
+        "id": "Enigma Picks",
+        "data": [
+            [
+                "Infinity",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Bans Against",
+        "id": "Enigma Bans",
+        "data": [
+            [
+                "Infinity",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Picks For",
+        "id": "Faceless Void Picks",
+        "data": [
+            [
+                "Hokori",
+                2.0
+            ],
+            [
+                "Unknown Team",
+                2.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Bans Against",
+        "id": "Faceless Void Bans",
+        "data": [
+            [
+                "Hokori",
+                2.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "Omega Gaming",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Picks For",
+        "id": "Grimstroke Picks",
+        "data": [
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                1.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Bans Against",
+        "id": "Grimstroke Bans",
+        "data": [
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Picks For",
+        "id": "Gyrocopter Picks",
+        "data": [
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "Infamous Gaming",
+                4.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Bans Against",
+        "id": "Gyrocopter Bans",
+        "data": [
+            [
+                "NoPing Esports",
+                3.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Picks For",
+        "id": "Hoodwink Picks",
+        "data": [
+            [
+                "Unknown Team",
+                5.0
+            ],
+            [
+                "BINOMISTAS",
+                2.0
+            ],
+            [
+                "Hokori",
+                3.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Bans Against",
+        "id": "Hoodwink Bans",
+        "data": [
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "SG esports",
+                2.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Picks For",
+        "id": "Invoker Picks",
+        "data": [
+            [
+                "Infamous Gaming",
+                3.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Bans Against",
+        "id": "Invoker Bans",
+        "data": [
+            [
+                "Infamous Gaming",
+                5.0
+            ],
+            [
+                "Infinity",
+                4.0
+            ],
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "SG esports",
+                3.0
+            ],
+            [
+                "BINOMISTAS",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                2.0
+            ],
+            [
+                "Unknown Team",
+                2.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Picks For",
+        "id": "Juggernaut Picks",
+        "data": [
+            [
+                "Inverse",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Bans Against",
+        "id": "Juggernaut Bans",
+        "data": [
+            [
+                "Inverse",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Picks For",
+        "id": "Kunkka Picks",
+        "data": [
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Bans Against",
+        "id": "Kunkka Bans",
+        "data": [
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                2.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Picks For",
+        "id": "Legion Commander Picks",
+        "data": [
+            [
+                "Infinity",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Bans Against",
+        "id": "Legion Commander Bans",
+        "data": [
+            [
+                "Infinity",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Picks For",
+        "id": "Leshrac Picks",
+        "data": [
+            [
+                "BINOMISTAS",
+                3.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Bans Against",
+        "id": "Leshrac Bans",
+        "data": [
+            [
+                "BINOMISTAS",
+                3.0
+            ],
+            [
+                "SG esports",
+                3.0
+            ],
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "Infinity",
+                3.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                2.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Picks For",
+        "id": "Lifestealer Picks",
+        "data": [
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Bans Against",
+        "id": "Lifestealer Bans",
+        "data": [
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Picks For",
+        "id": "Lina Picks",
+        "data": [
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Bans Against",
+        "id": "Lina Bans",
+        "data": [
+            [
+                "Omega Gaming",
+                2.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Picks For",
+        "id": "Lion Picks",
+        "data": [
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "BINOMISTAS",
+                2.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Bans Against",
+        "id": "Lion Bans",
+        "data": [
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Picks For",
+        "id": "Luna Picks",
+        "data": [
+            [
+                "Hokori",
+                2.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Bans Against",
+        "id": "Luna Bans",
+        "data": [
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                2.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Picks For",
+        "id": "Magnus Picks",
+        "data": [
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Bans Against",
+        "id": "Magnus Bans",
+        "data": [
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Picks For",
+        "id": "Mars Picks",
+        "data": [
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "SG esports",
+                3.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Bans Against",
+        "id": "Mars Bans",
+        "data": [
+            [
+                "EGOBOYS",
+                4.0
+            ],
+            [
+                "SG esports",
+                2.0
+            ],
+            [
+                "NoPing Esports",
+                3.0
+            ],
+            [
+                "Infinity",
+                4.0
+            ],
+            [
+                "Infamous Gaming",
+                3.0
+            ],
+            [
+                "BINOMISTAS",
+                2.0
+            ],
+            [
+                "Hokori",
+                2.0
+            ],
+            [
+                "Unknown Team",
+                2.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Picks For",
+        "id": "Medusa Picks",
+        "data": [
+            [
+                "Infinity",
+                3.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                2.0
+            ],
+            [
+                "Omega Gaming",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Bans Against",
+        "id": "Medusa Bans",
+        "data": [
+            [
+                "Infinity",
+                4.0
+            ],
+            [
+                "Hokori",
+                5.0
+            ],
+            [
+                "Infamous Gaming",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                3.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Picks For",
+        "id": "Mirana Picks",
+        "data": [
+            [
+                "SG esports",
+                5.0
+            ],
+            [
+                "NoPing Esports",
+                3.0
+            ],
+            [
+                "Infamous Gaming",
+                2.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Bans Against",
+        "id": "Mirana Bans",
+        "data": [
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Picks For",
+        "id": "Monkey King Picks",
+        "data": [
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Bans Against",
+        "id": "Monkey King Bans",
+        "data": [
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Picks For",
+        "id": "Morphling Picks",
+        "data": [
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Bans Against",
+        "id": "Morphling Bans",
+        "data": [
+            [
+                "Unknown Team",
+                3.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren Picks For",
+        "id": "Naga Siren Picks",
+        "data": [
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren Bans Against",
+        "id": "Naga Siren Bans",
+        "data": [
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                2.0
+            ],
+            [
+                "Infamous Gaming",
+                2.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Picks For",
+        "id": "Nature's Prophet Picks",
+        "data": [
+            [
+                "EGOBOYS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Bans Against",
+        "id": "Nature's Prophet Bans",
+        "data": [
+            [
+                "EGOBOYS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Picks For",
+        "id": "Night Stalker Picks",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Bans Against",
+        "id": "Night Stalker Bans",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Picks For",
+        "id": "Nyx Assassin Picks",
+        "data": [
+            [
+                "BINOMISTAS",
+                3.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Infinity",
+                3.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Hokori",
+                2.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Bans Against",
+        "id": "Nyx Assassin Bans",
+        "data": [
+            [
+                "BINOMISTAS",
+                3.0
+            ],
+            [
+                "EGOBOYS",
+                5.0
+            ],
+            [
+                "Infinity",
+                2.0
+            ],
+            [
+                "SG esports",
+                3.0
+            ],
+            [
+                "NoPing Esports",
+                3.0
+            ],
+            [
+                "Unknown Team",
+                3.0
+            ],
+            [
+                "Latam Defenders",
+                2.0
+            ],
+            [
+                "Infamous Gaming",
+                2.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Picks For",
+        "id": "Oracle Picks",
+        "data": [
+            [
+                "SG esports",
+                3.0
+            ],
+            [
+                "NoPing Esports",
+                3.0
+            ],
+            [
+                "Infinity",
+                2.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Bans Against",
+        "id": "Oracle Bans",
+        "data": [
+            [
+                "SG esports",
+                2.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Picks For",
+        "id": "Pangolier Picks",
+        "data": [
+            [
+                "Latam Defenders",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Bans Against",
+        "id": "Pangolier Bans",
+        "data": [
+            [
+                "Latam Defenders",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Picks For",
+        "id": "Phantom Lancer Picks",
+        "data": [
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Bans Against",
+        "id": "Phantom Lancer Bans",
+        "data": [
+            [
+                "BINOMISTAS",
+                4.0
+            ],
+            [
+                "Infamous Gaming",
+                3.0
+            ],
+            [
+                "Latam Defenders",
+                1.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Picks For",
+        "id": "Phoenix Picks",
+        "data": [
+            [
+                "Infinity",
+                4.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Bans Against",
+        "id": "Phoenix Bans",
+        "data": [
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Picks For",
+        "id": "Puck Picks",
+        "data": [
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                3.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Bans Against",
+        "id": "Puck Bans",
+        "data": [
+            [
+                "Infinity",
+                4.0
+            ],
+            [
+                "Unknown Team",
+                4.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Hokori",
+                4.0
+            ],
+            [
+                "BINOMISTAS",
+                3.0
+            ],
+            [
+                "EGOBOYS",
+                2.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Picks For",
+        "id": "Queen of Pain Picks",
+        "data": [
+            [
+                "NoPing Esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Bans Against",
+        "id": "Queen of Pain Bans",
+        "data": [
+            [
+                "NoPing Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Picks For",
+        "id": "Razor Picks",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Bans Against",
+        "id": "Razor Bans",
+        "data": [
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Picks For",
+        "id": "Rubick Picks",
+        "data": [
+            [
+                "NoPing Esports",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Bans Against",
+        "id": "Rubick Bans",
+        "data": [
+            [
+                "NoPing Esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Picks For",
+        "id": "Sand King Picks",
+        "data": [
+            [
+                "BINOMISTAS",
+                2.0
+            ],
+            [
+                "Unknown Team",
+                2.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                1.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Bans Against",
+        "id": "Sand King Bans",
+        "data": [
+            [
+                "BINOMISTAS",
+                5.0
+            ],
+            [
+                "Unknown Team",
+                3.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Picks For",
+        "id": "Shadow Demon Picks",
+        "data": [
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Bans Against",
+        "id": "Shadow Demon Bans",
+        "data": [
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Picks For",
+        "id": "Shadow Shaman Picks",
+        "data": [
+            [
+                "BINOMISTAS",
+                2.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Bans Against",
+        "id": "Shadow Shaman Bans",
+        "data": [
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Picks For",
+        "id": "Slardar Picks",
+        "data": [
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Bans Against",
+        "id": "Slardar Bans",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Picks For",
+        "id": "Snapfire Picks",
+        "data": [
+            [
+                "Infamous Gaming",
+                2.0
+            ],
+            [
+                "Unknown Team",
+                2.0
+            ],
+            [
+                "Omega Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Bans Against",
+        "id": "Snapfire Bans",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Picks For",
+        "id": "Spectre Picks",
+        "data": [
+            [
+                "EGOBOYS",
+                2.0
+            ],
+            [
+                "Infinity",
+                3.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Bans Against",
+        "id": "Spectre Bans",
+        "data": [
+            [
+                "EGOBOYS",
+                2.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Picks For",
+        "id": "Storm Spirit Picks",
+        "data": [
+            [
+                "EGOBOYS",
+                2.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Bans Against",
+        "id": "Storm Spirit Bans",
+        "data": [
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Interitus",
+                2.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Picks For",
+        "id": "Sven Picks",
+        "data": [
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Bans Against",
+        "id": "Sven Bans",
+        "data": [
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Picks For",
+        "id": "Templar Assassin Picks",
+        "data": [
+            [
+                "Infamous Gaming",
+                2.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Bans Against",
+        "id": "Templar Assassin Bans",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                2.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Picks For",
+        "id": "Terrorblade Picks",
+        "data": [
+            [
+                "SG esports",
+                3.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                4.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Bans Against",
+        "id": "Terrorblade Bans",
+        "data": [
+            [
+                "SG esports",
+                3.0
+            ],
+            [
+                "Hokori",
+                4.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                3.0
+            ],
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                2.0
+            ],
+            [
+                "Infamous Gaming",
+                2.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Picks For",
+        "id": "Tidehunter Picks",
+        "data": [
+            [
+                "NoPing Esports",
+                3.0
+            ],
+            [
+                "Infinity",
+                3.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Bans Against",
+        "id": "Tidehunter Bans",
+        "data": [
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "Infinity",
+                2.0
+            ],
+            [
+                "Infamous Gaming",
+                2.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Picks For",
+        "id": "Timbersaw Picks",
+        "data": [
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Bans Against",
+        "id": "Timbersaw Bans",
+        "data": [
+            [
+                "NoPing Esports",
+                8.0
+            ],
+            [
+                "Infamous Gaming",
+                8.0
+            ],
+            [
+                "SG esports",
+                4.0
+            ],
+            [
+                "Hokori",
+                3.0
+            ],
+            [
+                "Unknown Team",
+                4.0
+            ],
+            [
+                "Inverse",
+                2.0
+            ],
+            [
+                "Infinity",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Picks For",
+        "id": "Tiny Picks",
+        "data": [
+            [
+                "NoPing Esports",
+                5.0
+            ],
+            [
+                "Latam Defenders",
+                2.0
+            ],
+            [
+                "Omega Gaming",
+                2.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Bans Against",
+        "id": "Tiny Bans",
+        "data": [
+            [
+                "NoPing Esports",
+                4.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Picks For",
+        "id": "Treant Protector Picks",
+        "data": [
+            [
+                "Hokori",
+                2.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Bans Against",
+        "id": "Treant Protector Bans",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Picks For",
+        "id": "Troll Warlord Picks",
+        "data": [
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Bans Against",
+        "id": "Troll Warlord Bans",
+        "data": [
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Picks For",
+        "id": "Tusk Picks",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Bans Against",
+        "id": "Tusk Bans",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Picks For",
+        "id": "Undying Picks",
+        "data": [
+            [
+                "Hokori",
+                2.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Bans Against",
+        "id": "Undying Bans",
+        "data": [
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Picks For",
+        "id": "Ursa Picks",
+        "data": [
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Bans Against",
+        "id": "Ursa Bans",
+        "data": [
+            [
+                "SG esports",
+                2.0
+            ],
+            [
+                "Infamous Gaming",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                2.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Picks For",
+        "id": "Venomancer Picks",
+        "data": [
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Bans Against",
+        "id": "Venomancer Bans",
+        "data": [
+            [
+                "Unknown Team",
+                2.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Picks For",
+        "id": "Viper Picks",
+        "data": [
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "Unknown Team",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Bans Against",
+        "id": "Viper Bans",
+        "data": [
+            [
+                "NoPing Esports",
+                6.0
+            ],
+            [
+                "Unknown Team",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                3.0
+            ],
+            [
+                "Infinity",
+                2.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Picks For",
+        "id": "Void Spirit Picks",
+        "data": [
+            [
+                "Infinity",
+                4.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Bans Against",
+        "id": "Void Spirit Bans",
+        "data": [
+            [
+                "Infinity",
+                2.0
+            ],
+            [
+                "BINOMISTAS",
+                2.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Picks For",
+        "id": "Winter Wyvern Picks",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                2.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Interitus",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Bans Against",
+        "id": "Winter Wyvern Bans",
+        "data": [
+            [
+                "Hokori",
+                3.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Picks For",
+        "id": "Witch Doctor Picks",
+        "data": [
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Inverse",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Bans Against",
+        "id": "Witch Doctor Bans",
+        "data": [
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Picks For",
+        "id": "Wraith King Picks",
+        "data": [
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Bans Against",
+        "id": "Wraith King Bans",
+        "data": [
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ]
+        ]
+    }
+]

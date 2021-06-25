@@ -1,203 +1,218 @@
 [
     {
         "match": "AS Monaco Gambit vs HellRaisers",
-        "y": 43,
+        "y": 46,
         "name": 1186
     },
     {
         "match": " EXTREMUM vs Natus Vincere",
-        "y": 42,
+        "y": 45,
         "name": 1490
     },
     {
         "match": "B8 vs NoTechies",
-        "y": 41,
+        "y": 44,
         "name": 1612
     },
     {
         "match": "Team Unique vs Team Empire",
-        "y": 40,
+        "y": 43,
         "name": 1709
     },
     {
         "match": "HellRaisers vs AS Monaco Gambit",
-        "y": 39,
+        "y": 42,
         "name": 1767
     },
     {
         "match": "PuckChamp vs Team Spirit",
-        "y": 38,
+        "y": 41,
         "name": 1886
     },
     {
         "match": "Team Unique vs B8",
-        "y": 37,
+        "y": 40,
         "name": 1893
     },
     {
         "match": "Trident Clan vs Nemiga Gaming",
-        "y": 36,
+        "y": 39,
         "name": 1982
     },
     {
         "match": "Team Empire vs Team Unique",
-        "y": 35,
+        "y": 38,
         "name": 1983
     },
     {
         "match": "Nemiga Gaming vs  EXTREMUM",
-        "y": 34,
+        "y": 37,
         "name": 2013
     },
     {
         "match": "Team Spirit vs Winstrike Team",
-        "y": 33,
+        "y": 36,
         "name": 2042
     },
     {
         "match": "PuckChamp vs Nemiga Gaming",
-        "y": 32,
+        "y": 35,
         "name": 2061
     },
     {
         "match": "HellRaisers vs Team Spirit",
-        "y": 31,
+        "y": 34,
         "name": 2068
     },
     {
         "match": "Natus Vincere vs HellRaisers",
-        "y": 30,
+        "y": 33,
         "name": 2074
     },
     {
         "match": "Nemiga Gaming vs Fantastic Five",
-        "y": 29,
+        "y": 32,
         "name": 2100
     },
     {
         "match": "Nemiga Gaming vs PuckChamp",
-        "y": 28,
+        "y": 31,
         "name": 2103
     },
     {
         "match": "AS Monaco Gambit vs Fantastic Five",
-        "y": 27,
+        "y": 30,
         "name": 2118
     },
     {
         "match": "HellRaisers vs Natus Vincere",
-        "y": 26,
+        "y": 29,
         "name": 2159
     },
     {
         "match": "Nemiga Gaming vs PuckChamp",
-        "y": 25,
+        "y": 28,
         "name": 2184
     },
     {
         "match": "Fantastic Five vs Nemiga Gaming",
-        "y": 24,
+        "y": 27,
         "name": 2191
     },
     {
         "match": "HellRaisers vs AS Monaco Gambit",
-        "y": 23,
+        "y": 26,
         "name": 2205
     },
     {
         "match": "Team Empire vs Team Unique",
-        "y": 22,
+        "y": 25,
         "name": 2252
     },
     {
         "match": "Team Spirit vs Winstrike Team",
-        "y": 21,
+        "y": 24,
         "name": 2253
     },
     {
         "match": "Team Spirit vs PuckChamp",
-        "y": 20,
+        "y": 23,
         "name": 2301
     },
     {
         "match": "Winstrike Team vs Team Empire",
-        "y": 19,
+        "y": 22,
         "name": 2358
     },
     {
         "match": "Nemiga Gaming vs Trident Clan",
-        "y": 18,
+        "y": 21,
         "name": 2365
     },
     {
         "match": "Team Empire vs Natus Vincere",
-        "y": 17,
+        "y": 20,
         "name": 2371
     },
     {
+        "match": "Team Empire vs PuckChamp",
+        "y": 19,
+        "name": 2400
+    },
+    {
         "match": "Natus Vincere vs Team Empire",
-        "y": 16,
+        "y": 18,
         "name": 2411
     },
     {
         "match": " EXTREMUM vs Nemiga Gaming",
-        "y": 15,
+        "y": 17,
         "name": 2416
     },
     {
         "match": "B8 vs Team Unique",
-        "y": 14,
+        "y": 16,
         "name": 2445
     },
     {
         "match": "Nemiga Gaming vs Fantastic Five",
-        "y": 13,
+        "y": 15,
         "name": 2470
     },
     {
         "match": "PuckChamp vs Team Unique",
-        "y": 12,
+        "y": 14,
         "name": 2483
     },
     {
         "match": "Natus Vincere vs  EXTREMUM",
-        "y": 11,
+        "y": 13,
         "name": 2601
     },
     {
+        "match": "HellRaisers vs Team Spirit",
+        "y": 12,
+        "name": 2604
+    },
+    {
         "match": "Team Empire vs Winstrike Team",
-        "y": 10,
+        "y": 11,
         "name": 2630
     },
     {
         "match": "Team Spirit vs HellRaisers",
-        "y": 9,
+        "y": 10,
         "name": 2660
     },
     {
         "match": "Team Empire vs Natus Vincere",
-        "y": 8,
+        "y": 9,
         "name": 2666
     },
     {
         "match": "Fantastic Five vs AS Monaco Gambit",
-        "y": 7,
+        "y": 8,
         "name": 2733
     },
     {
         "match": "Team Unique vs PuckChamp",
-        "y": 6,
+        "y": 7,
         "name": 2869
     },
     {
         "match": "Nemiga Gaming vs  EXTREMUM",
-        "y": 5,
+        "y": 6,
         "name": 2878
     },
     {
         "match": "B8 vs Team Unique",
-        "y": 4,
+        "y": 5,
         "name": 3114
+    },
+    {
+        "match": "PuckChamp vs Team Empire",
+        "y": 4,
+        "name": 3138
     },
     {
         "match": "Natus Vincere vs HellRaisers",

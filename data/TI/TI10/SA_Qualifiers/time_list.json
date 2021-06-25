@@ -1,0 +1,182 @@
+[
+    {
+        "match": "Infamous Gaming vs Omega Gaming",
+        "y": 36,
+        "name": 1233
+    },
+    {
+        "match": "BINOMISTAS vs Inverse",
+        "y": 35,
+        "name": 1350
+    },
+    {
+        "match": "Infinity vs NoPing Esports",
+        "y": 34,
+        "name": 1432
+    },
+    {
+        "match": "Unknown Team vs Infinity",
+        "y": 33,
+        "name": 1446
+    },
+    {
+        "match": "SG esports vs EGOBOYS",
+        "y": 32,
+        "name": 1498
+    },
+    {
+        "match": "NoPing Esports vs EGOBOYS",
+        "y": 31,
+        "name": 1548
+    },
+    {
+        "match": "Unknown Team vs BINOMISTAS",
+        "y": 30,
+        "name": 1578
+    },
+    {
+        "match": "BINOMISTAS vs Inverse",
+        "y": 29,
+        "name": 1697
+    },
+    {
+        "match": "EGOBOYS vs SG esports",
+        "y": 28,
+        "name": 1763
+    },
+    {
+        "match": "BINOMISTAS vs Unknown Team",
+        "y": 27,
+        "name": 1779
+    },
+    {
+        "match": "NoPing Esports vs Infinity",
+        "y": 26,
+        "name": 1785
+    },
+    {
+        "match": "Hokori vs Latam Defenders",
+        "y": 25,
+        "name": 1850
+    },
+    {
+        "match": "NoPing Esports vs Interitus",
+        "y": 24,
+        "name": 1874
+    },
+    {
+        "match": "EGOBOYS vs NoPing Esports",
+        "y": 23,
+        "name": 1903
+    },
+    {
+        "match": "Hokori vs NoPing Esports",
+        "y": 22,
+        "name": 1918
+    },
+    {
+        "match": "SG esports vs Infinity",
+        "y": 21,
+        "name": 1944
+    },
+    {
+        "match": "Latam Defenders vs Hokori",
+        "y": 20,
+        "name": 1946
+    },
+    {
+        "match": "Infamous Gaming vs Omega Gaming",
+        "y": 19,
+        "name": 1984
+    },
+    {
+        "match": "Infinity vs NoPing Esports",
+        "y": 18,
+        "name": 2020
+    },
+    {
+        "match": "BINOMISTAS vs SG esports",
+        "y": 17,
+        "name": 2102
+    },
+    {
+        "match": "Unknown Team vs Hokori",
+        "y": 16,
+        "name": 2146
+    },
+    {
+        "match": "EGOBOYS vs Infamous Gaming",
+        "y": 15,
+        "name": 2160
+    },
+    {
+        "match": "BINOMISTAS vs SG esports",
+        "y": 14,
+        "name": 2186
+    },
+    {
+        "match": "Infamous Gaming vs BINOMISTAS",
+        "y": 13,
+        "name": 2245
+    },
+    {
+        "match": "Interitus vs NoPing Esports",
+        "y": 12,
+        "name": 2255
+    },
+    {
+        "match": "Unknown Team vs Infinity",
+        "y": 11,
+        "name": 2260
+    },
+    {
+        "match": "Infamous Gaming vs BINOMISTAS",
+        "y": 10,
+        "name": 2272
+    },
+    {
+        "match": "Infamous Gaming vs EGOBOYS",
+        "y": 9,
+        "name": 2337
+    },
+    {
+        "match": "NoPing Esports vs Hokori",
+        "y": 8,
+        "name": 2414
+    },
+    {
+        "match": "Hokori vs Unknown Team",
+        "y": 7,
+        "name": 2430
+    },
+    {
+        "match": "SG esports vs Infinity",
+        "y": 6,
+        "name": 2452
+    },
+    {
+        "match": "Unknown Team vs Infinity",
+        "y": 5,
+        "name": 2481
+    },
+    {
+        "match": "EGOBOYS vs Infamous Gaming",
+        "y": 4,
+        "name": 2550
+    },
+    {
+        "match": "SG esports vs BINOMISTAS",
+        "y": 3,
+        "name": 2550
+    },
+    {
+        "match": "Unknown Team vs Hokori",
+        "y": 2,
+        "name": 2772
+    },
+    {
+        "match": "BINOMISTAS vs Infamous Gaming",
+        "y": 1,
+        "name": 2923
+    }
+]

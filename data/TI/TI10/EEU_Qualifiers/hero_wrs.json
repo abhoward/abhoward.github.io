@@ -1,7 +1,7 @@
 [
     {
         "name": "Abaddon",
-        "y": 0.3333333333333333,
+        "y": 0.42857142857142855,
         "drilldown": "Abaddon Win Rate"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
         "name": "Axe",
-        "y": 0.4666666666666667,
+        "y": 0.4375,
         "drilldown": "Axe Win Rate"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
         "name": "Dark Willow",
-        "y": 0.7,
+        "y": 0.7272727272727273,
         "drilldown": "Dark Willow Win Rate"
     },
     {
@@ -121,7 +121,7 @@
     },
     {
         "name": "Death Prophet",
-        "y": 0.2857142857142857,
+        "y": 0.375,
         "drilldown": "Death Prophet Win Rate"
     },
     {
@@ -136,7 +136,7 @@
     },
     {
         "name": "Dragon Knight",
-        "y": 0.5882352941176471,
+        "y": 0.6111111111111112,
         "drilldown": "Dragon Knight Win Rate"
     },
     {
@@ -156,7 +156,7 @@
     },
     {
         "name": "Elder Titan",
-        "y": 0.5,
+        "y": 0.4,
         "drilldown": "Elder Titan Win Rate"
     },
     {
@@ -166,7 +166,7 @@
     },
     {
         "name": "Enchantress",
-        "y": 0.6,
+        "y": 0.5625,
         "drilldown": "Enchantress Win Rate"
     },
     {
@@ -176,7 +176,7 @@
     },
     {
         "name": "Faceless Void",
-        "y": 0.4,
+        "y": 0.5,
         "drilldown": "Faceless Void Win Rate"
     },
     {
@@ -191,7 +191,7 @@
     },
     {
         "name": "Hoodwink",
-        "y": 0.5217391304347826,
+        "y": 0.56,
         "drilldown": "Hoodwink Win Rate"
     },
     {
@@ -246,17 +246,17 @@
     },
     {
         "name": "Lifestealer",
-        "y": 0.5,
+        "y": 0.5714285714285714,
         "drilldown": "Lifestealer Win Rate"
     },
     {
         "name": "Lina",
-        "y": 0.5882352941176471,
+        "y": 0.65,
         "drilldown": "Lina Win Rate"
     },
     {
         "name": "Lion",
-        "y": 0.2608695652173913,
+        "y": 0.24,
         "drilldown": "Lion Win Rate"
     },
     {
@@ -266,7 +266,7 @@
     },
     {
         "name": "Luna",
-        "y": 0.6153846153846154,
+        "y": 0.6428571428571429,
         "drilldown": "Luna Win Rate"
     },
     {
@@ -276,7 +276,7 @@
     },
     {
         "name": "Magnus",
-        "y": 0.5,
+        "y": 0.5555555555555556,
         "drilldown": "Magnus Win Rate"
     },
     {
@@ -286,7 +286,7 @@
     },
     {
         "name": "Medusa",
-        "y": 0.8571428571428571,
+        "y": 0.75,
         "drilldown": "Medusa Win Rate"
     },
     {
@@ -331,7 +331,7 @@
     },
     {
         "name": "Nyx Assassin",
-        "y": 0.5454545454545454,
+        "y": 0.5,
         "drilldown": "Nyx Assassin Win Rate"
     },
     {
@@ -356,7 +356,7 @@
     },
     {
         "name": "Pangolier",
-        "y": 0.8333333333333334,
+        "y": 0.8571428571428571,
         "drilldown": "Pangolier Win Rate"
     },
     {
@@ -371,12 +371,12 @@
     },
     {
         "name": "Phoenix",
-        "y": 0.4666666666666667,
+        "y": 0.4375,
         "drilldown": "Phoenix Win Rate"
     },
     {
         "name": "Puck",
-        "y": 0.3333333333333333,
+        "y": 0.3,
         "drilldown": "Puck Win Rate"
     },
     {
@@ -416,7 +416,7 @@
     },
     {
         "name": "Shadow Demon",
-        "y": 0.5714285714285714,
+        "y": 0.625,
         "drilldown": "Shadow Demon Win Rate"
     },
     {
@@ -461,7 +461,7 @@
     },
     {
         "name": "Spectre",
-        "y": 0.5,
+        "y": 0.42857142857142855,
         "drilldown": "Spectre Win Rate"
     },
     {
@@ -491,17 +491,17 @@
     },
     {
         "name": "Terrorblade",
-        "y": 0.4444444444444444,
+        "y": 0.4,
         "drilldown": "Terrorblade Win Rate"
     },
     {
         "name": "Tidehunter",
-        "y": 1.0,
+        "y": 0.8,
         "drilldown": "Tidehunter Win Rate"
     },
     {
         "name": "Timbersaw",
-        "y": 0.3333333333333333,
+        "y": 0.3,
         "drilldown": "Timbersaw Win Rate"
     },
     {
@@ -566,7 +566,7 @@
     },
     {
         "name": "Void Spirit",
-        "y": 0.3333333333333333,
+        "y": 0.25,
         "drilldown": "Void Spirit Win Rate"
     },
     {
@@ -601,7 +601,7 @@
     },
     {
         "name": "Zeus",
-        "y": 1.0,
+        "y": 0.5,
         "drilldown": "Zeus Win Rate"
     }
 ]
