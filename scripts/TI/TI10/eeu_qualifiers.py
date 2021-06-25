@@ -57,7 +57,7 @@ teams = [
             'Natus Vincere', 'Nemiga Gaming', 'Fantastic Five', 'AS Monaco Gambit', 'HellRaisers', 'Team Empire'
         ] 
 
-matches = df[(df['leagueid'] == league_id) & (df['start_time'] >= start_time)]
+matches = df[((df['radiant_name'].isin(teams)) | (df['dire_name'].isin(teams))) & (df['leagueid'] == league_id)]
 
 # adding milliseconds to epoch time so Highcharts can properly read it
 matches['start_time'] = matches['start_time'] * 1000

@@ -4,20 +4,8 @@
         "id": "Abaddon Matches Played",
         "data": [
             [
-                "BINOMISTAS",
-                2
-            ],
-            [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "HellRaisers",
                 1
-            ],
-            [
-                "Infamous Gaming",
-                2
             ],
             [
                 "Natus Vincere",
@@ -26,10 +14,6 @@
             [
                 "Nemiga Gaming",
                 2
-            ],
-            [
-                "NoPing Esports",
-                1
             ],
             [
                 "Team Empire",
@@ -42,20 +26,8 @@
         "id": "Abaddon Matches Won",
         "data": [
             [
-                "BINOMISTAS",
-                2
-            ],
-            [
-                "EGOBOYS",
-                0
-            ],
-            [
                 "HellRaisers",
                 0
-            ],
-            [
-                "Infamous Gaming",
-                1
             ],
             [
                 "Natus Vincere",
@@ -63,10 +35,6 @@
             ],
             [
                 "Nemiga Gaming",
-                1
-            ],
-            [
-                "NoPing Esports",
                 1
             ],
             [
@@ -80,20 +48,8 @@
         "id": "Abaddon Win Rate",
         "data": [
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
                 "HellRaisers",
                 0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.5
             ],
             [
                 "Natus Vincere",
@@ -102,10 +58,6 @@
             [
                 "Nemiga Gaming",
                 0.5
-            ],
-            [
-                "NoPing Esports",
-                1.0
             ],
             [
                 "Team Empire",
@@ -130,19 +82,7 @@
         "id": "Ancient Apparition Matches Played",
         "data": [
             [
-                "EGOBOYS",
-                3
-            ],
-            [
                 "Fantastic Five",
-                1
-            ],
-            [
-                "Hokori",
-                2
-            ],
-            [
-                "Interitus",
                 1
             ],
             [
@@ -154,24 +94,12 @@
                 3
             ],
             [
-                "NoPing Esports",
-                1
-            ],
-            [
-                "Omega Gaming",
-                1
-            ],
-            [
                 "PuckChamp",
                 1
             ],
             [
                 "Team Unique",
                 1
-            ],
-            [
-                "Unknown Team",
-                2
             ]
         ]
     },
@@ -180,20 +108,8 @@
         "id": "Ancient Apparition Matches Won",
         "data": [
             [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "Fantastic Five",
                 1
-            ],
-            [
-                "Hokori",
-                1
-            ],
-            [
-                "Interitus",
-                0
             ],
             [
                 "Natus Vincere",
@@ -204,23 +120,11 @@
                 2
             ],
             [
-                "NoPing Esports",
-                0
-            ],
-            [
-                "Omega Gaming",
-                0
-            ],
-            [
                 "PuckChamp",
                 0
             ],
             [
                 "Team Unique",
-                1
-            ],
-            [
-                "Unknown Team",
                 1
             ]
         ]
@@ -230,20 +134,8 @@
         "id": "Ancient Apparition Win Rate",
         "data": [
             [
-                "EGOBOYS",
-                0.3333333333333333
-            ],
-            [
                 "Fantastic Five",
                 1.0
-            ],
-            [
-                "Hokori",
-                0.5
-            ],
-            [
-                "Interitus",
-                0.0
             ],
             [
                 "Natus Vincere",
@@ -254,66 +146,12 @@
                 0.6666666666666666
             ],
             [
-                "NoPing Esports",
-                0.0
-            ],
-            [
-                "Omega Gaming",
-                0.0
-            ],
-            [
                 "PuckChamp",
                 0.0
             ],
             [
                 "Team Unique",
                 1.0
-            ],
-            [
-                "Unknown Team",
-                0.5
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
-    },
-    {
-        "name": "Arc Warden Matches Played",
-        "id": "Arc Warden Matches Played",
-        "data": [
-            [
-                "NoPing Esports",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Arc Warden Matches Won",
-        "id": "Arc Warden Matches Won",
-        "data": [
-            [
-                "NoPing Esports",
-                0
-            ]
-        ]
-    },
-    {
-        "name": "Arc Warden Win Rate",
-        "id": "Arc Warden Win Rate",
-        "data": [
-            [
-                "NoPing Esports",
-                0.0
             ]
         ],
         "type": "spline",
@@ -338,23 +176,7 @@
                 2
             ],
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
-                "EGOBOYS",
-                2
-            ],
-            [
                 "Fantastic Five",
-                2
-            ],
-            [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Interitus",
                 2
             ],
             [
@@ -392,24 +214,8 @@
                 1
             ],
             [
-                "BINOMISTAS",
-                0
-            ],
-            [
-                "EGOBOYS",
-                0
-            ],
-            [
                 "Fantastic Five",
                 2
-            ],
-            [
-                "Infamous Gaming",
-                0
-            ],
-            [
-                "Interitus",
-                0
             ],
             [
                 "Natus Vincere",
@@ -446,24 +252,8 @@
                 0.5
             ],
             [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
                 "Fantastic Five",
                 1.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "Interitus",
-                0.0
             ],
             [
                 "Natus Vincere",
@@ -512,19 +302,11 @@
                 2
             ],
             [
-                "Hokori",
-                2
-            ],
-            [
                 "Nemiga Gaming",
                 1
             ],
             [
                 "PuckChamp",
-                1
-            ],
-            [
-                "SG esports",
                 1
             ],
             [
@@ -542,20 +324,12 @@
                 1
             ],
             [
-                "Hokori",
-                1
-            ],
-            [
                 "Nemiga Gaming",
                 0
             ],
             [
                 "PuckChamp",
                 0
-            ],
-            [
-                "SG esports",
-                1
             ],
             [
                 "Winstrike Team",
@@ -572,20 +346,12 @@
                 0.5
             ],
             [
-                "Hokori",
-                0.5
-            ],
-            [
                 "Nemiga Gaming",
                 0.0
             ],
             [
                 "PuckChamp",
                 0.0
-            ],
-            [
-                "SG esports",
-                1.0
             ],
             [
                 "Winstrike Team",
@@ -612,10 +378,6 @@
             [
                 "Fantastic Five",
                 1
-            ],
-            [
-                "Infamous Gaming",
-                1
             ]
         ]
     },
@@ -626,10 +388,6 @@
             [
                 "Fantastic Five",
                 0
-            ],
-            [
-                "Infamous Gaming",
-                1
             ]
         ]
     },
@@ -640,10 +398,6 @@
             [
                 "Fantastic Five",
                 0.0
-            ],
-            [
-                "Infamous Gaming",
-                1.0
             ]
         ],
         "type": "spline",
@@ -664,15 +418,7 @@
         "id": "Bloodseeker Matches Played",
         "data": [
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
                 "Fantastic Five",
-                1
-            ],
-            [
-                "Infamous Gaming",
                 1
             ],
             [
@@ -690,15 +436,7 @@
         "id": "Bloodseeker Matches Won",
         "data": [
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
                 "Fantastic Five",
-                1
-            ],
-            [
-                "Infamous Gaming",
                 1
             ],
             [
@@ -716,15 +454,7 @@
         "id": "Bloodseeker Win Rate",
         "data": [
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
                 "Fantastic Five",
-                1.0
-            ],
-            [
-                "Infamous Gaming",
                 1.0
             ],
             [
@@ -734,102 +464,6 @@
             [
                 "Team Unique",
                 0.0
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
-    },
-    {
-        "name": "Brewmaster Matches Played",
-        "id": "Brewmaster Matches Played",
-        "data": [
-            [
-                "Unknown Team",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Brewmaster Matches Won",
-        "id": "Brewmaster Matches Won",
-        "data": [
-            [
-                "Unknown Team",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Brewmaster Win Rate",
-        "id": "Brewmaster Win Rate",
-        "data": [
-            [
-                "Unknown Team",
-                1.0
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
-    },
-    {
-        "name": "Bristleback Matches Played",
-        "id": "Bristleback Matches Played",
-        "data": [
-            [
-                "Hokori",
-                1
-            ],
-            [
-                "Unknown Team",
-                2
-            ]
-        ]
-    },
-    {
-        "name": "Bristleback Matches Won",
-        "id": "Bristleback Matches Won",
-        "data": [
-            [
-                "Hokori",
-                1
-            ],
-            [
-                "Unknown Team",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Bristleback Win Rate",
-        "id": "Bristleback Win Rate",
-        "data": [
-            [
-                "Hokori",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                0.5
             ]
         ],
         "type": "spline",
@@ -854,15 +488,7 @@
                 2
             ],
             [
-                "BINOMISTAS",
-                2
-            ],
-            [
                 "HellRaisers",
-                2
-            ],
-            [
-                "Hokori",
                 2
             ],
             [
@@ -884,15 +510,7 @@
                 0
             ],
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
                 "HellRaisers",
-                1
-            ],
-            [
-                "Hokori",
                 1
             ],
             [
@@ -914,15 +532,7 @@
                 0.0
             ],
             [
-                "BINOMISTAS",
-                0.5
-            ],
-            [
                 "HellRaisers",
-                0.5
-            ],
-            [
-                "Hokori",
                 0.5
             ],
             [
@@ -952,26 +562,6 @@
         "id": "Centaur Warrunner Matches Played",
         "data": [
             [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Infinity",
-                1
-            ],
-            [
-                "Latam Defenders",
-                1
-            ],
-            [
-                "NoPing Esports",
-                1
-            ],
-            [
-                "Omega Gaming",
-                1
-            ],
-            [
                 "Team Unique",
                 1
             ]
@@ -982,26 +572,6 @@
         "id": "Centaur Warrunner Matches Won",
         "data": [
             [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Infinity",
-                0
-            ],
-            [
-                "Latam Defenders",
-                0
-            ],
-            [
-                "NoPing Esports",
-                1
-            ],
-            [
-                "Omega Gaming",
-                0
-            ],
-            [
                 "Team Unique",
                 0
             ]
@@ -1011,26 +581,6 @@
         "name": "Centaur Warrunner Win Rate",
         "id": "Centaur Warrunner Win Rate",
         "data": [
-            [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
-                "Infinity",
-                0.0
-            ],
-            [
-                "Latam Defenders",
-                0.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "Omega Gaming",
-                0.0
-            ],
             [
                 "Team Unique",
                 0.0
@@ -1058,20 +608,12 @@
                 1
             ],
             [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "Fantastic Five",
                 1
             ],
             [
                 "PuckChamp",
                 1
-            ],
-            [
-                "SG esports",
-                3
             ]
         ]
     },
@@ -1084,20 +626,12 @@
                 0
             ],
             [
-                "EGOBOYS",
-                0
-            ],
-            [
                 "Fantastic Five",
                 0
             ],
             [
                 "PuckChamp",
                 1
-            ],
-            [
-                "SG esports",
-                2
             ]
         ]
     },
@@ -1110,20 +644,12 @@
                 0.0
             ],
             [
-                "EGOBOYS",
-                0.0
-            ],
-            [
                 "Fantastic Five",
                 0.0
             ],
             [
                 "PuckChamp",
                 1.0
-            ],
-            [
-                "SG esports",
-                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -1190,27 +716,7 @@
                 1
             ],
             [
-                "BINOMISTAS",
-                2
-            ],
-            [
-                "EGOBOYS",
-                3
-            ],
-            [
-                "Hokori",
-                1
-            ],
-            [
-                "Infinity",
-                2
-            ],
-            [
                 "Nemiga Gaming",
-                1
-            ],
-            [
-                "Unknown Team",
                 1
             ]
         ]
@@ -1224,28 +730,8 @@
                 1
             ],
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
-                "EGOBOYS",
-                1
-            ],
-            [
-                "Hokori",
-                0
-            ],
-            [
-                "Infinity",
-                1
-            ],
-            [
                 "Nemiga Gaming",
                 1
-            ],
-            [
-                "Unknown Team",
-                0
             ]
         ]
     },
@@ -1258,28 +744,8 @@
                 1.0
             ],
             [
-                "BINOMISTAS",
-                0.5
-            ],
-            [
-                "EGOBOYS",
-                0.3333333333333333
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
-            [
-                "Infinity",
-                0.5
-            ],
-            [
                 "Nemiga Gaming",
                 1.0
-            ],
-            [
-                "Unknown Team",
-                0.0
             ]
         ],
         "type": "spline",
@@ -1304,20 +770,8 @@
                 1
             ],
             [
-                "EGOBOYS",
-                2
-            ],
-            [
                 "Fantastic Five",
                 1
-            ],
-            [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Infinity",
-                2
             ],
             [
                 "Natus Vincere",
@@ -1334,10 +788,6 @@
             [
                 "Team Unique",
                 1
-            ],
-            [
-                "Unknown Team",
-                1
             ]
         ]
     },
@@ -1350,19 +800,7 @@
                 0
             ],
             [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "Fantastic Five",
-                1
-            ],
-            [
-                "Infamous Gaming",
-                0
-            ],
-            [
-                "Infinity",
                 1
             ],
             [
@@ -1380,10 +818,6 @@
             [
                 "Team Unique",
                 1
-            ],
-            [
-                "Unknown Team",
-                0
             ]
         ]
     },
@@ -1396,20 +830,8 @@
                 0.0
             ],
             [
-                "EGOBOYS",
-                0.5
-            ],
-            [
                 "Fantastic Five",
                 1.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "Infinity",
-                0.5
             ],
             [
                 "Natus Vincere",
@@ -1426,10 +848,6 @@
             [
                 "Team Unique",
                 1.0
-            ],
-            [
-                "Unknown Team",
-                0.0
             ]
         ],
         "type": "spline",
@@ -1451,10 +869,6 @@
         "data": [
             [
                 " EXTREMUM",
-                1
-            ],
-            [
-                "BINOMISTAS",
                 1
             ],
             [
@@ -1484,10 +898,6 @@
                 0
             ],
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
                 "Natus Vincere",
                 0
             ],
@@ -1512,10 +922,6 @@
             [
                 " EXTREMUM",
                 0.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
             ],
             [
                 "Natus Vincere",
@@ -1560,10 +966,6 @@
                 1
             ],
             [
-                "BINOMISTAS",
-                2
-            ],
-            [
                 "Team Unique",
                 1
             ]
@@ -1579,10 +981,6 @@
             ],
             [
                 "B8",
-                1
-            ],
-            [
-                "BINOMISTAS",
                 1
             ],
             [
@@ -1602,10 +1000,6 @@
             [
                 "B8",
                 1.0
-            ],
-            [
-                "BINOMISTAS",
-                0.5
             ],
             [
                 "Team Unique",
@@ -1630,10 +1024,6 @@
         "id": "Doom Matches Played",
         "data": [
             [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "Natus Vincere",
                 1
             ],
@@ -1642,15 +1032,7 @@
                 1
             ],
             [
-                "SG esports",
-                1
-            ],
-            [
                 "Team Unique",
-                2
-            ],
-            [
-                "Unknown Team",
                 2
             ],
             [
@@ -1664,10 +1046,6 @@
         "id": "Doom Matches Won",
         "data": [
             [
-                "EGOBOYS",
-                0
-            ],
-            [
                 "Natus Vincere",
                 0
             ],
@@ -1676,15 +1054,7 @@
                 1
             ],
             [
-                "SG esports",
-                1
-            ],
-            [
                 "Team Unique",
-                1
-            ],
-            [
-                "Unknown Team",
                 1
             ],
             [
@@ -1698,10 +1068,6 @@
         "id": "Doom Win Rate",
         "data": [
             [
-                "EGOBOYS",
-                0.0
-            ],
-            [
                 "Natus Vincere",
                 0.0
             ],
@@ -1710,15 +1076,7 @@
                 1.0
             ],
             [
-                "SG esports",
-                1.0
-            ],
-            [
                 "Team Unique",
-                0.5
-            ],
-            [
-                "Unknown Team",
                 0.5
             ],
             [
@@ -1752,32 +1110,12 @@
                 2
             ],
             [
-                "BINOMISTAS",
-                4
-            ],
-            [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Interitus",
-                1
-            ],
-            [
                 "Natus Vincere",
                 1
             ],
             [
                 "Nemiga Gaming",
                 1
-            ],
-            [
-                "NoPing Esports",
-                1
-            ],
-            [
-                "SG esports",
-                3
             ],
             [
                 "Team Empire",
@@ -1810,32 +1148,12 @@
                 1
             ],
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
-                "Infamous Gaming",
-                0
-            ],
-            [
-                "Interitus",
-                0
-            ],
-            [
                 "Natus Vincere",
                 1
             ],
             [
                 "Nemiga Gaming",
                 0
-            ],
-            [
-                "NoPing Esports",
-                0
-            ],
-            [
-                "SG esports",
-                2
             ],
             [
                 "Team Empire",
@@ -1868,32 +1186,12 @@
                 0.5
             ],
             [
-                "BINOMISTAS",
-                0.25
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "Interitus",
-                0.0
-            ],
-            [
                 "Natus Vincere",
                 1.0
             ],
             [
                 "Nemiga Gaming",
                 0.0
-            ],
-            [
-                "NoPing Esports",
-                0.0
-            ],
-            [
-                "SG esports",
-                0.6666666666666666
             ],
             [
                 "Team Empire",
@@ -2008,20 +1306,12 @@
         "id": "Earth Spirit Matches Played",
         "data": [
             [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "Fantastic Five",
                 1
             ],
             [
                 "HellRaisers",
                 3
-            ],
-            [
-                "Infamous Gaming",
-                1
             ]
         ]
     },
@@ -2030,20 +1320,12 @@
         "id": "Earth Spirit Matches Won",
         "data": [
             [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "Fantastic Five",
                 0
             ],
             [
                 "HellRaisers",
                 2
-            ],
-            [
-                "Infamous Gaming",
-                0
             ]
         ]
     },
@@ -2052,20 +1334,12 @@
         "id": "Earth Spirit Win Rate",
         "data": [
             [
-                "EGOBOYS",
-                1.0
-            ],
-            [
                 "Fantastic Five",
                 0.0
             ],
             [
                 "HellRaisers",
                 0.6666666666666666
-            ],
-            [
-                "Infamous Gaming",
-                0.0
             ]
         ],
         "type": "spline",
@@ -2090,20 +1364,8 @@
                 1
             ],
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "HellRaisers",
                 2
-            ],
-            [
-                "SG esports",
-                1
             ],
             [
                 "Team Unique",
@@ -2120,20 +1382,8 @@
                 0
             ],
             [
-                "BINOMISTAS",
-                0
-            ],
-            [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "HellRaisers",
                 2
-            ],
-            [
-                "SG esports",
-                1
             ],
             [
                 "Team Unique",
@@ -2150,19 +1400,7 @@
                 0.0
             ],
             [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
                 "HellRaisers",
-                1.0
-            ],
-            [
-                "SG esports",
                 1.0
             ],
             [
@@ -2192,28 +1430,8 @@
                 1
             ],
             [
-                "Hokori",
-                4
-            ],
-            [
-                "Infinity",
-                1
-            ],
-            [
-                "Inverse",
-                1
-            ],
-            [
-                "Latam Defenders",
-                1
-            ],
-            [
                 "Team Unique",
                 1
-            ],
-            [
-                "Unknown Team",
-                2
             ]
         ]
     },
@@ -2226,27 +1444,7 @@
                 0
             ],
             [
-                "Hokori",
-                1
-            ],
-            [
-                "Infinity",
-                1
-            ],
-            [
-                "Inverse",
-                0
-            ],
-            [
-                "Latam Defenders",
-                0
-            ],
-            [
                 "Team Unique",
-                1
-            ],
-            [
-                "Unknown Team",
                 1
             ]
         ]
@@ -2260,28 +1458,8 @@
                 0.0
             ],
             [
-                "Hokori",
-                0.25
-            ],
-            [
-                "Infinity",
-                1.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
-                "Latam Defenders",
-                0.0
-            ],
-            [
                 "Team Unique",
                 1.0
-            ],
-            [
-                "Unknown Team",
-                0.5
             ]
         ],
         "type": "spline",
@@ -2310,16 +1488,8 @@
                 2
             ],
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
                 "Fantastic Five",
                 3
-            ],
-            [
-                "Infamous Gaming",
-                2
             ],
             [
                 "Nemiga Gaming",
@@ -2344,16 +1514,8 @@
                 1
             ],
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
                 "Fantastic Five",
                 1
-            ],
-            [
-                "Infamous Gaming",
-                2
             ],
             [
                 "Nemiga Gaming",
@@ -2378,16 +1540,8 @@
                 0.5
             ],
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
                 "Fantastic Five",
                 0.3333333333333333
-            ],
-            [
-                "Infamous Gaming",
-                1.0
             ],
             [
                 "Nemiga Gaming",
@@ -2420,23 +1574,11 @@
                 2
             ],
             [
-                "Hokori",
-                2
-            ],
-            [
-                "Infamous Gaming",
-                1
-            ],
-            [
                 "Natus Vincere",
                 1
             ],
             [
                 "Team Unique",
-                1
-            ],
-            [
-                "Unknown Team",
                 1
             ],
             [
@@ -2454,24 +1596,12 @@
                 1
             ],
             [
-                "Hokori",
-                1
-            ],
-            [
-                "Infamous Gaming",
-                0
-            ],
-            [
                 "Natus Vincere",
                 1
             ],
             [
                 "Team Unique",
                 0
-            ],
-            [
-                "Unknown Team",
-                1
             ],
             [
                 "Winstrike Team",
@@ -2488,24 +1618,12 @@
                 0.5
             ],
             [
-                "Hokori",
-                0.5
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
                 "Natus Vincere",
                 1.0
             ],
             [
                 "Team Unique",
                 0.0
-            ],
-            [
-                "Unknown Team",
-                1.0
             ],
             [
                 "Winstrike Team",
@@ -2530,23 +1648,11 @@
         "id": "Grimstroke Matches Played",
         "data": [
             [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "HellRaisers",
                 1
             ],
             [
-                "Inverse",
-                1
-            ],
-            [
                 "NoTechies",
-                1
-            ],
-            [
-                "Omega Gaming",
                 1
             ]
         ]
@@ -2556,23 +1662,11 @@
         "id": "Grimstroke Matches Won",
         "data": [
             [
-                "EGOBOYS",
-                0
-            ],
-            [
                 "HellRaisers",
                 0
             ],
             [
-                "Inverse",
-                0
-            ],
-            [
                 "NoTechies",
-                0
-            ],
-            [
-                "Omega Gaming",
                 0
             ]
         ]
@@ -2582,23 +1676,11 @@
         "id": "Grimstroke Win Rate",
         "data": [
             [
-                "EGOBOYS",
-                0.0
-            ],
-            [
                 "HellRaisers",
                 0.0
             ],
             [
-                "Inverse",
-                0.0
-            ],
-            [
                 "NoTechies",
-                0.0
-            ],
-            [
-                "Omega Gaming",
                 0.0
             ]
         ],
@@ -2620,28 +1702,8 @@
         "id": "Gyrocopter Matches Played",
         "data": [
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
-                "Infamous Gaming",
-                4
-            ],
-            [
-                "Interitus",
-                1
-            ],
-            [
                 "Natus Vincere",
                 4
-            ],
-            [
-                "NoPing Esports",
-                2
-            ],
-            [
-                "Unknown Team",
-                1
             ]
         ]
     },
@@ -2650,28 +1712,8 @@
         "id": "Gyrocopter Matches Won",
         "data": [
             [
-                "BINOMISTAS",
-                0
-            ],
-            [
-                "Infamous Gaming",
-                3
-            ],
-            [
-                "Interitus",
-                0
-            ],
-            [
                 "Natus Vincere",
                 2
-            ],
-            [
-                "NoPing Esports",
-                2
-            ],
-            [
-                "Unknown Team",
-                0
             ]
         ]
     },
@@ -2680,28 +1722,8 @@
         "id": "Gyrocopter Win Rate",
         "data": [
             [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.75
-            ],
-            [
-                "Interitus",
-                0.0
-            ],
-            [
                 "Natus Vincere",
                 0.5
-            ],
-            [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                0.0
             ]
         ],
         "type": "spline",
@@ -2730,28 +1752,8 @@
                 1
             ],
             [
-                "BINOMISTAS",
-                2
-            ],
-            [
                 "HellRaisers",
                 2
-            ],
-            [
-                "Hokori",
-                3
-            ],
-            [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Infinity",
-                1
-            ],
-            [
-                "Interitus",
-                1
             ],
             [
                 "Natus Vincere",
@@ -2782,10 +1784,6 @@
                 1
             ],
             [
-                "Unknown Team",
-                3
-            ],
-            [
                 "Winstrike Team",
                 1
             ]
@@ -2804,27 +1802,7 @@
                 0
             ],
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
                 "HellRaisers",
-                0
-            ],
-            [
-                "Hokori",
-                2
-            ],
-            [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Infinity",
-                1
-            ],
-            [
-                "Interitus",
                 0
             ],
             [
@@ -2856,10 +1834,6 @@
                 0
             ],
             [
-                "Unknown Team",
-                2
-            ],
-            [
                 "Winstrike Team",
                 0
             ]
@@ -2878,27 +1852,7 @@
                 0.0
             ],
             [
-                "BINOMISTAS",
-                0.5
-            ],
-            [
                 "HellRaisers",
-                0.0
-            ],
-            [
-                "Hokori",
-                0.6666666666666666
-            ],
-            [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
-                "Infinity",
-                1.0
-            ],
-            [
-                "Interitus",
                 0.0
             ],
             [
@@ -2928,10 +1882,6 @@
             [
                 "Trident Clan",
                 0.0
-            ],
-            [
-                "Unknown Team",
-                0.6666666666666666
             ],
             [
                 "Winstrike Team",
@@ -2968,20 +1918,12 @@
                 1
             ],
             [
-                "Infamous Gaming",
-                3
-            ],
-            [
                 "Natus Vincere",
                 2
             ],
             [
                 "Nemiga Gaming",
                 1
-            ],
-            [
-                "NoPing Esports",
-                2
             ],
             [
                 "Team Empire",
@@ -3010,19 +1952,11 @@
                 1
             ],
             [
-                "Infamous Gaming",
-                2
-            ],
-            [
                 "Natus Vincere",
                 1
             ],
             [
                 "Nemiga Gaming",
-                1
-            ],
-            [
-                "NoPing Esports",
                 1
             ],
             [
@@ -3052,20 +1986,12 @@
                 1.0
             ],
             [
-                "Infamous Gaming",
-                0.6666666666666666
-            ],
-            [
                 "Natus Vincere",
                 0.5
             ],
             [
                 "Nemiga Gaming",
                 1.0
-            ],
-            [
-                "NoPing Esports",
-                0.5
             ],
             [
                 "Team Empire",
@@ -3140,15 +2066,7 @@
                 1
             ],
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
                 "HellRaisers",
-                1
-            ],
-            [
-                "Inverse",
                 1
             ],
             [
@@ -3170,15 +2088,7 @@
                 1
             ],
             [
-                "BINOMISTAS",
-                0
-            ],
-            [
                 "HellRaisers",
-                0
-            ],
-            [
-                "Inverse",
                 0
             ],
             [
@@ -3200,15 +2110,7 @@
                 1.0
             ],
             [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
                 "HellRaisers",
-                0.0
-            ],
-            [
-                "Inverse",
                 0.0
             ],
             [
@@ -3280,20 +2182,8 @@
         "id": "Kunkka Matches Played",
         "data": [
             [
-                "Infinity",
-                1
-            ],
-            [
-                "Inverse",
-                1
-            ],
-            [
                 "Nemiga Gaming",
                 1
-            ],
-            [
-                "NoPing Esports",
-                2
             ],
             [
                 "Team Unique",
@@ -3306,20 +2196,8 @@
         "id": "Kunkka Matches Won",
         "data": [
             [
-                "Infinity",
-                1
-            ],
-            [
-                "Inverse",
-                0
-            ],
-            [
                 "Nemiga Gaming",
                 1
-            ],
-            [
-                "NoPing Esports",
-                2
             ],
             [
                 "Team Unique",
@@ -3332,19 +2210,7 @@
         "id": "Kunkka Win Rate",
         "data": [
             [
-                "Infinity",
-                1.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
                 "Nemiga Gaming",
-                1.0
-            ],
-            [
-                "NoPing Esports",
                 1.0
             ],
             [
@@ -3378,27 +2244,11 @@
                 1
             ],
             [
-                "BINOMISTAS",
-                2
-            ],
-            [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "Nemiga Gaming",
                 1
             ],
             [
-                "NoPing Esports",
-                1
-            ],
-            [
                 "PuckChamp",
-                1
-            ],
-            [
-                "SG esports",
                 1
             ],
             [
@@ -3420,27 +2270,11 @@
                 1
             ],
             [
-                "BINOMISTAS",
-                2
-            ],
-            [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "Nemiga Gaming",
                 0
             ],
             [
-                "NoPing Esports",
-                1
-            ],
-            [
                 "PuckChamp",
-                1
-            ],
-            [
-                "SG esports",
                 1
             ],
             [
@@ -3462,27 +2296,11 @@
                 1.0
             ],
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
                 "Nemiga Gaming",
                 0.0
             ],
             [
-                "NoPing Esports",
-                1.0
-            ],
-            [
                 "PuckChamp",
-                1.0
-            ],
-            [
-                "SG esports",
                 1.0
             ],
             [
@@ -3516,10 +2334,6 @@
                 2
             ],
             [
-                "NoPing Esports",
-                1
-            ],
-            [
                 "PuckChamp",
                 1
             ],
@@ -3542,10 +2356,6 @@
                 0
             ],
             [
-                "NoPing Esports",
-                0
-            ],
-            [
                 "PuckChamp",
                 1
             ],
@@ -3565,10 +2375,6 @@
             ],
             [
                 "Nemiga Gaming",
-                0.0
-            ],
-            [
-                "NoPing Esports",
                 0.0
             ],
             [
@@ -3606,16 +2412,8 @@
                 2
             ],
             [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "HellRaisers",
                 4
-            ],
-            [
-                "Interitus",
-                1
             ],
             [
                 "PuckChamp",
@@ -3652,16 +2450,8 @@
                 2
             ],
             [
-                "EGOBOYS",
-                0
-            ],
-            [
                 "HellRaisers",
                 3
-            ],
-            [
-                "Interitus",
-                0
             ],
             [
                 "PuckChamp",
@@ -3698,16 +2488,8 @@
                 1.0
             ],
             [
-                "EGOBOYS",
-                0.0
-            ],
-            [
                 "HellRaisers",
                 0.75
-            ],
-            [
-                "Interitus",
-                0.0
             ],
             [
                 "PuckChamp",
@@ -3756,23 +2538,11 @@
                 1
             ],
             [
-                "BINOMISTAS",
-                2
-            ],
-            [
                 "Fantastic Five",
                 1
             ],
             [
                 "HellRaisers",
-                1
-            ],
-            [
-                "Hokori",
-                1
-            ],
-            [
-                "Latam Defenders",
                 1
             ],
             [
@@ -3782,10 +2552,6 @@
             [
                 "Nemiga Gaming",
                 3
-            ],
-            [
-                "NoPing Esports",
-                2
             ],
             [
                 "NoTechies",
@@ -3798,10 +2564,6 @@
             [
                 "Team Unique",
                 5
-            ],
-            [
-                "Unknown Team",
-                1
             ],
             [
                 "Winstrike Team",
@@ -3822,10 +2584,6 @@
                 0
             ],
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
                 "Fantastic Five",
                 0
             ],
@@ -3834,23 +2592,11 @@
                 0
             ],
             [
-                "Hokori",
-                1
-            ],
-            [
-                "Latam Defenders",
-                0
-            ],
-            [
                 "Natus Vincere",
                 0
             ],
             [
                 "Nemiga Gaming",
-                2
-            ],
-            [
-                "NoPing Esports",
                 2
             ],
             [
@@ -3863,10 +2609,6 @@
             ],
             [
                 "Team Unique",
-                1
-            ],
-            [
-                "Unknown Team",
                 1
             ],
             [
@@ -3888,23 +2630,11 @@
                 0.0
             ],
             [
-                "BINOMISTAS",
-                0.5
-            ],
-            [
                 "Fantastic Five",
                 0.0
             ],
             [
                 "HellRaisers",
-                0.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
-                "Latam Defenders",
                 0.0
             ],
             [
@@ -3914,10 +2644,6 @@
             [
                 "Nemiga Gaming",
                 0.6666666666666666
-            ],
-            [
-                "NoPing Esports",
-                1.0
             ],
             [
                 "NoTechies",
@@ -3930,10 +2656,6 @@
             [
                 "Team Unique",
                 0.2
-            ],
-            [
-                "Unknown Team",
-                1.0
             ],
             [
                 "Winstrike Team",
@@ -3974,22 +2696,6 @@
                 2
             ],
             [
-                "Hokori",
-                2
-            ],
-            [
-                "Infinity",
-                1
-            ],
-            [
-                "Inverse",
-                1
-            ],
-            [
-                "SG esports",
-                1
-            ],
-            [
                 "Team Empire",
                 3
             ],
@@ -4000,10 +2706,6 @@
             [
                 "Team Unique",
                 3
-            ],
-            [
-                "Unknown Team",
-                2
             ]
         ]
     },
@@ -4028,22 +2730,6 @@
                 2
             ],
             [
-                "Hokori",
-                0
-            ],
-            [
-                "Infinity",
-                0
-            ],
-            [
-                "Inverse",
-                0
-            ],
-            [
-                "SG esports",
-                1
-            ],
-            [
                 "Team Empire",
                 2
             ],
@@ -4054,10 +2740,6 @@
             [
                 "Team Unique",
                 2
-            ],
-            [
-                "Unknown Team",
-                0
             ]
         ]
     },
@@ -4082,22 +2764,6 @@
                 1.0
             ],
             [
-                "Hokori",
-                0.0
-            ],
-            [
-                "Infinity",
-                0.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
-                "SG esports",
-                1.0
-            ],
-            [
                 "Team Empire",
                 0.6666666666666666
             ],
@@ -4108,10 +2774,6 @@
             [
                 "Team Unique",
                 0.6666666666666666
-            ],
-            [
-                "Unknown Team",
-                0.0
             ]
         ],
         "type": "spline",
@@ -4140,10 +2802,6 @@
                 3
             ],
             [
-                "Hokori",
-                1
-            ],
-            [
                 "Nemiga Gaming",
                 1
             ],
@@ -4170,10 +2828,6 @@
                 2
             ],
             [
-                "Hokori",
-                1
-            ],
-            [
                 "Nemiga Gaming",
                 0
             ],
@@ -4198,10 +2852,6 @@
             [
                 "HellRaisers",
                 0.6666666666666666
-            ],
-            [
-                "Hokori",
-                1.0
             ],
             [
                 "Nemiga Gaming",
@@ -4234,23 +2884,7 @@
         "id": "Mars Matches Played",
         "data": [
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "HellRaisers",
-                1
-            ],
-            [
-                "Hokori",
-                1
-            ],
-            [
-                "Inverse",
                 1
             ],
             [
@@ -4262,16 +2896,8 @@
                 3
             ],
             [
-                "NoPing Esports",
-                1
-            ],
-            [
                 "PuckChamp",
                 1
-            ],
-            [
-                "SG esports",
-                3
             ],
             [
                 "Team Empire",
@@ -4284,24 +2910,8 @@
         "id": "Mars Matches Won",
         "data": [
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "HellRaisers",
                 1
-            ],
-            [
-                "Hokori",
-                1
-            ],
-            [
-                "Inverse",
-                0
             ],
             [
                 "Natus Vincere",
@@ -4312,16 +2922,8 @@
                 1
             ],
             [
-                "NoPing Esports",
-                1
-            ],
-            [
                 "PuckChamp",
                 1
-            ],
-            [
-                "SG esports",
-                2
             ],
             [
                 "Team Empire",
@@ -4334,24 +2936,8 @@
         "id": "Mars Win Rate",
         "data": [
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
                 "HellRaisers",
                 1.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
-                "Inverse",
-                0.0
             ],
             [
                 "Natus Vincere",
@@ -4362,16 +2948,8 @@
                 0.3333333333333333
             ],
             [
-                "NoPing Esports",
-                1.0
-            ],
-            [
                 "PuckChamp",
                 1.0
-            ],
-            [
-                "SG esports",
-                0.6666666666666666
             ],
             [
                 "Team Empire",
@@ -4400,36 +2978,12 @@
                 2
             ],
             [
-                "Hokori",
-                1
-            ],
-            [
-                "Infamous Gaming",
-                2
-            ],
-            [
-                "Infinity",
-                2
-            ],
-            [
                 "Nemiga Gaming",
                 3
             ],
             [
-                "Omega Gaming",
-                1
-            ],
-            [
-                "SG esports",
-                1
-            ],
-            [
                 "Team Empire",
                 2
-            ],
-            [
-                "Unknown Team",
-                1
             ]
         ]
     },
@@ -4442,35 +2996,11 @@
                 2
             ],
             [
-                "Hokori",
-                0
-            ],
-            [
-                "Infamous Gaming",
-                0
-            ],
-            [
-                "Infinity",
-                2
-            ],
-            [
                 "Nemiga Gaming",
                 3
             ],
             [
-                "Omega Gaming",
-                0
-            ],
-            [
-                "SG esports",
-                1
-            ],
-            [
                 "Team Empire",
-                1
-            ],
-            [
-                "Unknown Team",
                 1
             ]
         ]
@@ -4484,36 +3014,12 @@
                 1.0
             ],
             [
-                "Hokori",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "Infinity",
-                1.0
-            ],
-            [
                 "Nemiga Gaming",
-                1.0
-            ],
-            [
-                "Omega Gaming",
-                0.0
-            ],
-            [
-                "SG esports",
                 1.0
             ],
             [
                 "Team Empire",
                 0.5
-            ],
-            [
-                "Unknown Team",
-                1.0
             ]
         ],
         "type": "spline",
@@ -4534,27 +3040,7 @@
         "id": "Mirana Matches Played",
         "data": [
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
                 "Fantastic Five",
-                3
-            ],
-            [
-                "Infamous Gaming",
-                2
-            ],
-            [
-                "Interitus",
-                1
-            ],
-            [
-                "NoPing Esports",
-                3
-            ],
-            [
-                "SG esports",
                 3
             ],
             [
@@ -4572,28 +3058,8 @@
         "id": "Mirana Matches Won",
         "data": [
             [
-                "BINOMISTAS",
-                0
-            ],
-            [
                 "Fantastic Five",
                 2
-            ],
-            [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Interitus",
-                0
-            ],
-            [
-                "NoPing Esports",
-                2
-            ],
-            [
-                "SG esports",
-                3
             ],
             [
                 "Team Spirit",
@@ -4610,28 +3076,8 @@
         "id": "Mirana Win Rate",
         "data": [
             [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
                 "Fantastic Five",
                 0.6666666666666666
-            ],
-            [
-                "Infamous Gaming",
-                0.5
-            ],
-            [
-                "Interitus",
-                0.0
-            ],
-            [
-                "NoPing Esports",
-                0.6666666666666666
-            ],
-            [
-                "SG esports",
-                1.0
             ],
             [
                 "Team Spirit",
@@ -4702,10 +3148,6 @@
         "id": "Morphling Matches Played",
         "data": [
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
                 "Natus Vincere",
                 1
             ]
@@ -4716,10 +3158,6 @@
         "id": "Morphling Matches Won",
         "data": [
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
                 "Natus Vincere",
                 0
             ]
@@ -4729,10 +3167,6 @@
         "name": "Morphling Win Rate",
         "id": "Morphling Win Rate",
         "data": [
-            [
-                "BINOMISTAS",
-                1.0
-            ],
             [
                 "Natus Vincere",
                 0.0
@@ -4756,10 +3190,6 @@
         "id": "Naga Siren Matches Played",
         "data": [
             [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "Natus Vincere",
                 1
             ]
@@ -4770,10 +3200,6 @@
         "id": "Naga Siren Matches Won",
         "data": [
             [
-                "EGOBOYS",
-                0
-            ],
-            [
                 "Natus Vincere",
                 0
             ]
@@ -4783,10 +3209,6 @@
         "name": "Naga Siren Win Rate",
         "id": "Naga Siren Win Rate",
         "data": [
-            [
-                "EGOBOYS",
-                0.0
-            ],
             [
                 "Natus Vincere",
                 0.0
@@ -4812,10 +3234,6 @@
             [
                 "B8",
                 1
-            ],
-            [
-                "EGOBOYS",
-                1
             ]
         ]
     },
@@ -4826,10 +3244,6 @@
             [
                 "B8",
                 0
-            ],
-            [
-                "EGOBOYS",
-                0
             ]
         ]
     },
@@ -4839,52 +3253,6 @@
         "data": [
             [
                 "B8",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
-    },
-    {
-        "name": "Night Stalker Matches Played",
-        "id": "Night Stalker Matches Played",
-        "data": [
-            [
-                "Infamous Gaming",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Night Stalker Matches Won",
-        "id": "Night Stalker Matches Won",
-        "data": [
-            [
-                "Infamous Gaming",
-                0
-            ]
-        ]
-    },
-    {
-        "name": "Night Stalker Win Rate",
-        "id": "Night Stalker Win Rate",
-        "data": [
-            [
-                "Infamous Gaming",
                 0.0
             ]
         ],
@@ -4914,31 +3282,11 @@
                 3
             ],
             [
-                "BINOMISTAS",
-                2
-            ],
-            [
-                "EGOBOYS",
-                1
-            ],
-            [
-                "Hokori",
-                2
-            ],
-            [
-                "Infinity",
-                2
-            ],
-            [
                 "Nemiga Gaming",
                 2
             ],
             [
                 "PuckChamp",
-                1
-            ],
-            [
-                "SG esports",
                 1
             ],
             [
@@ -4964,31 +3312,11 @@
                 2
             ],
             [
-                "BINOMISTAS",
-                2
-            ],
-            [
-                "EGOBOYS",
-                0
-            ],
-            [
-                "Hokori",
-                0
-            ],
-            [
-                "Infinity",
-                2
-            ],
-            [
                 "Nemiga Gaming",
                 2
             ],
             [
                 "PuckChamp",
-                1
-            ],
-            [
-                "SG esports",
                 1
             ],
             [
@@ -5014,31 +3342,11 @@
                 0.6666666666666666
             ],
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
-            [
-                "Infinity",
-                1.0
-            ],
-            [
                 "Nemiga Gaming",
                 1.0
             ],
             [
                 "PuckChamp",
-                1.0
-            ],
-            [
-                "SG esports",
                 1.0
             ],
             [
@@ -5072,22 +3380,6 @@
                 1
             ],
             [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Infinity",
-                2
-            ],
-            [
-                "NoPing Esports",
-                3
-            ],
-            [
-                "SG esports",
-                1
-            ],
-            [
                 "Team Spirit",
                 1
             ]
@@ -5102,22 +3394,6 @@
                 0
             ],
             [
-                "Infamous Gaming",
-                0
-            ],
-            [
-                "Infinity",
-                2
-            ],
-            [
-                "NoPing Esports",
-                3
-            ],
-            [
-                "SG esports",
-                1
-            ],
-            [
                 "Team Spirit",
                 0
             ]
@@ -5130,22 +3406,6 @@
             [
                 "B8",
                 0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "Infinity",
-                1.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "SG esports",
-                1.0
             ],
             [
                 "Team Spirit",
@@ -5170,10 +3430,6 @@
         "id": "Pangolier Matches Played",
         "data": [
             [
-                "Latam Defenders",
-                1
-            ],
-            [
                 "Nemiga Gaming",
                 3
             ],
@@ -5188,10 +3444,6 @@
         "id": "Pangolier Matches Won",
         "data": [
             [
-                "Latam Defenders",
-                0
-            ],
-            [
                 "Nemiga Gaming",
                 2
             ],
@@ -5205,10 +3457,6 @@
         "name": "Pangolier Win Rate",
         "id": "Pangolier Win Rate",
         "data": [
-            [
-                "Latam Defenders",
-                0.0
-            ],
             [
                 "Nemiga Gaming",
                 0.6666666666666666
@@ -5286,10 +3534,6 @@
                 1
             ],
             [
-                "Latam Defenders",
-                1
-            ],
-            [
                 "Nemiga Gaming",
                 1
             ],
@@ -5316,10 +3560,6 @@
                 0
             ],
             [
-                "Latam Defenders",
-                0
-            ],
-            [
                 "Nemiga Gaming",
                 1
             ],
@@ -5343,10 +3583,6 @@
             ],
             [
                 "HellRaisers",
-                0.0
-            ],
-            [
-                "Latam Defenders",
                 0.0
             ],
             [
@@ -5388,27 +3624,7 @@
                 4
             ],
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
-                "EGOBOYS",
-                1
-            ],
-            [
-                "Infinity",
-                3
-            ],
-            [
-                "Latam Defenders",
-                1
-            ],
-            [
                 "Natus Vincere",
-                1
-            ],
-            [
-                "SG esports",
                 1
             ],
             [
@@ -5442,28 +3658,8 @@
                 2
             ],
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
-                "EGOBOYS",
-                0
-            ],
-            [
-                "Infinity",
-                2
-            ],
-            [
-                "Latam Defenders",
-                0
-            ],
-            [
                 "Natus Vincere",
                 1
-            ],
-            [
-                "SG esports",
-                0
             ],
             [
                 "Team Spirit",
@@ -5496,28 +3692,8 @@
                 0.5
             ],
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Infinity",
-                0.6666666666666666
-            ],
-            [
-                "Latam Defenders",
-                0.0
-            ],
-            [
                 "Natus Vincere",
                 1.0
-            ],
-            [
-                "SG esports",
-                0.0
             ],
             [
                 "Team Spirit",
@@ -5558,14 +3734,6 @@
                 1
             ],
             [
-                "Infamous Gaming",
-                3
-            ],
-            [
-                "Interitus",
-                1
-            ],
-            [
                 "Natus Vincere",
                 2
             ],
@@ -5600,14 +3768,6 @@
                 0
             ],
             [
-                "Infamous Gaming",
-                2
-            ],
-            [
-                "Interitus",
-                0
-            ],
-            [
                 "Natus Vincere",
                 1
             ],
@@ -5639,14 +3799,6 @@
         "data": [
             [
                 "HellRaisers",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.6666666666666666
-            ],
-            [
-                "Interitus",
                 0.0
             ],
             [
@@ -5772,48 +3924,6 @@
         }
     },
     {
-        "name": "Queen of Pain Matches Played",
-        "id": "Queen of Pain Matches Played",
-        "data": [
-            [
-                "NoPing Esports",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Queen of Pain Matches Won",
-        "id": "Queen of Pain Matches Won",
-        "data": [
-            [
-                "NoPing Esports",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Queen of Pain Win Rate",
-        "id": "Queen of Pain Win Rate",
-        "data": [
-            [
-                "NoPing Esports",
-                1.0
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
-    },
-    {
         "name": "Razor Matches Played",
         "id": "Razor Matches Played",
         "data": [
@@ -5886,10 +3996,6 @@
             [
                 "HellRaisers",
                 1
-            ],
-            [
-                "NoPing Esports",
-                2
             ]
         ]
     },
@@ -5899,10 +4005,6 @@
         "data": [
             [
                 "HellRaisers",
-                1
-            ],
-            [
-                "NoPing Esports",
                 1
             ]
         ]
@@ -5914,10 +4016,6 @@
             [
                 "HellRaisers",
                 1.0
-            ],
-            [
-                "NoPing Esports",
-                0.5
             ]
         ],
         "type": "spline",
@@ -5938,19 +4036,7 @@
         "id": "Sand King Matches Played",
         "data": [
             [
-                "BINOMISTAS",
-                2
-            ],
-            [
                 "HellRaisers",
-                1
-            ],
-            [
-                "Infinity",
-                1
-            ],
-            [
-                "Omega Gaming",
                 1
             ],
             [
@@ -5960,10 +4046,6 @@
             [
                 "Trident Clan",
                 1
-            ],
-            [
-                "Unknown Team",
-                2
             ]
         ]
     },
@@ -5972,19 +4054,7 @@
         "id": "Sand King Matches Won",
         "data": [
             [
-                "BINOMISTAS",
-                2
-            ],
-            [
                 "HellRaisers",
-                0
-            ],
-            [
-                "Infinity",
-                1
-            ],
-            [
-                "Omega Gaming",
                 0
             ],
             [
@@ -5994,10 +4064,6 @@
             [
                 "Trident Clan",
                 0
-            ],
-            [
-                "Unknown Team",
-                1
             ]
         ]
     },
@@ -6006,19 +4072,7 @@
         "id": "Sand King Win Rate",
         "data": [
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
                 "HellRaisers",
-                0.0
-            ],
-            [
-                "Infinity",
-                1.0
-            ],
-            [
-                "Omega Gaming",
                 0.0
             ],
             [
@@ -6028,10 +4082,6 @@
             [
                 "Trident Clan",
                 0.0
-            ],
-            [
-                "Unknown Team",
-                0.5
             ]
         ],
         "type": "spline",
@@ -6056,10 +4106,6 @@
                 3
             ],
             [
-                "Latam Defenders",
-                1
-            ],
-            [
                 "Natus Vincere",
                 3
             ],
@@ -6078,10 +4124,6 @@
                 3
             ],
             [
-                "Latam Defenders",
-                0
-            ],
-            [
                 "Natus Vincere",
                 1
             ],
@@ -6098,10 +4140,6 @@
             [
                 "HellRaisers",
                 1.0
-            ],
-            [
-                "Latam Defenders",
-                0.0
             ],
             [
                 "Natus Vincere",
@@ -6126,71 +4164,9 @@
         }
     },
     {
-        "name": "Shadow Shaman Matches Played",
-        "id": "Shadow Shaman Matches Played",
-        "data": [
-            [
-                "BINOMISTAS",
-                1
-            ],
-            [
-                "Hokori",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Shadow Shaman Matches Won",
-        "id": "Shadow Shaman Matches Won",
-        "data": [
-            [
-                "BINOMISTAS",
-                1
-            ],
-            [
-                "Hokori",
-                0
-            ]
-        ]
-    },
-    {
-        "name": "Shadow Shaman Win Rate",
-        "id": "Shadow Shaman Win Rate",
-        "data": [
-            [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
-    },
-    {
         "name": "Slardar Matches Played",
         "id": "Slardar Matches Played",
         "data": [
-            [
-                "Hokori",
-                1
-            ],
-            [
-                "Infamous Gaming",
-                1
-            ],
             [
                 "PuckChamp",
                 1
@@ -6202,14 +4178,6 @@
         "id": "Slardar Matches Won",
         "data": [
             [
-                "Hokori",
-                1
-            ],
-            [
-                "Infamous Gaming",
-                0
-            ],
-            [
                 "PuckChamp",
                 0
             ]
@@ -6220,81 +4188,7 @@
         "id": "Slardar Win Rate",
         "data": [
             [
-                "Hokori",
-                1.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
                 "PuckChamp",
-                0.0
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
-    },
-    {
-        "name": "Snapfire Matches Played",
-        "id": "Snapfire Matches Played",
-        "data": [
-            [
-                "Infamous Gaming",
-                2
-            ],
-            [
-                "Omega Gaming",
-                1
-            ],
-            [
-                "Unknown Team",
-                2
-            ]
-        ]
-    },
-    {
-        "name": "Snapfire Matches Won",
-        "id": "Snapfire Matches Won",
-        "data": [
-            [
-                "Infamous Gaming",
-                0
-            ],
-            [
-                "Omega Gaming",
-                0
-            ],
-            [
-                "Unknown Team",
-                0
-            ]
-        ]
-    },
-    {
-        "name": "Snapfire Win Rate",
-        "id": "Snapfire Win Rate",
-        "data": [
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "Omega Gaming",
-                0.0
-            ],
-            [
-                "Unknown Team",
                 0.0
             ]
         ],
@@ -6318,18 +4212,6 @@
             [
                 "AS Monaco Gambit",
                 1
-            ],
-            [
-                "EGOBOYS",
-                2
-            ],
-            [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Infinity",
-                2
             ],
             [
                 "NoTechies",
@@ -6358,18 +4240,6 @@
                 1
             ],
             [
-                "EGOBOYS",
-                1
-            ],
-            [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Infinity",
-                2
-            ],
-            [
                 "NoTechies",
                 0
             ],
@@ -6393,18 +4263,6 @@
         "data": [
             [
                 "AS Monaco Gambit",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                0.5
-            ],
-            [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
-                "Infinity",
                 1.0
             ],
             [
@@ -6442,10 +4300,6 @@
         "id": "Storm Spirit Matches Played",
         "data": [
             [
-                "EGOBOYS",
-                2
-            ],
-            [
                 "Natus Vincere",
                 1
             ]
@@ -6455,10 +4309,6 @@
         "name": "Storm Spirit Matches Won",
         "id": "Storm Spirit Matches Won",
         "data": [
-            [
-                "EGOBOYS",
-                1
-            ],
             [
                 "Natus Vincere",
                 0
@@ -6470,66 +4320,8 @@
         "id": "Storm Spirit Win Rate",
         "data": [
             [
-                "EGOBOYS",
-                0.5
-            ],
-            [
                 "Natus Vincere",
                 0.0
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
-    },
-    {
-        "name": "Sven Matches Played",
-        "id": "Sven Matches Played",
-        "data": [
-            [
-                "EGOBOYS",
-                1
-            ],
-            [
-                "NoPing Esports",
-                2
-            ]
-        ]
-    },
-    {
-        "name": "Sven Matches Won",
-        "id": "Sven Matches Won",
-        "data": [
-            [
-                "EGOBOYS",
-                0
-            ],
-            [
-                "NoPing Esports",
-                2
-            ]
-        ]
-    },
-    {
-        "name": "Sven Win Rate",
-        "id": "Sven Win Rate",
-        "data": [
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
             ]
         ],
         "type": "spline",
@@ -6596,14 +4388,6 @@
                 1
             ],
             [
-                "EGOBOYS",
-                1
-            ],
-            [
-                "Infamous Gaming",
-                2
-            ],
-            [
                 "Natus Vincere",
                 2
             ],
@@ -6612,15 +4396,7 @@
                 1
             ],
             [
-                "NoPing Esports",
-                1
-            ],
-            [
                 "NoTechies",
-                1
-            ],
-            [
-                "SG esports",
                 1
             ],
             [
@@ -6642,14 +4418,6 @@
                 0
             ],
             [
-                "EGOBOYS",
-                0
-            ],
-            [
-                "Infamous Gaming",
-                2
-            ],
-            [
                 "Natus Vincere",
                 2
             ],
@@ -6658,16 +4426,8 @@
                 0
             ],
             [
-                "NoPing Esports",
-                1
-            ],
-            [
                 "NoTechies",
                 0
-            ],
-            [
-                "SG esports",
-                1
             ],
             [
                 "Team Spirit",
@@ -6688,14 +4448,6 @@
                 0.0
             ],
             [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
                 "Natus Vincere",
                 1.0
             ],
@@ -6704,16 +4456,8 @@
                 0.0
             ],
             [
-                "NoPing Esports",
-                1.0
-            ],
-            [
                 "NoTechies",
                 0.0
-            ],
-            [
-                "SG esports",
-                1.0
             ],
             [
                 "Team Spirit",
@@ -6750,32 +4494,12 @@
                 2
             ],
             [
-                "BINOMISTAS",
-                3
-            ],
-            [
-                "EGOBOYS",
-                1
-            ],
-            [
-                "Hokori",
-                1
-            ],
-            [
                 "Nemiga Gaming",
                 1
             ],
             [
-                "NoPing Esports",
-                2
-            ],
-            [
                 "PuckChamp",
                 2
-            ],
-            [
-                "SG esports",
-                3
             ],
             [
                 "Team Spirit",
@@ -6783,10 +4507,6 @@
             ],
             [
                 "Team Unique",
-                1
-            ],
-            [
-                "Unknown Team",
                 1
             ]
         ]
@@ -6804,32 +4524,12 @@
                 1
             ],
             [
-                "BINOMISTAS",
-                3
-            ],
-            [
-                "EGOBOYS",
-                0
-            ],
-            [
-                "Hokori",
-                1
-            ],
-            [
                 "Nemiga Gaming",
                 1
             ],
             [
-                "NoPing Esports",
-                2
-            ],
-            [
                 "PuckChamp",
                 1
-            ],
-            [
-                "SG esports",
-                2
             ],
             [
                 "Team Spirit",
@@ -6838,10 +4538,6 @@
             [
                 "Team Unique",
                 0
-            ],
-            [
-                "Unknown Team",
-                1
             ]
         ]
     },
@@ -6858,32 +4554,12 @@
                 0.5
             ],
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
                 "Nemiga Gaming",
-                1.0
-            ],
-            [
-                "NoPing Esports",
                 1.0
             ],
             [
                 "PuckChamp",
                 0.5
-            ],
-            [
-                "SG esports",
-                0.6666666666666666
             ],
             [
                 "Team Spirit",
@@ -6892,10 +4568,6 @@
             [
                 "Team Unique",
                 0.0
-            ],
-            [
-                "Unknown Team",
-                1.0
             ]
         ],
         "type": "spline",
@@ -6920,16 +4592,8 @@
                 1
             ],
             [
-                "Infinity",
-                2
-            ],
-            [
                 "Natus Vincere",
                 2
-            ],
-            [
-                "NoPing Esports",
-                3
             ],
             [
                 "Team Spirit",
@@ -6946,15 +4610,7 @@
                 1
             ],
             [
-                "Infinity",
-                2
-            ],
-            [
                 "Natus Vincere",
-                2
-            ],
-            [
-                "NoPing Esports",
                 2
             ],
             [
@@ -6972,16 +4628,8 @@
                 1.0
             ],
             [
-                "Infinity",
-                1.0
-            ],
-            [
                 "Natus Vincere",
                 1.0
-            ],
-            [
-                "NoPing Esports",
-                0.6666666666666666
             ],
             [
                 "Team Spirit",
@@ -7018,19 +4666,7 @@
                 1
             ],
             [
-                "EGOBOYS",
-                1
-            ],
-            [
-                "Hokori",
-                1
-            ],
-            [
                 "Nemiga Gaming",
-                1
-            ],
-            [
-                "NoPing Esports",
                 1
             ],
             [
@@ -7064,19 +4700,7 @@
                 0
             ],
             [
-                "EGOBOYS",
-                0
-            ],
-            [
-                "Hokori",
-                0
-            ],
-            [
                 "Nemiga Gaming",
-                1
-            ],
-            [
-                "NoPing Esports",
                 1
             ],
             [
@@ -7110,19 +4734,7 @@
                 0.0
             ],
             [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
-            [
                 "Nemiga Gaming",
-                1.0
-            ],
-            [
-                "NoPing Esports",
                 1.0
             ],
             [
@@ -7156,32 +4768,8 @@
         "id": "Tiny Matches Played",
         "data": [
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
                 "HellRaisers",
                 1
-            ],
-            [
-                "Infinity",
-                1
-            ],
-            [
-                "Inverse",
-                1
-            ],
-            [
-                "Latam Defenders",
-                2
-            ],
-            [
-                "NoPing Esports",
-                5
-            ],
-            [
-                "Omega Gaming",
-                2
             ],
             [
                 "Team Spirit",
@@ -7194,31 +4782,7 @@
         "id": "Tiny Matches Won",
         "data": [
             [
-                "BINOMISTAS",
-                0
-            ],
-            [
                 "HellRaisers",
-                0
-            ],
-            [
-                "Infinity",
-                1
-            ],
-            [
-                "Inverse",
-                0
-            ],
-            [
-                "Latam Defenders",
-                0
-            ],
-            [
-                "NoPing Esports",
-                4
-            ],
-            [
-                "Omega Gaming",
                 0
             ],
             [
@@ -7232,31 +4796,7 @@
         "id": "Tiny Win Rate",
         "data": [
             [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
                 "HellRaisers",
-                0.0
-            ],
-            [
-                "Infinity",
-                1.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
-                "Latam Defenders",
-                0.0
-            ],
-            [
-                "NoPing Esports",
-                0.8
-            ],
-            [
-                "Omega Gaming",
                 0.0
             ],
             [
@@ -7286,14 +4826,6 @@
                 1
             ],
             [
-                "Hokori",
-                2
-            ],
-            [
-                "Infamous Gaming",
-                1
-            ],
-            [
                 "Natus Vincere",
                 1
             ]
@@ -7306,14 +4838,6 @@
             [
                 "Fantastic Five",
                 1
-            ],
-            [
-                "Hokori",
-                1
-            ],
-            [
-                "Infamous Gaming",
-                0
             ],
             [
                 "Natus Vincere",
@@ -7330,81 +4854,7 @@
                 1.0
             ],
             [
-                "Hokori",
-                0.5
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
                 "Natus Vincere",
-                0.0
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
-    },
-    {
-        "name": "Troll Warlord Matches Played",
-        "id": "Troll Warlord Matches Played",
-        "data": [
-            [
-                "BINOMISTAS",
-                1
-            ],
-            [
-                "EGOBOYS",
-                1
-            ],
-            [
-                "Latam Defenders",
-                1
-            ]
-        ]
-    },
-    {
-        "name": "Troll Warlord Matches Won",
-        "id": "Troll Warlord Matches Won",
-        "data": [
-            [
-                "BINOMISTAS",
-                1
-            ],
-            [
-                "EGOBOYS",
-                1
-            ],
-            [
-                "Latam Defenders",
-                0
-            ]
-        ]
-    },
-    {
-        "name": "Troll Warlord Win Rate",
-        "id": "Troll Warlord Win Rate",
-        "data": [
-            [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "Latam Defenders",
                 0.0
             ]
         ],
@@ -7426,27 +4876,7 @@
         "id": "Tusk Matches Played",
         "data": [
             [
-                "EGOBOYS",
-                1
-            ],
-            [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Infinity",
-                1
-            ],
-            [
-                "Inverse",
-                1
-            ],
-            [
                 "Nemiga Gaming",
-                1
-            ],
-            [
-                "Unknown Team",
                 1
             ]
         ]
@@ -7456,28 +4886,8 @@
         "id": "Tusk Matches Won",
         "data": [
             [
-                "EGOBOYS",
-                0
-            ],
-            [
-                "Infamous Gaming",
-                0
-            ],
-            [
-                "Infinity",
-                0
-            ],
-            [
-                "Inverse",
-                0
-            ],
-            [
                 "Nemiga Gaming",
                 1
-            ],
-            [
-                "Unknown Team",
-                0
             ]
         ]
     },
@@ -7486,28 +4896,8 @@
         "id": "Tusk Win Rate",
         "data": [
             [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "Infinity",
-                0.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
                 "Nemiga Gaming",
                 1.0
-            ],
-            [
-                "Unknown Team",
-                0.0
             ]
         ],
         "type": "spline",
@@ -7570,14 +4960,6 @@
         "id": "Undying Matches Played",
         "data": [
             [
-                "BINOMISTAS",
-                1
-            ],
-            [
-                "Hokori",
-                2
-            ],
-            [
                 "PuckChamp",
                 2
             ]
@@ -7588,14 +4970,6 @@
         "id": "Undying Matches Won",
         "data": [
             [
-                "BINOMISTAS",
-                0
-            ],
-            [
-                "Hokori",
-                0
-            ],
-            [
                 "PuckChamp",
                 1
             ]
@@ -7605,14 +4979,6 @@
         "name": "Undying Win Rate",
         "id": "Undying Win Rate",
         "data": [
-            [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
             [
                 "PuckChamp",
                 0.5
@@ -7640,10 +5006,6 @@
                 1
             ],
             [
-                "Hokori",
-                1
-            ],
-            [
                 "Nemiga Gaming",
                 2
             ],
@@ -7660,10 +5022,6 @@
             [
                 "HellRaisers",
                 0
-            ],
-            [
-                "Hokori",
-                1
             ],
             [
                 "Nemiga Gaming",
@@ -7684,82 +5042,12 @@
                 0.0
             ],
             [
-                "Hokori",
-                1.0
-            ],
-            [
                 "Nemiga Gaming",
                 0.5
             ],
             [
                 "Winstrike Team",
                 0.0
-            ]
-        ],
-        "type": "spline",
-        "yAxis": 1,
-        "lineWidth": 0,
-        "states": {
-            "hover": {
-                "enabled": false
-            }
-        },
-        "marker": {
-            "symbol": "diamond",
-            "radius": 6
-        }
-    },
-    {
-        "name": "Venomancer Matches Played",
-        "id": "Venomancer Matches Played",
-        "data": [
-            [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Inverse",
-                1
-            ],
-            [
-                "NoPing Esports",
-                2
-            ]
-        ]
-    },
-    {
-        "name": "Venomancer Matches Won",
-        "id": "Venomancer Matches Won",
-        "data": [
-            [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Inverse",
-                0
-            ],
-            [
-                "NoPing Esports",
-                2
-            ]
-        ]
-    },
-    {
-        "name": "Venomancer Win Rate",
-        "id": "Venomancer Win Rate",
-        "data": [
-            [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
             ]
         ],
         "type": "spline",
@@ -7790,22 +5078,6 @@
             [
                 "HellRaisers",
                 2
-            ],
-            [
-                "Hokori",
-                1
-            ],
-            [
-                "Infinity",
-                1
-            ],
-            [
-                "NoPing Esports",
-                2
-            ],
-            [
-                "Unknown Team",
-                2
             ]
         ]
     },
@@ -7824,22 +5096,6 @@
             [
                 "HellRaisers",
                 2
-            ],
-            [
-                "Hokori",
-                0
-            ],
-            [
-                "Infinity",
-                0
-            ],
-            [
-                "NoPing Esports",
-                2
-            ],
-            [
-                "Unknown Team",
-                1
             ]
         ]
     },
@@ -7858,22 +5114,6 @@
             [
                 "HellRaisers",
                 1.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
-            [
-                "Infinity",
-                0.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                0.5
             ]
         ],
         "type": "spline",
@@ -7898,24 +5138,8 @@
                 1
             ],
             [
-                "EGOBOYS",
-                1
-            ],
-            [
                 "Fantastic Five",
                 2
-            ],
-            [
-                "Infinity",
-                3
-            ],
-            [
-                "Omega Gaming",
-                1
-            ],
-            [
-                "Unknown Team",
-                1
             ]
         ]
     },
@@ -7928,23 +5152,7 @@
                 0
             ],
             [
-                "EGOBOYS",
-                0
-            ],
-            [
                 "Fantastic Five",
-                1
-            ],
-            [
-                "Infinity",
-                1
-            ],
-            [
-                "Omega Gaming",
-                0
-            ],
-            [
-                "Unknown Team",
                 1
             ]
         ]
@@ -7958,24 +5166,8 @@
                 0.0
             ],
             [
-                "EGOBOYS",
-                0.0
-            ],
-            [
                 "Fantastic Five",
                 0.5
-            ],
-            [
-                "Infinity",
-                0.3333333333333333
-            ],
-            [
-                "Omega Gaming",
-                0.0
-            ],
-            [
-                "Unknown Team",
-                1.0
             ]
         ],
         "type": "spline",
@@ -8182,20 +5374,8 @@
                 1
             ],
             [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Interitus",
-                1
-            ],
-            [
                 "Nemiga Gaming",
                 3
-            ],
-            [
-                "NoPing Esports",
-                2
             ],
             [
                 "PuckChamp",
@@ -8236,20 +5416,8 @@
                 1
             ],
             [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Interitus",
-                0
-            ],
-            [
                 "Nemiga Gaming",
                 2
-            ],
-            [
-                "NoPing Esports",
-                1
             ],
             [
                 "PuckChamp",
@@ -8290,20 +5458,8 @@
                 1.0
             ],
             [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
-                "Interitus",
-                0.0
-            ],
-            [
                 "Nemiga Gaming",
                 0.6666666666666666
-            ],
-            [
-                "NoPing Esports",
-                0.5
             ],
             [
                 "PuckChamp",
@@ -8348,19 +5504,7 @@
                 1
             ],
             [
-                "Infamous Gaming",
-                1
-            ],
-            [
-                "Inverse",
-                1
-            ],
-            [
                 "PuckChamp",
-                1
-            ],
-            [
-                "Unknown Team",
                 1
             ]
         ]
@@ -8374,19 +5518,7 @@
                 1
             ],
             [
-                "Infamous Gaming",
-                0
-            ],
-            [
-                "Inverse",
-                0
-            ],
-            [
                 "PuckChamp",
-                1
-            ],
-            [
-                "Unknown Team",
                 1
             ]
         ]
@@ -8400,19 +5532,7 @@
                 1.0
             ],
             [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
                 "PuckChamp",
-                1.0
-            ],
-            [
-                "Unknown Team",
                 1.0
             ]
         ],
@@ -8438,18 +5558,6 @@
                 1
             ],
             [
-                "EGOBOYS",
-                1
-            ],
-            [
-                "Infinity",
-                1
-            ],
-            [
-                "Omega Gaming",
-                1
-            ],
-            [
                 "PuckChamp",
                 1
             ]
@@ -8464,18 +5572,6 @@
                 0
             ],
             [
-                "EGOBOYS",
-                0
-            ],
-            [
-                "Infinity",
-                0
-            ],
-            [
-                "Omega Gaming",
-                0
-            ],
-            [
                 "PuckChamp",
                 1
             ]
@@ -8487,18 +5583,6 @@
         "data": [
             [
                 "AS Monaco Gambit",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Infinity",
-                0.0
-            ],
-            [
-                "Omega Gaming",
                 0.0
             ],
             [

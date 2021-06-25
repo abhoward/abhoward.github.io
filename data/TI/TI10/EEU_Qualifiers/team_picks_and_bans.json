@@ -4,47 +4,19 @@
         "id": "Abaddon Picks",
         "data": [
             [
-                "BINOMISTAS",
-                2.0
-            ],
-            [
                 "Team Empire",
                 2.0
-            ],
-            [
-                "Infamous Gaming",
-                2.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
             ],
             [
                 "Nemiga Gaming",
                 2.0
             ],
             [
-                "Unknown Team",
-                0.0
-            ],
-            [
-                "SG esports",
-                0.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
-            [
-                "NoPing Esports",
+                "HellRaisers",
                 1.0
             ],
             [
                 "Natus Vincere",
-                1.0
-            ],
-            [
-                "HellRaisers",
                 1.0
             ]
         ]
@@ -54,19 +26,7 @@
         "id": "Abaddon Bans",
         "data": [
             [
-                "BINOMISTAS",
-                3.0
-            ],
-            [
                 "Team Empire",
-                1.0
-            ],
-            [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
-                "EGOBOYS",
                 1.0
             ],
             [
@@ -74,27 +34,11 @@
                 0.0
             ],
             [
-                "Unknown Team",
-                1.0
-            ],
-            [
-                "SG esports",
-                1.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
-                "NoPing Esports",
+                "HellRaisers",
                 0.0
             ],
             [
                 "Natus Vincere",
-                0.0
-            ],
-            [
-                "HellRaisers",
                 0.0
             ]
         ]
@@ -108,19 +52,19 @@
                 3.0
             ],
             [
-                "EGOBOYS",
-                3.0
-            ],
-            [
-                "Nemiga Gaming",
-                3.0
+                "Team Spirit",
+                0.0
             ],
             [
                 "Team Unique",
                 1.0
             ],
             [
-                "Team Spirit",
+                "Nemiga Gaming",
+                3.0
+            ],
+            [
+                "B8",
                 0.0
             ],
             [
@@ -128,40 +72,16 @@
                 1.0
             ],
             [
-                "B8",
-                0.0
-            ],
-            [
                 " EXTREMUM",
                 0.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "Infinity",
-                0.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
             ],
             [
                 "AS Monaco Gambit",
                 0.0
             ],
             [
-                "Unknown Team",
-                2.0
-            ],
-            [
                 "PuckChamp",
                 1.0
-            ],
-            [
-                "Hokori",
-                2.0
             ],
             [
                 "NoTechies",
@@ -170,14 +90,6 @@
             [
                 "Trident Clan",
                 0.0
-            ],
-            [
-                "Omega Gaming",
-                1.0
-            ],
-            [
-                "Interitus",
-                1.0
             ]
         ]
     },
@@ -190,60 +102,36 @@
                 4.0
             ],
             [
-                "EGOBOYS",
-                3.0
-            ],
-            [
-                "Nemiga Gaming",
-                2.0
+                "Team Spirit",
+                5.0
             ],
             [
                 "Team Unique",
                 4.0
             ],
             [
-                "Team Spirit",
-                5.0
-            ],
-            [
-                "Fantastic Five",
-                3.0
+                "Nemiga Gaming",
+                2.0
             ],
             [
                 "B8",
                 4.0
             ],
             [
+                "Fantastic Five",
+                3.0
+            ],
+            [
                 " EXTREMUM",
                 3.0
-            ],
-            [
-                "BINOMISTAS",
-                3.0
-            ],
-            [
-                "Infinity",
-                2.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
             ],
             [
                 "AS Monaco Gambit",
                 2.0
             ],
             [
-                "Unknown Team",
-                0.0
-            ],
-            [
                 "PuckChamp",
                 1.0
-            ],
-            [
-                "Hokori",
-                0.0
             ],
             [
                 "NoTechies",
@@ -252,14 +140,6 @@
             [
                 "Trident Clan",
                 1.0
-            ],
-            [
-                "Omega Gaming",
-                0.0
-            ],
-            [
-                "Interitus",
-                0.0
             ]
         ]
     },
@@ -267,10 +147,6 @@
         "name": "Anti-Mage Picks For",
         "id": "Anti-Mage Picks",
         "data": [
-            [
-                "NoPing Esports",
-                0.0
-            ],
             [
                 "HellRaisers",
                 0.0
@@ -282,40 +158,8 @@
         "id": "Anti-Mage Bans",
         "data": [
             [
-                "NoPing Esports",
-                3.0
-            ],
-            [
                 "HellRaisers",
                 1.0
-            ]
-        ]
-    },
-    {
-        "name": "Arc Warden Picks For",
-        "id": "Arc Warden Picks",
-        "data": [
-            [
-                "Interitus",
-                0.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
-            ]
-        ]
-    },
-    {
-        "name": "Arc Warden Bans Against",
-        "id": "Arc Warden Bans",
-        "data": [
-            [
-                "Interitus",
-                1.0
-            ],
-            [
-                "NoPing Esports",
-                0.0
             ]
         ]
     },
@@ -332,27 +176,19 @@
                 2.0
             ],
             [
-                "BINOMISTAS",
-                1.0
+                "PuckChamp",
+                2.0
             ],
             [
                 "Winstrike Team",
                 3.0
             ],
             [
-                "PuckChamp",
-                2.0
-            ],
-            [
-                "Interitus",
-                2.0
+                "Team Empire",
+                0.0
             ],
             [
                 "AS Monaco Gambit",
-                2.0
-            ],
-            [
-                "EGOBOYS",
                 2.0
             ],
             [
@@ -360,15 +196,7 @@
                 2.0
             ],
             [
-                "Team Empire",
-                0.0
-            ],
-            [
                 " EXTREMUM",
-                0.0
-            ],
-            [
-                "NoTechies",
                 0.0
             ],
             [
@@ -376,7 +204,11 @@
                 0.0
             ],
             [
-                "Inverse",
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Team Unique",
                 0.0
             ],
             [
@@ -384,20 +216,8 @@
                 1.0
             ],
             [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
                 "Trident Clan",
                 1.0
-            ],
-            [
-                "SG esports",
-                0.0
-            ],
-            [
-                "Team Unique",
-                0.0
             ]
         ]
     },
@@ -414,31 +234,11 @@
                 2.0
             ],
             [
-                "BINOMISTAS",
-                2.0
-            ],
-            [
-                "Winstrike Team",
-                0.0
-            ],
-            [
                 "PuckChamp",
                 1.0
             ],
             [
-                "Interitus",
-                0.0
-            ],
-            [
-                "AS Monaco Gambit",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Fantastic Five",
+                "Winstrike Team",
                 0.0
             ],
             [
@@ -446,11 +246,15 @@
                 2.0
             ],
             [
-                " EXTREMUM",
-                1.0
+                "AS Monaco Gambit",
+                0.0
             ],
             [
-                "NoTechies",
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                " EXTREMUM",
                 1.0
             ],
             [
@@ -458,7 +262,11 @@
                 1.0
             ],
             [
-                "Inverse",
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Team Unique",
                 1.0
             ],
             [
@@ -466,20 +274,8 @@
                 0.0
             ],
             [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
                 "Trident Clan",
                 0.0
-            ],
-            [
-                "SG esports",
-                1.0
-            ],
-            [
-                "Team Unique",
-                1.0
             ]
         ]
     },
@@ -488,31 +284,19 @@
         "id": "Batrider Picks",
         "data": [
             [
-                "Fantastic Five",
-                2.0
-            ],
-            [
                 "PuckChamp",
                 1.0
             ],
             [
-                "NoPing Esports",
-                0.0
+                "Fantastic Five",
+                2.0
             ],
             [
                 "Winstrike Team",
                 1.0
             ],
             [
-                "Infinity",
-                0.0
-            ],
-            [
-                "Hokori",
-                2.0
-            ],
-            [
-                "BINOMISTAS",
+                " EXTREMUM",
                 0.0
             ],
             [
@@ -522,18 +306,6 @@
             [
                 "Nemiga Gaming",
                 1.0
-            ],
-            [
-                "SG esports",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                " EXTREMUM",
-                0.0
             ]
         ]
     },
@@ -542,32 +314,20 @@
         "id": "Batrider Bans",
         "data": [
             [
-                "Fantastic Five",
-                2.0
-            ],
-            [
                 "PuckChamp",
                 3.0
             ],
             [
-                "NoPing Esports",
-                4.0
+                "Fantastic Five",
+                2.0
             ],
             [
                 "Winstrike Team",
                 2.0
             ],
             [
-                "Infinity",
-                3.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
-                2.0
+                " EXTREMUM",
+                1.0
             ],
             [
                 "Team Spirit",
@@ -576,18 +336,6 @@
             [
                 "Nemiga Gaming",
                 0.0
-            ],
-            [
-                "SG esports",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                " EXTREMUM",
-                1.0
             ]
         ]
     },
@@ -596,16 +344,12 @@
         "id": "Beastmaster Picks",
         "data": [
             [
-                "Fantastic Five",
-                1.0
-            ],
-            [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
                 "Nemiga Gaming",
                 0.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
             ]
         ]
     },
@@ -614,16 +358,12 @@
         "id": "Beastmaster Bans",
         "data": [
             [
-                "Fantastic Five",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
                 "Nemiga Gaming",
                 1.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
             ]
         ]
     },
@@ -632,20 +372,8 @@
         "id": "Bloodseeker Picks",
         "data": [
             [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
                 "Nemiga Gaming",
                 0.0
-            ],
-            [
-                "Team Unique",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
             ],
             [
                 "Fantastic Five",
@@ -656,8 +384,8 @@
                 1.0
             ],
             [
-                "Hokori",
-                0.0
+                "Team Unique",
+                1.0
             ]
         ]
     },
@@ -666,20 +394,8 @@
         "id": "Bloodseeker Bans",
         "data": [
             [
-                "Infamous Gaming",
-                3.0
-            ],
-            [
                 "Nemiga Gaming",
                 1.0
-            ],
-            [
-                "Team Unique",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
             ],
             [
                 "Fantastic Five",
@@ -690,72 +406,8 @@
                 0.0
             ],
             [
-                "Hokori",
-                1.0
-            ]
-        ]
-    },
-    {
-        "name": "Brewmaster Picks For",
-        "id": "Brewmaster Picks",
-        "data": [
-            [
-                "Unknown Team",
-                1.0
-            ]
-        ]
-    },
-    {
-        "name": "Brewmaster Bans Against",
-        "id": "Brewmaster Bans",
-        "data": [
-            [
-                "Unknown Team",
+                "Team Unique",
                 0.0
-            ]
-        ]
-    },
-    {
-        "name": "Bristleback Picks For",
-        "id": "Bristleback Picks",
-        "data": [
-            [
-                "Unknown Team",
-                2.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
-                "Interitus",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
-            ]
-        ]
-    },
-    {
-        "name": "Bristleback Bans Against",
-        "id": "Bristleback Bans",
-        "data": [
-            [
-                "Unknown Team",
-                2.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
-                "Interitus",
-                2.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
             ]
         ]
     },
@@ -776,23 +428,15 @@
                 0.0
             ],
             [
-                "Hokori",
-                2.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
                 "HellRaisers",
                 2.0
             ],
             [
-                "BINOMISTAS",
-                2.0
+                "NoTechies",
+                0.0
             ],
             [
-                "Latam Defenders",
+                "Natus Vincere",
                 0.0
             ],
             [
@@ -800,19 +444,11 @@
                 2.0
             ],
             [
-                "Natus Vincere",
-                0.0
-            ],
-            [
-                "NoTechies",
+                "Winstrike Team",
                 0.0
             ],
             [
                 "AS Monaco Gambit",
-                0.0
-            ],
-            [
-                "Winstrike Team",
                 0.0
             ]
         ]
@@ -834,23 +470,15 @@
                 6.0
             ],
             [
-                "Hokori",
-                3.0
-            ],
-            [
-                "Infamous Gaming",
-                3.0
-            ],
-            [
                 "HellRaisers",
                 1.0
             ],
             [
-                "BINOMISTAS",
-                1.0
+                "NoTechies",
+                2.0
             ],
             [
-                "Latam Defenders",
+                "Natus Vincere",
                 2.0
             ],
             [
@@ -858,19 +486,11 @@
                 0.0
             ],
             [
-                "Natus Vincere",
-                2.0
-            ],
-            [
-                "NoTechies",
-                2.0
-            ],
-            [
-                "AS Monaco Gambit",
+                "Winstrike Team",
                 1.0
             ],
             [
-                "Winstrike Team",
+                "AS Monaco Gambit",
                 1.0
             ]
         ]
@@ -880,19 +500,7 @@
         "id": "Centaur Warrunner Picks",
         "data": [
             [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "AS Monaco Gambit",
-                0.0
-            ],
-            [
-                "Unknown Team",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
+                "Team Empire",
                 0.0
             ],
             [
@@ -900,24 +508,8 @@
                 0.0
             ],
             [
-                "Team Empire",
+                "AS Monaco Gambit",
                 0.0
-            ],
-            [
-                "Omega Gaming",
-                1.0
-            ],
-            [
-                "Latam Defenders",
-                1.0
-            ],
-            [
-                "Infinity",
-                1.0
-            ],
-            [
-                "Infamous Gaming",
-                1.0
             ],
             [
                 "Team Unique",
@@ -930,19 +522,7 @@
         "id": "Centaur Warrunner Bans",
         "data": [
             [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "AS Monaco Gambit",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
+                "Team Empire",
                 1.0
             ],
             [
@@ -950,24 +530,8 @@
                 1.0
             ],
             [
-                "Team Empire",
+                "AS Monaco Gambit",
                 1.0
-            ],
-            [
-                "Omega Gaming",
-                0.0
-            ],
-            [
-                "Latam Defenders",
-                0.0
-            ],
-            [
-                "Infinity",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
             ],
             [
                 "Team Unique",
@@ -976,63 +540,27 @@
         ]
     },
     {
-        "name": "Chaos Knight Picks For",
-        "id": "Chaos Knight Picks",
-        "data": [
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Omega Gaming",
-                0.0
-            ]
-        ]
-    },
-    {
-        "name": "Chaos Knight Bans Against",
-        "id": "Chaos Knight Bans",
-        "data": [
-            [
-                "EGOBOYS",
-                2.0
-            ],
-            [
-                "Omega Gaming",
-                1.0
-            ]
-        ]
-    },
-    {
         "name": "Clockwerk Picks For",
         "id": "Clockwerk Picks",
         "data": [
             [
-                "SG esports",
-                3.0
+                "Fantastic Five",
+                1.0
             ],
             [
                 "HellRaisers",
                 0.0
             ],
             [
-                "Fantastic Five",
-                1.0
-            ],
-            [
                 " EXTREMUM",
                 1.0
             ],
             [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "Team Empire",
+                "Nemiga Gaming",
                 0.0
             ],
             [
-                "Nemiga Gaming",
+                "Team Empire",
                 0.0
             ],
             [
@@ -1050,7 +578,7 @@
         "id": "Clockwerk Bans",
         "data": [
             [
-                "SG esports",
+                "Fantastic Five",
                 1.0
             ],
             [
@@ -1058,23 +586,15 @@
                 2.0
             ],
             [
-                "Fantastic Five",
-                1.0
-            ],
-            [
                 " EXTREMUM",
                 1.0
             ],
             [
-                "EGOBOYS",
+                "Nemiga Gaming",
                 1.0
             ],
             [
                 "Team Empire",
-                1.0
-            ],
-            [
-                "Nemiga Gaming",
                 1.0
             ],
             [
@@ -1112,63 +632,19 @@
         "id": "Dark Seer Picks",
         "data": [
             [
-                "BINOMISTAS",
-                2.0
-            ],
-            [
-                "Unknown Team",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                3.0
-            ],
-            [
-                "Infinity",
-                2.0
-            ],
-            [
-                "Hokori",
-                1.0
+                "AS Monaco Gambit",
+                0.0
             ],
             [
                 "B8",
                 1.0
             ],
             [
-                "AS Monaco Gambit",
-                0.0
-            ],
-            [
-                "Omega Gaming",
-                0.0
-            ],
-            [
-                "Team Spirit",
-                0.0
-            ],
-            [
-                "SG esports",
-                0.0
-            ],
-            [
                 "HellRaisers",
                 0.0
             ],
             [
-                "Interitus",
-                0.0
-            ],
-            [
-                "NoPing Esports",
-                0.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
-                "Latam Defenders",
+                "Team Spirit",
                 0.0
             ],
             [
@@ -1182,43 +658,11 @@
         "id": "Dark Seer Bans",
         "data": [
             [
-                "BINOMISTAS",
-                3.0
-            ],
-            [
-                "Unknown Team",
-                2.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Infinity",
-                1.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
-                "B8",
-                1.0
-            ],
-            [
                 "AS Monaco Gambit",
                 2.0
             ],
             [
-                "Omega Gaming",
-                1.0
-            ],
-            [
-                "Team Spirit",
-                1.0
-            ],
-            [
-                "SG esports",
+                "B8",
                 1.0
             ],
             [
@@ -1226,19 +670,7 @@
                 1.0
             ],
             [
-                "Interitus",
-                1.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "Inverse",
-                1.0
-            ],
-            [
-                "Latam Defenders",
+                "Team Spirit",
                 1.0
             ],
             [
@@ -1260,32 +692,8 @@
                 2.0
             ],
             [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
-                "Infinity",
-                2.0
-            ],
-            [
-                "EGOBOYS",
-                2.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
-            [
                 " EXTREMUM",
                 0.0
-            ],
-            [
-                "Fantastic Five",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                1.0
             ],
             [
                 "Team Unique",
@@ -1293,6 +701,10 @@
             ],
             [
                 "Team Spirit",
+                1.0
+            ],
+            [
+                "Fantastic Five",
                 1.0
             ],
             [
@@ -1314,32 +726,8 @@
                 0.0
             ],
             [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
-                "Infinity",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
                 " EXTREMUM",
                 1.0
-            ],
-            [
-                "Fantastic Five",
-                0.0
-            ],
-            [
-                "Unknown Team",
-                0.0
             ],
             [
                 "Team Unique",
@@ -1347,6 +735,10 @@
             ],
             [
                 "Team Spirit",
+                0.0
+            ],
+            [
+                "Fantastic Five",
                 0.0
             ],
             [
@@ -1364,19 +756,7 @@
                 3.0
             ],
             [
-                "Hokori",
-                0.0
-            ],
-            [
                 "B8",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "Infinity",
                 0.0
             ],
             [
@@ -1384,23 +764,7 @@
                 0.0
             ],
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
                 "HellRaisers",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Interitus",
-                0.0
-            ],
-            [
-                "Inverse",
                 0.0
             ],
             [
@@ -1408,15 +772,7 @@
                 0.0
             ],
             [
-                "SG esports",
-                0.0
-            ],
-            [
-                "Team Unique",
-                1.0
-            ],
-            [
-                "Nemiga Gaming",
+                " EXTREMUM",
                 1.0
             ],
             [
@@ -1424,7 +780,11 @@
                 1.0
             ],
             [
-                " EXTREMUM",
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Team Unique",
                 1.0
             ]
         ]
@@ -1438,19 +798,7 @@
                 2.0
             ],
             [
-                "Hokori",
-                2.0
-            ],
-            [
                 "B8",
-                2.0
-            ],
-            [
-                "Infamous Gaming",
-                2.0
-            ],
-            [
-                "Infinity",
                 2.0
             ],
             [
@@ -1458,23 +806,7 @@
                 2.0
             ],
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
                 "HellRaisers",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "Interitus",
-                1.0
-            ],
-            [
-                "Inverse",
                 1.0
             ],
             [
@@ -1482,15 +814,7 @@
                 1.0
             ],
             [
-                "SG esports",
-                1.0
-            ],
-            [
-                "Team Unique",
-                0.0
-            ],
-            [
-                "Nemiga Gaming",
+                " EXTREMUM",
                 0.0
             ],
             [
@@ -1498,7 +822,11 @@
                 0.0
             ],
             [
-                " EXTREMUM",
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Team Unique",
                 0.0
             ]
         ]
@@ -1508,19 +836,15 @@
         "id": "Disruptor Picks",
         "data": [
             [
-                "BINOMISTAS",
-                2.0
-            ],
-            [
                 " EXTREMUM",
                 1.0
             ],
             [
-                "Team Unique",
+                "B8",
                 1.0
             ],
             [
-                "B8",
+                "Team Unique",
                 1.0
             ]
         ]
@@ -1530,19 +854,15 @@
         "id": "Disruptor Bans",
         "data": [
             [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
                 " EXTREMUM",
                 1.0
             ],
             [
-                "Team Unique",
+                "B8",
                 0.0
             ],
             [
-                "B8",
+                "Team Unique",
                 0.0
             ]
         ]
@@ -1560,28 +880,12 @@
                 0.0
             ],
             [
-                "SG esports",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                2.0
-            ],
-            [
                 "Winstrike Team",
                 1.0
             ],
             [
                 "Natus Vincere",
                 1.0
-            ],
-            [
-                "NoPing Esports",
-                0.0
-            ],
-            [
-                "Inverse",
-                0.0
             ],
             [
                 "Fantastic Five",
@@ -1593,10 +897,6 @@
             ],
             [
                 "Nemiga Gaming",
-                1.0
-            ],
-            [
-                "EGOBOYS",
                 1.0
             ]
         ]
@@ -1614,27 +914,11 @@
                 3.0
             ],
             [
-                "SG esports",
-                2.0
-            ],
-            [
-                "Unknown Team",
-                1.0
-            ],
-            [
                 "Winstrike Team",
                 1.0
             ],
             [
                 "Natus Vincere",
-                1.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "Inverse",
                 1.0
             ],
             [
@@ -1647,10 +931,6 @@
             ],
             [
                 "Nemiga Gaming",
-                0.0
-            ],
-            [
-                "EGOBOYS",
                 0.0
             ]
         ]
@@ -1664,10 +944,6 @@
                 4.0
             ],
             [
-                "BINOMISTAS",
-                4.0
-            ],
-            [
                 "Team Unique",
                 4.0
             ],
@@ -1676,28 +952,8 @@
                 1.0
             ],
             [
-                "SG esports",
-                3.0
-            ],
-            [
                 "Team Spirit",
                 3.0
-            ],
-            [
-                "Interitus",
-                1.0
-            ],
-            [
-                "Nemiga Gaming",
-                1.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "AS Monaco Gambit",
-                2.0
             ],
             [
                 "PuckChamp",
@@ -1708,31 +964,23 @@
                 0.0
             ],
             [
-                "Unknown Team",
-                0.0
+                "Nemiga Gaming",
+                1.0
             ],
             [
-                "Omega Gaming",
-                0.0
+                "AS Monaco Gambit",
+                2.0
             ],
             [
                 "B8",
                 0.0
             ],
             [
-                "Hokori",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
+                " EXTREMUM",
                 1.0
             ],
             [
                 "Winstrike Team",
-                1.0
-            ],
-            [
-                " EXTREMUM",
                 1.0
             ]
         ]
@@ -1746,10 +994,6 @@
                 3.0
             ],
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
                 "Team Unique",
                 0.0
             ],
@@ -1758,27 +1002,7 @@
                 2.0
             ],
             [
-                "SG esports",
-                0.0
-            ],
-            [
                 "Team Spirit",
-                0.0
-            ],
-            [
-                "Interitus",
-                1.0
-            ],
-            [
-                "Nemiga Gaming",
-                1.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "AS Monaco Gambit",
                 0.0
             ],
             [
@@ -1790,31 +1014,23 @@
                 2.0
             ],
             [
-                "Unknown Team",
+                "Nemiga Gaming",
                 1.0
             ],
             [
-                "Omega Gaming",
-                1.0
+                "AS Monaco Gambit",
+                0.0
             ],
             [
                 "B8",
                 1.0
             ],
             [
-                "Hokori",
-                1.0
-            ],
-            [
-                "Infamous Gaming",
+                " EXTREMUM",
                 0.0
             ],
             [
                 "Winstrike Team",
-                0.0
-            ],
-            [
-                " EXTREMUM",
                 0.0
             ]
         ]
@@ -1828,8 +1044,12 @@
                 2.0
             ],
             [
-                "Trident Clan",
-                1.0
+                "Winstrike Team",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
             ],
             [
                 "HellRaisers",
@@ -1840,12 +1060,8 @@
                 2.0
             ],
             [
-                "Winstrike Team",
-                0.0
-            ],
-            [
-                "AS Monaco Gambit",
-                0.0
+                "Trident Clan",
+                1.0
             ],
             [
                 "Team Spirit",
@@ -1857,10 +1073,6 @@
             ],
             [
                 "Nemiga Gaming",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
                 0.0
             ]
         ]
@@ -1874,8 +1086,12 @@
                 1.0
             ],
             [
-                "Trident Clan",
-                1.0
+                "Winstrike Team",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
+                2.0
             ],
             [
                 "HellRaisers",
@@ -1886,12 +1102,8 @@
                 0.0
             ],
             [
-                "Winstrike Team",
-                2.0
-            ],
-            [
-                "AS Monaco Gambit",
-                2.0
+                "Trident Clan",
+                1.0
             ],
             [
                 "Team Spirit",
@@ -1903,10 +1115,6 @@
             ],
             [
                 "Nemiga Gaming",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
                 1.0
             ]
         ]
@@ -1920,28 +1128,16 @@
                 3.0
             ],
             [
-                "Omega Gaming",
-                0.0
-            ],
-            [
                 "Fantastic Five",
                 1.0
-            ],
-            [
-                "NoTechies",
-                0.0
             ],
             [
                 "Team Empire",
                 0.0
             ],
             [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "Infamous Gaming",
-                1.0
+                "NoTechies",
+                0.0
             ]
         ]
     },
@@ -1954,15 +1150,7 @@
                 0.0
             ],
             [
-                "Omega Gaming",
-                2.0
-            ],
-            [
                 "Fantastic Five",
-                1.0
-            ],
-            [
-                "NoTechies",
                 1.0
             ],
             [
@@ -1970,12 +1158,8 @@
                 1.0
             ],
             [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
+                "NoTechies",
+                1.0
             ]
         ]
     },
@@ -1988,27 +1172,11 @@
                 2.0
             ],
             [
-                "Infinity",
-                0.0
-            ],
-            [
                 "AS Monaco Gambit",
                 1.0
             ],
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
                 "Team Unique",
-                1.0
-            ],
-            [
-                "SG esports",
                 1.0
             ]
         ]
@@ -2022,27 +1190,11 @@
                 2.0
             ],
             [
-                "Infinity",
-                2.0
-            ],
-            [
                 "AS Monaco Gambit",
                 0.0
             ],
             [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
                 "Team Unique",
-                0.0
-            ],
-            [
-                "SG esports",
                 0.0
             ]
         ]
@@ -2052,31 +1204,11 @@
         "id": "Ember Spirit Picks",
         "data": [
             [
-                "Hokori",
-                4.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "Latam Defenders",
-                1.0
-            ],
-            [
                 " EXTREMUM",
                 1.0
             ],
             [
-                "Unknown Team",
-                2.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "NoPing Esports",
+                "B8",
                 0.0
             ],
             [
@@ -2084,19 +1216,7 @@
                 0.0
             ],
             [
-                "B8",
-                0.0
-            ],
-            [
                 "Team Unique",
-                1.0
-            ],
-            [
-                "Inverse",
-                1.0
-            ],
-            [
-                "Infinity",
                 1.0
             ]
         ]
@@ -2106,35 +1226,7 @@
         "id": "Ember Spirit Bans",
         "data": [
             [
-                "Hokori",
-                1.0
-            ],
-            [
-                "Infamous Gaming",
-                3.0
-            ],
-            [
-                "Latam Defenders",
-                1.0
-            ],
-            [
                 " EXTREMUM",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                2.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "Team Empire",
                 1.0
             ],
             [
@@ -2142,15 +1234,11 @@
                 1.0
             ],
             [
+                "Team Empire",
+                1.0
+            ],
+            [
                 "Team Unique",
-                0.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
-                "Infinity",
                 0.0
             ]
         ]
@@ -2160,24 +1248,16 @@
         "id": "Enchantress Picks",
         "data": [
             [
-                "Fantastic Five",
-                3.0
-            ],
-            [
                 "Team Empire",
                 6.0
             ],
             [
-                "Infamous Gaming",
-                2.0
+                "Fantastic Five",
+                3.0
             ],
             [
                 " EXTREMUM",
                 3.0
-            ],
-            [
-                "SG esports",
-                0.0
             ],
             [
                 "PuckChamp",
@@ -2197,10 +1277,6 @@
             ],
             [
                 "Nemiga Gaming",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
                 1.0
             ]
         ]
@@ -2210,24 +1286,16 @@
         "id": "Enchantress Bans",
         "data": [
             [
-                "Fantastic Five",
-                3.0
-            ],
-            [
                 "Team Empire",
                 0.0
             ],
             [
-                "Infamous Gaming",
+                "Fantastic Five",
                 3.0
             ],
             [
                 " EXTREMUM",
                 1.0
-            ],
-            [
-                "SG esports",
-                3.0
             ],
             [
                 "PuckChamp",
@@ -2247,10 +1315,6 @@
             ],
             [
                 "Nemiga Gaming",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
                 0.0
             ]
         ]
@@ -2261,10 +1325,6 @@
         "data": [
             [
                 "Winstrike Team",
-                0.0
-            ],
-            [
-                "Infinity",
                 0.0
             ],
             [
@@ -2282,10 +1342,6 @@
                 4.0
             ],
             [
-                "Infinity",
-                1.0
-            ],
-            [
                 "Nemiga Gaming",
                 1.0
             ]
@@ -2296,10 +1352,6 @@
         "id": "Faceless Void Picks",
         "data": [
             [
-                "Hokori",
-                2.0
-            ],
-            [
                 "Team Unique",
                 1.0
             ],
@@ -2308,51 +1360,19 @@
                 1.0
             ],
             [
-                "AS Monaco Gambit",
-                2.0
+                "HellRaisers",
+                0.0
             ],
             [
                 "Nemiga Gaming",
                 0.0
             ],
             [
-                "HellRaisers",
-                0.0
-            ],
-            [
-                "B8",
-                0.0
-            ],
-            [
-                "Team Spirit",
-                0.0
-            ],
-            [
-                "Team Empire",
-                0.0
-            ],
-            [
-                "PuckChamp",
-                0.0
-            ],
-            [
-                "Omega Gaming",
-                0.0
-            ],
-            [
-                "NoPing Esports",
-                0.0
-            ],
-            [
-                "Latam Defenders",
-                0.0
+                "AS Monaco Gambit",
+                2.0
             ],
             [
                 "Fantastic Five",
-                0.0
-            ],
-            [
-                "EGOBOYS",
                 0.0
             ],
             [
@@ -2360,12 +1380,20 @@
                 0.0
             ],
             [
-                "Infamous Gaming",
-                1.0
+                "PuckChamp",
+                0.0
             ],
             [
-                "Unknown Team",
-                1.0
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "B8",
+                0.0
             ],
             [
                 "Winstrike Team",
@@ -2378,10 +1406,6 @@
         "id": "Faceless Void Bans",
         "data": [
             [
-                "Hokori",
-                2.0
-            ],
-            [
                 "Team Unique",
                 2.0
             ],
@@ -2390,51 +1414,19 @@
                 2.0
             ],
             [
-                "AS Monaco Gambit",
-                0.0
+                "HellRaisers",
+                2.0
             ],
             [
                 "Nemiga Gaming",
                 2.0
             ],
             [
-                "HellRaisers",
-                2.0
-            ],
-            [
-                "B8",
-                1.0
-            ],
-            [
-                "Team Spirit",
-                1.0
-            ],
-            [
-                "Team Empire",
-                1.0
-            ],
-            [
-                "PuckChamp",
-                1.0
-            ],
-            [
-                "Omega Gaming",
-                1.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "Latam Defenders",
-                1.0
+                "AS Monaco Gambit",
+                0.0
             ],
             [
                 "Fantastic Five",
-                1.0
-            ],
-            [
-                "EGOBOYS",
                 1.0
             ],
             [
@@ -2442,12 +1434,20 @@
                 1.0
             ],
             [
-                "Infamous Gaming",
-                0.0
+                "PuckChamp",
+                1.0
             ],
             [
-                "Unknown Team",
-                0.0
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
             ],
             [
                 "Winstrike Team",
@@ -2464,10 +1464,6 @@
                 0.0
             ],
             [
-                "SG esports",
-                0.0
-            ],
-            [
                 "Team Unique",
                 0.0
             ],
@@ -2476,23 +1472,11 @@
                 0.0
             ],
             [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "HellRaisers",
-                1.0
-            ],
-            [
-                "Inverse",
-                1.0
-            ],
-            [
                 "NoTechies",
                 1.0
             ],
             [
-                "Omega Gaming",
+                "HellRaisers",
                 1.0
             ]
         ]
@@ -2506,10 +1490,6 @@
                 2.0
             ],
             [
-                "SG esports",
-                1.0
-            ],
-            [
                 "Team Unique",
                 1.0
             ],
@@ -2518,23 +1498,11 @@
                 1.0
             ],
             [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "HellRaisers",
-                0.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
                 "NoTechies",
                 0.0
             ],
             [
-                "Omega Gaming",
+                "HellRaisers",
                 0.0
             ]
         ]
@@ -2544,32 +1512,12 @@
         "id": "Gyrocopter Picks",
         "data": [
             [
-                "NoPing Esports",
-                2.0
-            ],
-            [
-                "Infamous Gaming",
-                4.0
-            ],
-            [
                 "Natus Vincere",
                 4.0
             ],
             [
                 "Team Unique",
                 0.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "Interitus",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                1.0
             ]
         ]
     },
@@ -2578,32 +1526,12 @@
         "id": "Gyrocopter Bans",
         "data": [
             [
-                "NoPing Esports",
-                3.0
-            ],
-            [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
                 "Natus Vincere",
                 0.0
             ],
             [
                 "Team Unique",
                 2.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "Interitus",
-                0.0
-            ],
-            [
-                "Unknown Team",
-                0.0
             ]
         ]
     },
@@ -2616,7 +1544,7 @@
                 6.0
             ],
             [
-                "Unknown Team",
+                "Team Spirit",
                 3.0
             ],
             [
@@ -2624,32 +1552,12 @@
                 2.0
             ],
             [
-                "Team Spirit",
-                3.0
-            ],
-            [
-                "Hokori",
-                3.0
-            ],
-            [
-                "Team Unique",
-                3.0
-            ],
-            [
-                "BINOMISTAS",
-                2.0
-            ],
-            [
                 "HellRaisers",
                 2.0
             ],
             [
-                "SG esports",
-                0.0
-            ],
-            [
-                "Infinity",
-                1.0
+                "Team Unique",
+                3.0
             ],
             [
                 "PuckChamp",
@@ -2660,31 +1568,19 @@
                 1.0
             ],
             [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
                 " EXTREMUM",
                 2.0
-            ],
-            [
-                "NoPing Esports",
-                0.0
             ],
             [
                 "NoTechies",
                 1.0
             ],
             [
-                "Interitus",
+                "Winstrike Team",
                 1.0
             ],
             [
                 "AS Monaco Gambit",
-                1.0
-            ],
-            [
-                "Winstrike Team",
                 1.0
             ]
         ]
@@ -2698,7 +1594,7 @@
                 0.0
             ],
             [
-                "Unknown Team",
+                "Team Spirit",
                 1.0
             ],
             [
@@ -2706,32 +1602,12 @@
                 2.0
             ],
             [
-                "Team Spirit",
-                1.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
-            [
-                "Team Unique",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
                 "HellRaisers",
                 1.0
             ],
             [
-                "SG esports",
-                2.0
-            ],
-            [
-                "Infinity",
-                1.0
+                "Team Unique",
+                0.0
             ],
             [
                 "PuckChamp",
@@ -2742,31 +1618,19 @@
                 1.0
             ],
             [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
                 " EXTREMUM",
                 0.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
             ],
             [
                 "NoTechies",
                 0.0
             ],
             [
-                "Interitus",
+                "Winstrike Team",
                 0.0
             ],
             [
                 "AS Monaco Gambit",
-                0.0
-            ],
-            [
-                "Winstrike Team",
                 0.0
             ]
         ]
@@ -2776,10 +1640,6 @@
         "id": "Invoker Picks",
         "data": [
             [
-                "Infamous Gaming",
-                3.0
-            ],
-            [
                 "Team Empire",
                 2.0
             ],
@@ -2796,14 +1656,6 @@
                 2.0
             ],
             [
-                "NoPing Esports",
-                2.0
-            ],
-            [
-                "Infinity",
-                0.0
-            ],
-            [
                 "Nemiga Gaming",
                 1.0
             ],
@@ -2812,35 +1664,11 @@
                 2.0
             ],
             [
-                "SG esports",
-                0.0
-            ],
-            [
                 "Fantastic Five",
                 1.0
             ],
             [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Unknown Team",
-                0.0
-            ],
-            [
                 "PuckChamp",
-                0.0
-            ],
-            [
-                "Latam Defenders",
-                0.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
                 0.0
             ]
         ]
@@ -2850,10 +1678,6 @@
         "id": "Invoker Bans",
         "data": [
             [
-                "Infamous Gaming",
-                5.0
-            ],
-            [
                 "Team Empire",
                 4.0
             ],
@@ -2870,14 +1694,6 @@
                 2.0
             ],
             [
-                "NoPing Esports",
-                2.0
-            ],
-            [
-                "Infinity",
-                3.0
-            ],
-            [
                 "Nemiga Gaming",
                 2.0
             ],
@@ -2886,35 +1702,11 @@
                 1.0
             ],
             [
-                "SG esports",
-                2.0
-            ],
-            [
                 "Fantastic Five",
                 1.0
             ],
             [
-                "EGOBOYS",
-                2.0
-            ],
-            [
-                "Unknown Team",
-                1.0
-            ],
-            [
                 "PuckChamp",
-                1.0
-            ],
-            [
-                "Latam Defenders",
-                1.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
                 1.0
             ]
         ]
@@ -2948,31 +1740,19 @@
                 1.0
             ],
             [
-                "Inverse",
-                1.0
-            ],
-            [
                 "Trident Clan",
                 0.0
-            ],
-            [
-                "Latam Defenders",
-                0.0
-            ],
-            [
-                "Winstrike Team",
-                1.0
             ],
             [
                 " EXTREMUM",
                 1.0
             ],
             [
-                "BINOMISTAS",
+                "NoTechies",
                 1.0
             ],
             [
-                "NoTechies",
+                "Winstrike Team",
                 1.0
             ]
         ]
@@ -2986,31 +1766,19 @@
                 2.0
             ],
             [
-                "Inverse",
-                1.0
-            ],
-            [
                 "Trident Clan",
                 1.0
-            ],
-            [
-                "Latam Defenders",
-                1.0
-            ],
-            [
-                "Winstrike Team",
-                0.0
             ],
             [
                 " EXTREMUM",
                 0.0
             ],
             [
-                "BINOMISTAS",
+                "NoTechies",
                 0.0
             ],
             [
-                "NoTechies",
+                "Winstrike Team",
                 0.0
             ]
         ]
@@ -3040,52 +1808,16 @@
         "id": "Kunkka Picks",
         "data": [
             [
-                "NoPing Esports",
-                2.0
-            ],
-            [
-                "Omega Gaming",
-                0.0
+                "Team Unique",
+                1.0
             ],
             [
                 "Natus Vincere",
                 0.0
             ],
             [
-                "Infinity",
-                1.0
-            ],
-            [
-                "Team Unique",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
-            [
-                "Interitus",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Unknown Team",
-                0.0
-            ],
-            [
                 "Team Empire",
                 0.0
-            ],
-            [
-                "Inverse",
-                1.0
             ],
             [
                 "Nemiga Gaming",
@@ -3098,52 +1830,16 @@
         "id": "Kunkka Bans",
         "data": [
             [
-                "NoPing Esports",
-                2.0
-            ],
-            [
-                "Omega Gaming",
-                2.0
+                "Team Unique",
+                1.0
             ],
             [
                 "Natus Vincere",
                 2.0
             ],
             [
-                "Infinity",
-                1.0
-            ],
-            [
-                "Team Unique",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
-                "Interitus",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                1.0
-            ],
-            [
                 "Team Empire",
                 1.0
-            ],
-            [
-                "Inverse",
-                0.0
             ],
             [
                 "Nemiga Gaming",
@@ -3156,10 +1852,6 @@
         "id": "Legion Commander Picks",
         "data": [
             [
-                "Infinity",
-                0.0
-            ],
-            [
                 "Fantastic Five",
                 0.0
             ]
@@ -3169,10 +1861,6 @@
         "name": "Legion Commander Bans Against",
         "id": "Legion Commander Bans",
         "data": [
-            [
-                "Infinity",
-                1.0
-            ],
             [
                 "Fantastic Five",
                 1.0
@@ -3184,31 +1872,11 @@
         "id": "Leshrac Picks",
         "data": [
             [
-                "BINOMISTAS",
-                2.0
-            ],
-            [
-                "SG esports",
+                "Team Spirit",
                 1.0
             ],
             [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "AS Monaco Gambit",
-                0.0
-            ],
-            [
-                "Infinity",
-                0.0
-            ],
-            [
-                "Omega Gaming",
-                0.0
-            ],
-            [
-                "EGOBOYS",
+                "PuckChamp",
                 1.0
             ],
             [
@@ -3220,27 +1888,11 @@
                 1.0
             ],
             [
-                "PuckChamp",
-                1.0
-            ],
-            [
-                "Team Spirit",
-                1.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
-                "Unknown Team",
+                "AS Monaco Gambit",
                 0.0
             ],
             [
                 "Team Unique",
-                0.0
-            ],
-            [
-                "Latam Defenders",
                 0.0
             ],
             [
@@ -3254,31 +1906,11 @@
         "id": "Leshrac Bans",
         "data": [
             [
-                "BINOMISTAS",
-                3.0
+                "Team Spirit",
+                1.0
             ],
             [
-                "SG esports",
-                3.0
-            ],
-            [
-                "NoPing Esports",
-                2.0
-            ],
-            [
-                "AS Monaco Gambit",
-                2.0
-            ],
-            [
-                "Infinity",
-                2.0
-            ],
-            [
-                "Omega Gaming",
-                2.0
-            ],
-            [
-                "EGOBOYS",
+                "PuckChamp",
                 1.0
             ],
             [
@@ -3290,27 +1922,11 @@
                 1.0
             ],
             [
-                "PuckChamp",
-                1.0
-            ],
-            [
-                "Team Spirit",
-                1.0
-            ],
-            [
-                "Inverse",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                1.0
+                "AS Monaco Gambit",
+                2.0
             ],
             [
                 "Team Unique",
-                1.0
-            ],
-            [
-                "Latam Defenders",
                 1.0
             ],
             [
@@ -3336,10 +1952,6 @@
                 1.0
             ],
             [
-                " EXTREMUM",
-                0.0
-            ],
-            [
                 "Fantastic Five",
                 1.0
             ],
@@ -3348,23 +1960,7 @@
                 0.0
             ],
             [
-                "AS Monaco Gambit",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Natus Vincere",
-                0.0
-            ],
-            [
-                "Team Empire",
+                " EXTREMUM",
                 0.0
             ],
             [
@@ -3372,8 +1968,16 @@
                 0.0
             ],
             [
-                "NoPing Esports",
-                1.0
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Natus Vincere",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
             ]
         ]
     },
@@ -3394,10 +1998,6 @@
                 1.0
             ],
             [
-                " EXTREMUM",
-                2.0
-            ],
-            [
                 "Fantastic Five",
                 1.0
             ],
@@ -3406,19 +2006,11 @@
                 2.0
             ],
             [
-                "AS Monaco Gambit",
-                1.0
+                " EXTREMUM",
+                2.0
             ],
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "Natus Vincere",
+                "Team Spirit",
                 1.0
             ],
             [
@@ -3426,12 +2018,12 @@
                 1.0
             ],
             [
-                "Team Spirit",
+                "Natus Vincere",
                 1.0
             ],
             [
-                "NoPing Esports",
-                0.0
+                "AS Monaco Gambit",
+                1.0
             ]
         ]
     },
@@ -3460,10 +2052,6 @@
                 2.0
             ],
             [
-                "Omega Gaming",
-                0.0
-            ],
-            [
                 "Winstrike Team",
                 0.0
             ],
@@ -3476,15 +2064,11 @@
                 0.0
             ],
             [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
                 "B8",
                 0.0
             ],
             [
-                "Trident Clan",
+                " EXTREMUM",
                 1.0
             ],
             [
@@ -3492,15 +2076,7 @@
                 1.0
             ],
             [
-                " EXTREMUM",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "Interitus",
+                "Trident Clan",
                 1.0
             ]
         ]
@@ -3530,10 +2106,6 @@
                 1.0
             ],
             [
-                "Omega Gaming",
-                2.0
-            ],
-            [
                 "Winstrike Team",
                 1.0
             ],
@@ -3546,15 +2118,11 @@
                 1.0
             ],
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
                 "B8",
                 1.0
             ],
             [
-                "Trident Clan",
+                " EXTREMUM",
                 0.0
             ],
             [
@@ -3562,15 +2130,7 @@
                 0.0
             ],
             [
-                " EXTREMUM",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Interitus",
+                "Trident Clan",
                 0.0
             ]
         ]
@@ -3588,12 +2148,12 @@
                 4.0
             ],
             [
-                "Nemiga Gaming",
-                3.0
-            ],
-            [
                 " EXTREMUM",
                 2.0
+            ],
+            [
+                "Nemiga Gaming",
+                3.0
             ],
             [
                 "Winstrike Team",
@@ -3604,32 +2164,8 @@
                 2.0
             ],
             [
-                "BINOMISTAS",
-                2.0
-            ],
-            [
-                "NoPing Esports",
-                2.0
-            ],
-            [
                 "NoTechies",
                 2.0
-            ],
-            [
-                "SG esports",
-                0.0
-            ],
-            [
-                "HellRaisers",
-                1.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
-                "Latam Defenders",
-                1.0
             ],
             [
                 "B8",
@@ -3640,7 +2176,7 @@
                 1.0
             ],
             [
-                "Unknown Team",
+                "HellRaisers",
                 1.0
             ]
         ]
@@ -3658,12 +2194,12 @@
                 0.0
             ],
             [
-                "Nemiga Gaming",
-                0.0
-            ],
-            [
                 " EXTREMUM",
                 1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
             ],
             [
                 "Winstrike Team",
@@ -3674,31 +2210,7 @@
                 0.0
             ],
             [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "NoPing Esports",
-                0.0
-            ],
-            [
                 "NoTechies",
-                0.0
-            ],
-            [
-                "SG esports",
-                1.0
-            ],
-            [
-                "HellRaisers",
-                0.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
-            [
-                "Latam Defenders",
                 0.0
             ],
             [
@@ -3710,7 +2222,7 @@
                 0.0
             ],
             [
-                "Unknown Team",
+                "HellRaisers",
                 0.0
             ]
         ]
@@ -3724,47 +2236,27 @@
                 3.0
             ],
             [
-                "Team Empire",
-                3.0
+                "Fantastic Five",
+                2.0
             ],
             [
                 "HellRaisers",
                 2.0
             ],
             [
-                "Fantastic Five",
-                2.0
-            ],
-            [
-                "Hokori",
-                2.0
+                "Team Empire",
+                3.0
             ],
             [
                 "Team Spirit",
                 1.0
             ],
             [
-                "Infinity",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                2.0
-            ],
-            [
-                "Nemiga Gaming",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
                 "Natus Vincere",
                 0.0
             ],
             [
-                "Winstrike Team",
+                "Nemiga Gaming",
                 0.0
             ],
             [
@@ -3776,27 +2268,15 @@
                 0.0
             ],
             [
-                "NoPing Esports",
+                "Winstrike Team",
                 0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "B8",
-                1.0
-            ],
-            [
-                "Inverse",
-                1.0
-            ],
-            [
-                "SG esports",
-                1.0
             ],
             [
                 " EXTREMUM",
+                1.0
+            ],
+            [
+                "B8",
                 1.0
             ]
         ]
@@ -3810,48 +2290,28 @@
                 1.0
             ],
             [
-                "Team Empire",
-                0.0
+                "Fantastic Five",
+                1.0
             ],
             [
                 "HellRaisers",
                 1.0
             ],
             [
-                "Fantastic Five",
-                1.0
-            ],
-            [
-                "Hokori",
-                1.0
+                "Team Empire",
+                0.0
             ],
             [
                 "Team Spirit",
                 1.0
             ],
             [
-                "Infinity",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                0.0
-            ],
-            [
-                "Nemiga Gaming",
-                2.0
-            ],
-            [
-                "BINOMISTAS",
-                2.0
-            ],
-            [
                 "Natus Vincere",
                 2.0
             ],
             [
-                "Winstrike Team",
-                1.0
+                "Nemiga Gaming",
+                2.0
             ],
             [
                 "PuckChamp",
@@ -3862,27 +2322,15 @@
                 1.0
             ],
             [
-                "NoPing Esports",
+                "Winstrike Team",
                 1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "B8",
-                0.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
-                "SG esports",
-                0.0
             ],
             [
                 " EXTREMUM",
+                0.0
+            ],
+            [
+                "B8",
                 0.0
             ]
         ]
@@ -3910,10 +2358,6 @@
             [
                 "Team Unique",
                 0.0
-            ],
-            [
-                "Hokori",
-                1.0
             ],
             [
                 "Team Empire",
@@ -3946,10 +2390,6 @@
                 1.0
             ],
             [
-                "Hokori",
-                0.0
-            ],
-            [
                 "Team Empire",
                 0.0
             ]
@@ -3964,47 +2404,15 @@
                 3.0
             ],
             [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "SG esports",
-                3.0
-            ],
-            [
                 "Natus Vincere",
                 2.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
-                "Infinity",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "Fantastic Five",
-                0.0
             ],
             [
                 "PuckChamp",
                 1.0
             ],
             [
-                "Team Empire",
-                2.0
-            ],
-            [
-                "Unknown Team",
+                "Fantastic Five",
                 0.0
             ],
             [
@@ -4012,7 +2420,11 @@
                 0.0
             ],
             [
-                "Winstrike Team",
+                "Team Empire",
+                2.0
+            ],
+            [
+                "AS Monaco Gambit",
                 0.0
             ],
             [
@@ -4020,19 +2432,11 @@
                 0.0
             ],
             [
-                "AS Monaco Gambit",
+                "Winstrike Team",
                 0.0
             ],
             [
-                "Inverse",
-                1.0
-            ],
-            [
                 "HellRaisers",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
                 1.0
             ]
         ]
@@ -4046,35 +2450,7 @@
                 4.0
             ],
             [
-                "EGOBOYS",
-                4.0
-            ],
-            [
-                "SG esports",
-                1.0
-            ],
-            [
                 "Natus Vincere",
-                2.0
-            ],
-            [
-                "NoPing Esports",
-                3.0
-            ],
-            [
-                "Hokori",
-                2.0
-            ],
-            [
-                "Infinity",
-                3.0
-            ],
-            [
-                "Infamous Gaming",
-                3.0
-            ],
-            [
-                "Fantastic Five",
                 2.0
             ],
             [
@@ -4082,11 +2458,7 @@
                 1.0
             ],
             [
-                "Team Empire",
-                0.0
-            ],
-            [
-                "Unknown Team",
+                "Fantastic Five",
                 2.0
             ],
             [
@@ -4094,7 +2466,11 @@
                 2.0
             ],
             [
-                "Winstrike Team",
+                "Team Empire",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
                 1.0
             ],
             [
@@ -4102,19 +2478,11 @@
                 1.0
             ],
             [
-                "AS Monaco Gambit",
+                "Winstrike Team",
                 1.0
             ],
             [
-                "Inverse",
-                0.0
-            ],
-            [
                 "HellRaisers",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
                 0.0
             ]
         ]
@@ -4128,19 +2496,7 @@
                 3.0
             ],
             [
-                "Hokori",
-                1.0
-            ],
-            [
                 "HellRaisers",
-                2.0
-            ],
-            [
-                "Infinity",
-                2.0
-            ],
-            [
-                "Infamous Gaming",
                 2.0
             ],
             [
@@ -4148,39 +2504,15 @@
                 0.0
             ],
             [
-                "EGOBOYS",
-                0.0
-            ],
-            [
                 "Team Empire",
                 2.0
-            ],
-            [
-                "Fantastic Five",
-                0.0
-            ],
-            [
-                "Omega Gaming",
-                1.0
             ],
             [
                 "AS Monaco Gambit",
                 0.0
             ],
             [
-                "NoPing Esports",
-                0.0
-            ],
-            [
-                "PuckChamp",
-                0.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
+                "Fantastic Five",
                 0.0
             ],
             [
@@ -4188,12 +2520,8 @@
                 0.0
             ],
             [
-                "SG esports",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                1.0
+                "PuckChamp",
+                0.0
             ]
         ]
     },
@@ -4206,39 +2534,15 @@
                 4.0
             ],
             [
-                "Hokori",
-                5.0
-            ],
-            [
                 "HellRaisers",
                 4.0
-            ],
-            [
-                "Infinity",
-                3.0
-            ],
-            [
-                "Infamous Gaming",
-                2.0
             ],
             [
                 "Team Unique",
                 4.0
             ],
             [
-                "EGOBOYS",
-                3.0
-            ],
-            [
                 "Team Empire",
-                1.0
-            ],
-            [
-                "Fantastic Five",
-                2.0
-            ],
-            [
-                "Omega Gaming",
                 1.0
             ],
             [
@@ -4246,32 +2550,16 @@
                 2.0
             ],
             [
-                "NoPing Esports",
+                "Fantastic Five",
                 2.0
-            ],
-            [
-                "PuckChamp",
-                1.0
-            ],
-            [
-                "Inverse",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
             ],
             [
                 " EXTREMUM",
                 1.0
             ],
             [
-                "SG esports",
-                0.0
-            ],
-            [
-                "Unknown Team",
-                0.0
+                "PuckChamp",
+                1.0
             ]
         ]
     },
@@ -4280,20 +2568,8 @@
         "id": "Mirana Picks",
         "data": [
             [
-                "NoPing Esports",
-                3.0
-            ],
-            [
-                "SG esports",
-                3.0
-            ],
-            [
                 "Fantastic Five",
                 3.0
-            ],
-            [
-                "Infamous Gaming",
-                2.0
             ],
             [
                 "Winstrike Team",
@@ -4310,18 +2586,6 @@
             [
                 "Natus Vincere",
                 0.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "Interitus",
-                1.0
             ]
         ]
     },
@@ -4330,20 +2594,8 @@
         "id": "Mirana Bans",
         "data": [
             [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "SG esports",
-                0.0
-            ],
-            [
                 "Fantastic Five",
                 0.0
-            ],
-            [
-                "Infamous Gaming",
-                1.0
             ],
             [
                 "Winstrike Team",
@@ -4360,18 +2612,6 @@
             [
                 "Natus Vincere",
                 1.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "Interitus",
-                0.0
             ]
         ]
     },
@@ -4384,19 +2624,11 @@
                 1.0
             ],
             [
-                "Nemiga Gaming",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
                 "AS Monaco Gambit",
                 0.0
             ],
             [
-                "Unknown Team",
+                "Nemiga Gaming",
                 0.0
             ]
         ]
@@ -4410,19 +2642,11 @@
                 1.0
             ],
             [
-                "Nemiga Gaming",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
                 "AS Monaco Gambit",
                 1.0
             ],
             [
-                "Unknown Team",
+                "Nemiga Gaming",
                 1.0
             ]
         ]
@@ -4436,10 +2660,6 @@
                 0.0
             ],
             [
-                "Unknown Team",
-                0.0
-            ],
-            [
                 "Nemiga Gaming",
                 0.0
             ],
@@ -4448,27 +2668,15 @@
                 1.0
             ],
             [
-                "HellRaisers",
-                0.0
-            ],
-            [
                 "NoTechies",
                 0.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
             ],
             [
                 "Team Empire",
                 0.0
             ],
             [
-                "Trident Clan",
-                0.0
-            ],
-            [
-                "Team Unique",
+                "HellRaisers",
                 0.0
             ],
             [
@@ -4476,15 +2684,11 @@
                 0.0
             ],
             [
-                "Inverse",
+                "Team Unique",
                 0.0
             ],
             [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "Hokori",
+                "Trident Clan",
                 0.0
             ]
         ]
@@ -4498,10 +2702,6 @@
                 4.0
             ],
             [
-                "Unknown Team",
-                3.0
-            ],
-            [
                 "Nemiga Gaming",
                 3.0
             ],
@@ -4510,23 +2710,19 @@
                 2.0
             ],
             [
-                "HellRaisers",
-                2.0
-            ],
-            [
                 "NoTechies",
                 2.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
             ],
             [
                 "Team Empire",
                 2.0
             ],
             [
-                "Trident Clan",
+                "HellRaisers",
+                2.0
+            ],
+            [
+                "PuckChamp",
                 1.0
             ],
             [
@@ -4534,19 +2730,7 @@
                 1.0
             ],
             [
-                "PuckChamp",
-                1.0
-            ],
-            [
-                "Inverse",
-                1.0
-            ],
-            [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
-                "Hokori",
+                "Trident Clan",
                 1.0
             ]
         ]
@@ -4558,22 +2742,6 @@
             [
                 "Natus Vincere",
                 1.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "NoPing Esports",
-                0.0
             ],
             [
                 "HellRaisers",
@@ -4588,22 +2756,6 @@
             [
                 "Natus Vincere",
                 2.0
-            ],
-            [
-                "BINOMISTAS",
-                2.0
-            ],
-            [
-                "Infamous Gaming",
-                2.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
             ],
             [
                 "HellRaisers",
@@ -4622,10 +2774,6 @@
             [
                 "B8",
                 1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
             ]
         ]
     },
@@ -4640,10 +2788,6 @@
             [
                 "B8",
                 0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
             ]
         ]
     },
@@ -4654,10 +2798,6 @@
             [
                 "Team Unique",
                 0.0
-            ],
-            [
-                "Infamous Gaming",
-                1.0
             ]
         ]
     },
@@ -4668,10 +2808,6 @@
             [
                 "Team Unique",
                 1.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
             ]
         ]
     },
@@ -4679,10 +2815,6 @@
         "name": "Nyx Assassin Picks For",
         "id": "Nyx Assassin Picks",
         "data": [
-            [
-                "EGOBOYS",
-                1.0
-            ],
             [
                 "PuckChamp",
                 1.0
@@ -4692,40 +2824,16 @@
                 3.0
             ],
             [
-                "B8",
-                3.0
-            ],
-            [
-                "BINOMISTAS",
-                2.0
-            ],
-            [
-                "Infinity",
-                2.0
-            ],
-            [
                 "Nemiga Gaming",
                 2.0
             ],
             [
-                "NoPing Esports",
-                0.0
-            ],
-            [
-                "SG esports",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                0.0
+                "B8",
+                3.0
             ],
             [
                 "Trident Clan",
                 1.0
-            ],
-            [
-                "Hokori",
-                2.0
             ],
             [
                 "Natus Vincere",
@@ -4733,10 +2841,6 @@
             ],
             [
                 "Winstrike Team",
-                0.0
-            ],
-            [
-                "Latam Defenders",
                 0.0
             ],
             [
@@ -4748,15 +2852,7 @@
                 0.0
             ],
             [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
                 " EXTREMUM",
-                0.0
-            ],
-            [
-                "Interitus",
                 0.0
             ],
             [
@@ -4774,10 +2870,6 @@
         "id": "Nyx Assassin Bans",
         "data": [
             [
-                "EGOBOYS",
-                5.0
-            ],
-            [
                 "PuckChamp",
                 5.0
             ],
@@ -4786,40 +2878,16 @@
                 2.0
             ],
             [
-                "B8",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
-                2.0
-            ],
-            [
-                "Infinity",
-                2.0
-            ],
-            [
                 "Nemiga Gaming",
                 2.0
             ],
             [
-                "NoPing Esports",
-                3.0
-            ],
-            [
-                "SG esports",
-                2.0
-            ],
-            [
-                "Unknown Team",
-                3.0
+                "B8",
+                1.0
             ],
             [
                 "Trident Clan",
                 1.0
-            ],
-            [
-                "Hokori",
-                0.0
             ],
             [
                 "Natus Vincere",
@@ -4827,10 +2895,6 @@
             ],
             [
                 "Winstrike Team",
-                2.0
-            ],
-            [
-                "Latam Defenders",
                 2.0
             ],
             [
@@ -4842,15 +2906,7 @@
                 2.0
             ],
             [
-                "Infamous Gaming",
-                2.0
-            ],
-            [
                 " EXTREMUM",
-                1.0
-            ],
-            [
-                "Interitus",
                 1.0
             ],
             [
@@ -4868,31 +2924,11 @@
         "id": "Oracle Picks",
         "data": [
             [
-                "NoPing Esports",
-                3.0
-            ],
-            [
-                "SG esports",
-                1.0
-            ],
-            [
-                "Infinity",
-                2.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
-                "Team Spirit",
-                1.0
-            ],
-            [
                 "B8",
                 1.0
             ],
             [
-                "Infamous Gaming",
+                "Team Spirit",
                 1.0
             ]
         ]
@@ -4902,31 +2938,11 @@
         "id": "Oracle Bans",
         "data": [
             [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "SG esports",
-                2.0
-            ],
-            [
-                "Infinity",
-                1.0
-            ],
-            [
-                "Inverse",
-                1.0
-            ],
-            [
-                "Team Spirit",
-                0.0
-            ],
-            [
                 "B8",
                 0.0
             ],
             [
-                "Infamous Gaming",
+                "Team Spirit",
                 0.0
             ]
         ]
@@ -4942,18 +2958,6 @@
             [
                 "PuckChamp",
                 3.0
-            ],
-            [
-                "Latam Defenders",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                0.0
-            ],
-            [
-                "Infinity",
-                0.0
             ]
         ]
     },
@@ -4967,18 +2971,6 @@
             ],
             [
                 "PuckChamp",
-                1.0
-            ],
-            [
-                "Latam Defenders",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                1.0
-            ],
-            [
-                "Infinity",
                 1.0
             ]
         ]
@@ -5024,30 +3016,6 @@
                 1.0
             ],
             [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "B8",
-                2.0
-            ],
-            [
-                "Nemiga Gaming",
-                1.0
-            ],
-            [
-                "Latam Defenders",
-                1.0
-            ],
-            [
-                "HellRaisers",
-                1.0
-            ],
-            [
                 "Natus Vincere",
                 0.0
             ],
@@ -5060,20 +3028,16 @@
                 0.0
             ],
             [
-                "NoPing Esports",
-                0.0
+                "HellRaisers",
+                1.0
             ],
             [
-                "Interitus",
-                0.0
+                "Nemiga Gaming",
+                1.0
             ],
             [
-                "Infinity",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
+                "B8",
+                2.0
             ],
             [
                 " EXTREMUM",
@@ -5098,30 +3062,6 @@
                 3.0
             ],
             [
-                "BINOMISTAS",
-                4.0
-            ],
-            [
-                "Infamous Gaming",
-                3.0
-            ],
-            [
-                "B8",
-                0.0
-            ],
-            [
-                "Nemiga Gaming",
-                1.0
-            ],
-            [
-                "Latam Defenders",
-                1.0
-            ],
-            [
-                "HellRaisers",
-                1.0
-            ],
-            [
                 "Natus Vincere",
                 2.0
             ],
@@ -5134,20 +3074,16 @@
                 2.0
             ],
             [
-                "NoPing Esports",
+                "HellRaisers",
                 1.0
             ],
             [
-                "Interitus",
+                "Nemiga Gaming",
                 1.0
             ],
             [
-                "Infinity",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
+                "B8",
+                0.0
             ],
             [
                 " EXTREMUM",
@@ -5164,19 +3100,15 @@
         "id": "Phoenix Picks",
         "data": [
             [
-                "Team Unique",
-                3.0
+                "AS Monaco Gambit",
+                4.0
             ],
             [
                 "Team Spirit",
                 3.0
             ],
             [
-                "AS Monaco Gambit",
-                4.0
-            ],
-            [
-                "Infinity",
+                "Team Unique",
                 3.0
             ],
             [
@@ -5184,15 +3116,11 @@
                 2.0
             ],
             [
-                " EXTREMUM",
-                1.0
-            ],
-            [
                 "Natus Vincere",
                 1.0
             ],
             [
-                "SG esports",
+                " EXTREMUM",
                 1.0
             ],
             [
@@ -5202,18 +3130,6 @@
             [
                 "PuckChamp",
                 0.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "Latam Defenders",
-                1.0
             ]
         ]
     },
@@ -5222,35 +3138,27 @@
         "id": "Phoenix Bans",
         "data": [
             [
-                "Team Unique",
-                2.0
+                "AS Monaco Gambit",
+                1.0
             ],
             [
                 "Team Spirit",
                 2.0
             ],
             [
-                "AS Monaco Gambit",
-                1.0
-            ],
-            [
-                "Infinity",
-                0.0
+                "Team Unique",
+                2.0
             ],
             [
                 "Winstrike Team",
                 0.0
             ],
             [
-                " EXTREMUM",
-                1.0
-            ],
-            [
                 "Natus Vincere",
                 1.0
             ],
             [
-                "SG esports",
+                " EXTREMUM",
                 1.0
             ],
             [
@@ -5260,18 +3168,6 @@
             [
                 "PuckChamp",
                 1.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Latam Defenders",
-                0.0
             ]
         ]
     },
@@ -5279,6 +3175,14 @@
         "name": "Puck Picks For",
         "id": "Puck Picks",
         "data": [
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
             [
                 "Nemiga Gaming",
                 2.0
@@ -5288,34 +3192,6 @@
                 1.0
             ],
             [
-                "Team Empire",
-                1.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
-            [
-                "Unknown Team",
-                0.0
-            ],
-            [
-                "AS Monaco Gambit",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                3.0
-            ],
-            [
-                "Infinity",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
                 "Team Spirit",
                 0.0
             ],
@@ -5324,27 +3200,15 @@
                 2.0
             ],
             [
-                "HellRaisers",
-                1.0
+                " EXTREMUM",
+                0.0
             ],
             [
                 "Trident Clan",
                 1.0
             ],
             [
-                " EXTREMUM",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
-                "Interitus",
+                "HellRaisers",
                 1.0
             ],
             [
@@ -5356,19 +3220,15 @@
                 0.0
             ],
             [
-                "PuckChamp",
-                0.0
-            ],
-            [
-                "SG esports",
-                0.0
-            ],
-            [
                 "B8",
                 0.0
             ],
             [
                 "Fantastic Five",
+                0.0
+            ],
+            [
+                "PuckChamp",
                 0.0
             ]
         ]
@@ -5378,39 +3238,19 @@
         "id": "Puck Bans",
         "data": [
             [
-                "Nemiga Gaming",
-                2.0
-            ],
-            [
-                "Team Unique",
-                3.0
-            ],
-            [
                 "Team Empire",
                 3.0
-            ],
-            [
-                "Hokori",
-                4.0
-            ],
-            [
-                "Unknown Team",
-                4.0
             ],
             [
                 "AS Monaco Gambit",
                 4.0
             ],
             [
-                "Infamous Gaming",
-                1.0
+                "Nemiga Gaming",
+                2.0
             ],
             [
-                "Infinity",
-                3.0
-            ],
-            [
-                "BINOMISTAS",
+                "Team Unique",
                 3.0
             ],
             [
@@ -5422,28 +3262,16 @@
                 1.0
             ],
             [
-                "HellRaisers",
-                1.0
+                " EXTREMUM",
+                2.0
             ],
             [
                 "Trident Clan",
                 1.0
             ],
             [
-                " EXTREMUM",
-                2.0
-            ],
-            [
-                "EGOBOYS",
-                2.0
-            ],
-            [
-                "Inverse",
+                "HellRaisers",
                 1.0
-            ],
-            [
-                "Interitus",
-                0.0
             ],
             [
                 "NoTechies",
@@ -5454,19 +3282,15 @@
                 1.0
             ],
             [
-                "PuckChamp",
-                1.0
-            ],
-            [
-                "SG esports",
-                1.0
-            ],
-            [
                 "B8",
                 1.0
             ],
             [
                 "Fantastic Five",
+                1.0
+            ],
+            [
+                "PuckChamp",
                 1.0
             ]
         ]
@@ -5512,32 +3336,12 @@
         ]
     },
     {
-        "name": "Queen of Pain Picks For",
-        "id": "Queen of Pain Picks",
-        "data": [
-            [
-                "NoPing Esports",
-                1.0
-            ]
-        ]
-    },
-    {
-        "name": "Queen of Pain Bans Against",
-        "id": "Queen of Pain Bans",
-        "data": [
-            [
-                "NoPing Esports",
-                0.0
-            ]
-        ]
-    },
-    {
         "name": "Razor Picks For",
         "id": "Razor Picks",
         "data": [
             [
-                " EXTREMUM",
-                1.0
+                "B8",
+                0.0
             ],
             [
                 "Team Empire",
@@ -5548,16 +3352,8 @@
                 0.0
             ],
             [
-                "B8",
-                0.0
-            ],
-            [
-                "AS Monaco Gambit",
-                0.0
-            ],
-            [
-                "Team Unique",
-                0.0
+                " EXTREMUM",
+                1.0
             ],
             [
                 "Nemiga Gaming",
@@ -5568,19 +3364,15 @@
                 1.0
             ],
             [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
                 "Fantastic Five",
-                0.0
-            ],
-            [
-                "Interitus",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "Hokori",
                 0.0
             ]
         ]
@@ -5590,8 +3382,8 @@
         "id": "Razor Bans",
         "data": [
             [
-                " EXTREMUM",
-                1.0
+                "B8",
+                2.0
             ],
             [
                 "Team Empire",
@@ -5602,15 +3394,7 @@
                 2.0
             ],
             [
-                "B8",
-                2.0
-            ],
-            [
-                "AS Monaco Gambit",
-                1.0
-            ],
-            [
-                "Team Unique",
+                " EXTREMUM",
                 1.0
             ],
             [
@@ -5622,19 +3406,15 @@
                 0.0
             ],
             [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
                 "Fantastic Five",
-                1.0
-            ],
-            [
-                "Interitus",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "Hokori",
                 1.0
             ]
         ]
@@ -5664,10 +3444,6 @@
         "id": "Rubick Picks",
         "data": [
             [
-                "NoPing Esports",
-                2.0
-            ],
-            [
                 "HellRaisers",
                 1.0
             ]
@@ -5677,10 +3453,6 @@
         "name": "Rubick Bans Against",
         "id": "Rubick Bans",
         "data": [
-            [
-                "NoPing Esports",
-                0.0
-            ],
             [
                 "HellRaisers",
                 0.0
@@ -5692,14 +3464,6 @@
         "id": "Sand King Picks",
         "data": [
             [
-                "Unknown Team",
-                2.0
-            ],
-            [
-                "BINOMISTAS",
-                2.0
-            ],
-            [
                 "PuckChamp",
                 0.0
             ],
@@ -5708,24 +3472,12 @@
                 1.0
             ],
             [
-                "Infinity",
-                1.0
-            ],
-            [
                 "HellRaisers",
-                1.0
-            ],
-            [
-                "Omega Gaming",
                 1.0
             ],
             [
                 "Trident Clan",
                 1.0
-            ],
-            [
-                "Hokori",
-                0.0
             ],
             [
                 "Fantastic Five",
@@ -5738,14 +3490,6 @@
         "id": "Sand King Bans",
         "data": [
             [
-                "Unknown Team",
-                3.0
-            ],
-            [
-                "BINOMISTAS",
-                3.0
-            ],
-            [
                 "PuckChamp",
                 2.0
             ],
@@ -5754,24 +3498,12 @@
                 1.0
             ],
             [
-                "Infinity",
-                1.0
-            ],
-            [
                 "HellRaisers",
-                0.0
-            ],
-            [
-                "Omega Gaming",
                 0.0
             ],
             [
                 "Trident Clan",
                 0.0
-            ],
-            [
-                "Hokori",
-                1.0
             ],
             [
                 "Fantastic Five",
@@ -5796,19 +3528,7 @@
                 0.0
             ],
             [
-                "SG esports",
-                0.0
-            ],
-            [
-                "Latam Defenders",
-                1.0
-            ],
-            [
-                "Nemiga Gaming",
-                1.0
-            ],
-            [
-                "Team Empire",
+                "Fantastic Five",
                 0.0
             ],
             [
@@ -5816,8 +3536,12 @@
                 0.0
             ],
             [
-                "Fantastic Five",
+                "Team Empire",
                 0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
             ]
         ]
     },
@@ -5838,19 +3562,7 @@
                 2.0
             ],
             [
-                "SG esports",
-                1.0
-            ],
-            [
-                "Latam Defenders",
-                0.0
-            ],
-            [
-                "Nemiga Gaming",
-                0.0
-            ],
-            [
-                "Team Empire",
+                "Fantastic Five",
                 1.0
             ],
             [
@@ -5858,35 +3570,11 @@
                 1.0
             ],
             [
-                "Fantastic Five",
-                1.0
-            ]
-        ]
-    },
-    {
-        "name": "Shadow Shaman Picks For",
-        "id": "Shadow Shaman Picks",
-        "data": [
-            [
-                "Hokori",
+                "Team Empire",
                 1.0
             ],
             [
-                "BINOMISTAS",
-                1.0
-            ]
-        ]
-    },
-    {
-        "name": "Shadow Shaman Bans Against",
-        "id": "Shadow Shaman Bans",
-        "data": [
-            [
-                "Hokori",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
+                "Nemiga Gaming",
                 0.0
             ]
         ]
@@ -5895,14 +3583,6 @@
         "name": "Slardar Picks For",
         "id": "Slardar Picks",
         "data": [
-            [
-                "Hokori",
-                1.0
-            ],
-            [
-                "Infamous Gaming",
-                1.0
-            ],
             [
                 "PuckChamp",
                 1.0
@@ -5914,51 +3594,7 @@
         "id": "Slardar Bans",
         "data": [
             [
-                "Hokori",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
                 "PuckChamp",
-                0.0
-            ]
-        ]
-    },
-    {
-        "name": "Snapfire Picks For",
-        "id": "Snapfire Picks",
-        "data": [
-            [
-                "Infamous Gaming",
-                2.0
-            ],
-            [
-                "Unknown Team",
-                2.0
-            ],
-            [
-                "Omega Gaming",
-                1.0
-            ]
-        ]
-    },
-    {
-        "name": "Snapfire Bans Against",
-        "id": "Snapfire Bans",
-        "data": [
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "Unknown Team",
-                0.0
-            ],
-            [
-                "Omega Gaming",
                 0.0
             ]
         ]
@@ -5972,35 +3608,7 @@
                 2.0
             ],
             [
-                "EGOBOYS",
-                2.0
-            ],
-            [
                 "Nemiga Gaming",
-                0.0
-            ],
-            [
-                "Trident Clan",
-                1.0
-            ],
-            [
-                "Infinity",
-                2.0
-            ],
-            [
-                "Team Unique",
-                0.0
-            ],
-            [
-                "HellRaisers",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
-                "PuckChamp",
                 0.0
             ],
             [
@@ -6008,15 +3616,19 @@
                 0.0
             ],
             [
-                "Winstrike Team",
-                1.0
+                "PuckChamp",
+                0.0
             ],
             [
-                "NoTechies",
-                1.0
+                "HellRaisers",
+                0.0
             ],
             [
-                "AS Monaco Gambit",
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Trident Clan",
                 1.0
             ],
             [
@@ -6024,8 +3636,16 @@
                 0.0
             ],
             [
-                "BINOMISTAS",
-                0.0
+                "NoTechies",
+                1.0
+            ],
+            [
+                "Winstrike Team",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
             ]
         ]
     },
@@ -6038,23 +3658,15 @@
                 3.0
             ],
             [
-                "EGOBOYS",
-                2.0
-            ],
-            [
                 "Nemiga Gaming",
                 3.0
             ],
             [
-                "Trident Clan",
-                1.0
+                "Natus Vincere",
+                2.0
             ],
             [
-                "Infinity",
-                0.0
-            ],
-            [
-                "Team Unique",
+                "PuckChamp",
                 2.0
             ],
             [
@@ -6062,36 +3674,28 @@
                 2.0
             ],
             [
-                "Infamous Gaming",
+                "Team Unique",
+                2.0
+            ],
+            [
+                "Trident Clan",
                 1.0
-            ],
-            [
-                "PuckChamp",
-                2.0
-            ],
-            [
-                "Natus Vincere",
-                2.0
-            ],
-            [
-                "Winstrike Team",
-                0.0
-            ],
-            [
-                "NoTechies",
-                0.0
-            ],
-            [
-                "AS Monaco Gambit",
-                0.0
             ],
             [
                 "Team Spirit",
                 1.0
             ],
             [
-                "BINOMISTAS",
-                1.0
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Winstrike Team",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
             ]
         ]
     },
@@ -6100,10 +3704,6 @@
         "id": "Storm Spirit Picks",
         "data": [
             [
-                "EGOBOYS",
-                2.0
-            ],
-            [
                 "Team Spirit",
                 0.0
             ],
@@ -6112,23 +3712,7 @@
                 0.0
             ],
             [
-                "Interitus",
-                0.0
-            ],
-            [
                 "Fantastic Five",
-                0.0
-            ],
-            [
-                "Unknown Team",
-                0.0
-            ],
-            [
-                "Natus Vincere",
-                1.0
-            ],
-            [
-                "NoPing Esports",
                 0.0
             ],
             [
@@ -6138,6 +3722,10 @@
             [
                 "PuckChamp",
                 0.0
+            ],
+            [
+                "Natus Vincere",
+                1.0
             ]
         ]
     },
@@ -6146,10 +3734,6 @@
         "id": "Storm Spirit Bans",
         "data": [
             [
-                "EGOBOYS",
-                1.0
-            ],
-            [
                 "Team Spirit",
                 2.0
             ],
@@ -6158,24 +3742,8 @@
                 2.0
             ],
             [
-                "Interitus",
-                2.0
-            ],
-            [
                 "Fantastic Five",
                 2.0
-            ],
-            [
-                "Unknown Team",
-                1.0
-            ],
-            [
-                "Natus Vincere",
-                0.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
             ],
             [
                 " EXTREMUM",
@@ -6184,6 +3752,10 @@
             [
                 "PuckChamp",
                 1.0
+            ],
+            [
+                "Natus Vincere",
+                0.0
             ]
         ]
     },
@@ -6191,14 +3763,6 @@
         "name": "Sven Picks For",
         "id": "Sven Picks",
         "data": [
-            [
-                "NoPing Esports",
-                2.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
             [
                 "Natus Vincere",
                 0.0
@@ -6213,14 +3777,6 @@
         "name": "Sven Bans Against",
         "id": "Sven Bans",
         "data": [
-            [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
             [
                 "Natus Vincere",
                 1.0
@@ -6276,31 +3832,15 @@
                 0.0
             ],
             [
-                "Team Spirit",
-                3.0
-            ],
-            [
-                "Infamous Gaming",
-                2.0
-            ],
-            [
                 "Winstrike Team",
                 2.0
             ],
             [
-                "EGOBOYS",
-                1.0
+                "Team Spirit",
+                3.0
             ],
             [
-                "SG esports",
-                1.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
+                " EXTREMUM",
                 0.0
             ],
             [
@@ -6308,27 +3848,15 @@
                 0.0
             ],
             [
-                " EXTREMUM",
-                0.0
-            ],
-            [
                 "B8",
                 0.0
             ],
             [
-                "Interitus",
-                0.0
-            ],
-            [
-                "Unknown Team",
-                0.0
-            ],
-            [
-                "Nemiga Gaming",
+                "NoTechies",
                 1.0
             ],
             [
-                "NoTechies",
+                "Nemiga Gaming",
                 1.0
             ]
         ]
@@ -6350,31 +3878,15 @@
                 3.0
             ],
             [
-                "Team Spirit",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
                 "Winstrike Team",
                 1.0
             ],
             [
-                "EGOBOYS",
-                1.0
+                "Team Spirit",
+                0.0
             ],
             [
-                "SG esports",
-                1.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
+                " EXTREMUM",
                 2.0
             ],
             [
@@ -6382,27 +3894,15 @@
                 2.0
             ],
             [
-                " EXTREMUM",
-                2.0
-            ],
-            [
                 "B8",
                 1.0
             ],
             [
-                "Interitus",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                1.0
-            ],
-            [
-                "Nemiga Gaming",
+                "NoTechies",
                 0.0
             ],
             [
-                "NoTechies",
+                "Nemiga Gaming",
                 0.0
             ]
         ]
@@ -6412,40 +3912,16 @@
         "id": "Terrorblade Picks",
         "data": [
             [
-                "Hokori",
+                "Nemiga Gaming",
                 1.0
-            ],
-            [
-                "SG esports",
-                3.0
-            ],
-            [
-                "NoPing Esports",
-                2.0
-            ],
-            [
-                "Unknown Team",
-                1.0
-            ],
-            [
-                "Natus Vincere",
-                0.0
             ],
             [
                 "Team Spirit",
                 1.0
             ],
             [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "Nemiga Gaming",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
-                3.0
+                "Natus Vincere",
+                0.0
             ],
             [
                 "PuckChamp",
@@ -6456,20 +3932,16 @@
                 2.0
             ],
             [
-                "AS Monaco Gambit",
-                2.0
+                "HellRaisers",
+                0.0
             ],
             [
                 "Team Unique",
                 1.0
             ],
             [
-                "HellRaisers",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
+                "AS Monaco Gambit",
+                2.0
             ],
             [
                 "Winstrike Team",
@@ -6480,15 +3952,11 @@
                 0.0
             ],
             [
-                "Team Empire",
-                0.0
-            ],
-            [
                 "NoTechies",
                 0.0
             ],
             [
-                "Inverse",
+                "Team Empire",
                 0.0
             ]
         ]
@@ -6498,40 +3966,16 @@
         "id": "Terrorblade Bans",
         "data": [
             [
-                "Hokori",
-                4.0
-            ],
-            [
-                "SG esports",
-                1.0
-            ],
-            [
-                "NoPing Esports",
+                "Nemiga Gaming",
                 2.0
-            ],
-            [
-                "Unknown Team",
-                3.0
-            ],
-            [
-                "Natus Vincere",
-                3.0
             ],
             [
                 "Team Spirit",
                 2.0
             ],
             [
-                "EGOBOYS",
-                2.0
-            ],
-            [
-                "Nemiga Gaming",
-                2.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
+                "Natus Vincere",
+                3.0
             ],
             [
                 "PuckChamp",
@@ -6542,20 +3986,16 @@
                 1.0
             ],
             [
-                "AS Monaco Gambit",
-                0.0
+                "HellRaisers",
+                2.0
             ],
             [
                 "Team Unique",
                 1.0
             ],
             [
-                "HellRaisers",
-                2.0
-            ],
-            [
-                "Infamous Gaming",
-                2.0
+                "AS Monaco Gambit",
+                0.0
             ],
             [
                 "Winstrike Team",
@@ -6566,15 +4006,11 @@
                 1.0
             ],
             [
-                "Team Empire",
-                1.0
-            ],
-            [
                 "NoTechies",
                 1.0
             ],
             [
-                "Inverse",
+                "Team Empire",
                 1.0
             ]
         ]
@@ -6583,10 +4019,6 @@
         "name": "Tidehunter Picks For",
         "id": "Tidehunter Picks",
         "data": [
-            [
-                "NoPing Esports",
-                3.0
-            ],
             [
                 "Nemiga Gaming",
                 0.0
@@ -6600,10 +4032,6 @@
                 0.0
             ],
             [
-                "Infinity",
-                2.0
-            ],
-            [
                 "Natus Vincere",
                 2.0
             ],
@@ -6612,27 +4040,15 @@
                 0.0
             ],
             [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
                 "Team Spirit",
                 1.0
             ],
             [
-                " EXTREMUM",
-                0.0
-            ],
-            [
-                "Unknown Team",
-                0.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
-            [
                 "HellRaisers",
+                0.0
+            ],
+            [
+                " EXTREMUM",
                 0.0
             ],
             [
@@ -6646,10 +4062,6 @@
         "id": "Tidehunter Bans",
         "data": [
             [
-                "NoPing Esports",
-                2.0
-            ],
-            [
                 "Nemiga Gaming",
                 3.0
             ],
@@ -6662,10 +4074,6 @@
                 3.0
             ],
             [
-                "Infinity",
-                1.0
-            ],
-            [
                 "Natus Vincere",
                 1.0
             ],
@@ -6674,27 +4082,15 @@
                 2.0
             ],
             [
-                "Infamous Gaming",
-                2.0
-            ],
-            [
                 "Team Spirit",
                 1.0
             ],
             [
-                " EXTREMUM",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                1.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
                 "HellRaisers",
+                1.0
+            ],
+            [
+                " EXTREMUM",
                 1.0
             ],
             [
@@ -6708,14 +4104,6 @@
         "id": "Timbersaw Picks",
         "data": [
             [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
                 "Team Empire",
                 2.0
             ],
@@ -6724,20 +4112,8 @@
                 1.0
             ],
             [
-                "Hokori",
-                1.0
-            ],
-            [
                 "B8",
                 1.0
-            ],
-            [
-                "SG esports",
-                0.0
-            ],
-            [
-                "Unknown Team",
-                0.0
             ],
             [
                 " EXTREMUM",
@@ -6748,15 +4124,11 @@
                 0.0
             ],
             [
-                "Fantastic Five",
-                0.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
                 "Winstrike Team",
+                0.0
+            ],
+            [
+                "Fantastic Five",
                 0.0
             ],
             [
@@ -6772,15 +4144,11 @@
                 1.0
             ],
             [
-                "EGOBOYS",
+                "Team Spirit",
                 1.0
             ],
             [
                 "NoTechies",
-                1.0
-            ],
-            [
-                "Team Spirit",
                 1.0
             ]
         ]
@@ -6790,14 +4158,6 @@
         "id": "Timbersaw Bans",
         "data": [
             [
-                "NoPing Esports",
-                8.0
-            ],
-            [
-                "Infamous Gaming",
-                8.0
-            ],
-            [
                 "Team Empire",
                 4.0
             ],
@@ -6806,19 +4166,7 @@
                 5.0
             ],
             [
-                "Hokori",
-                3.0
-            ],
-            [
                 "B8",
-                3.0
-            ],
-            [
-                "SG esports",
-                4.0
-            ],
-            [
-                "Unknown Team",
                 3.0
             ],
             [
@@ -6830,15 +4178,11 @@
                 2.0
             ],
             [
-                "Fantastic Five",
-                2.0
-            ],
-            [
-                "Inverse",
-                2.0
-            ],
-            [
                 "Winstrike Team",
+                2.0
+            ],
+            [
+                "Fantastic Five",
                 2.0
             ],
             [
@@ -6854,15 +4198,11 @@
                 0.0
             ],
             [
-                "EGOBOYS",
+                "Team Spirit",
                 0.0
             ],
             [
                 "NoTechies",
-                0.0
-            ],
-            [
-                "Team Spirit",
                 0.0
             ]
         ]
@@ -6872,28 +4212,8 @@
         "id": "Tiny Picks",
         "data": [
             [
-                "NoPing Esports",
-                5.0
-            ],
-            [
                 "Team Empire",
                 0.0
-            ],
-            [
-                "Latam Defenders",
-                2.0
-            ],
-            [
-                "Omega Gaming",
-                2.0
-            ],
-            [
-                "Inverse",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
             ],
             [
                 "Natus Vincere",
@@ -6905,10 +4225,6 @@
             ],
             [
                 "HellRaisers",
-                1.0
-            ],
-            [
-                "Infinity",
                 1.0
             ]
         ]
@@ -6918,28 +4234,8 @@
         "id": "Tiny Bans",
         "data": [
             [
-                "NoPing Esports",
-                4.0
-            ],
-            [
                 "Team Empire",
                 2.0
-            ],
-            [
-                "Latam Defenders",
-                0.0
-            ],
-            [
-                "Omega Gaming",
-                0.0
-            ],
-            [
-                "Inverse",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
             ],
             [
                 "Natus Vincere",
@@ -6952,10 +4248,6 @@
             [
                 "HellRaisers",
                 0.0
-            ],
-            [
-                "Infinity",
-                0.0
             ]
         ]
     },
@@ -6964,23 +4256,11 @@
         "id": "Treant Protector Picks",
         "data": [
             [
-                "Hokori",
-                2.0
-            ],
-            [
-                "Infinity",
-                0.0
-            ],
-            [
-                "Fantastic Five",
-                1.0
-            ],
-            [
                 "Natus Vincere",
                 1.0
             ],
             [
-                "Infamous Gaming",
+                "Fantastic Five",
                 1.0
             ]
         ]
@@ -6990,23 +4270,11 @@
         "id": "Treant Protector Bans",
         "data": [
             [
-                "Hokori",
-                0.0
-            ],
-            [
-                "Infinity",
-                1.0
-            ],
-            [
-                "Fantastic Five",
-                0.0
-            ],
-            [
                 "Natus Vincere",
                 0.0
             ],
             [
-                "Infamous Gaming",
+                "Fantastic Five",
                 0.0
             ]
         ]
@@ -7016,24 +4284,12 @@
         "id": "Troll Warlord Picks",
         "data": [
             [
-                "Nemiga Gaming",
-                0.0
-            ],
-            [
                 "Natus Vincere",
                 0.0
             ],
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "Latam Defenders",
-                1.0
+                "Nemiga Gaming",
+                0.0
             ]
         ]
     },
@@ -7042,24 +4298,12 @@
         "id": "Troll Warlord Bans",
         "data": [
             [
-                "Nemiga Gaming",
-                1.0
-            ],
-            [
                 "Natus Vincere",
                 1.0
             ],
             [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Latam Defenders",
-                0.0
+                "Nemiga Gaming",
+                1.0
             ]
         ]
     },
@@ -7068,27 +4312,7 @@
         "id": "Tusk Picks",
         "data": [
             [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
                 "Nemiga Gaming",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "Infinity",
-                1.0
-            ],
-            [
-                "Inverse",
-                1.0
-            ],
-            [
-                "Unknown Team",
                 1.0
             ]
         ]
@@ -7098,27 +4322,7 @@
         "id": "Tusk Bans",
         "data": [
             [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
                 "Nemiga Gaming",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Infinity",
-                0.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
-                "Unknown Team",
                 0.0
             ]
         ]
@@ -7156,16 +4360,8 @@
         "id": "Undying Picks",
         "data": [
             [
-                "Hokori",
-                2.0
-            ],
-            [
                 "PuckChamp",
                 2.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
             ]
         ]
     },
@@ -7174,16 +4370,8 @@
         "id": "Undying Bans",
         "data": [
             [
-                "Hokori",
-                1.0
-            ],
-            [
                 "PuckChamp",
                 1.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
             ]
         ]
     },
@@ -7200,19 +4388,11 @@
                 1.0
             ],
             [
-                "EGOBOYS",
+                "Team Spirit",
                 0.0
             ],
             [
                 "Fantastic Five",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "Team Spirit",
                 0.0
             ],
             [
@@ -7224,39 +4404,15 @@
                 1.0
             ],
             [
-                "Hokori",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
                 "AS Monaco Gambit",
                 0.0
             ],
             [
-                "Unknown Team",
+                "B8",
                 0.0
             ],
             [
                 "Team Empire",
-                0.0
-            ],
-            [
-                "NoPing Esports",
-                0.0
-            ],
-            [
-                "Latam Defenders",
-                0.0
-            ],
-            [
-                "Interitus",
-                0.0
-            ],
-            [
-                "B8",
                 0.0
             ]
         ]
@@ -7274,19 +4430,11 @@
                 2.0
             ],
             [
-                "EGOBOYS",
+                "Team Spirit",
                 2.0
             ],
             [
                 "Fantastic Five",
-                2.0
-            ],
-            [
-                "Infamous Gaming",
-                2.0
-            ],
-            [
-                "Team Spirit",
                 2.0
             ],
             [
@@ -7298,108 +4446,16 @@
                 1.0
             ],
             [
-                "Hokori",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
                 "AS Monaco Gambit",
-                1.0
-            ],
-            [
-                "Unknown Team",
-                1.0
-            ],
-            [
-                "Team Empire",
-                1.0
-            ],
-            [
-                "NoPing Esports",
-                1.0
-            ],
-            [
-                "Latam Defenders",
-                1.0
-            ],
-            [
-                "Interitus",
                 1.0
             ],
             [
                 "B8",
                 1.0
-            ]
-        ]
-    },
-    {
-        "name": "Venomancer Picks For",
-        "id": "Venomancer Picks",
-        "data": [
-            [
-                "NoPing Esports",
-                2.0
             ],
             [
-                "Unknown Team",
-                0.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
-            [
-                "Infinity",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Inverse",
+                "Team Empire",
                 1.0
-            ],
-            [
-                "Infamous Gaming",
-                1.0
-            ]
-        ]
-    },
-    {
-        "name": "Venomancer Bans Against",
-        "id": "Venomancer Bans",
-        "data": [
-            [
-                "NoPing Esports",
-                0.0
-            ],
-            [
-                "Unknown Team",
-                2.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
-                "Infinity",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "Inverse",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
             ]
         ]
     },
@@ -7408,39 +4464,19 @@
         "id": "Viper Picks",
         "data": [
             [
-                "NoPing Esports",
-                2.0
-            ],
-            [
                 "AS Monaco Gambit",
                 1.0
-            ],
-            [
-                "HellRaisers",
-                2.0
             ],
             [
                 "Team Spirit",
                 0.0
             ],
             [
-                "Team Unique",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                0.0
-            ],
-            [
-                "Unknown Team",
+                "HellRaisers",
                 2.0
             ],
             [
-                "Hokori",
-                1.0
-            ],
-            [
-                "Winstrike Team",
+                "Team Unique",
                 0.0
             ],
             [
@@ -7448,27 +4484,7 @@
                 0.0
             ],
             [
-                "B8",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
-                "Nemiga Gaming",
-                0.0
-            ],
-            [
-                "Omega Gaming",
-                0.0
-            ],
-            [
-                "SG esports",
+                "Winstrike Team",
                 0.0
             ],
             [
@@ -7476,7 +4492,15 @@
                 0.0
             ],
             [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
                 "Team Empire",
+                0.0
+            ],
+            [
+                "B8",
                 0.0
             ],
             [
@@ -7485,10 +4509,6 @@
             ],
             [
                 "Fantastic Five",
-                1.0
-            ],
-            [
-                "Infinity",
                 1.0
             ]
         ]
@@ -7498,11 +4518,11 @@
         "id": "Viper Bans",
         "data": [
             [
-                "NoPing Esports",
-                6.0
+                "AS Monaco Gambit",
+                4.0
             ],
             [
-                "AS Monaco Gambit",
+                "Team Spirit",
                 4.0
             ],
             [
@@ -7510,43 +4530,19 @@
                 2.0
             ],
             [
-                "Team Spirit",
-                4.0
-            ],
-            [
                 "Team Unique",
                 3.0
-            ],
-            [
-                "EGOBOYS",
-                3.0
-            ],
-            [
-                "Unknown Team",
-                1.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
-                "Winstrike Team",
-                2.0
             ],
             [
                 "Natus Vincere",
                 2.0
             ],
             [
-                "B8",
-                1.0
+                "Winstrike Team",
+                2.0
             ],
             [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "Infamous Gaming",
+                "Trident Clan",
                 1.0
             ],
             [
@@ -7554,19 +4550,11 @@
                 1.0
             ],
             [
-                "Omega Gaming",
-                1.0
-            ],
-            [
-                "SG esports",
-                1.0
-            ],
-            [
-                "Trident Clan",
-                1.0
-            ],
-            [
                 "Team Empire",
+                1.0
+            ],
+            [
+                "B8",
                 1.0
             ],
             [
@@ -7576,10 +4564,6 @@
             [
                 "Fantastic Five",
                 0.0
-            ],
-            [
-                "Infinity",
-                0.0
             ]
         ]
     },
@@ -7588,27 +4572,11 @@
         "id": "Void Spirit Picks",
         "data": [
             [
-                "Infinity",
-                3.0
-            ],
-            [
                 "Fantastic Five",
                 2.0
             ],
             [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "Hokori",
-                0.0
-            ],
-            [
-                "Latam Defenders",
+                "PuckChamp",
                 0.0
             ],
             [
@@ -7616,19 +4584,7 @@
                 0.0
             ],
             [
-                "PuckChamp",
-                0.0
-            ],
-            [
                 "AS Monaco Gambit",
-                1.0
-            ],
-            [
-                "Omega Gaming",
-                1.0
-            ],
-            [
-                "Unknown Team",
                 1.0
             ]
         ]
@@ -7638,27 +4594,11 @@
         "id": "Void Spirit Bans",
         "data": [
             [
-                "Infinity",
-                2.0
-            ],
-            [
                 "Fantastic Five",
                 2.0
             ],
             [
-                "BINOMISTAS",
-                2.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
-                "Hokori",
-                1.0
-            ],
-            [
-                "Latam Defenders",
+                "PuckChamp",
                 1.0
             ],
             [
@@ -7666,19 +4606,7 @@
                 1.0
             ],
             [
-                "PuckChamp",
-                1.0
-            ],
-            [
                 "AS Monaco Gambit",
-                0.0
-            ],
-            [
-                "Omega Gaming",
-                0.0
-            ],
-            [
-                "Unknown Team",
                 0.0
             ]
         ]
@@ -7688,19 +4616,19 @@
         "id": "Warlock Picks",
         "data": [
             [
-                "Team Empire",
-                0.0
-            ],
-            [
                 "NoTechies",
                 0.0
             ],
             [
-                "AS Monaco Gambit",
-                1.0
+                "Team Empire",
+                0.0
             ],
             [
                 "Trident Clan",
+                1.0
+            ],
+            [
+                "AS Monaco Gambit",
                 1.0
             ]
         ]
@@ -7710,19 +4638,19 @@
         "id": "Warlock Bans",
         "data": [
             [
-                "Team Empire",
-                1.0
-            ],
-            [
                 "NoTechies",
                 1.0
             ],
             [
-                "AS Monaco Gambit",
-                0.0
+                "Team Empire",
+                1.0
             ],
             [
                 "Trident Clan",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
                 0.0
             ]
         ]
@@ -7756,11 +4684,11 @@
                 2.0
             ],
             [
-                "Team Empire",
+                "Nemiga Gaming",
                 1.0
             ],
             [
-                "Nemiga Gaming",
+                "Team Empire",
                 1.0
             ],
             [
@@ -7778,11 +4706,11 @@
                 1.0
             ],
             [
-                "Team Empire",
+                "Nemiga Gaming",
                 0.0
             ],
             [
-                "Nemiga Gaming",
+                "Team Empire",
                 0.0
             ],
             [
@@ -7808,19 +4736,11 @@
                 1.0
             ],
             [
-                "Hokori",
-                0.0
-            ],
-            [
                 "PuckChamp",
                 3.0
             ],
             [
                 "Winstrike Team",
-                2.0
-            ],
-            [
-                "NoPing Esports",
                 2.0
             ],
             [
@@ -7836,31 +4756,11 @@
                 0.0
             ],
             [
-                "SG esports",
-                0.0
-            ],
-            [
-                "Infinity",
-                0.0
-            ],
-            [
-                "BINOMISTAS",
-                0.0
-            ],
-            [
-                "Interitus",
-                1.0
-            ],
-            [
-                "Team Spirit",
-                1.0
-            ],
-            [
                 "Team Unique",
                 1.0
             ],
             [
-                "Infamous Gaming",
+                "Team Spirit",
                 1.0
             ],
             [
@@ -7886,20 +4786,12 @@
                 2.0
             ],
             [
-                "Hokori",
-                3.0
-            ],
-            [
                 "PuckChamp",
                 0.0
             ],
             [
                 "Winstrike Team",
                 1.0
-            ],
-            [
-                "NoPing Esports",
-                0.0
             ],
             [
                 " EXTREMUM",
@@ -7914,31 +4806,11 @@
                 1.0
             ],
             [
-                "SG esports",
-                1.0
-            ],
-            [
-                "Infinity",
-                1.0
-            ],
-            [
-                "BINOMISTAS",
-                1.0
-            ],
-            [
-                "Interitus",
-                0.0
-            ],
-            [
-                "Team Spirit",
-                0.0
-            ],
-            [
                 "Team Unique",
                 0.0
             ],
             [
-                "Infamous Gaming",
+                "Team Spirit",
                 0.0
             ],
             [
@@ -7952,27 +4824,11 @@
         "id": "Witch Doctor Picks",
         "data": [
             [
-                "Hokori",
-                0.0
-            ],
-            [
-                "HellRaisers",
-                1.0
-            ],
-            [
-                "Infamous Gaming",
-                1.0
-            ],
-            [
                 "PuckChamp",
                 1.0
             ],
             [
-                "Unknown Team",
-                1.0
-            ],
-            [
-                "Inverse",
+                "HellRaisers",
                 1.0
             ]
         ]
@@ -7982,27 +4838,11 @@
         "id": "Witch Doctor Bans",
         "data": [
             [
-                "Hokori",
-                1.0
-            ],
-            [
-                "HellRaisers",
-                0.0
-            ],
-            [
-                "Infamous Gaming",
-                0.0
-            ],
-            [
                 "PuckChamp",
                 0.0
             ],
             [
-                "Unknown Team",
-                0.0
-            ],
-            [
-                "Inverse",
+                "HellRaisers",
                 0.0
             ]
         ]
@@ -8016,23 +4856,11 @@
                 1.0
             ],
             [
-                "Infinity",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
                 "AS Monaco Gambit",
                 1.0
             ],
             [
-                "Team Spirit",
-                0.0
-            ],
-            [
-                "Natus Vincere",
+                "B8",
                 0.0
             ],
             [
@@ -8040,12 +4868,12 @@
                 0.0
             ],
             [
-                "B8",
+                "Natus Vincere",
                 0.0
             ],
             [
-                "Omega Gaming",
-                1.0
+                "Team Spirit",
+                0.0
             ]
         ]
     },
@@ -8058,27 +4886,7 @@
                 2.0
             ],
             [
-                "Infinity",
-                1.0
-            ],
-            [
-                "EGOBOYS",
-                1.0
-            ],
-            [
                 "AS Monaco Gambit",
-                1.0
-            ],
-            [
-                "Team Spirit",
-                1.0
-            ],
-            [
-                "Natus Vincere",
-                1.0
-            ],
-            [
-                "HellRaisers",
                 1.0
             ],
             [
@@ -8086,8 +4894,16 @@
                 1.0
             ],
             [
-                "Omega Gaming",
-                0.0
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Natus Vincere",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
             ]
         ]
     },

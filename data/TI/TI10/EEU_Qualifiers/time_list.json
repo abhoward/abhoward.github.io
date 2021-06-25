@@ -1,358 +1,198 @@
 [
     {
         "match": "AS Monaco Gambit vs HellRaisers",
-        "y": 75,
+        "y": 43,
         "name": 1186
     },
     {
-        "match": "Infamous Gaming vs Omega Gaming",
-        "y": 74,
-        "name": 1233
-    },
-    {
-        "match": "BINOMISTAS vs Inverse",
-        "y": 73,
-        "name": 1350
-    },
-    {
-        "match": "Infinity vs NoPing Esports",
-        "y": 72,
-        "name": 1432
-    },
-    {
-        "match": "Unknown Team vs Infinity",
-        "y": 71,
-        "name": 1446
-    },
-    {
         "match": " EXTREMUM vs Natus Vincere",
-        "y": 70,
+        "y": 42,
         "name": 1490
     },
     {
-        "match": "SG esports vs EGOBOYS",
-        "y": 69,
-        "name": 1498
-    },
-    {
-        "match": "NoPing Esports vs EGOBOYS",
-        "y": 68,
-        "name": 1548
-    },
-    {
         "match": "B8 vs NoTechies",
-        "y": 67,
+        "y": 41,
         "name": 1612
     },
     {
-        "match": "BINOMISTAS vs Inverse",
-        "y": 66,
-        "name": 1697
-    },
-    {
         "match": "Team Unique vs Team Empire",
-        "y": 65,
+        "y": 40,
         "name": 1709
     },
     {
-        "match": "EGOBOYS vs SG esports",
-        "y": 64,
-        "name": 1763
-    },
-    {
         "match": "HellRaisers vs AS Monaco Gambit",
-        "y": 63,
+        "y": 39,
         "name": 1767
     },
     {
-        "match": "NoPing Esports vs Infinity",
-        "y": 62,
-        "name": 1785
-    },
-    {
-        "match": "Hokori vs Latam Defenders",
-        "y": 61,
-        "name": 1850
-    },
-    {
-        "match": "NoPing Esports vs Interitus",
-        "y": 60,
-        "name": 1874
-    },
-    {
         "match": "PuckChamp vs Team Spirit",
-        "y": 59,
+        "y": 38,
         "name": 1886
     },
     {
         "match": "Team Unique vs B8",
-        "y": 58,
+        "y": 37,
         "name": 1893
     },
     {
-        "match": "EGOBOYS vs NoPing Esports",
-        "y": 57,
-        "name": 1903
-    },
-    {
-        "match": "Hokori vs NoPing Esports",
-        "y": 56,
-        "name": 1918
-    },
-    {
-        "match": "Latam Defenders vs Hokori",
-        "y": 55,
-        "name": 1946
-    },
-    {
         "match": "Trident Clan vs Nemiga Gaming",
-        "y": 54,
+        "y": 36,
         "name": 1982
     },
     {
         "match": "Team Empire vs Team Unique",
-        "y": 53,
+        "y": 35,
         "name": 1983
     },
     {
-        "match": "Infamous Gaming vs Omega Gaming",
-        "y": 52,
-        "name": 1984
-    },
-    {
         "match": "Nemiga Gaming vs  EXTREMUM",
-        "y": 51,
+        "y": 34,
         "name": 2013
     },
     {
-        "match": "Infinity vs NoPing Esports",
-        "y": 50,
-        "name": 2020
-    },
-    {
         "match": "Team Spirit vs Winstrike Team",
-        "y": 49,
+        "y": 33,
         "name": 2042
     },
     {
         "match": "PuckChamp vs Nemiga Gaming",
-        "y": 48,
+        "y": 32,
         "name": 2061
     },
     {
         "match": "HellRaisers vs Team Spirit",
-        "y": 47,
+        "y": 31,
         "name": 2068
     },
     {
         "match": "Natus Vincere vs HellRaisers",
-        "y": 46,
+        "y": 30,
         "name": 2074
     },
     {
         "match": "Nemiga Gaming vs Fantastic Five",
-        "y": 45,
+        "y": 29,
         "name": 2100
     },
     {
-        "match": "BINOMISTAS vs SG esports",
-        "y": 44,
-        "name": 2102
-    },
-    {
         "match": "Nemiga Gaming vs PuckChamp",
-        "y": 43,
+        "y": 28,
         "name": 2103
     },
     {
         "match": "AS Monaco Gambit vs Fantastic Five",
-        "y": 42,
+        "y": 27,
         "name": 2118
     },
     {
-        "match": "Unknown Team vs Hokori",
-        "y": 41,
-        "name": 2146
-    },
-    {
         "match": "HellRaisers vs Natus Vincere",
-        "y": 40,
+        "y": 26,
         "name": 2159
     },
     {
-        "match": "EGOBOYS vs Infamous Gaming",
-        "y": 39,
-        "name": 2160
-    },
-    {
         "match": "Nemiga Gaming vs PuckChamp",
-        "y": 38,
+        "y": 25,
         "name": 2184
     },
     {
-        "match": "BINOMISTAS vs SG esports",
-        "y": 37,
-        "name": 2186
-    },
-    {
         "match": "Fantastic Five vs Nemiga Gaming",
-        "y": 36,
+        "y": 24,
         "name": 2191
     },
     {
         "match": "HellRaisers vs AS Monaco Gambit",
-        "y": 35,
+        "y": 23,
         "name": 2205
     },
     {
-        "match": "Infamous Gaming vs BINOMISTAS",
-        "y": 34,
-        "name": 2245
-    },
-    {
         "match": "Team Empire vs Team Unique",
-        "y": 33,
+        "y": 22,
         "name": 2252
     },
     {
         "match": "Team Spirit vs Winstrike Team",
-        "y": 32,
+        "y": 21,
         "name": 2253
     },
     {
-        "match": "Interitus vs NoPing Esports",
-        "y": 31,
-        "name": 2255
-    },
-    {
-        "match": "Unknown Team vs Infinity",
-        "y": 30,
-        "name": 2260
-    },
-    {
-        "match": "Infamous Gaming vs BINOMISTAS",
-        "y": 29,
-        "name": 2272
-    },
-    {
         "match": "Team Spirit vs PuckChamp",
-        "y": 28,
+        "y": 20,
         "name": 2301
     },
     {
-        "match": "Infamous Gaming vs EGOBOYS",
-        "y": 27,
-        "name": 2337
-    },
-    {
         "match": "Winstrike Team vs Team Empire",
-        "y": 26,
+        "y": 19,
         "name": 2358
     },
     {
         "match": "Nemiga Gaming vs Trident Clan",
-        "y": 25,
+        "y": 18,
         "name": 2365
     },
     {
         "match": "Team Empire vs Natus Vincere",
-        "y": 24,
+        "y": 17,
         "name": 2371
     },
     {
         "match": "Natus Vincere vs Team Empire",
-        "y": 23,
+        "y": 16,
         "name": 2411
     },
     {
-        "match": "NoPing Esports vs Hokori",
-        "y": 22,
-        "name": 2414
-    },
-    {
         "match": " EXTREMUM vs Nemiga Gaming",
-        "y": 21,
+        "y": 15,
         "name": 2416
     },
     {
-        "match": "Hokori vs Unknown Team",
-        "y": 20,
-        "name": 2430
-    },
-    {
         "match": "B8 vs Team Unique",
-        "y": 19,
+        "y": 14,
         "name": 2445
     },
     {
         "match": "Nemiga Gaming vs Fantastic Five",
-        "y": 18,
+        "y": 13,
         "name": 2470
     },
     {
-        "match": "Unknown Team vs Infinity",
-        "y": 17,
-        "name": 2481
-    },
-    {
         "match": "PuckChamp vs Team Unique",
-        "y": 16,
+        "y": 12,
         "name": 2483
     },
     {
-        "match": "SG esports vs BINOMISTAS",
-        "y": 15,
-        "name": 2550
-    },
-    {
-        "match": "EGOBOYS vs Infamous Gaming",
-        "y": 14,
-        "name": 2550
-    },
-    {
         "match": "Natus Vincere vs  EXTREMUM",
-        "y": 13,
+        "y": 11,
         "name": 2601
     },
     {
         "match": "Team Empire vs Winstrike Team",
-        "y": 12,
+        "y": 10,
         "name": 2630
     },
     {
         "match": "Team Spirit vs HellRaisers",
-        "y": 11,
+        "y": 9,
         "name": 2660
     },
     {
         "match": "Team Empire vs Natus Vincere",
-        "y": 10,
+        "y": 8,
         "name": 2666
     },
     {
         "match": "Fantastic Five vs AS Monaco Gambit",
-        "y": 9,
+        "y": 7,
         "name": 2733
     },
     {
-        "match": "Unknown Team vs Hokori",
-        "y": 8,
-        "name": 2772
-    },
-    {
         "match": "Team Unique vs PuckChamp",
-        "y": 7,
+        "y": 6,
         "name": 2869
     },
     {
         "match": "Nemiga Gaming vs  EXTREMUM",
-        "y": 6,
-        "name": 2878
-    },
-    {
-        "match": "BINOMISTAS vs Infamous Gaming",
         "y": 5,
-        "name": 2923
+        "name": 2878
     },
     {
         "match": "B8 vs Team Unique",
