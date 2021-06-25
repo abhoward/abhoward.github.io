@@ -1,0 +1,8564 @@
+[
+    {
+        "name": "Abaddon Matches Played",
+        "id": "Abaddon Matches Played",
+        "data": [
+            [
+                "BINOMISTAS",
+                2
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Natus Vincere",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "Team Empire",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Matches Won",
+        "id": "Abaddon Matches Won",
+        "data": [
+            [
+                "BINOMISTAS",
+                2
+            ],
+            [
+                "EGOBOYS",
+                0
+            ],
+            [
+                "HellRaisers",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Natus Vincere",
+                0
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Win Rate",
+        "id": "Abaddon Win Rate",
+        "data": [
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.5
+            ],
+            [
+                "Natus Vincere",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.5
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Team Empire",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ancient Apparition Matches Played",
+        "id": "Ancient Apparition Matches Played",
+        "data": [
+            [
+                "EGOBOYS",
+                3
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Interitus",
+                1
+            ],
+            [
+                "Natus Vincere",
+                3
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "Omega Gaming",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Unknown Team",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Matches Won",
+        "id": "Ancient Apparition Matches Won",
+        "data": [
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Interitus",
+                0
+            ],
+            [
+                "Natus Vincere",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "NoPing Esports",
+                0
+            ],
+            [
+                "Omega Gaming",
+                0
+            ],
+            [
+                "PuckChamp",
+                0
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Win Rate",
+        "id": "Ancient Apparition Win Rate",
+        "data": [
+            [
+                "EGOBOYS",
+                0.3333333333333333
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Hokori",
+                0.5
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "Natus Vincere",
+                0.6666666666666666
+            ],
+            [
+                "Nemiga Gaming",
+                0.6666666666666666
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "PuckChamp",
+                0.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Arc Warden Matches Played",
+        "id": "Arc Warden Matches Played",
+        "data": [
+            [
+                "NoPing Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Matches Won",
+        "id": "Arc Warden Matches Won",
+        "data": [
+            [
+                "NoPing Esports",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Win Rate",
+        "id": "Arc Warden Win Rate",
+        "data": [
+            [
+                "NoPing Esports",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Axe Matches Played",
+        "id": "Axe Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                2
+            ],
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "EGOBOYS",
+                2
+            ],
+            [
+                "Fantastic Five",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Interitus",
+                2
+            ],
+            [
+                "Natus Vincere",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "PuckChamp",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ],
+            [
+                "Winstrike Team",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Axe Matches Won",
+        "id": "Axe Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "BINOMISTAS",
+                0
+            ],
+            [
+                "EGOBOYS",
+                0
+            ],
+            [
+                "Fantastic Five",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Interitus",
+                0
+            ],
+            [
+                "Natus Vincere",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "PuckChamp",
+                0
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ],
+            [
+                "Winstrike Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Win Rate",
+        "id": "Axe Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.5
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "Natus Vincere",
+                0.5
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "PuckChamp",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Winstrike Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Batrider Matches Played",
+        "id": "Batrider Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                2
+            ],
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Winstrike Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Matches Won",
+        "id": "Batrider Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                0
+            ],
+            [
+                "PuckChamp",
+                0
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Winstrike Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Win Rate",
+        "id": "Batrider Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.5
+            ],
+            [
+                "Hokori",
+                0.5
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "PuckChamp",
+                0.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Winstrike Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Beastmaster Matches Played",
+        "id": "Beastmaster Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Matches Won",
+        "id": "Beastmaster Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Win Rate",
+        "id": "Beastmaster Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bloodseeker Matches Played",
+        "id": "Bloodseeker Matches Played",
+        "data": [
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "Team Unique",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Matches Won",
+        "id": "Bloodseeker Matches Won",
+        "data": [
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "Team Unique",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Win Rate",
+        "id": "Bloodseeker Win Rate",
+        "data": [
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "PuckChamp",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Brewmaster Matches Played",
+        "id": "Brewmaster Matches Played",
+        "data": [
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Matches Won",
+        "id": "Brewmaster Matches Won",
+        "data": [
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Win Rate",
+        "id": "Brewmaster Win Rate",
+        "data": [
+            [
+                "Unknown Team",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bristleback Matches Played",
+        "id": "Bristleback Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Unknown Team",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Matches Won",
+        "id": "Bristleback Matches Won",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Win Rate",
+        "id": "Bristleback Win Rate",
+        "data": [
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Broodmother Matches Played",
+        "id": "Broodmother Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                2
+            ],
+            [
+                "BINOMISTAS",
+                2
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Matches Won",
+        "id": "Broodmother Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                0
+            ],
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Win Rate",
+        "id": "Broodmother Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                0.5
+            ],
+            [
+                "HellRaisers",
+                0.5
+            ],
+            [
+                "Hokori",
+                0.5
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Centaur Warrunner Matches Played",
+        "id": "Centaur Warrunner Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Latam Defenders",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "Omega Gaming",
+                1
+            ],
+            [
+                "Team Unique",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Matches Won",
+        "id": "Centaur Warrunner Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "Latam Defenders",
+                0
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "Omega Gaming",
+                0
+            ],
+            [
+                "Team Unique",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Win Rate",
+        "id": "Centaur Warrunner Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Clockwerk Matches Played",
+        "id": "Clockwerk Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "SG esports",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Matches Won",
+        "id": "Clockwerk Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                0
+            ],
+            [
+                "EGOBOYS",
+                0
+            ],
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "SG esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Win Rate",
+        "id": "Clockwerk Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "PuckChamp",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Crystal Maiden Matches Played",
+        "id": "Crystal Maiden Matches Played",
+        "data": [
+            [
+                "Nemiga Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Crystal Maiden Matches Won",
+        "id": "Crystal Maiden Matches Won",
+        "data": [
+            [
+                "Nemiga Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Crystal Maiden Win Rate",
+        "id": "Crystal Maiden Win Rate",
+        "data": [
+            [
+                "Nemiga Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dark Seer Matches Played",
+        "id": "Dark Seer Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "BINOMISTAS",
+                2
+            ],
+            [
+                "EGOBOYS",
+                3
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Matches Won",
+        "id": "Dark Seer Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Win Rate",
+        "id": "Dark Seer Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                0.5
+            ],
+            [
+                "EGOBOYS",
+                0.3333333333333333
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.5
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dark Willow Matches Played",
+        "id": "Dark Willow Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "EGOBOYS",
+                2
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "Natus Vincere",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                4
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Matches Won",
+        "id": "Dark Willow Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Natus Vincere",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Win Rate",
+        "id": "Dark Willow Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.5
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.5
+            ],
+            [
+                "Natus Vincere",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.5
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Death Prophet Matches Played",
+        "id": "Death Prophet Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ],
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "Natus Vincere",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "PuckChamp",
+                3
+            ],
+            [
+                "Team Unique",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Matches Won",
+        "id": "Death Prophet Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                0
+            ],
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "Natus Vincere",
+                0
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "Team Unique",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Win Rate",
+        "id": "Death Prophet Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Natus Vincere",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "PuckChamp",
+                0.3333333333333333
+            ],
+            [
+                "Team Unique",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Disruptor Matches Played",
+        "id": "Disruptor Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ],
+            [
+                "B8",
+                1
+            ],
+            [
+                "BINOMISTAS",
+                2
+            ],
+            [
+                "Team Unique",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Matches Won",
+        "id": "Disruptor Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                0
+            ],
+            [
+                "B8",
+                1
+            ],
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "Team Unique",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Win Rate",
+        "id": "Disruptor Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                0.5
+            ],
+            [
+                "Team Unique",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Doom Matches Played",
+        "id": "Doom Matches Played",
+        "data": [
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Natus Vincere",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Unique",
+                2
+            ],
+            [
+                "Unknown Team",
+                2
+            ],
+            [
+                "Winstrike Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Doom Matches Won",
+        "id": "Doom Matches Won",
+        "data": [
+            [
+                "EGOBOYS",
+                0
+            ],
+            [
+                "Natus Vincere",
+                0
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "Winstrike Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Win Rate",
+        "id": "Doom Win Rate",
+        "data": [
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Natus Vincere",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.5
+            ],
+            [
+                "Unknown Team",
+                0.5
+            ],
+            [
+                "Winstrike Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dragon Knight Matches Played",
+        "id": "Dragon Knight Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                2
+            ],
+            [
+                "BINOMISTAS",
+                4
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Interitus",
+                1
+            ],
+            [
+                "Natus Vincere",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "SG esports",
+                3
+            ],
+            [
+                "Team Empire",
+                4
+            ],
+            [
+                "Team Spirit",
+                3
+            ],
+            [
+                "Team Unique",
+                4
+            ],
+            [
+                "Winstrike Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Matches Won",
+        "id": "Dragon Knight Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Interitus",
+                0
+            ],
+            [
+                "Natus Vincere",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                0
+            ],
+            [
+                "NoPing Esports",
+                0
+            ],
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "Team Empire",
+                4
+            ],
+            [
+                "Team Spirit",
+                3
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Winstrike Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Win Rate",
+        "id": "Dragon Knight Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.5
+            ],
+            [
+                "BINOMISTAS",
+                0.25
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "Natus Vincere",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "SG esports",
+                0.6666666666666666
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.25
+            ],
+            [
+                "Winstrike Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Drow Ranger Matches Played",
+        "id": "Drow Ranger Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                2
+            ],
+            [
+                "Fantastic Five",
+                2
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Matches Won",
+        "id": "Drow Ranger Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                0
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Win Rate",
+        "id": "Drow Ranger Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.5
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Earth Spirit Matches Played",
+        "id": "Earth Spirit Matches Played",
+        "data": [
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                3
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Matches Won",
+        "id": "Earth Spirit Matches Won",
+        "data": [
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Win Rate",
+        "id": "Earth Spirit Win Rate",
+        "data": [
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.6666666666666666
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Elder Titan Matches Played",
+        "id": "Elder Titan Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Unique",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Matches Won",
+        "id": "Elder Titan Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "BINOMISTAS",
+                0
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Unique",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Win Rate",
+        "id": "Elder Titan Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ember Spirit Matches Played",
+        "id": "Ember Spirit Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ],
+            [
+                "Hokori",
+                4
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Inverse",
+                1
+            ],
+            [
+                "Latam Defenders",
+                1
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Unknown Team",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Matches Won",
+        "id": "Ember Spirit Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                0
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Inverse",
+                0
+            ],
+            [
+                "Latam Defenders",
+                0
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Win Rate",
+        "id": "Ember Spirit Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                0.0
+            ],
+            [
+                "Hokori",
+                0.25
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Enchantress Matches Played",
+        "id": "Enchantress Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                3
+            ],
+            [
+                "B8",
+                2
+            ],
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "Fantastic Five",
+                3
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Team Empire",
+                6
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Matches Won",
+        "id": "Enchantress Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ],
+            [
+                "B8",
+                1
+            ],
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Team Empire",
+                5
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Win Rate",
+        "id": "Enchantress Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                0.3333333333333333
+            ],
+            [
+                "B8",
+                0.5
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.3333333333333333
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Team Empire",
+                0.8333333333333334
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Faceless Void Matches Played",
+        "id": "Faceless Void Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                2
+            ],
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Natus Vincere",
+                1
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "Winstrike Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Matches Won",
+        "id": "Faceless Void Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Natus Vincere",
+                1
+            ],
+            [
+                "Team Unique",
+                0
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "Winstrike Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Win Rate",
+        "id": "Faceless Void Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.5
+            ],
+            [
+                "Hokori",
+                0.5
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Natus Vincere",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Winstrike Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Grimstroke Matches Played",
+        "id": "Grimstroke Matches Played",
+        "data": [
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Inverse",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Omega Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Matches Won",
+        "id": "Grimstroke Matches Won",
+        "data": [
+            [
+                "EGOBOYS",
+                0
+            ],
+            [
+                "HellRaisers",
+                0
+            ],
+            [
+                "Inverse",
+                0
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Omega Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Win Rate",
+        "id": "Grimstroke Win Rate",
+        "data": [
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Gyrocopter Matches Played",
+        "id": "Gyrocopter Matches Played",
+        "data": [
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                4
+            ],
+            [
+                "Interitus",
+                1
+            ],
+            [
+                "Natus Vincere",
+                4
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Matches Won",
+        "id": "Gyrocopter Matches Won",
+        "data": [
+            [
+                "BINOMISTAS",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                3
+            ],
+            [
+                "Interitus",
+                0
+            ],
+            [
+                "Natus Vincere",
+                2
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Win Rate",
+        "id": "Gyrocopter Win Rate",
+        "data": [
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.75
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "Natus Vincere",
+                0.5
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Hoodwink Matches Played",
+        "id": "Hoodwink Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                2
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "BINOMISTAS",
+                2
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Hokori",
+                3
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Interitus",
+                1
+            ],
+            [
+                "Natus Vincere",
+                2
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "Team Empire",
+                6
+            ],
+            [
+                "Team Spirit",
+                3
+            ],
+            [
+                "Team Unique",
+                3
+            ],
+            [
+                "Trident Clan",
+                1
+            ],
+            [
+                "Unknown Team",
+                3
+            ],
+            [
+                "Winstrike Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Matches Won",
+        "id": "Hoodwink Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "HellRaisers",
+                0
+            ],
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Interitus",
+                0
+            ],
+            [
+                "Natus Vincere",
+                2
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "Team Empire",
+                5
+            ],
+            [
+                "Team Spirit",
+                3
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ],
+            [
+                "Unknown Team",
+                2
+            ],
+            [
+                "Winstrike Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Win Rate",
+        "id": "Hoodwink Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                0.5
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Hokori",
+                0.6666666666666666
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "Natus Vincere",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "PuckChamp",
+                1.0
+            ],
+            [
+                "Team Empire",
+                0.8333333333333334
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.3333333333333333
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.6666666666666666
+            ],
+            [
+                "Winstrike Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Invoker Matches Played",
+        "id": "Invoker Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                2
+            ],
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                3
+            ],
+            [
+                "Natus Vincere",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Matches Won",
+        "id": "Invoker Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Natus Vincere",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Win Rate",
+        "id": "Invoker Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                0.6666666666666666
+            ],
+            [
+                "Natus Vincere",
+                0.5
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.5
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Io Matches Played",
+        "id": "Io Matches Played",
+        "data": [
+            [
+                "Natus Vincere",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Io Matches Won",
+        "id": "Io Matches Won",
+        "data": [
+            [
+                "Natus Vincere",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Io Win Rate",
+        "id": "Io Win Rate",
+        "data": [
+            [
+                "Natus Vincere",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Juggernaut Matches Played",
+        "id": "Juggernaut Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ],
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Inverse",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Winstrike Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Matches Won",
+        "id": "Juggernaut Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ],
+            [
+                "BINOMISTAS",
+                0
+            ],
+            [
+                "HellRaisers",
+                0
+            ],
+            [
+                "Inverse",
+                0
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Winstrike Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Win Rate",
+        "id": "Juggernaut Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Winstrike Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Keeper of the Light Matches Played",
+        "id": "Keeper of the Light Matches Played",
+        "data": [
+            [
+                "Nemiga Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Keeper of the Light Matches Won",
+        "id": "Keeper of the Light Matches Won",
+        "data": [
+            [
+                "Nemiga Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Keeper of the Light Win Rate",
+        "id": "Keeper of the Light Win Rate",
+        "data": [
+            [
+                "Nemiga Gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Kunkka Matches Played",
+        "id": "Kunkka Matches Played",
+        "data": [
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Inverse",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "Team Unique",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Matches Won",
+        "id": "Kunkka Matches Won",
+        "data": [
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Inverse",
+                0
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "Team Unique",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Win Rate",
+        "id": "Kunkka Win Rate",
+        "data": [
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Leshrac Matches Played",
+        "id": "Leshrac Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ],
+            [
+                "B8",
+                1
+            ],
+            [
+                "BINOMISTAS",
+                2
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Matches Won",
+        "id": "Leshrac Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                0
+            ],
+            [
+                "B8",
+                1
+            ],
+            [
+                "BINOMISTAS",
+                2
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                0
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Spirit",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Win Rate",
+        "id": "Leshrac Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "PuckChamp",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lifestealer Matches Played",
+        "id": "Lifestealer Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "Team Unique",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Matches Won",
+        "id": "Lifestealer Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                0
+            ],
+            [
+                "NoPing Esports",
+                0
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "Team Unique",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Win Rate",
+        "id": "Lifestealer Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.0
+            ],
+            [
+                "PuckChamp",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lina Matches Played",
+        "id": "Lina Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                2
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "HellRaisers",
+                4
+            ],
+            [
+                "Interitus",
+                1
+            ],
+            [
+                "PuckChamp",
+                2
+            ],
+            [
+                "Team Empire",
+                3
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Unique",
+                3
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lina Matches Won",
+        "id": "Lina Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                2
+            ],
+            [
+                "EGOBOYS",
+                0
+            ],
+            [
+                "HellRaisers",
+                3
+            ],
+            [
+                "Interitus",
+                0
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Win Rate",
+        "id": "Lina Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.75
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "PuckChamp",
+                0.5
+            ],
+            [
+                "Team Empire",
+                0.6666666666666666
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.3333333333333333
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lion Matches Played",
+        "id": "Lion Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                2
+            ],
+            [
+                "B8",
+                1
+            ],
+            [
+                "BINOMISTAS",
+                2
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Latam Defenders",
+                1
+            ],
+            [
+                "Natus Vincere",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "NoTechies",
+                2
+            ],
+            [
+                "PuckChamp",
+                4
+            ],
+            [
+                "Team Unique",
+                5
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "Winstrike Team",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Lion Matches Won",
+        "id": "Lion Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ],
+            [
+                "B8",
+                0
+            ],
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "HellRaisers",
+                0
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Latam Defenders",
+                0
+            ],
+            [
+                "Natus Vincere",
+                0
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "PuckChamp",
+                2
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ],
+            [
+                "Winstrike Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Win Rate",
+        "id": "Lion Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                0.5
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "BINOMISTAS",
+                0.5
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "Natus Vincere",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.6666666666666666
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "PuckChamp",
+                0.5
+            ],
+            [
+                "Team Unique",
+                0.2
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ],
+            [
+                "Winstrike Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Luna Matches Played",
+        "id": "Luna Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ],
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                2
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Inverse",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Empire",
+                3
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Unique",
+                3
+            ],
+            [
+                "Unknown Team",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Luna Matches Won",
+        "id": "Luna Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                0
+            ],
+            [
+                "B8",
+                1
+            ],
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "Inverse",
+                0
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Unique",
+                2
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Win Rate",
+        "id": "Luna Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                0.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Team Empire",
+                0.6666666666666666
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.6666666666666666
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Magnus Matches Played",
+        "id": "Magnus Matches Played",
+        "data": [
+            [
+                "B8",
+                2
+            ],
+            [
+                "HellRaisers",
+                3
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Matches Won",
+        "id": "Magnus Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                0
+            ],
+            [
+                "Team Empire",
+                0
+            ],
+            [
+                "Team Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Win Rate",
+        "id": "Magnus Win Rate",
+        "data": [
+            [
+                "B8",
+                0.5
+            ],
+            [
+                "HellRaisers",
+                0.6666666666666666
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Mars Matches Played",
+        "id": "Mars Matches Played",
+        "data": [
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Inverse",
+                1
+            ],
+            [
+                "Natus Vincere",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "SG esports",
+                3
+            ],
+            [
+                "Team Empire",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Mars Matches Won",
+        "id": "Mars Matches Won",
+        "data": [
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Inverse",
+                0
+            ],
+            [
+                "Natus Vincere",
+                0
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Mars Win Rate",
+        "id": "Mars Win Rate",
+        "data": [
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "Natus Vincere",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.3333333333333333
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "PuckChamp",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.6666666666666666
+            ],
+            [
+                "Team Empire",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Medusa Matches Played",
+        "id": "Medusa Matches Played",
+        "data": [
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "Omega Gaming",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Matches Won",
+        "id": "Medusa Matches Won",
+        "data": [
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "Omega Gaming",
+                0
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Win Rate",
+        "id": "Medusa Win Rate",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Team Empire",
+                0.5
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Mirana Matches Played",
+        "id": "Mirana Matches Played",
+        "data": [
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "Fantastic Five",
+                3
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Interitus",
+                1
+            ],
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "SG esports",
+                3
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Winstrike Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Matches Won",
+        "id": "Mirana Matches Won",
+        "data": [
+            [
+                "BINOMISTAS",
+                0
+            ],
+            [
+                "Fantastic Five",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Interitus",
+                0
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "SG esports",
+                3
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Winstrike Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Win Rate",
+        "id": "Mirana Win Rate",
+        "data": [
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.6666666666666666
+            ],
+            [
+                "Infamous Gaming",
+                0.5
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.6666666666666666
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Winstrike Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Monkey King Matches Played",
+        "id": "Monkey King Matches Played",
+        "data": [
+            [
+                "Natus Vincere",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Matches Won",
+        "id": "Monkey King Matches Won",
+        "data": [
+            [
+                "Natus Vincere",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Win Rate",
+        "id": "Monkey King Win Rate",
+        "data": [
+            [
+                "Natus Vincere",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Morphling Matches Played",
+        "id": "Morphling Matches Played",
+        "data": [
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "Natus Vincere",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Matches Won",
+        "id": "Morphling Matches Won",
+        "data": [
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "Natus Vincere",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Win Rate",
+        "id": "Morphling Win Rate",
+        "data": [
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Natus Vincere",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Naga Siren Matches Played",
+        "id": "Naga Siren Matches Played",
+        "data": [
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Natus Vincere",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren Matches Won",
+        "id": "Naga Siren Matches Won",
+        "data": [
+            [
+                "EGOBOYS",
+                0
+            ],
+            [
+                "Natus Vincere",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren Win Rate",
+        "id": "Naga Siren Win Rate",
+        "data": [
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Natus Vincere",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Nature's Prophet Matches Played",
+        "id": "Nature's Prophet Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "EGOBOYS",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Matches Won",
+        "id": "Nature's Prophet Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "EGOBOYS",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Win Rate",
+        "id": "Nature's Prophet Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Night Stalker Matches Played",
+        "id": "Night Stalker Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Matches Won",
+        "id": "Night Stalker Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Win Rate",
+        "id": "Night Stalker Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Nyx Assassin Matches Played",
+        "id": "Nyx Assassin Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                3
+            ],
+            [
+                "B8",
+                3
+            ],
+            [
+                "BINOMISTAS",
+                2
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Matches Won",
+        "id": "Nyx Assassin Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "B8",
+                2
+            ],
+            [
+                "BINOMISTAS",
+                2
+            ],
+            [
+                "EGOBOYS",
+                0
+            ],
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Spirit",
+                0
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Win Rate",
+        "id": "Nyx Assassin Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.3333333333333333
+            ],
+            [
+                "B8",
+                0.6666666666666666
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "PuckChamp",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Oracle Matches Played",
+        "id": "Oracle Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Matches Won",
+        "id": "Oracle Matches Won",
+        "data": [
+            [
+                "B8",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Spirit",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Win Rate",
+        "id": "Oracle Win Rate",
+        "data": [
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Pangolier Matches Played",
+        "id": "Pangolier Matches Played",
+        "data": [
+            [
+                "Latam Defenders",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "PuckChamp",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Matches Won",
+        "id": "Pangolier Matches Won",
+        "data": [
+            [
+                "Latam Defenders",
+                0
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "PuckChamp",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Win Rate",
+        "id": "Pangolier Win Rate",
+        "data": [
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.6666666666666666
+            ],
+            [
+                "PuckChamp",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Phantom Assassin Matches Played",
+        "id": "Phantom Assassin Matches Played",
+        "data": [
+            [
+                "Team Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Matches Won",
+        "id": "Phantom Assassin Matches Won",
+        "data": [
+            [
+                "Team Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Win Rate",
+        "id": "Phantom Assassin Win Rate",
+        "data": [
+            [
+                "Team Spirit",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Phantom Lancer Matches Played",
+        "id": "Phantom Lancer Matches Played",
+        "data": [
+            [
+                "B8",
+                2
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Latam Defenders",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Matches Won",
+        "id": "Phantom Lancer Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "HellRaisers",
+                0
+            ],
+            [
+                "Latam Defenders",
+                0
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "PuckChamp",
+                0
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Win Rate",
+        "id": "Phantom Lancer Win Rate",
+        "data": [
+            [
+                "B8",
+                0.5
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "PuckChamp",
+                0.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Phoenix Matches Played",
+        "id": "Phoenix Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                4
+            ],
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Infinity",
+                3
+            ],
+            [
+                "Latam Defenders",
+                1
+            ],
+            [
+                "Natus Vincere",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Spirit",
+                3
+            ],
+            [
+                "Team Unique",
+                3
+            ],
+            [
+                "Trident Clan",
+                1
+            ],
+            [
+                "Winstrike Team",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Matches Won",
+        "id": "Phoenix Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                0
+            ],
+            [
+                "AS Monaco Gambit",
+                2
+            ],
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "EGOBOYS",
+                0
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "Latam Defenders",
+                0
+            ],
+            [
+                "Natus Vincere",
+                1
+            ],
+            [
+                "SG esports",
+                0
+            ],
+            [
+                "Team Spirit",
+                3
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ],
+            [
+                "Winstrike Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Win Rate",
+        "id": "Phoenix Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                0.0
+            ],
+            [
+                "AS Monaco Gambit",
+                0.5
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.6666666666666666
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "Natus Vincere",
+                1.0
+            ],
+            [
+                "SG esports",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.3333333333333333
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Winstrike Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Puck Matches Played",
+        "id": "Puck Matches Played",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                3
+            ],
+            [
+                "Interitus",
+                1
+            ],
+            [
+                "Natus Vincere",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Puck Matches Won",
+        "id": "Puck Matches Won",
+        "data": [
+            [
+                "HellRaisers",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Interitus",
+                0
+            ],
+            [
+                "Natus Vincere",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Team Unique",
+                0
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Win Rate",
+        "id": "Puck Win Rate",
+        "data": [
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.6666666666666666
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "Natus Vincere",
+                0.5
+            ],
+            [
+                "Nemiga Gaming",
+                0.5
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Pudge Matches Played",
+        "id": "Pudge Matches Played",
+        "data": [
+            [
+                "NoTechies",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Pudge Matches Won",
+        "id": "Pudge Matches Won",
+        "data": [
+            [
+                "NoTechies",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Pudge Win Rate",
+        "id": "Pudge Win Rate",
+        "data": [
+            [
+                "NoTechies",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Pugna Matches Played",
+        "id": "Pugna Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Matches Won",
+        "id": "Pugna Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Win Rate",
+        "id": "Pugna Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Queen of Pain Matches Played",
+        "id": "Queen of Pain Matches Played",
+        "data": [
+            [
+                "NoPing Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Matches Won",
+        "id": "Queen of Pain Matches Won",
+        "data": [
+            [
+                "NoPing Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Win Rate",
+        "id": "Queen of Pain Win Rate",
+        "data": [
+            [
+                "NoPing Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Razor Matches Played",
+        "id": "Razor Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Razor Matches Won",
+        "id": "Razor Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Razor Win Rate",
+        "id": "Razor Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Rubick Matches Played",
+        "id": "Rubick Matches Played",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Matches Won",
+        "id": "Rubick Matches Won",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Win Rate",
+        "id": "Rubick Win Rate",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Sand King Matches Played",
+        "id": "Sand King Matches Played",
+        "data": [
+            [
+                "BINOMISTAS",
+                2
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Omega Gaming",
+                1
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ],
+            [
+                "Unknown Team",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Matches Won",
+        "id": "Sand King Matches Won",
+        "data": [
+            [
+                "BINOMISTAS",
+                2
+            ],
+            [
+                "HellRaisers",
+                0
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Omega Gaming",
+                0
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Trident Clan",
+                0
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Win Rate",
+        "id": "Sand King Win Rate",
+        "data": [
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "Team Unique",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Shadow Demon Matches Played",
+        "id": "Shadow Demon Matches Played",
+        "data": [
+            [
+                "HellRaisers",
+                3
+            ],
+            [
+                "Latam Defenders",
+                1
+            ],
+            [
+                "Natus Vincere",
+                3
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Matches Won",
+        "id": "Shadow Demon Matches Won",
+        "data": [
+            [
+                "HellRaisers",
+                3
+            ],
+            [
+                "Latam Defenders",
+                0
+            ],
+            [
+                "Natus Vincere",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Win Rate",
+        "id": "Shadow Demon Win Rate",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "Natus Vincere",
+                0.3333333333333333
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Shadow Shaman Matches Played",
+        "id": "Shadow Shaman Matches Played",
+        "data": [
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "Hokori",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Matches Won",
+        "id": "Shadow Shaman Matches Won",
+        "data": [
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "Hokori",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Win Rate",
+        "id": "Shadow Shaman Win Rate",
+        "data": [
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Slardar Matches Played",
+        "id": "Slardar Matches Played",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Matches Won",
+        "id": "Slardar Matches Won",
+        "data": [
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "PuckChamp",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Win Rate",
+        "id": "Slardar Win Rate",
+        "data": [
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "PuckChamp",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Snapfire Matches Played",
+        "id": "Snapfire Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Omega Gaming",
+                1
+            ],
+            [
+                "Unknown Team",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Matches Won",
+        "id": "Snapfire Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Omega Gaming",
+                0
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Win Rate",
+        "id": "Snapfire Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Spectre Matches Played",
+        "id": "Spectre Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "EGOBOYS",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Trident Clan",
+                1
+            ],
+            [
+                "Winstrike Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Matches Won",
+        "id": "Spectre Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Trident Clan",
+                0
+            ],
+            [
+                "Winstrike Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Win Rate",
+        "id": "Spectre Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                0.5
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ],
+            [
+                "Winstrike Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Storm Spirit Matches Played",
+        "id": "Storm Spirit Matches Played",
+        "data": [
+            [
+                "EGOBOYS",
+                2
+            ],
+            [
+                "Natus Vincere",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Matches Won",
+        "id": "Storm Spirit Matches Won",
+        "data": [
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Natus Vincere",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Win Rate",
+        "id": "Storm Spirit Win Rate",
+        "data": [
+            [
+                "EGOBOYS",
+                0.5
+            ],
+            [
+                "Natus Vincere",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Sven Matches Played",
+        "id": "Sven Matches Played",
+        "data": [
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Sven Matches Won",
+        "id": "Sven Matches Won",
+        "data": [
+            [
+                "EGOBOYS",
+                0
+            ],
+            [
+                "NoPing Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Sven Win Rate",
+        "id": "Sven Win Rate",
+        "data": [
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Techies Matches Played",
+        "id": "Techies Matches Played",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Techies Matches Won",
+        "id": "Techies Matches Won",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Techies Win Rate",
+        "id": "Techies Win Rate",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Templar Assassin Matches Played",
+        "id": "Templar Assassin Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Natus Vincere",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Spirit",
+                3
+            ],
+            [
+                "Winstrike Team",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Matches Won",
+        "id": "Templar Assassin Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "EGOBOYS",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                2
+            ],
+            [
+                "Natus Vincere",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                0
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "SG esports",
+                1
+            ],
+            [
+                "Team Spirit",
+                2
+            ],
+            [
+                "Winstrike Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Win Rate",
+        "id": "Templar Assassin Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Natus Vincere",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "SG esports",
+                1.0
+            ],
+            [
+                "Team Spirit",
+                0.6666666666666666
+            ],
+            [
+                "Winstrike Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Terrorblade Matches Played",
+        "id": "Terrorblade Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                2
+            ],
+            [
+                "B8",
+                2
+            ],
+            [
+                "BINOMISTAS",
+                3
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "PuckChamp",
+                2
+            ],
+            [
+                "SG esports",
+                3
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Matches Won",
+        "id": "Terrorblade Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "B8",
+                1
+            ],
+            [
+                "BINOMISTAS",
+                3
+            ],
+            [
+                "EGOBOYS",
+                0
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "SG esports",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Unique",
+                0
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Win Rate",
+        "id": "Terrorblade Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "B8",
+                0.5
+            ],
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "PuckChamp",
+                0.5
+            ],
+            [
+                "SG esports",
+                0.6666666666666666
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tidehunter Matches Played",
+        "id": "Tidehunter Matches Played",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "Natus Vincere",
+                2
+            ],
+            [
+                "NoPing Esports",
+                3
+            ],
+            [
+                "Team Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Matches Won",
+        "id": "Tidehunter Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Infinity",
+                2
+            ],
+            [
+                "Natus Vincere",
+                2
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Win Rate",
+        "id": "Tidehunter Win Rate",
+        "data": [
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Natus Vincere",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                0.6666666666666666
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Timbersaw Matches Played",
+        "id": "Timbersaw Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                2
+            ],
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "B8",
+                1
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoTechies",
+                1
+            ],
+            [
+                "Team Empire",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Matches Won",
+        "id": "Timbersaw Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ],
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "B8",
+                0
+            ],
+            [
+                "EGOBOYS",
+                0
+            ],
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "NoTechies",
+                0
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Team Spirit",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Win Rate",
+        "id": "Timbersaw Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                0.5
+            ],
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "B8",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "NoTechies",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.5
+            ],
+            [
+                "Team Spirit",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tiny Matches Played",
+        "id": "Tiny Matches Played",
+        "data": [
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Inverse",
+                1
+            ],
+            [
+                "Latam Defenders",
+                2
+            ],
+            [
+                "NoPing Esports",
+                5
+            ],
+            [
+                "Omega Gaming",
+                2
+            ],
+            [
+                "Team Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Matches Won",
+        "id": "Tiny Matches Won",
+        "data": [
+            [
+                "BINOMISTAS",
+                0
+            ],
+            [
+                "HellRaisers",
+                0
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Inverse",
+                0
+            ],
+            [
+                "Latam Defenders",
+                0
+            ],
+            [
+                "NoPing Esports",
+                4
+            ],
+            [
+                "Omega Gaming",
+                0
+            ],
+            [
+                "Team Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Win Rate",
+        "id": "Tiny Win Rate",
+        "data": [
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Infinity",
+                1.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                0.8
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Treant Protector Matches Played",
+        "id": "Treant Protector Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Natus Vincere",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Matches Won",
+        "id": "Treant Protector Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Natus Vincere",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Win Rate",
+        "id": "Treant Protector Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                1.0
+            ],
+            [
+                "Hokori",
+                0.5
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Natus Vincere",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Troll Warlord Matches Played",
+        "id": "Troll Warlord Matches Played",
+        "data": [
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Latam Defenders",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Matches Won",
+        "id": "Troll Warlord Matches Won",
+        "data": [
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Latam Defenders",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Win Rate",
+        "id": "Troll Warlord Win Rate",
+        "data": [
+            [
+                "BINOMISTAS",
+                1.0
+            ],
+            [
+                "EGOBOYS",
+                1.0
+            ],
+            [
+                "Latam Defenders",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tusk Matches Played",
+        "id": "Tusk Matches Played",
+        "data": [
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Inverse",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Matches Won",
+        "id": "Tusk Matches Won",
+        "data": [
+            [
+                "EGOBOYS",
+                0
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "Inverse",
+                0
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Unknown Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Win Rate",
+        "id": "Tusk Win Rate",
+        "data": [
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Underlord Matches Played",
+        "id": "Underlord Matches Played",
+        "data": [
+            [
+                "Fantastic Five",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Matches Won",
+        "id": "Underlord Matches Won",
+        "data": [
+            [
+                "Fantastic Five",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Win Rate",
+        "id": "Underlord Win Rate",
+        "data": [
+            [
+                "Fantastic Five",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Undying Matches Played",
+        "id": "Undying Matches Played",
+        "data": [
+            [
+                "BINOMISTAS",
+                1
+            ],
+            [
+                "Hokori",
+                2
+            ],
+            [
+                "PuckChamp",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Undying Matches Won",
+        "id": "Undying Matches Won",
+        "data": [
+            [
+                "BINOMISTAS",
+                0
+            ],
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "PuckChamp",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Undying Win Rate",
+        "id": "Undying Win Rate",
+        "data": [
+            [
+                "BINOMISTAS",
+                0.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "PuckChamp",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ursa Matches Played",
+        "id": "Ursa Matches Played",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "Winstrike Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Matches Won",
+        "id": "Ursa Matches Won",
+        "data": [
+            [
+                "HellRaisers",
+                0
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "Winstrike Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Win Rate",
+        "id": "Ursa Win Rate",
+        "data": [
+            [
+                "HellRaisers",
+                0.0
+            ],
+            [
+                "Hokori",
+                1.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.5
+            ],
+            [
+                "Winstrike Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Venomancer Matches Played",
+        "id": "Venomancer Matches Played",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Inverse",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Matches Won",
+        "id": "Venomancer Matches Won",
+        "data": [
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Inverse",
+                0
+            ],
+            [
+                "NoPing Esports",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Win Rate",
+        "id": "Venomancer Win Rate",
+        "data": [
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Viper Matches Played",
+        "id": "Viper Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Hokori",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "Unknown Team",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Viper Matches Won",
+        "id": "Viper Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "Fantastic Five",
+                0
+            ],
+            [
+                "HellRaisers",
+                2
+            ],
+            [
+                "Hokori",
+                0
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Viper Win Rate",
+        "id": "Viper Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Hokori",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "NoPing Esports",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Void Spirit Matches Played",
+        "id": "Void Spirit Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Fantastic Five",
+                2
+            ],
+            [
+                "Infinity",
+                3
+            ],
+            [
+                "Omega Gaming",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Matches Won",
+        "id": "Void Spirit Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "EGOBOYS",
+                0
+            ],
+            [
+                "Fantastic Five",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Omega Gaming",
+                0
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Win Rate",
+        "id": "Void Spirit Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Fantastic Five",
+                0.5
+            ],
+            [
+                "Infinity",
+                0.3333333333333333
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Warlock Matches Played",
+        "id": "Warlock Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "Trident Clan",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Matches Won",
+        "id": "Warlock Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "Trident Clan",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Win Rate",
+        "id": "Warlock Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Trident Clan",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Weaver Matches Played",
+        "id": "Weaver Matches Played",
+        "data": [
+            [
+                " EXTREMUM",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Weaver Matches Won",
+        "id": "Weaver Matches Won",
+        "data": [
+            [
+                " EXTREMUM",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Weaver Win Rate",
+        "id": "Weaver Win Rate",
+        "data": [
+            [
+                " EXTREMUM",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Windranger Matches Played",
+        "id": "Windranger Matches Played",
+        "data": [
+            [
+                "B8",
+                2
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Matches Won",
+        "id": "Windranger Matches Won",
+        "data": [
+            [
+                "B8",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "Team Empire",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Win Rate",
+        "id": "Windranger Win Rate",
+        "data": [
+            [
+                "B8",
+                0.5
+            ],
+            [
+                "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "PuckChamp",
+                1.0
+            ],
+            [
+                "Team Empire",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Winter Wyvern Matches Played",
+        "id": "Winter Wyvern Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "B8",
+                2
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Interitus",
+                1
+            ],
+            [
+                "Nemiga Gaming",
+                3
+            ],
+            [
+                "NoPing Esports",
+                2
+            ],
+            [
+                "PuckChamp",
+                3
+            ],
+            [
+                "Team Empire",
+                1
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Unique",
+                1
+            ],
+            [
+                "Winstrike Team",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Matches Won",
+        "id": "Winter Wyvern Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "B8",
+                2
+            ],
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Interitus",
+                0
+            ],
+            [
+                "Nemiga Gaming",
+                2
+            ],
+            [
+                "NoPing Esports",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "Team Empire",
+                0
+            ],
+            [
+                "Team Spirit",
+                1
+            ],
+            [
+                "Team Unique",
+                0
+            ],
+            [
+                "Winstrike Team",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Win Rate",
+        "id": "Winter Wyvern Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1.0
+            ],
+            [
+                "B8",
+                1.0
+            ],
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                1.0
+            ],
+            [
+                "Interitus",
+                0.0
+            ],
+            [
+                "Nemiga Gaming",
+                0.6666666666666666
+            ],
+            [
+                "NoPing Esports",
+                0.5
+            ],
+            [
+                "PuckChamp",
+                0.3333333333333333
+            ],
+            [
+                "Team Empire",
+                0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
+            ],
+            [
+                "Team Unique",
+                0.0
+            ],
+            [
+                "Winstrike Team",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Witch Doctor Matches Played",
+        "id": "Witch Doctor Matches Played",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                1
+            ],
+            [
+                "Inverse",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Matches Won",
+        "id": "Witch Doctor Matches Won",
+        "data": [
+            [
+                "HellRaisers",
+                1
+            ],
+            [
+                "Infamous Gaming",
+                0
+            ],
+            [
+                "Inverse",
+                0
+            ],
+            [
+                "PuckChamp",
+                1
+            ],
+            [
+                "Unknown Team",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Win Rate",
+        "id": "Witch Doctor Win Rate",
+        "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
+            [
+                "Infamous Gaming",
+                0.0
+            ],
+            [
+                "Inverse",
+                0.0
+            ],
+            [
+                "PuckChamp",
+                1.0
+            ],
+            [
+                "Unknown Team",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Wraith King Matches Played",
+        "id": "Wraith King Matches Played",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                1
+            ],
+            [
+                "EGOBOYS",
+                1
+            ],
+            [
+                "Infinity",
+                1
+            ],
+            [
+                "Omega Gaming",
+                1
+            ],
+            [
+                "PuckChamp",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Matches Won",
+        "id": "Wraith King Matches Won",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0
+            ],
+            [
+                "EGOBOYS",
+                0
+            ],
+            [
+                "Infinity",
+                0
+            ],
+            [
+                "Omega Gaming",
+                0
+            ],
+            [
+                "PuckChamp",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Win Rate",
+        "id": "Wraith King Win Rate",
+        "data": [
+            [
+                "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "EGOBOYS",
+                0.0
+            ],
+            [
+                "Infinity",
+                0.0
+            ],
+            [
+                "Omega Gaming",
+                0.0
+            ],
+            [
+                "PuckChamp",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Zeus Matches Played",
+        "id": "Zeus Matches Played",
+        "data": [
+            [
+                "Team Unique",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Zeus Matches Won",
+        "id": "Zeus Matches Won",
+        "data": [
+            [
+                "Team Unique",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Zeus Win Rate",
+        "id": "Zeus Win Rate",
+        "data": [
+            [
+                "Team Unique",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    }
+]

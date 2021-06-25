@@ -1,0 +1,6648 @@
+[
+    {
+        "name": " EXTREMUM Matches Played",
+        "id": " EXTREMUM Matches Played",
+        "data": [
+            [
+                "Broodmother",
+                2
+            ],
+            [
+                "Clockwerk",
+                1
+            ],
+            [
+                "Death Prophet",
+                1
+            ],
+            [
+                "Disruptor",
+                1
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Drow Ranger",
+                2
+            ],
+            [
+                "Ember Spirit",
+                1
+            ],
+            [
+                "Enchantress",
+                3
+            ],
+            [
+                "Hoodwink",
+                2
+            ],
+            [
+                "Juggernaut",
+                1
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lina",
+                1
+            ],
+            [
+                "Lion",
+                2
+            ],
+            [
+                "Luna",
+                1
+            ],
+            [
+                "Phoenix",
+                1
+            ],
+            [
+                "Razor",
+                1
+            ],
+            [
+                "Timbersaw",
+                2
+            ],
+            [
+                "Weaver",
+                1
+            ]
+        ]
+    },
+    {
+        "name": " EXTREMUM Matches Won",
+        "id": " EXTREMUM Matches Won",
+        "data": [
+            [
+                "Broodmother",
+                0
+            ],
+            [
+                "Clockwerk",
+                0
+            ],
+            [
+                "Death Prophet",
+                0
+            ],
+            [
+                "Disruptor",
+                0
+            ],
+            [
+                "Dragon Knight",
+                0
+            ],
+            [
+                "Drow Ranger",
+                0
+            ],
+            [
+                "Ember Spirit",
+                0
+            ],
+            [
+                "Enchantress",
+                1
+            ],
+            [
+                "Hoodwink",
+                0
+            ],
+            [
+                "Juggernaut",
+                1
+            ],
+            [
+                "Leshrac",
+                0
+            ],
+            [
+                "Lina",
+                0
+            ],
+            [
+                "Lion",
+                1
+            ],
+            [
+                "Luna",
+                0
+            ],
+            [
+                "Phoenix",
+                0
+            ],
+            [
+                "Razor",
+                1
+            ],
+            [
+                "Timbersaw",
+                1
+            ],
+            [
+                "Weaver",
+                0
+            ]
+        ]
+    },
+    {
+        "name": " EXTREMUM Win Rate",
+        "id": " EXTREMUM Win Rate",
+        "data": [
+            [
+                "Broodmother",
+                0.0
+            ],
+            [
+                "Clockwerk",
+                0.0
+            ],
+            [
+                "Death Prophet",
+                0.0
+            ],
+            [
+                "Disruptor",
+                0.0
+            ],
+            [
+                "Dragon Knight",
+                0.0
+            ],
+            [
+                "Drow Ranger",
+                0.0
+            ],
+            [
+                "Ember Spirit",
+                0.0
+            ],
+            [
+                "Enchantress",
+                0.3333333333333333
+            ],
+            [
+                "Hoodwink",
+                0.0
+            ],
+            [
+                "Juggernaut",
+                1.0
+            ],
+            [
+                "Leshrac",
+                0.0
+            ],
+            [
+                "Lina",
+                0.0
+            ],
+            [
+                "Lion",
+                0.5
+            ],
+            [
+                "Luna",
+                0.0
+            ],
+            [
+                "Phoenix",
+                0.0
+            ],
+            [
+                "Razor",
+                1.0
+            ],
+            [
+                "Timbersaw",
+                0.5
+            ],
+            [
+                "Weaver",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "AS Monaco Gambit Matches Played",
+        "id": "AS Monaco Gambit Matches Played",
+        "data": [
+            [
+                "Axe",
+                2
+            ],
+            [
+                "Dark Willow",
+                1
+            ],
+            [
+                "Dragon Knight",
+                2
+            ],
+            [
+                "Elder Titan",
+                1
+            ],
+            [
+                "Faceless Void",
+                2
+            ],
+            [
+                "Hoodwink",
+                1
+            ],
+            [
+                "Invoker",
+                2
+            ],
+            [
+                "Lina",
+                2
+            ],
+            [
+                "Nyx Assassin",
+                3
+            ],
+            [
+                "Phoenix",
+                4
+            ],
+            [
+                "Spectre",
+                1
+            ],
+            [
+                "Templar Assassin",
+                1
+            ],
+            [
+                "Terrorblade",
+                2
+            ],
+            [
+                "Timbersaw",
+                1
+            ],
+            [
+                "Viper",
+                1
+            ],
+            [
+                "Void Spirit",
+                1
+            ],
+            [
+                "Warlock",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                1
+            ],
+            [
+                "Wraith King",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "AS Monaco Gambit Matches Won",
+        "id": "AS Monaco Gambit Matches Won",
+        "data": [
+            [
+                "Axe",
+                1
+            ],
+            [
+                "Dark Willow",
+                0
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Elder Titan",
+                0
+            ],
+            [
+                "Faceless Void",
+                1
+            ],
+            [
+                "Hoodwink",
+                0
+            ],
+            [
+                "Invoker",
+                0
+            ],
+            [
+                "Lina",
+                2
+            ],
+            [
+                "Nyx Assassin",
+                1
+            ],
+            [
+                "Phoenix",
+                2
+            ],
+            [
+                "Spectre",
+                1
+            ],
+            [
+                "Templar Assassin",
+                0
+            ],
+            [
+                "Terrorblade",
+                0
+            ],
+            [
+                "Timbersaw",
+                0
+            ],
+            [
+                "Viper",
+                0
+            ],
+            [
+                "Void Spirit",
+                0
+            ],
+            [
+                "Warlock",
+                0
+            ],
+            [
+                "Winter Wyvern",
+                1
+            ],
+            [
+                "Wraith King",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "AS Monaco Gambit Win Rate",
+        "id": "AS Monaco Gambit Win Rate",
+        "data": [
+            [
+                "Axe",
+                0.5
+            ],
+            [
+                "Dark Willow",
+                0.0
+            ],
+            [
+                "Dragon Knight",
+                0.5
+            ],
+            [
+                "Elder Titan",
+                0.0
+            ],
+            [
+                "Faceless Void",
+                0.5
+            ],
+            [
+                "Hoodwink",
+                0.0
+            ],
+            [
+                "Invoker",
+                0.0
+            ],
+            [
+                "Lina",
+                1.0
+            ],
+            [
+                "Nyx Assassin",
+                0.3333333333333333
+            ],
+            [
+                "Phoenix",
+                0.5
+            ],
+            [
+                "Spectre",
+                1.0
+            ],
+            [
+                "Templar Assassin",
+                0.0
+            ],
+            [
+                "Terrorblade",
+                0.0
+            ],
+            [
+                "Timbersaw",
+                0.0
+            ],
+            [
+                "Viper",
+                0.0
+            ],
+            [
+                "Void Spirit",
+                0.0
+            ],
+            [
+                "Warlock",
+                0.0
+            ],
+            [
+                "Winter Wyvern",
+                1.0
+            ],
+            [
+                "Wraith King",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "B8 Matches Played",
+        "id": "B8 Matches Played",
+        "data": [
+            [
+                "Dark Seer",
+                1
+            ],
+            [
+                "Disruptor",
+                1
+            ],
+            [
+                "Enchantress",
+                2
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lion",
+                1
+            ],
+            [
+                "Luna",
+                1
+            ],
+            [
+                "Magnus",
+                2
+            ],
+            [
+                "Nature's Prophet",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                3
+            ],
+            [
+                "Oracle",
+                1
+            ],
+            [
+                "Phantom Lancer",
+                2
+            ],
+            [
+                "Terrorblade",
+                2
+            ],
+            [
+                "Tidehunter",
+                1
+            ],
+            [
+                "Timbersaw",
+                1
+            ],
+            [
+                "Windranger",
+                2
+            ],
+            [
+                "Winter Wyvern",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "B8 Matches Won",
+        "id": "B8 Matches Won",
+        "data": [
+            [
+                "Dark Seer",
+                1
+            ],
+            [
+                "Disruptor",
+                1
+            ],
+            [
+                "Enchantress",
+                1
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lion",
+                0
+            ],
+            [
+                "Luna",
+                1
+            ],
+            [
+                "Magnus",
+                1
+            ],
+            [
+                "Nature's Prophet",
+                0
+            ],
+            [
+                "Nyx Assassin",
+                2
+            ],
+            [
+                "Oracle",
+                0
+            ],
+            [
+                "Phantom Lancer",
+                1
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
+                "Tidehunter",
+                1
+            ],
+            [
+                "Timbersaw",
+                0
+            ],
+            [
+                "Windranger",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "B8 Win Rate",
+        "id": "B8 Win Rate",
+        "data": [
+            [
+                "Dark Seer",
+                1.0
+            ],
+            [
+                "Disruptor",
+                1.0
+            ],
+            [
+                "Enchantress",
+                0.5
+            ],
+            [
+                "Invoker",
+                1.0
+            ],
+            [
+                "Leshrac",
+                1.0
+            ],
+            [
+                "Lion",
+                0.0
+            ],
+            [
+                "Luna",
+                1.0
+            ],
+            [
+                "Magnus",
+                0.5
+            ],
+            [
+                "Nature's Prophet",
+                0.0
+            ],
+            [
+                "Nyx Assassin",
+                0.6666666666666666
+            ],
+            [
+                "Oracle",
+                0.0
+            ],
+            [
+                "Phantom Lancer",
+                0.5
+            ],
+            [
+                "Terrorblade",
+                0.5
+            ],
+            [
+                "Tidehunter",
+                1.0
+            ],
+            [
+                "Timbersaw",
+                0.0
+            ],
+            [
+                "Windranger",
+                0.5
+            ],
+            [
+                "Winter Wyvern",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "BINOMISTAS Matches Played",
+        "id": "BINOMISTAS Matches Played",
+        "data": [
+            [
+                "Abaddon",
+                2
+            ],
+            [
+                "Axe",
+                1
+            ],
+            [
+                "Bloodseeker",
+                1
+            ],
+            [
+                "Broodmother",
+                2
+            ],
+            [
+                "Dark Seer",
+                2
+            ],
+            [
+                "Death Prophet",
+                1
+            ],
+            [
+                "Disruptor",
+                2
+            ],
+            [
+                "Dragon Knight",
+                4
+            ],
+            [
+                "Elder Titan",
+                1
+            ],
+            [
+                "Enchantress",
+                1
+            ],
+            [
+                "Gyrocopter",
+                1
+            ],
+            [
+                "Hoodwink",
+                2
+            ],
+            [
+                "Juggernaut",
+                1
+            ],
+            [
+                "Leshrac",
+                2
+            ],
+            [
+                "Lion",
+                2
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Mirana",
+                1
+            ],
+            [
+                "Morphling",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                2
+            ],
+            [
+                "Phoenix",
+                1
+            ],
+            [
+                "Sand King",
+                2
+            ],
+            [
+                "Shadow Shaman",
+                1
+            ],
+            [
+                "Terrorblade",
+                3
+            ],
+            [
+                "Tiny",
+                1
+            ],
+            [
+                "Troll Warlord",
+                1
+            ],
+            [
+                "Undying",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "BINOMISTAS Matches Won",
+        "id": "BINOMISTAS Matches Won",
+        "data": [
+            [
+                "Abaddon",
+                2
+            ],
+            [
+                "Axe",
+                0
+            ],
+            [
+                "Bloodseeker",
+                1
+            ],
+            [
+                "Broodmother",
+                1
+            ],
+            [
+                "Dark Seer",
+                1
+            ],
+            [
+                "Death Prophet",
+                1
+            ],
+            [
+                "Disruptor",
+                1
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Elder Titan",
+                0
+            ],
+            [
+                "Enchantress",
+                1
+            ],
+            [
+                "Gyrocopter",
+                0
+            ],
+            [
+                "Hoodwink",
+                1
+            ],
+            [
+                "Juggernaut",
+                0
+            ],
+            [
+                "Leshrac",
+                2
+            ],
+            [
+                "Lion",
+                1
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Mirana",
+                0
+            ],
+            [
+                "Morphling",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                2
+            ],
+            [
+                "Phoenix",
+                1
+            ],
+            [
+                "Sand King",
+                2
+            ],
+            [
+                "Shadow Shaman",
+                1
+            ],
+            [
+                "Terrorblade",
+                3
+            ],
+            [
+                "Tiny",
+                0
+            ],
+            [
+                "Troll Warlord",
+                1
+            ],
+            [
+                "Undying",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "BINOMISTAS Win Rate",
+        "id": "BINOMISTAS Win Rate",
+        "data": [
+            [
+                "Abaddon",
+                1.0
+            ],
+            [
+                "Axe",
+                0.0
+            ],
+            [
+                "Bloodseeker",
+                1.0
+            ],
+            [
+                "Broodmother",
+                0.5
+            ],
+            [
+                "Dark Seer",
+                0.5
+            ],
+            [
+                "Death Prophet",
+                1.0
+            ],
+            [
+                "Disruptor",
+                0.5
+            ],
+            [
+                "Dragon Knight",
+                0.25
+            ],
+            [
+                "Elder Titan",
+                0.0
+            ],
+            [
+                "Enchantress",
+                1.0
+            ],
+            [
+                "Gyrocopter",
+                0.0
+            ],
+            [
+                "Hoodwink",
+                0.5
+            ],
+            [
+                "Juggernaut",
+                0.0
+            ],
+            [
+                "Leshrac",
+                1.0
+            ],
+            [
+                "Lion",
+                0.5
+            ],
+            [
+                "Mars",
+                1.0
+            ],
+            [
+                "Mirana",
+                0.0
+            ],
+            [
+                "Morphling",
+                1.0
+            ],
+            [
+                "Nyx Assassin",
+                1.0
+            ],
+            [
+                "Phoenix",
+                1.0
+            ],
+            [
+                "Sand King",
+                1.0
+            ],
+            [
+                "Shadow Shaman",
+                1.0
+            ],
+            [
+                "Terrorblade",
+                1.0
+            ],
+            [
+                "Tiny",
+                0.0
+            ],
+            [
+                "Troll Warlord",
+                1.0
+            ],
+            [
+                "Undying",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "EGOBOYS Matches Played",
+        "id": "EGOBOYS Matches Played",
+        "data": [
+            [
+                "Abaddon",
+                1
+            ],
+            [
+                "Ancient Apparition",
+                3
+            ],
+            [
+                "Axe",
+                2
+            ],
+            [
+                "Clockwerk",
+                1
+            ],
+            [
+                "Dark Seer",
+                3
+            ],
+            [
+                "Dark Willow",
+                2
+            ],
+            [
+                "Doom",
+                1
+            ],
+            [
+                "Earth Spirit",
+                1
+            ],
+            [
+                "Elder Titan",
+                1
+            ],
+            [
+                "Grimstroke",
+                1
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lina",
+                1
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Naga Siren",
+                1
+            ],
+            [
+                "Nature's Prophet",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                1
+            ],
+            [
+                "Phoenix",
+                1
+            ],
+            [
+                "Spectre",
+                2
+            ],
+            [
+                "Storm Spirit",
+                2
+            ],
+            [
+                "Sven",
+                1
+            ],
+            [
+                "Templar Assassin",
+                1
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
+                "Timbersaw",
+                1
+            ],
+            [
+                "Troll Warlord",
+                1
+            ],
+            [
+                "Tusk",
+                1
+            ],
+            [
+                "Void Spirit",
+                1
+            ],
+            [
+                "Wraith King",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "EGOBOYS Matches Won",
+        "id": "EGOBOYS Matches Won",
+        "data": [
+            [
+                "Abaddon",
+                0
+            ],
+            [
+                "Ancient Apparition",
+                1
+            ],
+            [
+                "Axe",
+                0
+            ],
+            [
+                "Clockwerk",
+                0
+            ],
+            [
+                "Dark Seer",
+                1
+            ],
+            [
+                "Dark Willow",
+                1
+            ],
+            [
+                "Doom",
+                0
+            ],
+            [
+                "Earth Spirit",
+                1
+            ],
+            [
+                "Elder Titan",
+                1
+            ],
+            [
+                "Grimstroke",
+                0
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lina",
+                0
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Naga Siren",
+                0
+            ],
+            [
+                "Nature's Prophet",
+                0
+            ],
+            [
+                "Nyx Assassin",
+                0
+            ],
+            [
+                "Phoenix",
+                0
+            ],
+            [
+                "Spectre",
+                1
+            ],
+            [
+                "Storm Spirit",
+                1
+            ],
+            [
+                "Sven",
+                0
+            ],
+            [
+                "Templar Assassin",
+                0
+            ],
+            [
+                "Terrorblade",
+                0
+            ],
+            [
+                "Timbersaw",
+                0
+            ],
+            [
+                "Troll Warlord",
+                1
+            ],
+            [
+                "Tusk",
+                0
+            ],
+            [
+                "Void Spirit",
+                0
+            ],
+            [
+                "Wraith King",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "EGOBOYS Win Rate",
+        "id": "EGOBOYS Win Rate",
+        "data": [
+            [
+                "Abaddon",
+                0.0
+            ],
+            [
+                "Ancient Apparition",
+                0.3333333333333333
+            ],
+            [
+                "Axe",
+                0.0
+            ],
+            [
+                "Clockwerk",
+                0.0
+            ],
+            [
+                "Dark Seer",
+                0.3333333333333333
+            ],
+            [
+                "Dark Willow",
+                0.5
+            ],
+            [
+                "Doom",
+                0.0
+            ],
+            [
+                "Earth Spirit",
+                1.0
+            ],
+            [
+                "Elder Titan",
+                1.0
+            ],
+            [
+                "Grimstroke",
+                0.0
+            ],
+            [
+                "Leshrac",
+                1.0
+            ],
+            [
+                "Lina",
+                0.0
+            ],
+            [
+                "Mars",
+                1.0
+            ],
+            [
+                "Naga Siren",
+                0.0
+            ],
+            [
+                "Nature's Prophet",
+                0.0
+            ],
+            [
+                "Nyx Assassin",
+                0.0
+            ],
+            [
+                "Phoenix",
+                0.0
+            ],
+            [
+                "Spectre",
+                0.5
+            ],
+            [
+                "Storm Spirit",
+                0.5
+            ],
+            [
+                "Sven",
+                0.0
+            ],
+            [
+                "Templar Assassin",
+                0.0
+            ],
+            [
+                "Terrorblade",
+                0.0
+            ],
+            [
+                "Timbersaw",
+                0.0
+            ],
+            [
+                "Troll Warlord",
+                1.0
+            ],
+            [
+                "Tusk",
+                0.0
+            ],
+            [
+                "Void Spirit",
+                0.0
+            ],
+            [
+                "Wraith King",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Fantastic Five Matches Played",
+        "id": "Fantastic Five Matches Played",
+        "data": [
+            [
+                "Ancient Apparition",
+                1
+            ],
+            [
+                "Axe",
+                2
+            ],
+            [
+                "Batrider",
+                2
+            ],
+            [
+                "Beastmaster",
+                1
+            ],
+            [
+                "Bloodseeker",
+                1
+            ],
+            [
+                "Clockwerk",
+                1
+            ],
+            [
+                "Dark Willow",
+                1
+            ],
+            [
+                "Drow Ranger",
+                2
+            ],
+            [
+                "Earth Spirit",
+                1
+            ],
+            [
+                "Enchantress",
+                3
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Lifestealer",
+                1
+            ],
+            [
+                "Lion",
+                1
+            ],
+            [
+                "Luna",
+                2
+            ],
+            [
+                "Mirana",
+                3
+            ],
+            [
+                "Pugna",
+                1
+            ],
+            [
+                "Treant Protector",
+                1
+            ],
+            [
+                "Underlord",
+                2
+            ],
+            [
+                "Viper",
+                1
+            ],
+            [
+                "Void Spirit",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Fantastic Five Matches Won",
+        "id": "Fantastic Five Matches Won",
+        "data": [
+            [
+                "Ancient Apparition",
+                1
+            ],
+            [
+                "Axe",
+                2
+            ],
+            [
+                "Batrider",
+                1
+            ],
+            [
+                "Beastmaster",
+                0
+            ],
+            [
+                "Bloodseeker",
+                1
+            ],
+            [
+                "Clockwerk",
+                0
+            ],
+            [
+                "Dark Willow",
+                1
+            ],
+            [
+                "Drow Ranger",
+                1
+            ],
+            [
+                "Earth Spirit",
+                0
+            ],
+            [
+                "Enchantress",
+                1
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Lifestealer",
+                1
+            ],
+            [
+                "Lion",
+                0
+            ],
+            [
+                "Luna",
+                0
+            ],
+            [
+                "Mirana",
+                2
+            ],
+            [
+                "Pugna",
+                0
+            ],
+            [
+                "Treant Protector",
+                1
+            ],
+            [
+                "Underlord",
+                1
+            ],
+            [
+                "Viper",
+                0
+            ],
+            [
+                "Void Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Fantastic Five Win Rate",
+        "id": "Fantastic Five Win Rate",
+        "data": [
+            [
+                "Ancient Apparition",
+                1.0
+            ],
+            [
+                "Axe",
+                1.0
+            ],
+            [
+                "Batrider",
+                0.5
+            ],
+            [
+                "Beastmaster",
+                0.0
+            ],
+            [
+                "Bloodseeker",
+                1.0
+            ],
+            [
+                "Clockwerk",
+                0.0
+            ],
+            [
+                "Dark Willow",
+                1.0
+            ],
+            [
+                "Drow Ranger",
+                0.5
+            ],
+            [
+                "Earth Spirit",
+                0.0
+            ],
+            [
+                "Enchantress",
+                0.3333333333333333
+            ],
+            [
+                "Invoker",
+                1.0
+            ],
+            [
+                "Lifestealer",
+                1.0
+            ],
+            [
+                "Lion",
+                0.0
+            ],
+            [
+                "Luna",
+                0.0
+            ],
+            [
+                "Mirana",
+                0.6666666666666666
+            ],
+            [
+                "Pugna",
+                0.0
+            ],
+            [
+                "Treant Protector",
+                1.0
+            ],
+            [
+                "Underlord",
+                0.5
+            ],
+            [
+                "Viper",
+                0.0
+            ],
+            [
+                "Void Spirit",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "HellRaisers Matches Played",
+        "id": "HellRaisers Matches Played",
+        "data": [
+            [
+                "Abaddon",
+                1
+            ],
+            [
+                "Broodmother",
+                2
+            ],
+            [
+                "Drow Ranger",
+                1
+            ],
+            [
+                "Earth Spirit",
+                3
+            ],
+            [
+                "Elder Titan",
+                2
+            ],
+            [
+                "Grimstroke",
+                1
+            ],
+            [
+                "Hoodwink",
+                2
+            ],
+            [
+                "Juggernaut",
+                1
+            ],
+            [
+                "Lina",
+                4
+            ],
+            [
+                "Lion",
+                1
+            ],
+            [
+                "Luna",
+                2
+            ],
+            [
+                "Magnus",
+                3
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Medusa",
+                2
+            ],
+            [
+                "Phantom Lancer",
+                1
+            ],
+            [
+                "Puck",
+                1
+            ],
+            [
+                "Rubick",
+                1
+            ],
+            [
+                "Sand King",
+                1
+            ],
+            [
+                "Shadow Demon",
+                3
+            ],
+            [
+                "Techies",
+                1
+            ],
+            [
+                "Tiny",
+                1
+            ],
+            [
+                "Ursa",
+                1
+            ],
+            [
+                "Viper",
+                2
+            ],
+            [
+                "Winter Wyvern",
+                1
+            ],
+            [
+                "Witch Doctor",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "HellRaisers Matches Won",
+        "id": "HellRaisers Matches Won",
+        "data": [
+            [
+                "Abaddon",
+                0
+            ],
+            [
+                "Broodmother",
+                1
+            ],
+            [
+                "Drow Ranger",
+                1
+            ],
+            [
+                "Earth Spirit",
+                2
+            ],
+            [
+                "Elder Titan",
+                2
+            ],
+            [
+                "Grimstroke",
+                0
+            ],
+            [
+                "Hoodwink",
+                0
+            ],
+            [
+                "Juggernaut",
+                0
+            ],
+            [
+                "Lina",
+                3
+            ],
+            [
+                "Lion",
+                0
+            ],
+            [
+                "Luna",
+                2
+            ],
+            [
+                "Magnus",
+                2
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Medusa",
+                2
+            ],
+            [
+                "Phantom Lancer",
+                0
+            ],
+            [
+                "Puck",
+                0
+            ],
+            [
+                "Rubick",
+                1
+            ],
+            [
+                "Sand King",
+                0
+            ],
+            [
+                "Shadow Demon",
+                3
+            ],
+            [
+                "Techies",
+                1
+            ],
+            [
+                "Tiny",
+                0
+            ],
+            [
+                "Ursa",
+                0
+            ],
+            [
+                "Viper",
+                2
+            ],
+            [
+                "Winter Wyvern",
+                1
+            ],
+            [
+                "Witch Doctor",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "HellRaisers Win Rate",
+        "id": "HellRaisers Win Rate",
+        "data": [
+            [
+                "Abaddon",
+                0.0
+            ],
+            [
+                "Broodmother",
+                0.5
+            ],
+            [
+                "Drow Ranger",
+                1.0
+            ],
+            [
+                "Earth Spirit",
+                0.6666666666666666
+            ],
+            [
+                "Elder Titan",
+                1.0
+            ],
+            [
+                "Grimstroke",
+                0.0
+            ],
+            [
+                "Hoodwink",
+                0.0
+            ],
+            [
+                "Juggernaut",
+                0.0
+            ],
+            [
+                "Lina",
+                0.75
+            ],
+            [
+                "Lion",
+                0.0
+            ],
+            [
+                "Luna",
+                1.0
+            ],
+            [
+                "Magnus",
+                0.6666666666666666
+            ],
+            [
+                "Mars",
+                1.0
+            ],
+            [
+                "Medusa",
+                1.0
+            ],
+            [
+                "Phantom Lancer",
+                0.0
+            ],
+            [
+                "Puck",
+                0.0
+            ],
+            [
+                "Rubick",
+                1.0
+            ],
+            [
+                "Sand King",
+                0.0
+            ],
+            [
+                "Shadow Demon",
+                1.0
+            ],
+            [
+                "Techies",
+                1.0
+            ],
+            [
+                "Tiny",
+                0.0
+            ],
+            [
+                "Ursa",
+                0.0
+            ],
+            [
+                "Viper",
+                1.0
+            ],
+            [
+                "Winter Wyvern",
+                1.0
+            ],
+            [
+                "Witch Doctor",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Hokori Matches Played",
+        "id": "Hokori Matches Played",
+        "data": [
+            [
+                "Ancient Apparition",
+                2
+            ],
+            [
+                "Batrider",
+                2
+            ],
+            [
+                "Bristleback",
+                1
+            ],
+            [
+                "Broodmother",
+                2
+            ],
+            [
+                "Dark Seer",
+                1
+            ],
+            [
+                "Ember Spirit",
+                4
+            ],
+            [
+                "Faceless Void",
+                2
+            ],
+            [
+                "Hoodwink",
+                3
+            ],
+            [
+                "Lion",
+                1
+            ],
+            [
+                "Luna",
+                2
+            ],
+            [
+                "Magnus",
+                1
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Medusa",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                2
+            ],
+            [
+                "Shadow Shaman",
+                1
+            ],
+            [
+                "Slardar",
+                1
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
+                "Timbersaw",
+                1
+            ],
+            [
+                "Treant Protector",
+                2
+            ],
+            [
+                "Undying",
+                2
+            ],
+            [
+                "Ursa",
+                1
+            ],
+            [
+                "Viper",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Hokori Matches Won",
+        "id": "Hokori Matches Won",
+        "data": [
+            [
+                "Ancient Apparition",
+                1
+            ],
+            [
+                "Batrider",
+                1
+            ],
+            [
+                "Bristleback",
+                1
+            ],
+            [
+                "Broodmother",
+                1
+            ],
+            [
+                "Dark Seer",
+                0
+            ],
+            [
+                "Ember Spirit",
+                1
+            ],
+            [
+                "Faceless Void",
+                1
+            ],
+            [
+                "Hoodwink",
+                2
+            ],
+            [
+                "Lion",
+                1
+            ],
+            [
+                "Luna",
+                0
+            ],
+            [
+                "Magnus",
+                1
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Medusa",
+                0
+            ],
+            [
+                "Nyx Assassin",
+                0
+            ],
+            [
+                "Shadow Shaman",
+                0
+            ],
+            [
+                "Slardar",
+                1
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
+                "Timbersaw",
+                0
+            ],
+            [
+                "Treant Protector",
+                1
+            ],
+            [
+                "Undying",
+                0
+            ],
+            [
+                "Ursa",
+                1
+            ],
+            [
+                "Viper",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Hokori Win Rate",
+        "id": "Hokori Win Rate",
+        "data": [
+            [
+                "Ancient Apparition",
+                0.5
+            ],
+            [
+                "Batrider",
+                0.5
+            ],
+            [
+                "Bristleback",
+                1.0
+            ],
+            [
+                "Broodmother",
+                0.5
+            ],
+            [
+                "Dark Seer",
+                0.0
+            ],
+            [
+                "Ember Spirit",
+                0.25
+            ],
+            [
+                "Faceless Void",
+                0.5
+            ],
+            [
+                "Hoodwink",
+                0.6666666666666666
+            ],
+            [
+                "Lion",
+                1.0
+            ],
+            [
+                "Luna",
+                0.0
+            ],
+            [
+                "Magnus",
+                1.0
+            ],
+            [
+                "Mars",
+                1.0
+            ],
+            [
+                "Medusa",
+                0.0
+            ],
+            [
+                "Nyx Assassin",
+                0.0
+            ],
+            [
+                "Shadow Shaman",
+                0.0
+            ],
+            [
+                "Slardar",
+                1.0
+            ],
+            [
+                "Terrorblade",
+                1.0
+            ],
+            [
+                "Timbersaw",
+                0.0
+            ],
+            [
+                "Treant Protector",
+                0.5
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "Ursa",
+                1.0
+            ],
+            [
+                "Viper",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Infamous Gaming Matches Played",
+        "id": "Infamous Gaming Matches Played",
+        "data": [
+            [
+                "Abaddon",
+                2
+            ],
+            [
+                "Axe",
+                1
+            ],
+            [
+                "Beastmaster",
+                1
+            ],
+            [
+                "Bloodseeker",
+                1
+            ],
+            [
+                "Centaur Warrunner",
+                1
+            ],
+            [
+                "Dark Willow",
+                1
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Earth Spirit",
+                1
+            ],
+            [
+                "Enchantress",
+                2
+            ],
+            [
+                "Faceless Void",
+                1
+            ],
+            [
+                "Gyrocopter",
+                4
+            ],
+            [
+                "Hoodwink",
+                1
+            ],
+            [
+                "Invoker",
+                3
+            ],
+            [
+                "Medusa",
+                2
+            ],
+            [
+                "Mirana",
+                2
+            ],
+            [
+                "Night Stalker",
+                1
+            ],
+            [
+                "Oracle",
+                1
+            ],
+            [
+                "Puck",
+                3
+            ],
+            [
+                "Slardar",
+                1
+            ],
+            [
+                "Snapfire",
+                2
+            ],
+            [
+                "Spectre",
+                1
+            ],
+            [
+                "Templar Assassin",
+                2
+            ],
+            [
+                "Treant Protector",
+                1
+            ],
+            [
+                "Tusk",
+                1
+            ],
+            [
+                "Venomancer",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                1
+            ],
+            [
+                "Witch Doctor",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Infamous Gaming Matches Won",
+        "id": "Infamous Gaming Matches Won",
+        "data": [
+            [
+                "Abaddon",
+                1
+            ],
+            [
+                "Axe",
+                0
+            ],
+            [
+                "Beastmaster",
+                1
+            ],
+            [
+                "Bloodseeker",
+                1
+            ],
+            [
+                "Centaur Warrunner",
+                1
+            ],
+            [
+                "Dark Willow",
+                0
+            ],
+            [
+                "Dragon Knight",
+                0
+            ],
+            [
+                "Earth Spirit",
+                0
+            ],
+            [
+                "Enchantress",
+                2
+            ],
+            [
+                "Faceless Void",
+                0
+            ],
+            [
+                "Gyrocopter",
+                3
+            ],
+            [
+                "Hoodwink",
+                1
+            ],
+            [
+                "Invoker",
+                2
+            ],
+            [
+                "Medusa",
+                0
+            ],
+            [
+                "Mirana",
+                1
+            ],
+            [
+                "Night Stalker",
+                0
+            ],
+            [
+                "Oracle",
+                0
+            ],
+            [
+                "Puck",
+                2
+            ],
+            [
+                "Slardar",
+                0
+            ],
+            [
+                "Snapfire",
+                0
+            ],
+            [
+                "Spectre",
+                1
+            ],
+            [
+                "Templar Assassin",
+                2
+            ],
+            [
+                "Treant Protector",
+                0
+            ],
+            [
+                "Tusk",
+                0
+            ],
+            [
+                "Venomancer",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                1
+            ],
+            [
+                "Witch Doctor",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Infamous Gaming Win Rate",
+        "id": "Infamous Gaming Win Rate",
+        "data": [
+            [
+                "Abaddon",
+                0.5
+            ],
+            [
+                "Axe",
+                0.0
+            ],
+            [
+                "Beastmaster",
+                1.0
+            ],
+            [
+                "Bloodseeker",
+                1.0
+            ],
+            [
+                "Centaur Warrunner",
+                1.0
+            ],
+            [
+                "Dark Willow",
+                0.0
+            ],
+            [
+                "Dragon Knight",
+                0.0
+            ],
+            [
+                "Earth Spirit",
+                0.0
+            ],
+            [
+                "Enchantress",
+                1.0
+            ],
+            [
+                "Faceless Void",
+                0.0
+            ],
+            [
+                "Gyrocopter",
+                0.75
+            ],
+            [
+                "Hoodwink",
+                1.0
+            ],
+            [
+                "Invoker",
+                0.6666666666666666
+            ],
+            [
+                "Medusa",
+                0.0
+            ],
+            [
+                "Mirana",
+                0.5
+            ],
+            [
+                "Night Stalker",
+                0.0
+            ],
+            [
+                "Oracle",
+                0.0
+            ],
+            [
+                "Puck",
+                0.6666666666666666
+            ],
+            [
+                "Slardar",
+                0.0
+            ],
+            [
+                "Snapfire",
+                0.0
+            ],
+            [
+                "Spectre",
+                1.0
+            ],
+            [
+                "Templar Assassin",
+                1.0
+            ],
+            [
+                "Treant Protector",
+                0.0
+            ],
+            [
+                "Tusk",
+                0.0
+            ],
+            [
+                "Venomancer",
+                1.0
+            ],
+            [
+                "Winter Wyvern",
+                1.0
+            ],
+            [
+                "Witch Doctor",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Infinity Matches Played",
+        "id": "Infinity Matches Played",
+        "data": [
+            [
+                "Centaur Warrunner",
+                1
+            ],
+            [
+                "Dark Seer",
+                2
+            ],
+            [
+                "Dark Willow",
+                2
+            ],
+            [
+                "Ember Spirit",
+                1
+            ],
+            [
+                "Hoodwink",
+                1
+            ],
+            [
+                "Kunkka",
+                1
+            ],
+            [
+                "Luna",
+                1
+            ],
+            [
+                "Medusa",
+                2
+            ],
+            [
+                "Nyx Assassin",
+                2
+            ],
+            [
+                "Oracle",
+                2
+            ],
+            [
+                "Phoenix",
+                3
+            ],
+            [
+                "Sand King",
+                1
+            ],
+            [
+                "Spectre",
+                2
+            ],
+            [
+                "Tidehunter",
+                2
+            ],
+            [
+                "Tiny",
+                1
+            ],
+            [
+                "Tusk",
+                1
+            ],
+            [
+                "Viper",
+                1
+            ],
+            [
+                "Void Spirit",
+                3
+            ],
+            [
+                "Wraith King",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Infinity Matches Won",
+        "id": "Infinity Matches Won",
+        "data": [
+            [
+                "Centaur Warrunner",
+                0
+            ],
+            [
+                "Dark Seer",
+                1
+            ],
+            [
+                "Dark Willow",
+                1
+            ],
+            [
+                "Ember Spirit",
+                1
+            ],
+            [
+                "Hoodwink",
+                1
+            ],
+            [
+                "Kunkka",
+                1
+            ],
+            [
+                "Luna",
+                0
+            ],
+            [
+                "Medusa",
+                2
+            ],
+            [
+                "Nyx Assassin",
+                2
+            ],
+            [
+                "Oracle",
+                2
+            ],
+            [
+                "Phoenix",
+                2
+            ],
+            [
+                "Sand King",
+                1
+            ],
+            [
+                "Spectre",
+                2
+            ],
+            [
+                "Tidehunter",
+                2
+            ],
+            [
+                "Tiny",
+                1
+            ],
+            [
+                "Tusk",
+                0
+            ],
+            [
+                "Viper",
+                0
+            ],
+            [
+                "Void Spirit",
+                1
+            ],
+            [
+                "Wraith King",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Infinity Win Rate",
+        "id": "Infinity Win Rate",
+        "data": [
+            [
+                "Centaur Warrunner",
+                0.0
+            ],
+            [
+                "Dark Seer",
+                0.5
+            ],
+            [
+                "Dark Willow",
+                0.5
+            ],
+            [
+                "Ember Spirit",
+                1.0
+            ],
+            [
+                "Hoodwink",
+                1.0
+            ],
+            [
+                "Kunkka",
+                1.0
+            ],
+            [
+                "Luna",
+                0.0
+            ],
+            [
+                "Medusa",
+                1.0
+            ],
+            [
+                "Nyx Assassin",
+                1.0
+            ],
+            [
+                "Oracle",
+                1.0
+            ],
+            [
+                "Phoenix",
+                0.6666666666666666
+            ],
+            [
+                "Sand King",
+                1.0
+            ],
+            [
+                "Spectre",
+                1.0
+            ],
+            [
+                "Tidehunter",
+                1.0
+            ],
+            [
+                "Tiny",
+                1.0
+            ],
+            [
+                "Tusk",
+                0.0
+            ],
+            [
+                "Viper",
+                0.0
+            ],
+            [
+                "Void Spirit",
+                0.3333333333333333
+            ],
+            [
+                "Wraith King",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Interitus Matches Played",
+        "id": "Interitus Matches Played",
+        "data": [
+            [
+                "Ancient Apparition",
+                1
+            ],
+            [
+                "Axe",
+                2
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Gyrocopter",
+                1
+            ],
+            [
+                "Hoodwink",
+                1
+            ],
+            [
+                "Lina",
+                1
+            ],
+            [
+                "Mirana",
+                1
+            ],
+            [
+                "Puck",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Interitus Matches Won",
+        "id": "Interitus Matches Won",
+        "data": [
+            [
+                "Ancient Apparition",
+                0
+            ],
+            [
+                "Axe",
+                0
+            ],
+            [
+                "Dragon Knight",
+                0
+            ],
+            [
+                "Gyrocopter",
+                0
+            ],
+            [
+                "Hoodwink",
+                0
+            ],
+            [
+                "Lina",
+                0
+            ],
+            [
+                "Mirana",
+                0
+            ],
+            [
+                "Puck",
+                0
+            ],
+            [
+                "Winter Wyvern",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Interitus Win Rate",
+        "id": "Interitus Win Rate",
+        "data": [
+            [
+                "Ancient Apparition",
+                0.0
+            ],
+            [
+                "Axe",
+                0.0
+            ],
+            [
+                "Dragon Knight",
+                0.0
+            ],
+            [
+                "Gyrocopter",
+                0.0
+            ],
+            [
+                "Hoodwink",
+                0.0
+            ],
+            [
+                "Lina",
+                0.0
+            ],
+            [
+                "Mirana",
+                0.0
+            ],
+            [
+                "Puck",
+                0.0
+            ],
+            [
+                "Winter Wyvern",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Inverse Matches Played",
+        "id": "Inverse Matches Played",
+        "data": [
+            [
+                "Ember Spirit",
+                1
+            ],
+            [
+                "Grimstroke",
+                1
+            ],
+            [
+                "Juggernaut",
+                1
+            ],
+            [
+                "Kunkka",
+                1
+            ],
+            [
+                "Luna",
+                1
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Tiny",
+                1
+            ],
+            [
+                "Tusk",
+                1
+            ],
+            [
+                "Venomancer",
+                1
+            ],
+            [
+                "Witch Doctor",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Inverse Matches Won",
+        "id": "Inverse Matches Won",
+        "data": [
+            [
+                "Ember Spirit",
+                0
+            ],
+            [
+                "Grimstroke",
+                0
+            ],
+            [
+                "Juggernaut",
+                0
+            ],
+            [
+                "Kunkka",
+                0
+            ],
+            [
+                "Luna",
+                0
+            ],
+            [
+                "Mars",
+                0
+            ],
+            [
+                "Tiny",
+                0
+            ],
+            [
+                "Tusk",
+                0
+            ],
+            [
+                "Venomancer",
+                0
+            ],
+            [
+                "Witch Doctor",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Inverse Win Rate",
+        "id": "Inverse Win Rate",
+        "data": [
+            [
+                "Ember Spirit",
+                0.0
+            ],
+            [
+                "Grimstroke",
+                0.0
+            ],
+            [
+                "Juggernaut",
+                0.0
+            ],
+            [
+                "Kunkka",
+                0.0
+            ],
+            [
+                "Luna",
+                0.0
+            ],
+            [
+                "Mars",
+                0.0
+            ],
+            [
+                "Tiny",
+                0.0
+            ],
+            [
+                "Tusk",
+                0.0
+            ],
+            [
+                "Venomancer",
+                0.0
+            ],
+            [
+                "Witch Doctor",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Latam Defenders Matches Played",
+        "id": "Latam Defenders Matches Played",
+        "data": [
+            [
+                "Centaur Warrunner",
+                1
+            ],
+            [
+                "Ember Spirit",
+                1
+            ],
+            [
+                "Lion",
+                1
+            ],
+            [
+                "Pangolier",
+                1
+            ],
+            [
+                "Phantom Lancer",
+                1
+            ],
+            [
+                "Phoenix",
+                1
+            ],
+            [
+                "Shadow Demon",
+                1
+            ],
+            [
+                "Tiny",
+                2
+            ],
+            [
+                "Troll Warlord",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Latam Defenders Matches Won",
+        "id": "Latam Defenders Matches Won",
+        "data": [
+            [
+                "Centaur Warrunner",
+                0
+            ],
+            [
+                "Ember Spirit",
+                0
+            ],
+            [
+                "Lion",
+                0
+            ],
+            [
+                "Pangolier",
+                0
+            ],
+            [
+                "Phantom Lancer",
+                0
+            ],
+            [
+                "Phoenix",
+                0
+            ],
+            [
+                "Shadow Demon",
+                0
+            ],
+            [
+                "Tiny",
+                0
+            ],
+            [
+                "Troll Warlord",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Latam Defenders Win Rate",
+        "id": "Latam Defenders Win Rate",
+        "data": [
+            [
+                "Centaur Warrunner",
+                0.0
+            ],
+            [
+                "Ember Spirit",
+                0.0
+            ],
+            [
+                "Lion",
+                0.0
+            ],
+            [
+                "Pangolier",
+                0.0
+            ],
+            [
+                "Phantom Lancer",
+                0.0
+            ],
+            [
+                "Phoenix",
+                0.0
+            ],
+            [
+                "Shadow Demon",
+                0.0
+            ],
+            [
+                "Tiny",
+                0.0
+            ],
+            [
+                "Troll Warlord",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Natus Vincere Matches Played",
+        "id": "Natus Vincere Matches Played",
+        "data": [
+            [
+                "Abaddon",
+                1
+            ],
+            [
+                "Ancient Apparition",
+                3
+            ],
+            [
+                "Axe",
+                2
+            ],
+            [
+                "Dark Willow",
+                2
+            ],
+            [
+                "Death Prophet",
+                1
+            ],
+            [
+                "Doom",
+                1
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Faceless Void",
+                1
+            ],
+            [
+                "Gyrocopter",
+                4
+            ],
+            [
+                "Hoodwink",
+                2
+            ],
+            [
+                "Invoker",
+                2
+            ],
+            [
+                "Io",
+                1
+            ],
+            [
+                "Lion",
+                2
+            ],
+            [
+                "Mars",
+                2
+            ],
+            [
+                "Monkey King",
+                1
+            ],
+            [
+                "Morphling",
+                1
+            ],
+            [
+                "Naga Siren",
+                1
+            ],
+            [
+                "Phoenix",
+                1
+            ],
+            [
+                "Puck",
+                2
+            ],
+            [
+                "Shadow Demon",
+                3
+            ],
+            [
+                "Storm Spirit",
+                1
+            ],
+            [
+                "Templar Assassin",
+                2
+            ],
+            [
+                "Tidehunter",
+                2
+            ],
+            [
+                "Treant Protector",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Natus Vincere Matches Won",
+        "id": "Natus Vincere Matches Won",
+        "data": [
+            [
+                "Abaddon",
+                0
+            ],
+            [
+                "Ancient Apparition",
+                2
+            ],
+            [
+                "Axe",
+                1
+            ],
+            [
+                "Dark Willow",
+                2
+            ],
+            [
+                "Death Prophet",
+                0
+            ],
+            [
+                "Doom",
+                0
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Faceless Void",
+                1
+            ],
+            [
+                "Gyrocopter",
+                2
+            ],
+            [
+                "Hoodwink",
+                2
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Io",
+                0
+            ],
+            [
+                "Lion",
+                0
+            ],
+            [
+                "Mars",
+                0
+            ],
+            [
+                "Monkey King",
+                1
+            ],
+            [
+                "Morphling",
+                0
+            ],
+            [
+                "Naga Siren",
+                0
+            ],
+            [
+                "Phoenix",
+                1
+            ],
+            [
+                "Puck",
+                1
+            ],
+            [
+                "Shadow Demon",
+                1
+            ],
+            [
+                "Storm Spirit",
+                0
+            ],
+            [
+                "Templar Assassin",
+                2
+            ],
+            [
+                "Tidehunter",
+                2
+            ],
+            [
+                "Treant Protector",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Natus Vincere Win Rate",
+        "id": "Natus Vincere Win Rate",
+        "data": [
+            [
+                "Abaddon",
+                0.0
+            ],
+            [
+                "Ancient Apparition",
+                0.6666666666666666
+            ],
+            [
+                "Axe",
+                0.5
+            ],
+            [
+                "Dark Willow",
+                1.0
+            ],
+            [
+                "Death Prophet",
+                0.0
+            ],
+            [
+                "Doom",
+                0.0
+            ],
+            [
+                "Dragon Knight",
+                1.0
+            ],
+            [
+                "Faceless Void",
+                1.0
+            ],
+            [
+                "Gyrocopter",
+                0.5
+            ],
+            [
+                "Hoodwink",
+                1.0
+            ],
+            [
+                "Invoker",
+                0.5
+            ],
+            [
+                "Io",
+                0.0
+            ],
+            [
+                "Lion",
+                0.0
+            ],
+            [
+                "Mars",
+                0.0
+            ],
+            [
+                "Monkey King",
+                1.0
+            ],
+            [
+                "Morphling",
+                0.0
+            ],
+            [
+                "Naga Siren",
+                0.0
+            ],
+            [
+                "Phoenix",
+                1.0
+            ],
+            [
+                "Puck",
+                0.5
+            ],
+            [
+                "Shadow Demon",
+                0.3333333333333333
+            ],
+            [
+                "Storm Spirit",
+                0.0
+            ],
+            [
+                "Templar Assassin",
+                1.0
+            ],
+            [
+                "Tidehunter",
+                1.0
+            ],
+            [
+                "Treant Protector",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Nemiga Gaming Matches Played",
+        "id": "Nemiga Gaming Matches Played",
+        "data": [
+            [
+                "Abaddon",
+                2
+            ],
+            [
+                "Ancient Apparition",
+                3
+            ],
+            [
+                "Axe",
+                2
+            ],
+            [
+                "Batrider",
+                1
+            ],
+            [
+                "Broodmother",
+                1
+            ],
+            [
+                "Crystal Maiden",
+                1
+            ],
+            [
+                "Dark Seer",
+                1
+            ],
+            [
+                "Dark Willow",
+                4
+            ],
+            [
+                "Death Prophet",
+                1
+            ],
+            [
+                "Doom",
+                1
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Enchantress",
+                1
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Keeper of the Light",
+                1
+            ],
+            [
+                "Kunkka",
+                1
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lifestealer",
+                2
+            ],
+            [
+                "Lion",
+                3
+            ],
+            [
+                "Magnus",
+                1
+            ],
+            [
+                "Mars",
+                3
+            ],
+            [
+                "Medusa",
+                3
+            ],
+            [
+                "Nyx Assassin",
+                2
+            ],
+            [
+                "Pangolier",
+                3
+            ],
+            [
+                "Phantom Lancer",
+                1
+            ],
+            [
+                "Puck",
+                2
+            ],
+            [
+                "Razor",
+                1
+            ],
+            [
+                "Shadow Demon",
+                1
+            ],
+            [
+                "Templar Assassin",
+                1
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
+                "Timbersaw",
+                1
+            ],
+            [
+                "Tusk",
+                1
+            ],
+            [
+                "Ursa",
+                2
+            ],
+            [
+                "Windranger",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Nemiga Gaming Matches Won",
+        "id": "Nemiga Gaming Matches Won",
+        "data": [
+            [
+                "Abaddon",
+                1
+            ],
+            [
+                "Ancient Apparition",
+                2
+            ],
+            [
+                "Axe",
+                2
+            ],
+            [
+                "Batrider",
+                0
+            ],
+            [
+                "Broodmother",
+                1
+            ],
+            [
+                "Crystal Maiden",
+                0
+            ],
+            [
+                "Dark Seer",
+                1
+            ],
+            [
+                "Dark Willow",
+                2
+            ],
+            [
+                "Death Prophet",
+                1
+            ],
+            [
+                "Doom",
+                1
+            ],
+            [
+                "Dragon Knight",
+                0
+            ],
+            [
+                "Enchantress",
+                1
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Keeper of the Light",
+                1
+            ],
+            [
+                "Kunkka",
+                1
+            ],
+            [
+                "Leshrac",
+                0
+            ],
+            [
+                "Lifestealer",
+                0
+            ],
+            [
+                "Lion",
+                2
+            ],
+            [
+                "Magnus",
+                0
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Medusa",
+                3
+            ],
+            [
+                "Nyx Assassin",
+                2
+            ],
+            [
+                "Pangolier",
+                2
+            ],
+            [
+                "Phantom Lancer",
+                1
+            ],
+            [
+                "Puck",
+                1
+            ],
+            [
+                "Razor",
+                1
+            ],
+            [
+                "Shadow Demon",
+                0
+            ],
+            [
+                "Templar Assassin",
+                0
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
+                "Timbersaw",
+                1
+            ],
+            [
+                "Tusk",
+                1
+            ],
+            [
+                "Ursa",
+                1
+            ],
+            [
+                "Windranger",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Nemiga Gaming Win Rate",
+        "id": "Nemiga Gaming Win Rate",
+        "data": [
+            [
+                "Abaddon",
+                0.5
+            ],
+            [
+                "Ancient Apparition",
+                0.6666666666666666
+            ],
+            [
+                "Axe",
+                1.0
+            ],
+            [
+                "Batrider",
+                0.0
+            ],
+            [
+                "Broodmother",
+                1.0
+            ],
+            [
+                "Crystal Maiden",
+                0.0
+            ],
+            [
+                "Dark Seer",
+                1.0
+            ],
+            [
+                "Dark Willow",
+                0.5
+            ],
+            [
+                "Death Prophet",
+                1.0
+            ],
+            [
+                "Doom",
+                1.0
+            ],
+            [
+                "Dragon Knight",
+                0.0
+            ],
+            [
+                "Enchantress",
+                1.0
+            ],
+            [
+                "Invoker",
+                1.0
+            ],
+            [
+                "Keeper of the Light",
+                1.0
+            ],
+            [
+                "Kunkka",
+                1.0
+            ],
+            [
+                "Leshrac",
+                0.0
+            ],
+            [
+                "Lifestealer",
+                0.0
+            ],
+            [
+                "Lion",
+                0.6666666666666666
+            ],
+            [
+                "Magnus",
+                0.0
+            ],
+            [
+                "Mars",
+                0.3333333333333333
+            ],
+            [
+                "Medusa",
+                1.0
+            ],
+            [
+                "Nyx Assassin",
+                1.0
+            ],
+            [
+                "Pangolier",
+                0.6666666666666666
+            ],
+            [
+                "Phantom Lancer",
+                1.0
+            ],
+            [
+                "Puck",
+                0.5
+            ],
+            [
+                "Razor",
+                1.0
+            ],
+            [
+                "Shadow Demon",
+                0.0
+            ],
+            [
+                "Templar Assassin",
+                0.0
+            ],
+            [
+                "Terrorblade",
+                1.0
+            ],
+            [
+                "Timbersaw",
+                1.0
+            ],
+            [
+                "Tusk",
+                1.0
+            ],
+            [
+                "Ursa",
+                0.5
+            ],
+            [
+                "Windranger",
+                1.0
+            ],
+            [
+                "Winter Wyvern",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "NoPing Esports Matches Played",
+        "id": "NoPing Esports Matches Played",
+        "data": [
+            [
+                "Abaddon",
+                1
+            ],
+            [
+                "Ancient Apparition",
+                1
+            ],
+            [
+                "Arc Warden",
+                1
+            ],
+            [
+                "Centaur Warrunner",
+                1
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Gyrocopter",
+                2
+            ],
+            [
+                "Invoker",
+                2
+            ],
+            [
+                "Kunkka",
+                2
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lifestealer",
+                1
+            ],
+            [
+                "Lion",
+                2
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Mirana",
+                3
+            ],
+            [
+                "Oracle",
+                3
+            ],
+            [
+                "Queen of Pain",
+                1
+            ],
+            [
+                "Rubick",
+                2
+            ],
+            [
+                "Sven",
+                2
+            ],
+            [
+                "Templar Assassin",
+                1
+            ],
+            [
+                "Terrorblade",
+                2
+            ],
+            [
+                "Tidehunter",
+                3
+            ],
+            [
+                "Timbersaw",
+                1
+            ],
+            [
+                "Tiny",
+                5
+            ],
+            [
+                "Venomancer",
+                2
+            ],
+            [
+                "Viper",
+                2
+            ],
+            [
+                "Winter Wyvern",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "NoPing Esports Matches Won",
+        "id": "NoPing Esports Matches Won",
+        "data": [
+            [
+                "Abaddon",
+                1
+            ],
+            [
+                "Ancient Apparition",
+                0
+            ],
+            [
+                "Arc Warden",
+                0
+            ],
+            [
+                "Centaur Warrunner",
+                1
+            ],
+            [
+                "Dragon Knight",
+                0
+            ],
+            [
+                "Gyrocopter",
+                2
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Kunkka",
+                2
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lifestealer",
+                0
+            ],
+            [
+                "Lion",
+                2
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Mirana",
+                2
+            ],
+            [
+                "Oracle",
+                3
+            ],
+            [
+                "Queen of Pain",
+                1
+            ],
+            [
+                "Rubick",
+                1
+            ],
+            [
+                "Sven",
+                2
+            ],
+            [
+                "Templar Assassin",
+                1
+            ],
+            [
+                "Terrorblade",
+                2
+            ],
+            [
+                "Tidehunter",
+                2
+            ],
+            [
+                "Timbersaw",
+                1
+            ],
+            [
+                "Tiny",
+                4
+            ],
+            [
+                "Venomancer",
+                2
+            ],
+            [
+                "Viper",
+                2
+            ],
+            [
+                "Winter Wyvern",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "NoPing Esports Win Rate",
+        "id": "NoPing Esports Win Rate",
+        "data": [
+            [
+                "Abaddon",
+                1.0
+            ],
+            [
+                "Ancient Apparition",
+                0.0
+            ],
+            [
+                "Arc Warden",
+                0.0
+            ],
+            [
+                "Centaur Warrunner",
+                1.0
+            ],
+            [
+                "Dragon Knight",
+                0.0
+            ],
+            [
+                "Gyrocopter",
+                1.0
+            ],
+            [
+                "Invoker",
+                0.5
+            ],
+            [
+                "Kunkka",
+                1.0
+            ],
+            [
+                "Leshrac",
+                1.0
+            ],
+            [
+                "Lifestealer",
+                0.0
+            ],
+            [
+                "Lion",
+                1.0
+            ],
+            [
+                "Mars",
+                1.0
+            ],
+            [
+                "Mirana",
+                0.6666666666666666
+            ],
+            [
+                "Oracle",
+                1.0
+            ],
+            [
+                "Queen of Pain",
+                1.0
+            ],
+            [
+                "Rubick",
+                0.5
+            ],
+            [
+                "Sven",
+                1.0
+            ],
+            [
+                "Templar Assassin",
+                1.0
+            ],
+            [
+                "Terrorblade",
+                1.0
+            ],
+            [
+                "Tidehunter",
+                0.6666666666666666
+            ],
+            [
+                "Timbersaw",
+                1.0
+            ],
+            [
+                "Tiny",
+                0.8
+            ],
+            [
+                "Venomancer",
+                1.0
+            ],
+            [
+                "Viper",
+                1.0
+            ],
+            [
+                "Winter Wyvern",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "NoTechies Matches Played",
+        "id": "NoTechies Matches Played",
+        "data": [
+            [
+                "Grimstroke",
+                1
+            ],
+            [
+                "Hoodwink",
+                1
+            ],
+            [
+                "Juggernaut",
+                1
+            ],
+            [
+                "Lion",
+                2
+            ],
+            [
+                "Puck",
+                1
+            ],
+            [
+                "Pudge",
+                1
+            ],
+            [
+                "Spectre",
+                1
+            ],
+            [
+                "Templar Assassin",
+                1
+            ],
+            [
+                "Timbersaw",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "NoTechies Matches Won",
+        "id": "NoTechies Matches Won",
+        "data": [
+            [
+                "Grimstroke",
+                0
+            ],
+            [
+                "Hoodwink",
+                0
+            ],
+            [
+                "Juggernaut",
+                0
+            ],
+            [
+                "Lion",
+                0
+            ],
+            [
+                "Puck",
+                0
+            ],
+            [
+                "Pudge",
+                0
+            ],
+            [
+                "Spectre",
+                0
+            ],
+            [
+                "Templar Assassin",
+                0
+            ],
+            [
+                "Timbersaw",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "NoTechies Win Rate",
+        "id": "NoTechies Win Rate",
+        "data": [
+            [
+                "Grimstroke",
+                0.0
+            ],
+            [
+                "Hoodwink",
+                0.0
+            ],
+            [
+                "Juggernaut",
+                0.0
+            ],
+            [
+                "Lion",
+                0.0
+            ],
+            [
+                "Puck",
+                0.0
+            ],
+            [
+                "Pudge",
+                0.0
+            ],
+            [
+                "Spectre",
+                0.0
+            ],
+            [
+                "Templar Assassin",
+                0.0
+            ],
+            [
+                "Timbersaw",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Omega Gaming Matches Played",
+        "id": "Omega Gaming Matches Played",
+        "data": [
+            [
+                "Ancient Apparition",
+                1
+            ],
+            [
+                "Centaur Warrunner",
+                1
+            ],
+            [
+                "Grimstroke",
+                1
+            ],
+            [
+                "Medusa",
+                1
+            ],
+            [
+                "Sand King",
+                1
+            ],
+            [
+                "Snapfire",
+                1
+            ],
+            [
+                "Tiny",
+                2
+            ],
+            [
+                "Void Spirit",
+                1
+            ],
+            [
+                "Wraith King",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Omega Gaming Matches Won",
+        "id": "Omega Gaming Matches Won",
+        "data": [
+            [
+                "Ancient Apparition",
+                0
+            ],
+            [
+                "Centaur Warrunner",
+                0
+            ],
+            [
+                "Grimstroke",
+                0
+            ],
+            [
+                "Medusa",
+                0
+            ],
+            [
+                "Sand King",
+                0
+            ],
+            [
+                "Snapfire",
+                0
+            ],
+            [
+                "Tiny",
+                0
+            ],
+            [
+                "Void Spirit",
+                0
+            ],
+            [
+                "Wraith King",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Omega Gaming Win Rate",
+        "id": "Omega Gaming Win Rate",
+        "data": [
+            [
+                "Ancient Apparition",
+                0.0
+            ],
+            [
+                "Centaur Warrunner",
+                0.0
+            ],
+            [
+                "Grimstroke",
+                0.0
+            ],
+            [
+                "Medusa",
+                0.0
+            ],
+            [
+                "Sand King",
+                0.0
+            ],
+            [
+                "Snapfire",
+                0.0
+            ],
+            [
+                "Tiny",
+                0.0
+            ],
+            [
+                "Void Spirit",
+                0.0
+            ],
+            [
+                "Wraith King",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "PuckChamp Matches Played",
+        "id": "PuckChamp Matches Played",
+        "data": [
+            [
+                "Ancient Apparition",
+                1
+            ],
+            [
+                "Axe",
+                2
+            ],
+            [
+                "Batrider",
+                1
+            ],
+            [
+                "Bloodseeker",
+                1
+            ],
+            [
+                "Clockwerk",
+                1
+            ],
+            [
+                "Death Prophet",
+                3
+            ],
+            [
+                "Hoodwink",
+                1
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lifestealer",
+                1
+            ],
+            [
+                "Lina",
+                2
+            ],
+            [
+                "Lion",
+                4
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                1
+            ],
+            [
+                "Pangolier",
+                3
+            ],
+            [
+                "Phantom Lancer",
+                1
+            ],
+            [
+                "Slardar",
+                1
+            ],
+            [
+                "Terrorblade",
+                2
+            ],
+            [
+                "Undying",
+                2
+            ],
+            [
+                "Windranger",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                3
+            ],
+            [
+                "Witch Doctor",
+                1
+            ],
+            [
+                "Wraith King",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "PuckChamp Matches Won",
+        "id": "PuckChamp Matches Won",
+        "data": [
+            [
+                "Ancient Apparition",
+                0
+            ],
+            [
+                "Axe",
+                0
+            ],
+            [
+                "Batrider",
+                0
+            ],
+            [
+                "Bloodseeker",
+                1
+            ],
+            [
+                "Clockwerk",
+                1
+            ],
+            [
+                "Death Prophet",
+                1
+            ],
+            [
+                "Hoodwink",
+                1
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lifestealer",
+                1
+            ],
+            [
+                "Lina",
+                1
+            ],
+            [
+                "Lion",
+                2
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                1
+            ],
+            [
+                "Pangolier",
+                3
+            ],
+            [
+                "Phantom Lancer",
+                0
+            ],
+            [
+                "Slardar",
+                0
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
+                "Undying",
+                1
+            ],
+            [
+                "Windranger",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                1
+            ],
+            [
+                "Witch Doctor",
+                1
+            ],
+            [
+                "Wraith King",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "PuckChamp Win Rate",
+        "id": "PuckChamp Win Rate",
+        "data": [
+            [
+                "Ancient Apparition",
+                0.0
+            ],
+            [
+                "Axe",
+                0.0
+            ],
+            [
+                "Batrider",
+                0.0
+            ],
+            [
+                "Bloodseeker",
+                1.0
+            ],
+            [
+                "Clockwerk",
+                1.0
+            ],
+            [
+                "Death Prophet",
+                0.3333333333333333
+            ],
+            [
+                "Hoodwink",
+                1.0
+            ],
+            [
+                "Leshrac",
+                1.0
+            ],
+            [
+                "Lifestealer",
+                1.0
+            ],
+            [
+                "Lina",
+                0.5
+            ],
+            [
+                "Lion",
+                0.5
+            ],
+            [
+                "Mars",
+                1.0
+            ],
+            [
+                "Nyx Assassin",
+                1.0
+            ],
+            [
+                "Pangolier",
+                1.0
+            ],
+            [
+                "Phantom Lancer",
+                0.0
+            ],
+            [
+                "Slardar",
+                0.0
+            ],
+            [
+                "Terrorblade",
+                0.5
+            ],
+            [
+                "Undying",
+                0.5
+            ],
+            [
+                "Windranger",
+                1.0
+            ],
+            [
+                "Winter Wyvern",
+                0.3333333333333333
+            ],
+            [
+                "Witch Doctor",
+                1.0
+            ],
+            [
+                "Wraith King",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "SG esports Matches Played",
+        "id": "SG esports Matches Played",
+        "data": [
+            [
+                "Batrider",
+                1
+            ],
+            [
+                "Clockwerk",
+                3
+            ],
+            [
+                "Doom",
+                1
+            ],
+            [
+                "Dragon Knight",
+                3
+            ],
+            [
+                "Elder Titan",
+                1
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Luna",
+                1
+            ],
+            [
+                "Mars",
+                3
+            ],
+            [
+                "Medusa",
+                1
+            ],
+            [
+                "Mirana",
+                3
+            ],
+            [
+                "Nyx Assassin",
+                1
+            ],
+            [
+                "Oracle",
+                1
+            ],
+            [
+                "Phoenix",
+                1
+            ],
+            [
+                "Templar Assassin",
+                1
+            ],
+            [
+                "Terrorblade",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "SG esports Matches Won",
+        "id": "SG esports Matches Won",
+        "data": [
+            [
+                "Batrider",
+                1
+            ],
+            [
+                "Clockwerk",
+                2
+            ],
+            [
+                "Doom",
+                1
+            ],
+            [
+                "Dragon Knight",
+                2
+            ],
+            [
+                "Elder Titan",
+                1
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Luna",
+                1
+            ],
+            [
+                "Mars",
+                2
+            ],
+            [
+                "Medusa",
+                1
+            ],
+            [
+                "Mirana",
+                3
+            ],
+            [
+                "Nyx Assassin",
+                1
+            ],
+            [
+                "Oracle",
+                1
+            ],
+            [
+                "Phoenix",
+                0
+            ],
+            [
+                "Templar Assassin",
+                1
+            ],
+            [
+                "Terrorblade",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "SG esports Win Rate",
+        "id": "SG esports Win Rate",
+        "data": [
+            [
+                "Batrider",
+                1.0
+            ],
+            [
+                "Clockwerk",
+                0.6666666666666666
+            ],
+            [
+                "Doom",
+                1.0
+            ],
+            [
+                "Dragon Knight",
+                0.6666666666666666
+            ],
+            [
+                "Elder Titan",
+                1.0
+            ],
+            [
+                "Leshrac",
+                1.0
+            ],
+            [
+                "Luna",
+                1.0
+            ],
+            [
+                "Mars",
+                0.6666666666666666
+            ],
+            [
+                "Medusa",
+                1.0
+            ],
+            [
+                "Mirana",
+                1.0
+            ],
+            [
+                "Nyx Assassin",
+                1.0
+            ],
+            [
+                "Oracle",
+                1.0
+            ],
+            [
+                "Phoenix",
+                0.0
+            ],
+            [
+                "Templar Assassin",
+                1.0
+            ],
+            [
+                "Terrorblade",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Team Empire Matches Played",
+        "id": "Team Empire Matches Played",
+        "data": [
+            [
+                "Abaddon",
+                2
+            ],
+            [
+                "Broodmother",
+                1
+            ],
+            [
+                "Dragon Knight",
+                4
+            ],
+            [
+                "Enchantress",
+                6
+            ],
+            [
+                "Hoodwink",
+                6
+            ],
+            [
+                "Invoker",
+                2
+            ],
+            [
+                "Lina",
+                3
+            ],
+            [
+                "Luna",
+                3
+            ],
+            [
+                "Magnus",
+                1
+            ],
+            [
+                "Mars",
+                2
+            ],
+            [
+                "Medusa",
+                2
+            ],
+            [
+                "Phantom Lancer",
+                1
+            ],
+            [
+                "Puck",
+                1
+            ],
+            [
+                "Spectre",
+                2
+            ],
+            [
+                "Timbersaw",
+                2
+            ],
+            [
+                "Windranger",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Team Empire Matches Won",
+        "id": "Team Empire Matches Won",
+        "data": [
+            [
+                "Abaddon",
+                1
+            ],
+            [
+                "Broodmother",
+                1
+            ],
+            [
+                "Dragon Knight",
+                4
+            ],
+            [
+                "Enchantress",
+                5
+            ],
+            [
+                "Hoodwink",
+                5
+            ],
+            [
+                "Invoker",
+                2
+            ],
+            [
+                "Lina",
+                2
+            ],
+            [
+                "Luna",
+                2
+            ],
+            [
+                "Magnus",
+                0
+            ],
+            [
+                "Mars",
+                1
+            ],
+            [
+                "Medusa",
+                1
+            ],
+            [
+                "Phantom Lancer",
+                1
+            ],
+            [
+                "Puck",
+                1
+            ],
+            [
+                "Spectre",
+                2
+            ],
+            [
+                "Timbersaw",
+                1
+            ],
+            [
+                "Windranger",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Team Empire Win Rate",
+        "id": "Team Empire Win Rate",
+        "data": [
+            [
+                "Abaddon",
+                0.5
+            ],
+            [
+                "Broodmother",
+                1.0
+            ],
+            [
+                "Dragon Knight",
+                1.0
+            ],
+            [
+                "Enchantress",
+                0.8333333333333334
+            ],
+            [
+                "Hoodwink",
+                0.8333333333333334
+            ],
+            [
+                "Invoker",
+                1.0
+            ],
+            [
+                "Lina",
+                0.6666666666666666
+            ],
+            [
+                "Luna",
+                0.6666666666666666
+            ],
+            [
+                "Magnus",
+                0.0
+            ],
+            [
+                "Mars",
+                0.5
+            ],
+            [
+                "Medusa",
+                0.5
+            ],
+            [
+                "Phantom Lancer",
+                1.0
+            ],
+            [
+                "Puck",
+                1.0
+            ],
+            [
+                "Spectre",
+                1.0
+            ],
+            [
+                "Timbersaw",
+                0.5
+            ],
+            [
+                "Windranger",
+                1.0
+            ],
+            [
+                "Winter Wyvern",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Team Spirit Matches Played",
+        "id": "Team Spirit Matches Played",
+        "data": [
+            [
+                "Axe",
+                1
+            ],
+            [
+                "Dark Willow",
+                1
+            ],
+            [
+                "Dragon Knight",
+                3
+            ],
+            [
+                "Hoodwink",
+                3
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lina",
+                1
+            ],
+            [
+                "Luna",
+                1
+            ],
+            [
+                "Magnus",
+                1
+            ],
+            [
+                "Mirana",
+                2
+            ],
+            [
+                "Nyx Assassin",
+                1
+            ],
+            [
+                "Oracle",
+                1
+            ],
+            [
+                "Phantom Assassin",
+                1
+            ],
+            [
+                "Phoenix",
+                3
+            ],
+            [
+                "Razor",
+                1
+            ],
+            [
+                "Templar Assassin",
+                3
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
+                "Tidehunter",
+                1
+            ],
+            [
+                "Timbersaw",
+                1
+            ],
+            [
+                "Tiny",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Team Spirit Matches Won",
+        "id": "Team Spirit Matches Won",
+        "data": [
+            [
+                "Axe",
+                1
+            ],
+            [
+                "Dark Willow",
+                1
+            ],
+            [
+                "Dragon Knight",
+                3
+            ],
+            [
+                "Hoodwink",
+                3
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
+                "Leshrac",
+                0
+            ],
+            [
+                "Lina",
+                1
+            ],
+            [
+                "Luna",
+                1
+            ],
+            [
+                "Magnus",
+                1
+            ],
+            [
+                "Mirana",
+                2
+            ],
+            [
+                "Nyx Assassin",
+                0
+            ],
+            [
+                "Oracle",
+                0
+            ],
+            [
+                "Phantom Assassin",
+                1
+            ],
+            [
+                "Phoenix",
+                3
+            ],
+            [
+                "Razor",
+                1
+            ],
+            [
+                "Templar Assassin",
+                2
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
+                "Tidehunter",
+                1
+            ],
+            [
+                "Timbersaw",
+                0
+            ],
+            [
+                "Tiny",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Team Spirit Win Rate",
+        "id": "Team Spirit Win Rate",
+        "data": [
+            [
+                "Axe",
+                1.0
+            ],
+            [
+                "Dark Willow",
+                1.0
+            ],
+            [
+                "Dragon Knight",
+                1.0
+            ],
+            [
+                "Hoodwink",
+                1.0
+            ],
+            [
+                "Invoker",
+                1.0
+            ],
+            [
+                "Leshrac",
+                0.0
+            ],
+            [
+                "Lina",
+                1.0
+            ],
+            [
+                "Luna",
+                1.0
+            ],
+            [
+                "Magnus",
+                1.0
+            ],
+            [
+                "Mirana",
+                1.0
+            ],
+            [
+                "Nyx Assassin",
+                0.0
+            ],
+            [
+                "Oracle",
+                0.0
+            ],
+            [
+                "Phantom Assassin",
+                1.0
+            ],
+            [
+                "Phoenix",
+                1.0
+            ],
+            [
+                "Razor",
+                1.0
+            ],
+            [
+                "Templar Assassin",
+                0.6666666666666666
+            ],
+            [
+                "Terrorblade",
+                1.0
+            ],
+            [
+                "Tidehunter",
+                1.0
+            ],
+            [
+                "Timbersaw",
+                0.0
+            ],
+            [
+                "Tiny",
+                1.0
+            ],
+            [
+                "Winter Wyvern",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Team Unique Matches Played",
+        "id": "Team Unique Matches Played",
+        "data": [
+            [
+                "Ancient Apparition",
+                1
+            ],
+            [
+                "Bloodseeker",
+                1
+            ],
+            [
+                "Centaur Warrunner",
+                1
+            ],
+            [
+                "Dark Willow",
+                1
+            ],
+            [
+                "Death Prophet",
+                1
+            ],
+            [
+                "Disruptor",
+                1
+            ],
+            [
+                "Doom",
+                2
+            ],
+            [
+                "Dragon Knight",
+                4
+            ],
+            [
+                "Elder Titan",
+                1
+            ],
+            [
+                "Ember Spirit",
+                1
+            ],
+            [
+                "Faceless Void",
+                1
+            ],
+            [
+                "Hoodwink",
+                3
+            ],
+            [
+                "Kunkka",
+                1
+            ],
+            [
+                "Lifestealer",
+                2
+            ],
+            [
+                "Lina",
+                3
+            ],
+            [
+                "Lion",
+                5
+            ],
+            [
+                "Luna",
+                3
+            ],
+            [
+                "Phoenix",
+                3
+            ],
+            [
+                "Puck",
+                1
+            ],
+            [
+                "Sand King",
+                1
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                1
+            ],
+            [
+                "Zeus",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Team Unique Matches Won",
+        "id": "Team Unique Matches Won",
+        "data": [
+            [
+                "Ancient Apparition",
+                1
+            ],
+            [
+                "Bloodseeker",
+                0
+            ],
+            [
+                "Centaur Warrunner",
+                0
+            ],
+            [
+                "Dark Willow",
+                1
+            ],
+            [
+                "Death Prophet",
+                0
+            ],
+            [
+                "Disruptor",
+                1
+            ],
+            [
+                "Doom",
+                1
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Elder Titan",
+                0
+            ],
+            [
+                "Ember Spirit",
+                1
+            ],
+            [
+                "Faceless Void",
+                0
+            ],
+            [
+                "Hoodwink",
+                1
+            ],
+            [
+                "Kunkka",
+                0
+            ],
+            [
+                "Lifestealer",
+                1
+            ],
+            [
+                "Lina",
+                1
+            ],
+            [
+                "Lion",
+                1
+            ],
+            [
+                "Luna",
+                2
+            ],
+            [
+                "Phoenix",
+                1
+            ],
+            [
+                "Puck",
+                0
+            ],
+            [
+                "Sand King",
+                1
+            ],
+            [
+                "Terrorblade",
+                0
+            ],
+            [
+                "Winter Wyvern",
+                0
+            ],
+            [
+                "Zeus",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Team Unique Win Rate",
+        "id": "Team Unique Win Rate",
+        "data": [
+            [
+                "Ancient Apparition",
+                1.0
+            ],
+            [
+                "Bloodseeker",
+                0.0
+            ],
+            [
+                "Centaur Warrunner",
+                0.0
+            ],
+            [
+                "Dark Willow",
+                1.0
+            ],
+            [
+                "Death Prophet",
+                0.0
+            ],
+            [
+                "Disruptor",
+                1.0
+            ],
+            [
+                "Doom",
+                0.5
+            ],
+            [
+                "Dragon Knight",
+                0.25
+            ],
+            [
+                "Elder Titan",
+                0.0
+            ],
+            [
+                "Ember Spirit",
+                1.0
+            ],
+            [
+                "Faceless Void",
+                0.0
+            ],
+            [
+                "Hoodwink",
+                0.3333333333333333
+            ],
+            [
+                "Kunkka",
+                0.0
+            ],
+            [
+                "Lifestealer",
+                0.5
+            ],
+            [
+                "Lina",
+                0.3333333333333333
+            ],
+            [
+                "Lion",
+                0.2
+            ],
+            [
+                "Luna",
+                0.6666666666666666
+            ],
+            [
+                "Phoenix",
+                0.3333333333333333
+            ],
+            [
+                "Puck",
+                0.0
+            ],
+            [
+                "Sand King",
+                1.0
+            ],
+            [
+                "Terrorblade",
+                0.0
+            ],
+            [
+                "Winter Wyvern",
+                0.0
+            ],
+            [
+                "Zeus",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Trident Clan Matches Played",
+        "id": "Trident Clan Matches Played",
+        "data": [
+            [
+                "Axe",
+                1
+            ],
+            [
+                "Drow Ranger",
+                1
+            ],
+            [
+                "Hoodwink",
+                1
+            ],
+            [
+                "Lina",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                1
+            ],
+            [
+                "Phoenix",
+                1
+            ],
+            [
+                "Puck",
+                1
+            ],
+            [
+                "Sand King",
+                1
+            ],
+            [
+                "Spectre",
+                1
+            ],
+            [
+                "Warlock",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Trident Clan Matches Won",
+        "id": "Trident Clan Matches Won",
+        "data": [
+            [
+                "Axe",
+                0
+            ],
+            [
+                "Drow Ranger",
+                0
+            ],
+            [
+                "Hoodwink",
+                0
+            ],
+            [
+                "Lina",
+                0
+            ],
+            [
+                "Nyx Assassin",
+                0
+            ],
+            [
+                "Phoenix",
+                0
+            ],
+            [
+                "Puck",
+                0
+            ],
+            [
+                "Sand King",
+                0
+            ],
+            [
+                "Spectre",
+                0
+            ],
+            [
+                "Warlock",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Trident Clan Win Rate",
+        "id": "Trident Clan Win Rate",
+        "data": [
+            [
+                "Axe",
+                0.0
+            ],
+            [
+                "Drow Ranger",
+                0.0
+            ],
+            [
+                "Hoodwink",
+                0.0
+            ],
+            [
+                "Lina",
+                0.0
+            ],
+            [
+                "Nyx Assassin",
+                0.0
+            ],
+            [
+                "Phoenix",
+                0.0
+            ],
+            [
+                "Puck",
+                0.0
+            ],
+            [
+                "Sand King",
+                0.0
+            ],
+            [
+                "Spectre",
+                0.0
+            ],
+            [
+                "Warlock",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Unknown Team Matches Played",
+        "id": "Unknown Team Matches Played",
+        "data": [
+            [
+                "Ancient Apparition",
+                2
+            ],
+            [
+                "Brewmaster",
+                1
+            ],
+            [
+                "Bristleback",
+                2
+            ],
+            [
+                "Dark Seer",
+                1
+            ],
+            [
+                "Dark Willow",
+                1
+            ],
+            [
+                "Doom",
+                2
+            ],
+            [
+                "Ember Spirit",
+                2
+            ],
+            [
+                "Faceless Void",
+                1
+            ],
+            [
+                "Gyrocopter",
+                1
+            ],
+            [
+                "Hoodwink",
+                3
+            ],
+            [
+                "Lion",
+                1
+            ],
+            [
+                "Luna",
+                2
+            ],
+            [
+                "Medusa",
+                1
+            ],
+            [
+                "Sand King",
+                2
+            ],
+            [
+                "Snapfire",
+                2
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
+                "Tusk",
+                1
+            ],
+            [
+                "Viper",
+                2
+            ],
+            [
+                "Void Spirit",
+                1
+            ],
+            [
+                "Witch Doctor",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Unknown Team Matches Won",
+        "id": "Unknown Team Matches Won",
+        "data": [
+            [
+                "Ancient Apparition",
+                1
+            ],
+            [
+                "Brewmaster",
+                1
+            ],
+            [
+                "Bristleback",
+                1
+            ],
+            [
+                "Dark Seer",
+                0
+            ],
+            [
+                "Dark Willow",
+                0
+            ],
+            [
+                "Doom",
+                1
+            ],
+            [
+                "Ember Spirit",
+                1
+            ],
+            [
+                "Faceless Void",
+                1
+            ],
+            [
+                "Gyrocopter",
+                0
+            ],
+            [
+                "Hoodwink",
+                2
+            ],
+            [
+                "Lion",
+                1
+            ],
+            [
+                "Luna",
+                0
+            ],
+            [
+                "Medusa",
+                1
+            ],
+            [
+                "Sand King",
+                1
+            ],
+            [
+                "Snapfire",
+                0
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
+                "Tusk",
+                0
+            ],
+            [
+                "Viper",
+                1
+            ],
+            [
+                "Void Spirit",
+                1
+            ],
+            [
+                "Witch Doctor",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Unknown Team Win Rate",
+        "id": "Unknown Team Win Rate",
+        "data": [
+            [
+                "Ancient Apparition",
+                0.5
+            ],
+            [
+                "Brewmaster",
+                1.0
+            ],
+            [
+                "Bristleback",
+                0.5
+            ],
+            [
+                "Dark Seer",
+                0.0
+            ],
+            [
+                "Dark Willow",
+                0.0
+            ],
+            [
+                "Doom",
+                0.5
+            ],
+            [
+                "Ember Spirit",
+                0.5
+            ],
+            [
+                "Faceless Void",
+                1.0
+            ],
+            [
+                "Gyrocopter",
+                0.0
+            ],
+            [
+                "Hoodwink",
+                0.6666666666666666
+            ],
+            [
+                "Lion",
+                1.0
+            ],
+            [
+                "Luna",
+                0.0
+            ],
+            [
+                "Medusa",
+                1.0
+            ],
+            [
+                "Sand King",
+                0.5
+            ],
+            [
+                "Snapfire",
+                0.0
+            ],
+            [
+                "Terrorblade",
+                1.0
+            ],
+            [
+                "Tusk",
+                0.0
+            ],
+            [
+                "Viper",
+                0.5
+            ],
+            [
+                "Void Spirit",
+                1.0
+            ],
+            [
+                "Witch Doctor",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    },
+    {
+        "name": "Winstrike Team Matches Played",
+        "id": "Winstrike Team Matches Played",
+        "data": [
+            [
+                "Axe",
+                3
+            ],
+            [
+                "Batrider",
+                1
+            ],
+            [
+                "Doom",
+                1
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Faceless Void",
+                1
+            ],
+            [
+                "Hoodwink",
+                1
+            ],
+            [
+                "Juggernaut",
+                1
+            ],
+            [
+                "Lion",
+                2
+            ],
+            [
+                "Mirana",
+                1
+            ],
+            [
+                "Phoenix",
+                2
+            ],
+            [
+                "Spectre",
+                1
+            ],
+            [
+                "Templar Assassin",
+                2
+            ],
+            [
+                "Ursa",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Winstrike Team Matches Won",
+        "id": "Winstrike Team Matches Won",
+        "data": [
+            [
+                "Axe",
+                0
+            ],
+            [
+                "Batrider",
+                0
+            ],
+            [
+                "Doom",
+                0
+            ],
+            [
+                "Dragon Knight",
+                0
+            ],
+            [
+                "Faceless Void",
+                0
+            ],
+            [
+                "Hoodwink",
+                0
+            ],
+            [
+                "Juggernaut",
+                0
+            ],
+            [
+                "Lion",
+                0
+            ],
+            [
+                "Mirana",
+                0
+            ],
+            [
+                "Phoenix",
+                0
+            ],
+            [
+                "Spectre",
+                0
+            ],
+            [
+                "Templar Assassin",
+                0
+            ],
+            [
+                "Ursa",
+                0
+            ],
+            [
+                "Winter Wyvern",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Winstrike Team Win Rate",
+        "id": "Winstrike Team Win Rate",
+        "data": [
+            [
+                "Axe",
+                0.0
+            ],
+            [
+                "Batrider",
+                0.0
+            ],
+            [
+                "Doom",
+                0.0
+            ],
+            [
+                "Dragon Knight",
+                0.0
+            ],
+            [
+                "Faceless Void",
+                0.0
+            ],
+            [
+                "Hoodwink",
+                0.0
+            ],
+            [
+                "Juggernaut",
+                0.0
+            ],
+            [
+                "Lion",
+                0.0
+            ],
+            [
+                "Mirana",
+                0.0
+            ],
+            [
+                "Phoenix",
+                0.0
+            ],
+            [
+                "Spectre",
+                0.0
+            ],
+            [
+                "Templar Assassin",
+                0.0
+            ],
+            [
+                "Ursa",
+                0.0
+            ],
+            [
+                "Winter Wyvern",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond"
+        }
+    }
+]

@@ -409,7 +409,7 @@ for hero in sorted(heroes['localized_name']):
     hero_brs.append({'name': hero, 'y': hero_match_combo.iloc[-1]['cum_banrate'], 'drilldown': hero + ' Ban Rate'})
     hero_wrs.append({'name': hero, 'y': hero_match_combo.iloc[-1]['cum_winrate'], 'drilldown': hero + ' Win Rate'})
 
-    color_thief = ColorThief("..\\assets\\hero_icons\\{}.png".format(hero.lower().replace(' ', '_', 3)))
+    color_thief = ColorThief("..\\..\\..\\assets\\hero_icons\\{}.png".format(hero.lower().replace(' ', '_', 3)))
     color = color_thief.get_palette(quality = 1, color_count = 2)[0]
     color = '#%02x%02x%02x' % color
     
