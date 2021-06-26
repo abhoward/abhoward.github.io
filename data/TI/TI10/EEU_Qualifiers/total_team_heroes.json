@@ -98,6 +98,10 @@
                 1
             ],
             [
+                "Team Spirit",
+                1
+            ],
+            [
                 "Team Unique",
                 1
             ]
@@ -124,6 +128,10 @@
                 0
             ],
             [
+                "Team Spirit",
+                1
+            ],
+            [
                 "Team Unique",
                 1
             ]
@@ -148,6 +156,10 @@
             [
                 "PuckChamp",
                 0.0
+            ],
+            [
+                "Team Spirit",
+                1.0
             ],
             [
                 "Team Unique",
@@ -181,7 +193,7 @@
             ],
             [
                 "HellRaisers",
-                1
+                3
             ],
             [
                 "Natus Vincere",
@@ -193,11 +205,15 @@
             ],
             [
                 "PuckChamp",
+                3
+            ],
+            [
+                "Team Empire",
                 2
             ],
             [
                 "Team Spirit",
-                1
+                2
             ],
             [
                 "Trident Clan",
@@ -238,8 +254,12 @@
                 0
             ],
             [
-                "Team Spirit",
+                "Team Empire",
                 1
+            ],
+            [
+                "Team Spirit",
+                2
             ],
             [
                 "Trident Clan",
@@ -278,6 +298,10 @@
             [
                 "PuckChamp",
                 0.0
+            ],
+            [
+                "Team Empire",
+                0.5
             ],
             [
                 "Team Spirit",
@@ -509,7 +533,7 @@
             ],
             [
                 "Team Empire",
-                1
+                2
             ]
         ]
     },
@@ -553,7 +577,7 @@
             ],
             [
                 "Team Empire",
-                1.0
+                0.5
             ]
         ],
         "type": "spline",
@@ -626,6 +650,10 @@
             [
                 "PuckChamp",
                 1
+            ],
+            [
+                "Team Empire",
+                1
             ]
         ]
     },
@@ -644,6 +672,10 @@
             [
                 "PuckChamp",
                 1
+            ],
+            [
+                "Team Empire",
+                1
             ]
         ]
     },
@@ -661,6 +693,10 @@
             ],
             [
                 "PuckChamp",
+                1.0
+            ],
+            [
+                "Team Empire",
                 1.0
             ]
         ],
@@ -1068,6 +1104,10 @@
                 1
             ],
             [
+                "Team Empire",
+                1
+            ],
+            [
                 "Team Unique",
                 2
             ],
@@ -1090,6 +1130,10 @@
                 1
             ],
             [
+                "Team Empire",
+                1
+            ],
+            [
                 "Team Unique",
                 1
             ],
@@ -1109,6 +1153,10 @@
             ],
             [
                 "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Team Empire",
                 1.0
             ],
             [
@@ -1155,7 +1203,7 @@
             ],
             [
                 "Team Empire",
-                5
+                6
             ],
             [
                 "Team Spirit",
@@ -1193,7 +1241,7 @@
             ],
             [
                 "Team Empire",
-                5
+                6
             ],
             [
                 "Team Spirit",
@@ -1401,7 +1449,7 @@
             ],
             [
                 "HellRaisers",
-                3
+                4
             ],
             [
                 "Team Unique",
@@ -1419,7 +1467,7 @@
             ],
             [
                 "HellRaisers",
-                2
+                3
             ],
             [
                 "Team Unique",
@@ -1437,7 +1485,7 @@
             ],
             [
                 "HellRaisers",
-                0.6666666666666666
+                0.75
             ],
             [
                 "Team Unique",
@@ -1533,7 +1581,7 @@
             ],
             [
                 "Team Empire",
-                7
+                9
             ]
         ]
     },
@@ -1559,7 +1607,7 @@
             ],
             [
                 "Team Empire",
-                5
+                6
             ]
         ]
     },
@@ -1585,7 +1633,7 @@
             ],
             [
                 "Team Empire",
-                0.7142857142857143
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -1615,7 +1663,7 @@
             ],
             [
                 "Team Spirit",
-                1
+                2
             ],
             [
                 "Team Unique",
@@ -1667,7 +1715,7 @@
             ],
             [
                 "Team Spirit",
-                1.0
+                0.5
             ],
             [
                 "Team Unique",
@@ -1813,15 +1861,15 @@
             ],
             [
                 "PuckChamp",
-                2
+                3
             ],
             [
                 "Team Empire",
-                7
+                10
             ],
             [
                 "Team Spirit",
-                3
+                5
             ],
             [
                 "Team Unique",
@@ -1867,7 +1915,7 @@
             ],
             [
                 "Team Empire",
-                6
+                7
             ],
             [
                 "Team Spirit",
@@ -1913,15 +1961,15 @@
             ],
             [
                 "PuckChamp",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Team Empire",
-                0.8571428571428571
+                0.7
             ],
             [
                 "Team Spirit",
-                1.0
+                0.6
             ],
             [
                 "Team Unique",
@@ -1975,11 +2023,11 @@
             ],
             [
                 "Team Empire",
-                2
+                6
             ],
             [
                 "Team Spirit",
-                1
+                2
             ]
         ]
     },
@@ -2009,7 +2057,7 @@
             ],
             [
                 "Team Empire",
-                2
+                5
             ],
             [
                 "Team Spirit",
@@ -2043,11 +2091,11 @@
             ],
             [
                 "Team Empire",
-                1.0
+                0.8333333333333334
             ],
             [
                 "Team Spirit",
-                1.0
+                0.5
             ]
         ],
         "type": "spline",
@@ -2230,6 +2278,10 @@
         "id": "Kunkka Matches Played",
         "data": [
             [
+                "HellRaisers",
+                1
+            ],
+            [
                 "Nemiga Gaming",
                 1
             ],
@@ -2244,6 +2296,10 @@
         "id": "Kunkka Matches Won",
         "data": [
             [
+                "HellRaisers",
+                1
+            ],
+            [
                 "Nemiga Gaming",
                 1
             ],
@@ -2257,6 +2313,10 @@
         "name": "Kunkka Win Rate",
         "id": "Kunkka Win Rate",
         "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
             [
                 "Nemiga Gaming",
                 1.0
@@ -2301,7 +2361,7 @@
             ],
             [
                 "Team Spirit",
-                1
+                2
             ]
         ]
     },
@@ -2327,7 +2387,7 @@
             ],
             [
                 "Team Spirit",
-                0
+                1
             ]
         ]
     },
@@ -2353,7 +2413,7 @@
             ],
             [
                 "Team Spirit",
-                0.0
+                0.5
             ]
         ],
         "type": "spline",
@@ -2461,7 +2521,7 @@
             ],
             [
                 "HellRaisers",
-                4
+                6
             ],
             [
                 "PuckChamp",
@@ -2469,7 +2529,7 @@
             ],
             [
                 "Team Empire",
-                4
+                7
             ],
             [
                 "Team Spirit",
@@ -2507,7 +2567,7 @@
             ],
             [
                 "Team Empire",
-                3
+                5
             ],
             [
                 "Team Spirit",
@@ -2537,7 +2597,7 @@
             ],
             [
                 "HellRaisers",
-                0.75
+                0.5
             ],
             [
                 "PuckChamp",
@@ -2545,7 +2605,7 @@
             ],
             [
                 "Team Empire",
-                0.75
+                0.7142857142857143
             ],
             [
                 "Team Spirit",
@@ -2614,6 +2674,10 @@
                 1
             ],
             [
+                "Team Spirit",
+                1
+            ],
+            [
                 "Team Unique",
                 5
             ],
@@ -2662,6 +2726,10 @@
             [
                 "Team Empire",
                 0
+            ],
+            [
+                "Team Spirit",
+                1
             ],
             [
                 "Team Unique",
@@ -2714,6 +2782,10 @@
                 0.0
             ],
             [
+                "Team Spirit",
+                1.0
+            ],
+            [
                 "Team Unique",
                 0.2
             ],
@@ -2753,15 +2825,15 @@
             ],
             [
                 "HellRaisers",
-                2
+                3
             ],
             [
                 "Team Empire",
-                4
+                7
             ],
             [
                 "Team Spirit",
-                1
+                2
             ],
             [
                 "Team Unique",
@@ -2787,11 +2859,11 @@
             ],
             [
                 "HellRaisers",
-                2
+                3
             ],
             [
                 "Team Empire",
-                3
+                6
             ],
             [
                 "Team Spirit",
@@ -2825,11 +2897,11 @@
             ],
             [
                 "Team Empire",
-                0.75
+                0.8571428571428571
             ],
             [
                 "Team Spirit",
-                1.0
+                0.5
             ],
             [
                 "Team Unique",
@@ -2962,6 +3034,10 @@
             [
                 "Team Empire",
                 2
+            ],
+            [
+                "Team Spirit",
+                1
             ]
         ]
     },
@@ -2987,6 +3063,10 @@
             ],
             [
                 "Team Empire",
+                1
+            ],
+            [
+                "Team Spirit",
                 1
             ]
         ]
@@ -3014,6 +3094,10 @@
             [
                 "Team Empire",
                 0.5
+            ],
+            [
+                "Team Spirit",
+                1.0
             ]
         ],
         "type": "spline",
@@ -3104,8 +3188,12 @@
                 3
             ],
             [
+                "Team Empire",
+                1
+            ],
+            [
                 "Team Spirit",
-                2
+                4
             ],
             [
                 "Winstrike Team",
@@ -3122,8 +3210,12 @@
                 2
             ],
             [
+                "Team Empire",
+                1
+            ],
+            [
                 "Team Spirit",
-                2
+                4
             ],
             [
                 "Winstrike Team",
@@ -3138,6 +3230,10 @@
             [
                 "Fantastic Five",
                 0.6666666666666666
+            ],
+            [
+                "Team Empire",
+                1.0
             ],
             [
                 "Team Spirit",
@@ -3252,6 +3348,10 @@
             [
                 "Natus Vincere",
                 1
+            ],
+            [
+                "Team Empire",
+                1
             ]
         ]
     },
@@ -3262,6 +3362,10 @@
             [
                 "Natus Vincere",
                 0
+            ],
+            [
+                "Team Empire",
+                0
             ]
         ]
     },
@@ -3271,6 +3375,10 @@
         "data": [
             [
                 "Natus Vincere",
+                0.0
+            ],
+            [
+                "Team Empire",
                 0.0
             ]
         ],
@@ -3294,6 +3402,10 @@
             [
                 "B8",
                 1
+            ],
+            [
+                "Team Empire",
+                1
             ]
         ]
     },
@@ -3304,6 +3416,10 @@
             [
                 "B8",
                 0
+            ],
+            [
+                "Team Empire",
+                0
             ]
         ]
     },
@@ -3313,6 +3429,52 @@
         "data": [
             [
                 "B8",
+                0.0
+            ],
+            [
+                "Team Empire",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Night Stalker Matches Played",
+        "id": "Night Stalker Matches Played",
+        "data": [
+            [
+                "Team Spirit",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Matches Won",
+        "id": "Night Stalker Matches Won",
+        "data": [
+            [
+                "Team Spirit",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Win Rate",
+        "id": "Night Stalker Win Rate",
+        "data": [
+            [
+                "Team Spirit",
                 0.0
             ]
         ],
@@ -3350,6 +3512,10 @@
                 2
             ],
             [
+                "Team Empire",
+                1
+            ],
+            [
                 "Team Spirit",
                 1
             ],
@@ -3377,6 +3543,10 @@
             ],
             [
                 "PuckChamp",
+                1
+            ],
+            [
+                "Team Empire",
                 1
             ],
             [
@@ -3410,6 +3580,10 @@
                 0.5
             ],
             [
+                "Team Empire",
+                1.0
+            ],
+            [
                 "Team Spirit",
                 0.0
             ],
@@ -3440,6 +3614,10 @@
                 1
             ],
             [
+                "Team Empire",
+                1
+            ],
+            [
                 "Team Spirit",
                 1
             ]
@@ -3454,6 +3632,10 @@
                 0
             ],
             [
+                "Team Empire",
+                0
+            ],
+            [
                 "Team Spirit",
                 0
             ]
@@ -3465,6 +3647,10 @@
         "data": [
             [
                 "B8",
+                0.0
+            ],
+            [
+                "Team Empire",
                 0.0
             ],
             [
@@ -3490,6 +3676,10 @@
         "id": "Pangolier Matches Played",
         "data": [
             [
+                "HellRaisers",
+                1
+            ],
+            [
                 "Nemiga Gaming",
                 3
             ],
@@ -3504,6 +3694,10 @@
         "id": "Pangolier Matches Won",
         "data": [
             [
+                "HellRaisers",
+                1
+            ],
+            [
                 "Nemiga Gaming",
                 2
             ],
@@ -3517,6 +3711,10 @@
         "name": "Pangolier Win Rate",
         "id": "Pangolier Win Rate",
         "data": [
+            [
+                "HellRaisers",
+                1.0
+            ],
             [
                 "Nemiga Gaming",
                 0.6666666666666666
@@ -3603,7 +3801,7 @@
             ],
             [
                 "Team Empire",
-                1
+                3
             ]
         ]
     },
@@ -3629,7 +3827,7 @@
             ],
             [
                 "Team Empire",
-                1
+                2
             ]
         ]
     },
@@ -3655,7 +3853,7 @@
             ],
             [
                 "Team Empire",
-                1.0
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -3685,7 +3883,7 @@
             ],
             [
                 "HellRaisers",
-                1
+                2
             ],
             [
                 "Natus Vincere",
@@ -3693,7 +3891,7 @@
             ],
             [
                 "Team Spirit",
-                3
+                4
             ],
             [
                 "Team Unique",
@@ -3769,7 +3967,7 @@
             ],
             [
                 "Team Spirit",
-                1.0
+                0.75
             ],
             [
                 "Team Unique",
@@ -3818,8 +4016,12 @@
                 1
             ],
             [
+                "PuckChamp",
+                1
+            ],
+            [
                 "Team Empire",
-                2
+                3
             ],
             [
                 "Team Unique",
@@ -3852,8 +4054,12 @@
                 0
             ],
             [
+                "PuckChamp",
+                0
+            ],
+            [
                 "Team Empire",
-                1
+                2
             ],
             [
                 "Team Unique",
@@ -3886,8 +4092,12 @@
                 0.0
             ],
             [
+                "PuckChamp",
+                0.0
+            ],
+            [
                 "Team Empire",
-                0.5
+                0.6666666666666666
             ],
             [
                 "Team Unique",
@@ -4112,6 +4322,10 @@
                 1
             ],
             [
+                "PuckChamp",
+                1
+            ],
+            [
                 "Team Unique",
                 1
             ],
@@ -4130,6 +4344,10 @@
                 0
             ],
             [
+                "PuckChamp",
+                0
+            ],
+            [
                 "Team Unique",
                 1
             ],
@@ -4145,6 +4363,10 @@
         "data": [
             [
                 "HellRaisers",
+                0.0
+            ],
+            [
+                "PuckChamp",
                 0.0
             ],
             [
@@ -4175,7 +4397,7 @@
         "data": [
             [
                 "HellRaisers",
-                3
+                4
             ],
             [
                 "Natus Vincere",
@@ -4197,7 +4419,7 @@
         "data": [
             [
                 "HellRaisers",
-                3
+                4
             ],
             [
                 "Natus Vincere",
@@ -4274,6 +4496,48 @@
             [
                 "PuckChamp",
                 0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Snapfire Matches Played",
+        "id": "Snapfire Matches Played",
+        "data": [
+            [
+                "Team Empire",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Matches Won",
+        "id": "Snapfire Matches Won",
+        "data": [
+            [
+                "Team Empire",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Win Rate",
+        "id": "Snapfire Win Rate",
+        "data": [
+            [
+                "Team Empire",
+                1.0
             ]
         ],
         "type": "spline",
@@ -4427,7 +4691,7 @@
         "data": [
             [
                 "HellRaisers",
-                1
+                2
             ]
         ]
     },
@@ -4447,7 +4711,7 @@
         "data": [
             [
                 "HellRaisers",
-                1.0
+                0.5
             ]
         ],
         "type": "spline",
@@ -4472,6 +4736,10 @@
                 1
             ],
             [
+                "HellRaisers",
+                1
+            ],
+            [
                 "Natus Vincere",
                 2
             ],
@@ -4485,7 +4753,7 @@
             ],
             [
                 "Team Spirit",
-                3
+                4
             ],
             [
                 "Winstrike Team",
@@ -4499,6 +4767,10 @@
         "data": [
             [
                 "AS Monaco Gambit",
+                0
+            ],
+            [
+                "HellRaisers",
                 0
             ],
             [
@@ -4532,6 +4804,10 @@
                 0.0
             ],
             [
+                "HellRaisers",
+                0.0
+            ],
+            [
                 "Natus Vincere",
                 1.0
             ],
@@ -4545,7 +4821,7 @@
             ],
             [
                 "Team Spirit",
-                0.6666666666666666
+                0.5
             ],
             [
                 "Winstrike Team",
@@ -4578,6 +4854,10 @@
                 2
             ],
             [
+                "HellRaisers",
+                1
+            ],
+            [
                 "Nemiga Gaming",
                 1
             ],
@@ -4586,8 +4866,12 @@
                 3
             ],
             [
-                "Team Spirit",
+                "Team Empire",
                 1
+            ],
+            [
+                "Team Spirit",
+                2
             ],
             [
                 "Team Unique",
@@ -4608,6 +4892,10 @@
                 1
             ],
             [
+                "HellRaisers",
+                0
+            ],
+            [
                 "Nemiga Gaming",
                 1
             ],
@@ -4616,8 +4904,12 @@
                 1
             ],
             [
-                "Team Spirit",
+                "Team Empire",
                 1
+            ],
+            [
+                "Team Spirit",
+                2
             ],
             [
                 "Team Unique",
@@ -4638,12 +4930,20 @@
                 0.5
             ],
             [
+                "HellRaisers",
+                0.0
+            ],
+            [
                 "Nemiga Gaming",
                 1.0
             ],
             [
                 "PuckChamp",
                 0.3333333333333333
+            ],
+            [
+                "Team Empire",
+                1.0
             ],
             [
                 "Team Spirit",
@@ -4771,7 +5071,7 @@
             ],
             [
                 "Team Empire",
-                3
+                7
             ],
             [
                 "Team Spirit",
@@ -4805,7 +5105,7 @@
             ],
             [
                 "Team Empire",
-                1
+                3
             ],
             [
                 "Team Spirit",
@@ -4839,7 +5139,7 @@
             ],
             [
                 "Team Empire",
-                0.3333333333333333
+                0.42857142857142855
             ],
             [
                 "Team Spirit",
@@ -4869,7 +5169,7 @@
             ],
             [
                 "Team Spirit",
-                1
+                2
             ]
         ]
     },
@@ -4883,7 +5183,7 @@
             ],
             [
                 "Team Spirit",
-                1
+                2
             ]
         ]
     },
@@ -4924,6 +5224,10 @@
             [
                 "Natus Vincere",
                 1
+            ],
+            [
+                "Team Empire",
+                3
             ]
         ]
     },
@@ -4938,6 +5242,10 @@
             [
                 "Natus Vincere",
                 0
+            ],
+            [
+                "Team Empire",
+                2
             ]
         ]
     },
@@ -4952,6 +5260,10 @@
             [
                 "Natus Vincere",
                 0.0
+            ],
+            [
+                "Team Empire",
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -4974,6 +5286,10 @@
             [
                 "Nemiga Gaming",
                 1
+            ],
+            [
+                "Team Empire",
+                1
             ]
         ]
     },
@@ -4984,6 +5300,10 @@
             [
                 "Nemiga Gaming",
                 1
+            ],
+            [
+                "Team Empire",
+                0
             ]
         ]
     },
@@ -4994,6 +5314,10 @@
             [
                 "Nemiga Gaming",
                 1.0
+            ],
+            [
+                "Team Empire",
+                0.0
             ]
         ],
         "type": "spline",
@@ -5016,6 +5340,10 @@
             [
                 "Fantastic Five",
                 2
+            ],
+            [
+                "Team Spirit",
+                1
             ]
         ]
     },
@@ -5026,6 +5354,10 @@
             [
                 "Fantastic Five",
                 1
+            ],
+            [
+                "Team Spirit",
+                0
             ]
         ]
     },
@@ -5036,6 +5368,10 @@
             [
                 "Fantastic Five",
                 0.5
+            ],
+            [
+                "Team Spirit",
+                0.0
             ]
         ],
         "type": "spline",
@@ -5106,6 +5442,10 @@
                 2
             ],
             [
+                "Team Spirit",
+                1
+            ],
+            [
                 "Winstrike Team",
                 1
             ]
@@ -5121,6 +5461,10 @@
             ],
             [
                 "Nemiga Gaming",
+                1
+            ],
+            [
+                "Team Spirit",
                 1
             ],
             [
@@ -5140,6 +5484,10 @@
             [
                 "Nemiga Gaming",
                 0.5
+            ],
+            [
+                "Team Spirit",
+                1.0
             ],
             [
                 "Winstrike Team",
@@ -5479,7 +5827,7 @@
             ],
             [
                 "HellRaisers",
-                1
+                2
             ],
             [
                 "Nemiga Gaming",
@@ -5487,7 +5835,7 @@
             ],
             [
                 "PuckChamp",
-                3
+                4
             ],
             [
                 "Team Empire",
@@ -5495,7 +5843,7 @@
             ],
             [
                 "Team Spirit",
-                1
+                2
             ],
             [
                 "Team Unique",
@@ -5563,7 +5911,7 @@
             ],
             [
                 "HellRaisers",
-                1.0
+                0.5
             ],
             [
                 "Nemiga Gaming",
@@ -5571,7 +5919,7 @@
             ],
             [
                 "PuckChamp",
-                0.3333333333333333
+                0.25
             ],
             [
                 "Team Empire",
@@ -5579,7 +5927,7 @@
             ],
             [
                 "Team Spirit",
-                1.0
+                0.5
             ],
             [
                 "Team Unique",
@@ -5666,6 +6014,10 @@
                 1
             ],
             [
+                "HellRaisers",
+                1
+            ],
+            [
                 "PuckChamp",
                 1
             ]
@@ -5680,6 +6032,10 @@
                 0
             ],
             [
+                "HellRaisers",
+                0
+            ],
+            [
                 "PuckChamp",
                 1
             ]
@@ -5691,6 +6047,10 @@
         "data": [
             [
                 "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "HellRaisers",
                 0.0
             ],
             [

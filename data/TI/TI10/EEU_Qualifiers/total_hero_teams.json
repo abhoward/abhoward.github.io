@@ -1013,7 +1013,7 @@
             ],
             [
                 "Axe",
-                1
+                3
             ],
             [
                 "Broodmother",
@@ -1029,7 +1029,7 @@
             ],
             [
                 "Elder Titan",
-                3
+                4
             ],
             [
                 "Grimstroke",
@@ -1044,8 +1044,12 @@
                 1
             ],
             [
+                "Kunkka",
+                1
+            ],
+            [
                 "Lina",
-                4
+                6
             ],
             [
                 "Lion",
@@ -1053,7 +1057,7 @@
             ],
             [
                 "Luna",
-                2
+                3
             ],
             [
                 "Magnus",
@@ -1068,12 +1072,16 @@
                 3
             ],
             [
+                "Pangolier",
+                1
+            ],
+            [
                 "Phantom Lancer",
                 1
             ],
             [
                 "Phoenix",
-                1
+                2
             ],
             [
                 "Puck",
@@ -1089,10 +1097,18 @@
             ],
             [
                 "Shadow Demon",
-                3
+                4
             ],
             [
                 "Techies",
+                2
+            ],
+            [
+                "Templar Assassin",
+                1
+            ],
+            [
+                "Terrorblade",
                 1
             ],
             [
@@ -1109,10 +1125,14 @@
             ],
             [
                 "Winter Wyvern",
-                1
+                2
             ],
             [
                 "Witch Doctor",
+                1
+            ],
+            [
+                "Wraith King",
                 1
             ],
             [
@@ -1147,7 +1167,7 @@
             ],
             [
                 "Elder Titan",
-                2
+                3
             ],
             [
                 "Grimstroke",
@@ -1162,6 +1182,10 @@
                 0
             ],
             [
+                "Kunkka",
+                1
+            ],
+            [
                 "Lina",
                 3
             ],
@@ -1171,7 +1195,7 @@
             ],
             [
                 "Luna",
-                2
+                3
             ],
             [
                 "Magnus",
@@ -1184,6 +1208,10 @@
             [
                 "Medusa",
                 2
+            ],
+            [
+                "Pangolier",
+                1
             ],
             [
                 "Phantom Lancer",
@@ -1207,11 +1235,19 @@
             ],
             [
                 "Shadow Demon",
-                3
+                4
             ],
             [
                 "Techies",
                 1
+            ],
+            [
+                "Templar Assassin",
+                0
+            ],
+            [
+                "Terrorblade",
+                0
             ],
             [
                 "Tiny",
@@ -1232,6 +1268,10 @@
             [
                 "Witch Doctor",
                 1
+            ],
+            [
+                "Wraith King",
+                0
             ],
             [
                 "Zeus",
@@ -1265,7 +1305,7 @@
             ],
             [
                 "Elder Titan",
-                0.6666666666666666
+                0.75
             ],
             [
                 "Grimstroke",
@@ -1280,8 +1320,12 @@
                 0.0
             ],
             [
+                "Kunkka",
+                1.0
+            ],
+            [
                 "Lina",
-                0.75
+                0.5
             ],
             [
                 "Lion",
@@ -1302,6 +1346,10 @@
             [
                 "Medusa",
                 0.6666666666666666
+            ],
+            [
+                "Pangolier",
+                1.0
             ],
             [
                 "Phantom Lancer",
@@ -1329,7 +1377,15 @@
             ],
             [
                 "Techies",
-                1.0
+                0.5
+            ],
+            [
+                "Templar Assassin",
+                0.0
+            ],
+            [
+                "Terrorblade",
+                0.0
             ],
             [
                 "Tiny",
@@ -1345,11 +1401,15 @@
             ],
             [
                 "Winter Wyvern",
-                1.0
+                0.5
             ],
             [
                 "Witch Doctor",
                 1.0
+            ],
+            [
+                "Wraith King",
+                0.0
             ],
             [
                 "Zeus",
@@ -2269,7 +2329,7 @@
             ],
             [
                 "Axe",
-                2
+                3
             ],
             [
                 "Batrider",
@@ -2293,7 +2353,7 @@
             ],
             [
                 "Hoodwink",
-                2
+                3
             ],
             [
                 "Leshrac",
@@ -2328,6 +2388,14 @@
                 1
             ],
             [
+                "Puck",
+                1
+            ],
+            [
+                "Sand King",
+                1
+            ],
+            [
                 "Slardar",
                 1
             ],
@@ -2353,7 +2421,7 @@
             ],
             [
                 "Winter Wyvern",
-                3
+                4
             ],
             [
                 "Witch Doctor",
@@ -2434,6 +2502,14 @@
                 0
             ],
             [
+                "Puck",
+                0
+            ],
+            [
+                "Sand King",
+                0
+            ],
+            [
                 "Slardar",
                 0
             ],
@@ -2505,7 +2581,7 @@
             ],
             [
                 "Hoodwink",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Leshrac",
@@ -2540,6 +2616,14 @@
                 0.0
             ],
             [
+                "Puck",
+                0.0
+            ],
+            [
+                "Sand King",
+                0.0
+            ],
+            [
                 "Slardar",
                 0.0
             ],
@@ -2565,7 +2649,7 @@
             ],
             [
                 "Winter Wyvern",
-                0.3333333333333333
+                0.25
             ],
             [
                 "Witch Doctor",
@@ -2597,28 +2681,40 @@
                 3
             ],
             [
+                "Axe",
+                2
+            ],
+            [
                 "Broodmother",
+                2
+            ],
+            [
+                "Clockwerk",
+                1
+            ],
+            [
+                "Doom",
                 1
             ],
             [
                 "Dragon Knight",
-                5
+                6
             ],
             [
                 "Enchantress",
-                7
+                9
             ],
             [
                 "Hoodwink",
-                7
+                10
             ],
             [
                 "Invoker",
-                2
+                6
             ],
             [
                 "Lina",
-                4
+                7
             ],
             [
                 "Lion",
@@ -2626,7 +2722,7 @@
             ],
             [
                 "Luna",
-                4
+                7
             ],
             [
                 "Magnus",
@@ -2641,11 +2737,35 @@
                 2
             ],
             [
-                "Phantom Lancer",
+                "Mirana",
                 1
             ],
             [
+                "Naga Siren",
+                1
+            ],
+            [
+                "Nature's Prophet",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                1
+            ],
+            [
+                "Oracle",
+                1
+            ],
+            [
+                "Phantom Lancer",
+                3
+            ],
+            [
                 "Puck",
+                3
+            ],
+            [
+                "Snapfire",
                 2
             ],
             [
@@ -2653,8 +2773,20 @@
                 3
             ],
             [
+                "Terrorblade",
+                1
+            ],
+            [
                 "Timbersaw",
+                7
+            ],
+            [
+                "Treant Protector",
                 3
+            ],
+            [
+                "Tusk",
+                1
             ],
             [
                 "Windranger",
@@ -2675,28 +2807,40 @@
                 2
             ],
             [
+                "Axe",
+                1
+            ],
+            [
                 "Broodmother",
                 1
             ],
             [
+                "Clockwerk",
+                1
+            ],
+            [
+                "Doom",
+                1
+            ],
+            [
                 "Dragon Knight",
-                5
-            ],
-            [
-                "Enchantress",
-                5
-            ],
-            [
-                "Hoodwink",
                 6
             ],
             [
+                "Enchantress",
+                6
+            ],
+            [
+                "Hoodwink",
+                7
+            ],
+            [
                 "Invoker",
-                2
+                5
             ],
             [
                 "Lina",
-                3
+                5
             ],
             [
                 "Lion",
@@ -2704,7 +2848,7 @@
             ],
             [
                 "Luna",
-                3
+                6
             ],
             [
                 "Magnus",
@@ -2719,20 +2863,56 @@
                 1
             ],
             [
-                "Phantom Lancer",
+                "Mirana",
                 1
             ],
             [
-                "Puck",
+                "Naga Siren",
+                0
+            ],
+            [
+                "Nature's Prophet",
+                0
+            ],
+            [
+                "Nyx Assassin",
                 1
+            ],
+            [
+                "Oracle",
+                0
+            ],
+            [
+                "Phantom Lancer",
+                2
+            ],
+            [
+                "Puck",
+                2
+            ],
+            [
+                "Snapfire",
+                2
             ],
             [
                 "Spectre",
                 2
             ],
             [
-                "Timbersaw",
+                "Terrorblade",
                 1
+            ],
+            [
+                "Timbersaw",
+                3
+            ],
+            [
+                "Treant Protector",
+                2
+            ],
+            [
+                "Tusk",
+                0
             ],
             [
                 "Windranger",
@@ -2753,7 +2933,19 @@
                 0.6666666666666666
             ],
             [
+                "Axe",
+                0.5
+            ],
+            [
                 "Broodmother",
+                0.5
+            ],
+            [
+                "Clockwerk",
+                1.0
+            ],
+            [
+                "Doom",
                 1.0
             ],
             [
@@ -2762,19 +2954,19 @@
             ],
             [
                 "Enchantress",
-                0.7142857142857143
+                0.6666666666666666
             ],
             [
                 "Hoodwink",
-                0.8571428571428571
+                0.7
             ],
             [
                 "Invoker",
-                1.0
+                0.8333333333333334
             ],
             [
                 "Lina",
-                0.75
+                0.7142857142857143
             ],
             [
                 "Lion",
@@ -2782,7 +2974,7 @@
             ],
             [
                 "Luna",
-                0.75
+                0.8571428571428571
             ],
             [
                 "Magnus",
@@ -2797,20 +2989,56 @@
                 0.5
             ],
             [
-                "Phantom Lancer",
+                "Mirana",
                 1.0
             ],
             [
+                "Naga Siren",
+                0.0
+            ],
+            [
+                "Nature's Prophet",
+                0.0
+            ],
+            [
+                "Nyx Assassin",
+                1.0
+            ],
+            [
+                "Oracle",
+                0.0
+            ],
+            [
+                "Phantom Lancer",
+                0.6666666666666666
+            ],
+            [
                 "Puck",
-                0.5
+                0.6666666666666666
+            ],
+            [
+                "Snapfire",
+                1.0
             ],
             [
                 "Spectre",
                 0.6666666666666666
             ],
             [
+                "Terrorblade",
+                1.0
+            ],
+            [
                 "Timbersaw",
-                0.3333333333333333
+                0.42857142857142855
+            ],
+            [
+                "Treant Protector",
+                0.6666666666666666
+            ],
+            [
+                "Tusk",
+                0.0
             ],
             [
                 "Windranger",
@@ -2838,8 +3066,12 @@
         "id": "Team Spirit Matches Played",
         "data": [
             [
-                "Axe",
+                "Ancient Apparition",
                 1
+            ],
+            [
+                "Axe",
+                2
             ],
             [
                 "Dark Willow",
@@ -2855,35 +3087,47 @@
             ],
             [
                 "Faceless Void",
-                1
+                2
             ],
             [
                 "Hoodwink",
-                3
+                5
             ],
             [
                 "Invoker",
-                1
+                2
             ],
             [
                 "Leshrac",
-                1
+                2
             ],
             [
                 "Lina",
                 2
             ],
             [
-                "Luna",
+                "Lion",
                 1
+            ],
+            [
+                "Luna",
+                2
             ],
             [
                 "Magnus",
                 2
             ],
             [
+                "Mars",
+                1
+            ],
+            [
                 "Mirana",
-                2
+                4
+            ],
+            [
+                "Night Stalker",
+                1
             ],
             [
                 "Nyx Assassin",
@@ -2899,7 +3143,7 @@
             ],
             [
                 "Phoenix",
-                3
+                4
             ],
             [
                 "Razor",
@@ -2911,11 +3155,11 @@
             ],
             [
                 "Templar Assassin",
-                3
+                4
             ],
             [
                 "Terrorblade",
-                1
+                2
             ],
             [
                 "Tidehunter",
@@ -2927,11 +3171,19 @@
             ],
             [
                 "Tiny",
+                2
+            ],
+            [
+                "Underlord",
+                1
+            ],
+            [
+                "Ursa",
                 1
             ],
             [
                 "Winter Wyvern",
-                1
+                2
             ]
         ]
     },
@@ -2940,8 +3192,12 @@
         "id": "Team Spirit Matches Won",
         "data": [
             [
-                "Axe",
+                "Ancient Apparition",
                 1
+            ],
+            [
+                "Axe",
+                2
             ],
             [
                 "Dark Willow",
@@ -2969,11 +3225,15 @@
             ],
             [
                 "Leshrac",
-                0
+                1
             ],
             [
                 "Lina",
                 2
+            ],
+            [
+                "Lion",
+                1
             ],
             [
                 "Luna",
@@ -2984,8 +3244,16 @@
                 2
             ],
             [
+                "Mars",
+                1
+            ],
+            [
                 "Mirana",
-                2
+                4
+            ],
+            [
+                "Night Stalker",
+                0
             ],
             [
                 "Nyx Assassin",
@@ -3017,7 +3285,7 @@
             ],
             [
                 "Terrorblade",
-                1
+                2
             ],
             [
                 "Tidehunter",
@@ -3029,6 +3297,14 @@
             ],
             [
                 "Tiny",
+                2
+            ],
+            [
+                "Underlord",
+                0
+            ],
+            [
+                "Ursa",
                 1
             ],
             [
@@ -3042,6 +3318,10 @@
         "id": "Team Spirit Win Rate",
         "data": [
             [
+                "Ancient Apparition",
+                1.0
+            ],
+            [
                 "Axe",
                 1.0
             ],
@@ -3059,35 +3339,47 @@
             ],
             [
                 "Faceless Void",
-                1.0
+                0.5
             ],
             [
                 "Hoodwink",
-                1.0
+                0.6
             ],
             [
                 "Invoker",
-                1.0
+                0.5
             ],
             [
                 "Leshrac",
-                0.0
+                0.5
             ],
             [
                 "Lina",
                 1.0
             ],
             [
-                "Luna",
+                "Lion",
                 1.0
+            ],
+            [
+                "Luna",
+                0.5
             ],
             [
                 "Magnus",
                 1.0
             ],
             [
+                "Mars",
+                1.0
+            ],
+            [
                 "Mirana",
                 1.0
+            ],
+            [
+                "Night Stalker",
+                0.0
             ],
             [
                 "Nyx Assassin",
@@ -3103,7 +3395,7 @@
             ],
             [
                 "Phoenix",
-                1.0
+                0.75
             ],
             [
                 "Razor",
@@ -3115,7 +3407,7 @@
             ],
             [
                 "Templar Assassin",
-                0.6666666666666666
+                0.5
             ],
             [
                 "Terrorblade",
@@ -3134,8 +3426,16 @@
                 1.0
             ],
             [
-                "Winter Wyvern",
+                "Underlord",
+                0.0
+            ],
+            [
+                "Ursa",
                 1.0
+            ],
+            [
+                "Winter Wyvern",
+                0.5
             ]
         ],
         "type": "spline",
