@@ -1,0 +1,4486 @@
+[
+    {
+        "name": "Abaddon Picks For",
+        "id": "Abaddon Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "DogChamp",
+                3.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Bans Against",
+        "id": "Abaddon Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Picks For",
+        "id": "Alchemist Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Bans Against",
+        "id": "Alchemist Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Picks For",
+        "id": "Ancient Apparition Picks",
+        "data": [
+            [
+                "Undying",
+                5.0
+            ],
+            [
+                "Black N Yellow",
+                4.0
+            ],
+            [
+                "Simply TOOBASED",
+                4.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Bans Against",
+        "id": "Ancient Apparition Bans",
+        "data": [
+            [
+                "Undying",
+                4.0
+            ],
+            [
+                "Black N Yellow",
+                3.0
+            ],
+            [
+                "Simply TOOBASED",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Picks For",
+        "id": "Anti-Mage Picks",
+        "data": [
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Bans Against",
+        "id": "Anti-Mage Bans",
+        "data": [
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Picks For",
+        "id": "Arc Warden Picks",
+        "data": [
+            [
+                "The Cut",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Bans Against",
+        "id": "Arc Warden Bans",
+        "data": [
+            [
+                "The Cut",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Picks For",
+        "id": "Axe Picks",
+        "data": [
+            [
+                "Simply TOOBASED",
+                2.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "Undying",
+                3.0
+            ],
+            [
+                "4 Zoomers",
+                4.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Bans Against",
+        "id": "Axe Bans",
+        "data": [
+            [
+                "Simply TOOBASED",
+                3.0
+            ],
+            [
+                "The Cut",
+                5.0
+            ],
+            [
+                "bumble bEE's",
+                4.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Picks For",
+        "id": "Batrider Picks",
+        "data": [
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Bans Against",
+        "id": "Batrider Bans",
+        "data": [
+            [
+                "Simply TOOBASED",
+                4.0
+            ],
+            [
+                "Black N Yellow",
+                2.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Picks For",
+        "id": "Beastmaster Picks",
+        "data": [
+            [
+                "bumble bEE's",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Bans Against",
+        "id": "Beastmaster Bans",
+        "data": [
+            [
+                "bumble bEE's",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Picks For",
+        "id": "Bristleback Picks",
+        "data": [
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Bans Against",
+        "id": "Bristleback Bans",
+        "data": [
+            [
+                "The Cut",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Picks For",
+        "id": "Broodmother Picks",
+        "data": [
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "Undying",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Bans Against",
+        "id": "Broodmother Bans",
+        "data": [
+            [
+                "Simply TOOBASED",
+                5.0
+            ],
+            [
+                "4 Zoomers",
+                3.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Picks For",
+        "id": "Centaur Warrunner Picks",
+        "data": [
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Bans Against",
+        "id": "Centaur Warrunner Bans",
+        "data": [
+            [
+                "bumble bEE's",
+                3.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Picks For",
+        "id": "Chaos Knight Picks",
+        "data": [
+            [
+                "Black N Yellow",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Bans Against",
+        "id": "Chaos Knight Bans",
+        "data": [
+            [
+                "Black N Yellow",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Picks For",
+        "id": "Clockwerk Picks",
+        "data": [
+            [
+                "Black N Yellow",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Bans Against",
+        "id": "Clockwerk Bans",
+        "data": [
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Crystal Maiden Picks For",
+        "id": "Crystal Maiden Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Crystal Maiden Bans Against",
+        "id": "Crystal Maiden Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Picks For",
+        "id": "Dark Seer Picks",
+        "data": [
+            [
+                "bumble bEE's",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Bans Against",
+        "id": "Dark Seer Bans",
+        "data": [
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Picks For",
+        "id": "Dark Willow Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Bans Against",
+        "id": "Dark Willow Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dazzle Picks For",
+        "id": "Dazzle Picks",
+        "data": [
+            [
+                "Black N Yellow",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dazzle Bans Against",
+        "id": "Dazzle Bans",
+        "data": [
+            [
+                "Black N Yellow",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Picks For",
+        "id": "Death Prophet Picks",
+        "data": [
+            [
+                "bumble bEE's",
+                5.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Bans Against",
+        "id": "Death Prophet Bans",
+        "data": [
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Picks For",
+        "id": "Doom Picks",
+        "data": [
+            [
+                "Undying",
+                2.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Black N Yellow",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Bans Against",
+        "id": "Doom Bans",
+        "data": [
+            [
+                "Undying",
+                2.0
+            ],
+            [
+                "bumble bEE's",
+                3.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Picks For",
+        "id": "Dragon Knight Picks",
+        "data": [
+            [
+                "Black N Yellow",
+                3.0
+            ],
+            [
+                "bumble bEE's",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Bans Against",
+        "id": "Dragon Knight Bans",
+        "data": [
+            [
+                "Black N Yellow",
+                5.0
+            ],
+            [
+                "bumble bEE's",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "Undying",
+                2.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "The Cut",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Picks For",
+        "id": "Drow Ranger Picks",
+        "data": [
+            [
+                "Undying",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Bans Against",
+        "id": "Drow Ranger Bans",
+        "data": [
+            [
+                "Undying",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Picks For",
+        "id": "Earth Spirit Picks",
+        "data": [
+            [
+                "Simply TOOBASED",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Bans Against",
+        "id": "Earth Spirit Bans",
+        "data": [
+            [
+                "Simply TOOBASED",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Earthshaker Picks For",
+        "id": "Earthshaker Picks",
+        "data": [
+            [
+                "bumble bEE's",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earthshaker Bans Against",
+        "id": "Earthshaker Bans",
+        "data": [
+            [
+                "bumble bEE's",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Picks For",
+        "id": "Elder Titan Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Bans Against",
+        "id": "Elder Titan Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Picks For",
+        "id": "Ember Spirit Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                5.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Bans Against",
+        "id": "Ember Spirit Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                4.0
+            ],
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Picks For",
+        "id": "Enchantress Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Bans Against",
+        "id": "Enchantress Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                5.0
+            ],
+            [
+                "4 Zoomers",
+                5.0
+            ],
+            [
+                "Undying",
+                2.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Picks For",
+        "id": "Enigma Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Bans Against",
+        "id": "Enigma Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Picks For",
+        "id": "Faceless Void Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Bans Against",
+        "id": "Faceless Void Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                2.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Picks For",
+        "id": "Gyrocopter Picks",
+        "data": [
+            [
+                "Simply TOOBASED",
+                2.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Bans Against",
+        "id": "Gyrocopter Bans",
+        "data": [
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Picks For",
+        "id": "Hoodwink Picks",
+        "data": [
+            [
+                "Undying",
+                4.0
+            ],
+            [
+                "bumble bEE's",
+                5.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "Simply TOOBASED",
+                2.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Bans Against",
+        "id": "Hoodwink Bans",
+        "data": [
+            [
+                "Undying",
+                3.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Picks For",
+        "id": "Invoker Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "Undying",
+                2.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Bans Against",
+        "id": "Invoker Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "Simply TOOBASED",
+                4.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Jakiro Picks For",
+        "id": "Jakiro Picks",
+        "data": [
+            [
+                "The Cut",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Jakiro Bans Against",
+        "id": "Jakiro Bans",
+        "data": [
+            [
+                "The Cut",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Picks For",
+        "id": "Juggernaut Picks",
+        "data": [
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Bans Against",
+        "id": "Juggernaut Bans",
+        "data": [
+            [
+                "Undying",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                2.0
+            ],
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Keeper of the Light Picks For",
+        "id": "Keeper of the Light Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Keeper of the Light Bans Against",
+        "id": "Keeper of the Light Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Picks For",
+        "id": "Kunkka Picks",
+        "data": [
+            [
+                "The Cut",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Bans Against",
+        "id": "Kunkka Bans",
+        "data": [
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Picks For",
+        "id": "Legion Commander Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Bans Against",
+        "id": "Legion Commander Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Picks For",
+        "id": "Leshrac Picks",
+        "data": [
+            [
+                "Simply TOOBASED",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "The Cut",
+                2.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Bans Against",
+        "id": "Leshrac Bans",
+        "data": [
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lich Picks For",
+        "id": "Lich Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lich Bans Against",
+        "id": "Lich Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Picks For",
+        "id": "Lifestealer Picks",
+        "data": [
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Bans Against",
+        "id": "Lifestealer Bans",
+        "data": [
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Picks For",
+        "id": "Lina Picks",
+        "data": [
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                2.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Bans Against",
+        "id": "Lina Bans",
+        "data": [
+            [
+                "Undying",
+                3.0
+            ],
+            [
+                "Black N Yellow",
+                2.0
+            ],
+            [
+                "Simply TOOBASED",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Picks For",
+        "id": "Lion Picks",
+        "data": [
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                2.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Bans Against",
+        "id": "Lion Bans",
+        "data": [
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lone Druid Picks For",
+        "id": "Lone Druid Picks",
+        "data": [
+            [
+                "bumble bEE's",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lone Druid Bans Against",
+        "id": "Lone Druid Bans",
+        "data": [
+            [
+                "bumble bEE's",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Picks For",
+        "id": "Luna Picks",
+        "data": [
+            [
+                "Simply TOOBASED",
+                4.0
+            ],
+            [
+                "The Cut",
+                2.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Bans Against",
+        "id": "Luna Bans",
+        "data": [
+            [
+                "Simply TOOBASED",
+                4.0
+            ],
+            [
+                "The Cut",
+                2.0
+            ],
+            [
+                "Undying",
+                4.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Picks For",
+        "id": "Magnus Picks",
+        "data": [
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Bans Against",
+        "id": "Magnus Bans",
+        "data": [
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Picks For",
+        "id": "Mars Picks",
+        "data": [
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "The Cut",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Bans Against",
+        "id": "Mars Bans",
+        "data": [
+            [
+                "bumble bEE's",
+                9.0
+            ],
+            [
+                "4 Zoomers",
+                4.0
+            ],
+            [
+                "The Cut",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Picks For",
+        "id": "Medusa Picks",
+        "data": [
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Bans Against",
+        "id": "Medusa Bans",
+        "data": [
+            [
+                "bumble bEE's",
+                11.0
+            ],
+            [
+                "4 Zoomers",
+                8.0
+            ],
+            [
+                "Black N Yellow",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Picks For",
+        "id": "Mirana Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                3.0
+            ],
+            [
+                "Undying",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Bans Against",
+        "id": "Mirana Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                3.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "Undying",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Picks For",
+        "id": "Monkey King Picks",
+        "data": [
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Bans Against",
+        "id": "Monkey King Bans",
+        "data": [
+            [
+                "The Cut",
+                1.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Picks For",
+        "id": "Morphling Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                2.0
+            ],
+            [
+                "Undying",
+                3.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Bans Against",
+        "id": "Morphling Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                5.0
+            ],
+            [
+                "Black N Yellow",
+                3.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren Picks For",
+        "id": "Naga Siren Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren Bans Against",
+        "id": "Naga Siren Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                2.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Picks For",
+        "id": "Nature's Prophet Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Bans Against",
+        "id": "Nature's Prophet Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Picks For",
+        "id": "Necrophos Picks",
+        "data": [
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Necrophos Bans Against",
+        "id": "Necrophos Bans",
+        "data": [
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Picks For",
+        "id": "Night Stalker Picks",
+        "data": [
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Bans Against",
+        "id": "Night Stalker Bans",
+        "data": [
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Picks For",
+        "id": "Nyx Assassin Picks",
+        "data": [
+            [
+                "bumble bEE's",
+                5.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Undying",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                4.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Bans Against",
+        "id": "Nyx Assassin Bans",
+        "data": [
+            [
+                "bumble bEE's",
+                4.0
+            ],
+            [
+                "Simply TOOBASED",
+                7.0
+            ],
+            [
+                "Arkosh Gaming",
+                4.0
+            ],
+            [
+                "Undying",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Picks For",
+        "id": "Oracle Picks",
+        "data": [
+            [
+                "bumble bEE's",
+                5.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Bans Against",
+        "id": "Oracle Bans",
+        "data": [
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Outworld Devourer Picks For",
+        "id": "Outworld Devourer Picks",
+        "data": [
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Outworld Devourer Bans Against",
+        "id": "Outworld Devourer Bans",
+        "data": [
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Picks For",
+        "id": "Pangolier Picks",
+        "data": [
+            [
+                "DogChamp",
+                3.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Bans Against",
+        "id": "Pangolier Bans",
+        "data": [
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                3.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Picks For",
+        "id": "Phantom Assassin Picks",
+        "data": [
+            [
+                "The Cut",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Bans Against",
+        "id": "Phantom Assassin Bans",
+        "data": [
+            [
+                "The Cut",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Picks For",
+        "id": "Phantom Lancer Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Bans Against",
+        "id": "Phantom Lancer Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                5.0
+            ],
+            [
+                "Simply TOOBASED",
+                3.0
+            ],
+            [
+                "4 Zoomers",
+                4.0
+            ],
+            [
+                "Black N Yellow",
+                3.0
+            ],
+            [
+                "bumble bEE's",
+                3.0
+            ],
+            [
+                "DogChamp",
+                3.0
+            ],
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Picks For",
+        "id": "Phoenix Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                6.0
+            ],
+            [
+                "Simply TOOBASED",
+                4.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Bans Against",
+        "id": "Phoenix Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                3.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Picks For",
+        "id": "Puck Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "Black N Yellow",
+                2.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Bans Against",
+        "id": "Puck Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                3.0
+            ],
+            [
+                "Simply TOOBASED",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pudge Picks For",
+        "id": "Pudge Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pudge Bans Against",
+        "id": "Pudge Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Picks For",
+        "id": "Pugna Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Bans Against",
+        "id": "Pugna Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Picks For",
+        "id": "Queen of Pain Picks",
+        "data": [
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Queen of Pain Bans Against",
+        "id": "Queen of Pain Bans",
+        "data": [
+            [
+                "DogChamp",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Picks For",
+        "id": "Razor Picks",
+        "data": [
+            [
+                "bumble bEE's",
+                3.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Bans Against",
+        "id": "Razor Bans",
+        "data": [
+            [
+                "bumble bEE's",
+                4.0
+            ],
+            [
+                "The Cut",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                2.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Picks For",
+        "id": "Rubick Picks",
+        "data": [
+            [
+                "DogChamp",
+                2.0
+            ],
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Bans Against",
+        "id": "Rubick Bans",
+        "data": [
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Picks For",
+        "id": "Sand King Picks",
+        "data": [
+            [
+                "Simply TOOBASED",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Undying",
+                3.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Bans Against",
+        "id": "Sand King Bans",
+        "data": [
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "bumble bEE's",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Picks For",
+        "id": "Shadow Demon Picks",
+        "data": [
+            [
+                "bumble bEE's",
+                0.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "Undying",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Bans Against",
+        "id": "Shadow Demon Bans",
+        "data": [
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "Undying",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Picks For",
+        "id": "Shadow Shaman Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Bans Against",
+        "id": "Shadow Shaman Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Picks For",
+        "id": "Skywrath Mage Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Bans Against",
+        "id": "Skywrath Mage Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Slark Picks For",
+        "id": "Slark Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Slark Bans Against",
+        "id": "Slark Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Picks For",
+        "id": "Snapfire Picks",
+        "data": [
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Bans Against",
+        "id": "Snapfire Bans",
+        "data": [
+            [
+                "bumble bEE's",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Sniper Picks For",
+        "id": "Sniper Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sniper Bans Against",
+        "id": "Sniper Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Picks For",
+        "id": "Spectre Picks",
+        "data": [
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "Undying",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Bans Against",
+        "id": "Spectre Bans",
+        "data": [
+            [
+                "bumble bEE's",
+                4.0
+            ],
+            [
+                "Black N Yellow",
+                5.0
+            ],
+            [
+                "4 Zoomers",
+                3.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Picks For",
+        "id": "Storm Spirit Picks",
+        "data": [
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                3.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Bans Against",
+        "id": "Storm Spirit Bans",
+        "data": [
+            [
+                "DogChamp",
+                4.0
+            ],
+            [
+                "Black N Yellow",
+                3.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "Undying",
+                3.0
+            ],
+            [
+                "Simply TOOBASED",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Picks For",
+        "id": "Sven Picks",
+        "data": [
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Bans Against",
+        "id": "Sven Bans",
+        "data": [
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Techies Picks For",
+        "id": "Techies Picks",
+        "data": [
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Techies Bans Against",
+        "id": "Techies Bans",
+        "data": [
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Picks For",
+        "id": "Templar Assassin Picks",
+        "data": [
+            [
+                "DogChamp",
+                3.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "5ManMidas",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Bans Against",
+        "id": "Templar Assassin Bans",
+        "data": [
+            [
+                "DogChamp",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                4.0
+            ],
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Picks For",
+        "id": "Terrorblade Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                3.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Bans Against",
+        "id": "Terrorblade Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                11.0
+            ],
+            [
+                "bumble bEE's",
+                8.0
+            ],
+            [
+                "D2 Hustlers",
+                3.0
+            ],
+            [
+                "The Cut",
+                4.0
+            ],
+            [
+                "Black N Yellow",
+                3.0
+            ],
+            [
+                "Undying",
+                2.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Picks For",
+        "id": "Tidehunter Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                3.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Bans Against",
+        "id": "Tidehunter Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                4.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Picks For",
+        "id": "Timbersaw Picks",
+        "data": [
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "Black N Yellow",
+                2.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Bans Against",
+        "id": "Timbersaw Bans",
+        "data": [
+            [
+                "Simply TOOBASED",
+                6.0
+            ],
+            [
+                "D2 Hustlers",
+                4.0
+            ],
+            [
+                "Black N Yellow",
+                4.0
+            ],
+            [
+                "Undying",
+                3.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "felt",
+                1.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Picks For",
+        "id": "Tiny Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Bans Against",
+        "id": "Tiny Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "Arkosh Gaming",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Picks For",
+        "id": "Treant Protector Picks",
+        "data": [
+            [
+                "The Cut",
+                3.0
+            ],
+            [
+                "bumble bEE's",
+                3.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "DogChamp",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Bans Against",
+        "id": "Treant Protector Bans",
+        "data": [
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Picks For",
+        "id": "Troll Warlord Picks",
+        "data": [
+            [
+                "D2 Hustlers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Bans Against",
+        "id": "Troll Warlord Bans",
+        "data": [
+            [
+                "D2 Hustlers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Picks For",
+        "id": "Tusk Picks",
+        "data": [
+            [
+                "Simply TOOBASED",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Bans Against",
+        "id": "Tusk Bans",
+        "data": [
+            [
+                "Simply TOOBASED",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Picks For",
+        "id": "Underlord Picks",
+        "data": [
+            [
+                "Simply TOOBASED",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Bans Against",
+        "id": "Underlord Bans",
+        "data": [
+            [
+                "Simply TOOBASED",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Picks For",
+        "id": "Undying Picks",
+        "data": [
+            [
+                "4 Zoomers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Bans Against",
+        "id": "Undying Bans",
+        "data": [
+            [
+                "4 Zoomers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Picks For",
+        "id": "Ursa Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "DogChamp",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "5ManMidas",
+                0.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Bans Against",
+        "id": "Ursa Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "DogChamp",
+                4.0
+            ],
+            [
+                "4 Zoomers",
+                4.0
+            ],
+            [
+                "Undying",
+                4.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "5ManMidas",
+                2.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Picks For",
+        "id": "Venomancer Picks",
+        "data": [
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Bans Against",
+        "id": "Venomancer Bans",
+        "data": [
+            [
+                "Black N Yellow",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Picks For",
+        "id": "Viper Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                3.0
+            ],
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Bans Against",
+        "id": "Viper Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                3.0
+            ],
+            [
+                "Undying",
+                4.0
+            ],
+            [
+                "Black N Yellow",
+                2.0
+            ],
+            [
+                "bumble bEE's",
+                3.0
+            ],
+            [
+                "The Cut",
+                2.0
+            ],
+            [
+                "Simply TOOBASED",
+                2.0
+            ],
+            [
+                "4 Zoomers",
+                2.0
+            ],
+            [
+                "felt",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Visage Picks For",
+        "id": "Visage Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Visage Bans Against",
+        "id": "Visage Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Picks For",
+        "id": "Void Spirit Picks",
+        "data": [
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "Black N Yellow",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Bans Against",
+        "id": "Void Spirit Bans",
+        "data": [
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                1.0
+            ],
+            [
+                "Black N Yellow",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Picks For",
+        "id": "Winter Wyvern Picks",
+        "data": [
+            [
+                "bumble bEE's",
+                2.0
+            ],
+            [
+                "4 Zoomers",
+                3.0
+            ],
+            [
+                "Arkosh Gaming",
+                0.0
+            ],
+            [
+                "Undying",
+                2.0
+            ],
+            [
+                "felt",
+                2.0
+            ],
+            [
+                "D2 Hustlers",
+                2.0
+            ],
+            [
+                "The Cut",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Bans Against",
+        "id": "Winter Wyvern Bans",
+        "data": [
+            [
+                "bumble bEE's",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "Arkosh Gaming",
+                2.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "felt",
+                0.0
+            ],
+            [
+                "D2 Hustlers",
+                0.0
+            ],
+            [
+                "The Cut",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Picks For",
+        "id": "Witch Doctor Picks",
+        "data": [
+            [
+                "bumble bEE's",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Witch Doctor Bans Against",
+        "id": "Witch Doctor Bans",
+        "data": [
+            [
+                "bumble bEE's",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Picks For",
+        "id": "Wraith King Picks",
+        "data": [
+            [
+                "Black N Yellow",
+                0.0
+            ],
+            [
+                "Undying",
+                0.0
+            ],
+            [
+                "Simply TOOBASED",
+                0.0
+            ],
+            [
+                "4 Zoomers",
+                1.0
+            ],
+            [
+                "bumble bEE's",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Bans Against",
+        "id": "Wraith King Bans",
+        "data": [
+            [
+                "Black N Yellow",
+                2.0
+            ],
+            [
+                "Undying",
+                1.0
+            ],
+            [
+                "Simply TOOBASED",
+                1.0
+            ],
+            [
+                "4 Zoomers",
+                0.0
+            ],
+            [
+                "bumble bEE's",
+                1.0
+            ]
+        ]
+    }
+]

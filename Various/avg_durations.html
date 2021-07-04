@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/drilldown.js"></script>
+    </head>
+    <body style="margin:0;padding:0;height:100vh">
+        <div id="container" style="width:100%;height:100%">Loading....</div>
+        <script>
+            var loc = window.location.pathname.split('/').slice(-2)[0];
+            var avgDurationsLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/avg_duration.json';
+
+            function createHighchart(data1) {
+                var avgDurations = data1;
+
+                Highcharts.chart('container', {
+                    'chart': {
+                        'type': 'column',
+                        'zoomType': 'x'
+                    },
+                    'title': {
+                        'text': '<b>Average Match Durations</b>'
+                    },
+                    'subtitle': {
+                        'text': 'Limited to Tournaments From June 2018 - July 2021 With 10 or More Matches'
+                    },
+                    'legend': {
+                        'verticalAlign': 'top'
+                    },
+                    'plotOptions': {
+                        'series': {
+                            'grouping': false
+                        }
+                    },
+                    'tooltip': {
+                        'shared': true,
+                        'formatter': function() {
+                            var league = this.points[0].key;
+                            var color = this.points[0].color;
+                            var matchCount = this.points[0].point.match_count;
+
+                            var duration = parseInt(this.points[0].y);
+                            var minutes = Math.floor(duration / 60);
+                            var seconds = duration - (minutes * 60);
+
+                            if (seconds.toString().length == 1) {
+                                seconds = '0' + seconds;
+                            }
+
+                            console.log(seconds);
+                            console.log(duration);
+
+                            return '<b>' + league + '</b><br><span style="color:' + color + '">Average Match Duration: </span> <b>' + minutes + ':' + seconds + '</b><br>' + '<span style="color:' + color + '">Number of Matches: </span> <b>' + matchCount + '</b>';
+                        }
+                    },
+                    'xAxis': {
+                        'type': 'category',
+                        'title': {
+                            'text': 'Tournament'
+                        }
+                    },
+                    'yAxis': [
+                        { // Primary Axis
+                            'title': {
+                                'text': 'Average Duration'
+                            },
+                            'labels': {
+                                'formatter': function() {
+                                    var duration = parseInt(this.value);
+                                    var minutes = Math.floor(duration / 60);
+                                    var seconds = duration - (minutes * 60);
+                                    if (seconds == 0) {
+                                        seconds = '00'
+                                    }
+                                    return minutes + ':' + seconds;
+                                }
+                            },
+                        }
+                    ],
+                    'series': [
+                        {
+                            'type': 'column',
+                            'name': 'Average Durations',
+                            'color':'rgba(0, 156, 173)',
+                            'data': avgDurations
+                        }
+                    ]
+                    // 'drilldown': {
+                    //     'drillUpButton': {
+                    //         'theme': {
+                    //             'fill': 'white',
+                    //             'stroke-width': 1,
+                    //             'stroke': 'silver',
+                    //             'r': 0
+                    //         }
+                    //     },
+                    //     'series': totalHeroTeams
+                    // }
+                });
+            }
+
+            function ajaxCalls() {
+                return [
+                    $.ajax({
+                        url: avgDurationsLink,
+                        dataType: 'json'
+                    })
+                ];
+            }
+
+            $.when.apply($, ajaxCalls()).then(createHighchart);
+        </script>
+    </body>
+</html>
