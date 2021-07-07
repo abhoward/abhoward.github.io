@@ -15,7 +15,7 @@
             var heroMatchesWonLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/TI/TI10/' + loc + '/hero_matches_won.json';
             var heroWinRatesLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/TI/TI10/' + loc + '/hero_win_rates.json';
             var totalTeamHeroesLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/TI/TI10/' + loc + '/total_team_heroes.json';
-
+            console.log(loc);
             function createHighchart(data1, data2, data3, data4) {
                 var heroMatchesPlayed = data1[0];
                 var heroMatchesWon = data2[0];
@@ -27,7 +27,7 @@
                         'type': 'column'
                     },
                     'title': {
-                        'text': '<b>TI10 SA Qualifiers</b></br>Hero Win Rates'
+                        'text': '<b>TI10 Overall</b></br>Hero Win Rates'
                     },
                     'subtitle': {
                         'text': 'Click on the bars or hero names to drill down to team stats. Source: opendota.com'
