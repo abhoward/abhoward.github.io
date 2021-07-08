@@ -1,0 +1,4038 @@
+[
+    {
+        "name": "Abaddon Picks For",
+        "id": "Abaddon Picks",
+        "data": [
+            [
+                "ViKin.gg",
+                3.0
+            ],
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                2.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "No Bounty Hunter",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Bans Against",
+        "id": "Abaddon Bans",
+        "data": [
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Into The Breach",
+                2.0
+            ],
+            [
+                "No Bounty Hunter",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Picks For",
+        "id": "Alchemist Picks",
+        "data": [
+            [
+                "OG",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Bans Against",
+        "id": "Alchemist Bans",
+        "data": [
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Picks For",
+        "id": "Ancient Apparition Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                2.0
+            ],
+            [
+                "No Bounty Hunter",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Bans Against",
+        "id": "Ancient Apparition Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                3.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "No Bounty Hunter",
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Picks For",
+        "id": "Anti-Mage Picks",
+        "data": [
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Bans Against",
+        "id": "Anti-Mage Bans",
+        "data": [
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Picks For",
+        "id": "Arc Warden Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Bans Against",
+        "id": "Arc Warden Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Picks For",
+        "id": "Axe Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                3.0
+            ],
+            [
+                "Brame",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                2.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ],
+            [
+                "Hippomaniacs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Bans Against",
+        "id": "Axe Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                2.0
+            ],
+            [
+                "Brame",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                3.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Picks For",
+        "id": "Batrider Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Brame",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Bans Against",
+        "id": "Batrider Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                4.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Picks For",
+        "id": "Bloodseeker Picks",
+        "data": [
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Bans Against",
+        "id": "Bloodseeker Bans",
+        "data": [
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Picks For",
+        "id": "Broodmother Picks",
+        "data": [
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Bald Reborn",
+                0.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "No Bounty Hunter",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Bans Against",
+        "id": "Broodmother Bans",
+        "data": [
+            [
+                "ViKin.gg",
+                4.0
+            ],
+            [
+                "Into The Breach",
+                4.0
+            ],
+            [
+                "Team Liquid",
+                3.0
+            ],
+            [
+                "Team Bald Reborn",
+                3.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                2.0
+            ],
+            [
+                "No Bounty Hunter",
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Picks For",
+        "id": "Chaos Knight Picks",
+        "data": [
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Hippomaniacs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Bans Against",
+        "id": "Chaos Knight Bans",
+        "data": [
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Picks For",
+        "id": "Clockwerk Picks",
+        "data": [
+            [
+                "Into The Breach",
+                3.0
+            ],
+            [
+                "No Bounty Hunter",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Bans Against",
+        "id": "Clockwerk Bans",
+        "data": [
+            [
+                "Into The Breach",
+                2.0
+            ],
+            [
+                "No Bounty Hunter",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Picks For",
+        "id": "Dark Seer Picks",
+        "data": [
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Bans Against",
+        "id": "Dark Seer Bans",
+        "data": [
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                2.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Picks For",
+        "id": "Dark Willow Picks",
+        "data": [
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Bans Against",
+        "id": "Dark Willow Bans",
+        "data": [
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Picks For",
+        "id": "Death Prophet Picks",
+        "data": [
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Bans Against",
+        "id": "Death Prophet Bans",
+        "data": [
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Picks For",
+        "id": "Disruptor Picks",
+        "data": [
+            [
+                "Ghost Frogs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Bans Against",
+        "id": "Disruptor Bans",
+        "data": [
+            [
+                "Ghost Frogs",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Picks For",
+        "id": "Doom Picks",
+        "data": [
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Bans Against",
+        "id": "Doom Bans",
+        "data": [
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Picks For",
+        "id": "Dragon Knight Picks",
+        "data": [
+            [
+                "Ghost Frogs",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                2.0
+            ],
+            [
+                "Hellbear Smashers",
+                2.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "No Bounty Hunter",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Hippomaniacs",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Bans Against",
+        "id": "Dragon Knight Bans",
+        "data": [
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                2.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "No Bounty Hunter",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Picks For",
+        "id": "Drow Ranger Picks",
+        "data": [
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Team Bald Reborn",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Bans Against",
+        "id": "Drow Ranger Bans",
+        "data": [
+            [
+                "ViKin.gg",
+                4.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                2.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Team Bald Reborn",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Picks For",
+        "id": "Earth Spirit Picks",
+        "data": [
+            [
+                "No Bounty Hunter",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Bans Against",
+        "id": "Earth Spirit Bans",
+        "data": [
+            [
+                "No Bounty Hunter",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Picks For",
+        "id": "Elder Titan Picks",
+        "data": [
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Bans Against",
+        "id": "Elder Titan Bans",
+        "data": [
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Picks For",
+        "id": "Ember Spirit Picks",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Bans Against",
+        "id": "Ember Spirit Bans",
+        "data": [
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Picks For",
+        "id": "Enchantress Picks",
+        "data": [
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Bans Against",
+        "id": "Enchantress Bans",
+        "data": [
+            [
+                "ViKin.gg",
+                4.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Picks For",
+        "id": "Faceless Void Picks",
+        "data": [
+            [
+                "Chicken Fighters",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Bans Against",
+        "id": "Faceless Void Bans",
+        "data": [
+            [
+                "Chicken Fighters",
+                3.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                2.0
+            ],
+            [
+                "OG",
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Picks For",
+        "id": "Grimstroke Picks",
+        "data": [
+            [
+                "Hippomaniacs",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Team Bald Reborn",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Bans Against",
+        "id": "Grimstroke Bans",
+        "data": [
+            [
+                "Hippomaniacs",
+                2.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Team Bald Reborn",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Picks For",
+        "id": "Gyrocopter Picks",
+        "data": [
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Bans Against",
+        "id": "Gyrocopter Bans",
+        "data": [
+            [
+                "OG",
+                2.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Picks For",
+        "id": "Hoodwink Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                4.0
+            ],
+            [
+                "Into The Breach",
+                3.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                2.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "No Bounty Hunter",
+                1.0
+            ],
+            [
+                "Brame",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Bans Against",
+        "id": "Hoodwink Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Into The Breach",
+                2.0
+            ],
+            [
+                "OG",
+                3.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "No Bounty Hunter",
+                0.0
+            ],
+            [
+                "Brame",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Picks For",
+        "id": "Invoker Picks",
+        "data": [
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                2.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Bans Against",
+        "id": "Invoker Bans",
+        "data": [
+            [
+                "Chicken Fighters",
+                3.0
+            ],
+            [
+                "Into The Breach",
+                3.0
+            ],
+            [
+                "ViKin.gg",
+                2.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Nigma",
+                3.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Io Picks For",
+        "id": "Io Picks",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Io Bans Against",
+        "id": "Io Bans",
+        "data": [
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Jakiro Picks For",
+        "id": "Jakiro Picks",
+        "data": [
+            [
+                "Spider Pigzs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Jakiro Bans Against",
+        "id": "Jakiro Bans",
+        "data": [
+            [
+                "Spider Pigzs",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Picks For",
+        "id": "Juggernaut Picks",
+        "data": [
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "No Bounty Hunter",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Bans Against",
+        "id": "Juggernaut Bans",
+        "data": [
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "No Bounty Hunter",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Keeper of the Light Picks For",
+        "id": "Keeper of the Light Picks",
+        "data": [
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Brame",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Keeper of the Light Bans Against",
+        "id": "Keeper of the Light Bans",
+        "data": [
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Brame",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Picks For",
+        "id": "Legion Commander Picks",
+        "data": [
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Bans Against",
+        "id": "Legion Commander Bans",
+        "data": [
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Picks For",
+        "id": "Leshrac Picks",
+        "data": [
+            [
+                "Team Bald Reborn",
+                0.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Bans Against",
+        "id": "Leshrac Bans",
+        "data": [
+            [
+                "Team Bald Reborn",
+                2.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Picks For",
+        "id": "Lifestealer Picks",
+        "data": [
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Bans Against",
+        "id": "Lifestealer Bans",
+        "data": [
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Picks For",
+        "id": "Lina Picks",
+        "data": [
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                3.0
+            ],
+            [
+                "Brame",
+                3.0
+            ],
+            [
+                "ViKin.gg",
+                3.0
+            ],
+            [
+                "Hippomaniacs",
+                2.0
+            ],
+            [
+                "OG",
+                2.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Bans Against",
+        "id": "Lina Bans",
+        "data": [
+            [
+                "Spider Pigzs",
+                6.0
+            ],
+            [
+                "Hellbear Smashers",
+                3.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Picks For",
+        "id": "Lion Picks",
+        "data": [
+            [
+                "Spider Pigzs",
+                3.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Bans Against",
+        "id": "Lion Bans",
+        "data": [
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lone Druid Picks For",
+        "id": "Lone Druid Picks",
+        "data": [
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lone Druid Bans Against",
+        "id": "Lone Druid Bans",
+        "data": [
+            [
+                "Team Liquid",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Picks For",
+        "id": "Luna Picks",
+        "data": [
+            [
+                "Spider Pigzs",
+                3.0
+            ],
+            [
+                "Into The Breach",
+                2.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Bans Against",
+        "id": "Luna Bans",
+        "data": [
+            [
+                "Spider Pigzs",
+                3.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lycan Picks For",
+        "id": "Lycan Picks",
+        "data": [
+            [
+                "No Bounty Hunter",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lycan Bans Against",
+        "id": "Lycan Bans",
+        "data": [
+            [
+                "No Bounty Hunter",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Picks For",
+        "id": "Magnus Picks",
+        "data": [
+            [
+                "Brame",
+                2.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Bans Against",
+        "id": "Magnus Bans",
+        "data": [
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "OG",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Picks For",
+        "id": "Mars Picks",
+        "data": [
+            [
+                "Spider Pigzs",
+                2.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Bans Against",
+        "id": "Mars Bans",
+        "data": [
+            [
+                "Spider Pigzs",
+                2.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Picks For",
+        "id": "Medusa Picks",
+        "data": [
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Bans Against",
+        "id": "Medusa Bans",
+        "data": [
+            [
+                "Into The Breach",
+                3.0
+            ],
+            [
+                "OG",
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Picks For",
+        "id": "Mirana Picks",
+        "data": [
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Bans Against",
+        "id": "Mirana Bans",
+        "data": [
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                2.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Picks For",
+        "id": "Monkey King Picks",
+        "data": [
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Monkey King Bans Against",
+        "id": "Monkey King Bans",
+        "data": [
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Picks For",
+        "id": "Morphling Picks",
+        "data": [
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Bans Against",
+        "id": "Morphling Bans",
+        "data": [
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren Picks For",
+        "id": "Naga Siren Picks",
+        "data": [
+            [
+                "No Bounty Hunter",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren Bans Against",
+        "id": "Naga Siren Bans",
+        "data": [
+            [
+                "No Bounty Hunter",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Picks For",
+        "id": "Night Stalker Picks",
+        "data": [
+            [
+                "Spider Pigzs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Night Stalker Bans Against",
+        "id": "Night Stalker Bans",
+        "data": [
+            [
+                "Spider Pigzs",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Picks For",
+        "id": "Nyx Assassin Picks",
+        "data": [
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                2.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Team Bald Reborn",
+                2.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Bans Against",
+        "id": "Nyx Assassin Bans",
+        "data": [
+            [
+                "Chicken Fighters",
+                4.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Bald Reborn",
+                0.0
+            ],
+            [
+                "Brame",
+                2.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Picks For",
+        "id": "Oracle Picks",
+        "data": [
+            [
+                "OG",
+                2.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "No Bounty Hunter",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Oracle Bans Against",
+        "id": "Oracle Bans",
+        "data": [
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "No Bounty Hunter",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Picks For",
+        "id": "Pangolier Picks",
+        "data": [
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Bans Against",
+        "id": "Pangolier Bans",
+        "data": [
+            [
+                "Team Bald Reborn",
+                2.0
+            ],
+            [
+                "OG",
+                3.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Picks For",
+        "id": "Phantom Assassin Picks",
+        "data": [
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Bans Against",
+        "id": "Phantom Assassin Bans",
+        "data": [
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Picks For",
+        "id": "Phantom Lancer Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                2.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "Team Bald Reborn",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Bans Against",
+        "id": "Phantom Lancer Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                2.0
+            ],
+            [
+                "Brame",
+                3.0
+            ],
+            [
+                "Spider Pigzs",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Picks For",
+        "id": "Phoenix Picks",
+        "data": [
+            [
+                "Chicken Fighters",
+                4.0
+            ],
+            [
+                "Hellbear Smashers",
+                3.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Bans Against",
+        "id": "Phoenix Bans",
+        "data": [
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Picks For",
+        "id": "Puck Picks",
+        "data": [
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "No Bounty Hunter",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Bans Against",
+        "id": "Puck Bans",
+        "data": [
+            [
+                "Into The Breach",
+                4.0
+            ],
+            [
+                "Chicken Fighters",
+                3.0
+            ],
+            [
+                "Hellbear Smashers",
+                3.0
+            ],
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "No Bounty Hunter",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Picks For",
+        "id": "Pugna Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Pugna Bans Against",
+        "id": "Pugna Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Picks For",
+        "id": "Razor Picks",
+        "data": [
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                2.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Brame",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Bans Against",
+        "id": "Razor Bans",
+        "data": [
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Brame",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Picks For",
+        "id": "Rubick Picks",
+        "data": [
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Bans Against",
+        "id": "Rubick Bans",
+        "data": [
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Picks For",
+        "id": "Sand King Picks",
+        "data": [
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Bans Against",
+        "id": "Sand King Bans",
+        "data": [
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Picks For",
+        "id": "Shadow Demon Picks",
+        "data": [
+            [
+                "Brame",
+                2.0
+            ],
+            [
+                "Hippomaniacs",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Bans Against",
+        "id": "Shadow Demon Bans",
+        "data": [
+            [
+                "Brame",
+                2.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Picks For",
+        "id": "Slardar Picks",
+        "data": [
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Bans Against",
+        "id": "Slardar Bans",
+        "data": [
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Picks For",
+        "id": "Snapfire Picks",
+        "data": [
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                2.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Bans Against",
+        "id": "Snapfire Bans",
+        "data": [
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Picks For",
+        "id": "Spectre Picks",
+        "data": [
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Team Bald Reborn",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Bans Against",
+        "id": "Spectre Bans",
+        "data": [
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "Hellbear Smashers",
+                2.0
+            ],
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Picks For",
+        "id": "Storm Spirit Picks",
+        "data": [
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Bans Against",
+        "id": "Storm Spirit Bans",
+        "data": [
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Picks For",
+        "id": "Sven Picks",
+        "data": [
+            [
+                "Chicken Fighters",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Bans Against",
+        "id": "Sven Bans",
+        "data": [
+            [
+                "Chicken Fighters",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Picks For",
+        "id": "Templar Assassin Picks",
+        "data": [
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "No Bounty Hunter",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Team Bald Reborn",
+                0.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Bans Against",
+        "id": "Templar Assassin Bans",
+        "data": [
+            [
+                "ViKin.gg",
+                4.0
+            ],
+            [
+                "Brame",
+                3.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                2.0
+            ],
+            [
+                "Chicken Fighters",
+                3.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "No Bounty Hunter",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Picks For",
+        "id": "Terrorblade Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Team Liquid",
+                2.0
+            ],
+            [
+                "No Bounty Hunter",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Bans Against",
+        "id": "Terrorblade Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                4.0
+            ],
+            [
+                "Brame",
+                4.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "No Bounty Hunter",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "OG",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Picks For",
+        "id": "Tidehunter Picks",
+        "data": [
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Bans Against",
+        "id": "Tidehunter Bans",
+        "data": [
+            [
+                "Into The Breach",
+                2.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Team Bald Reborn",
+                0.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Picks For",
+        "id": "Timbersaw Picks",
+        "data": [
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Into The Breach",
+                2.0
+            ],
+            [
+                "Nigma",
+                2.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ],
+            [
+                "Team Bald Reborn",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "No Bounty Hunter",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Bans Against",
+        "id": "Timbersaw Bans",
+        "data": [
+            [
+                "ViKin.gg",
+                3.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                2.0
+            ],
+            [
+                "Chicken Fighters",
+                2.0
+            ],
+            [
+                "Hippomaniacs",
+                2.0
+            ],
+            [
+                "Team Bald Reborn",
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "No Bounty Hunter",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tinker Picks For",
+        "id": "Tinker Picks",
+        "data": [
+            [
+                "Brame",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tinker Bans Against",
+        "id": "Tinker Bans",
+        "data": [
+            [
+                "Brame",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Picks For",
+        "id": "Tiny Picks",
+        "data": [
+            [
+                "No Bounty Hunter",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Bans Against",
+        "id": "Tiny Bans",
+        "data": [
+            [
+                "No Bounty Hunter",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Picks For",
+        "id": "Treant Protector Picks",
+        "data": [
+            [
+                "Spider Pigzs",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Treant Protector Bans Against",
+        "id": "Treant Protector Bans",
+        "data": [
+            [
+                "Spider Pigzs",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Picks For",
+        "id": "Tusk Picks",
+        "data": [
+            [
+                "Into The Breach",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Bans Against",
+        "id": "Tusk Bans",
+        "data": [
+            [
+                "Into The Breach",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Picks For",
+        "id": "Underlord Picks",
+        "data": [
+            [
+                "Nigma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Underlord Bans Against",
+        "id": "Underlord Bans",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Picks For",
+        "id": "Undying Picks",
+        "data": [
+            [
+                "OG",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Bans Against",
+        "id": "Undying Bans",
+        "data": [
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Picks For",
+        "id": "Ursa Picks",
+        "data": [
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Ghost Frogs",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Bans Against",
+        "id": "Ursa Bans",
+        "data": [
+            [
+                "Brame",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Vengeful Spirit Picks For",
+        "id": "Vengeful Spirit Picks",
+        "data": [
+            [
+                "OG",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Vengeful Spirit Bans Against",
+        "id": "Vengeful Spirit Bans",
+        "data": [
+            [
+                "OG",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Picks For",
+        "id": "Venomancer Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Venomancer Bans Against",
+        "id": "Venomancer Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Picks For",
+        "id": "Viper Picks",
+        "data": [
+            [
+                "Spider Pigzs",
+                2.0
+            ],
+            [
+                "Chicken Fighters",
+                2.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "No Bounty Hunter",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Bans Against",
+        "id": "Viper Bans",
+        "data": [
+            [
+                "Spider Pigzs",
+                3.0
+            ],
+            [
+                "Chicken Fighters",
+                2.0
+            ],
+            [
+                "Brame",
+                3.0
+            ],
+            [
+                "Hellbear Smashers",
+                3.0
+            ],
+            [
+                "Hippomaniacs",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "No Bounty Hunter",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Picks For",
+        "id": "Void Spirit Picks",
+        "data": [
+            [
+                "Into The Breach",
+                2.0
+            ],
+            [
+                "OG",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Team Bald Reborn",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "No Bounty Hunter",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Bans Against",
+        "id": "Void Spirit Bans",
+        "data": [
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "OG",
+                2.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Team Bald Reborn",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "No Bounty Hunter",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Picks For",
+        "id": "Windranger Picks",
+        "data": [
+            [
+                "ViKin.gg",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Bans Against",
+        "id": "Windranger Bans",
+        "data": [
+            [
+                "ViKin.gg",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Picks For",
+        "id": "Winter Wyvern Picks",
+        "data": [
+            [
+                "Hellbear Smashers",
+                2.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Hippomaniacs",
+                1.0
+            ],
+            [
+                "No Bounty Hunter",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Bans Against",
+        "id": "Winter Wyvern Bans",
+        "data": [
+            [
+                "Hellbear Smashers",
+                2.0
+            ],
+            [
+                "Ghost Frogs",
+                1.0
+            ],
+            [
+                "Into The Breach",
+                2.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ],
+            [
+                "No Bounty Hunter",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Picks For",
+        "id": "Wraith King Picks",
+        "data": [
+            [
+                "No Bounty Hunter",
+                0.0
+            ],
+            [
+                "ViKin.gg",
+                0.0
+            ],
+            [
+                "Brame",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Bans Against",
+        "id": "Wraith King Bans",
+        "data": [
+            [
+                "No Bounty Hunter",
+                2.0
+            ],
+            [
+                "ViKin.gg",
+                1.0
+            ],
+            [
+                "Brame",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Zeus Picks For",
+        "id": "Zeus Picks",
+        "data": [
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "Hippomaniacs",
+                1.0
+            ],
+            [
+                "Team Bald Reborn",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Zeus Bans Against",
+        "id": "Zeus Bans",
+        "data": [
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "Hippomaniacs",
+                0.0
+            ],
+            [
+                "Team Bald Reborn",
+                1.0
+            ]
+        ]
+    }
+]

@@ -1,0 +1,4076 @@
+[
+    {
+        "name": "Abaddon Matches Played",
+        "id": "Abaddon Matches Played",
+        "data": [
+            [
+                "Team Magma",
+                3
+            ],
+            [
+                "Xtreme  Gaming",
+                1
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Matches Won",
+        "id": "Abaddon Matches Won",
+        "data": [
+            [
+                "Team Magma",
+                2
+            ],
+            [
+                "Xtreme  Gaming",
+                0
+            ],
+            [
+                "phoenix gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Win Rate",
+        "id": "Abaddon Win Rate",
+        "data": [
+            [
+                "Team Magma",
+                0.6666666666666666
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ancient Apparition Matches Played",
+        "id": "Ancient Apparition Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "Team Magma",
+                2
+            ],
+            [
+                "Xtreme  Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Matches Won",
+        "id": "Ancient Apparition Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "Team Magma",
+                1
+            ],
+            [
+                "Xtreme  Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Win Rate",
+        "id": "Ancient Apparition Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "Team Magma",
+                0.5
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Arc Warden Matches Played",
+        "id": "Arc Warden Matches Played",
+        "data": [
+            [
+                "Royal Never Give Up",
+                2
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Matches Won",
+        "id": "Arc Warden Matches Won",
+        "data": [
+            [
+                "Royal Never Give Up",
+                0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Win Rate",
+        "id": "Arc Warden Win Rate",
+        "data": [
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Axe Matches Played",
+        "id": "Axe Matches Played",
+        "data": [
+            [
+                "EHOME",
+                1
+            ],
+            [
+                "Sparking Arrow Gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Axe Matches Won",
+        "id": "Axe Matches Won",
+        "data": [
+            [
+                "EHOME",
+                1
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Axe Win Rate",
+        "id": "Axe Win Rate",
+        "data": [
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bloodseeker Matches Played",
+        "id": "Bloodseeker Matches Played",
+        "data": [
+            [
+                "EHOME",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Matches Won",
+        "id": "Bloodseeker Matches Won",
+        "data": [
+            [
+                "EHOME",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Win Rate",
+        "id": "Bloodseeker Win Rate",
+        "data": [
+            [
+                "EHOME",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Brewmaster Matches Played",
+        "id": "Brewmaster Matches Played",
+        "data": [
+            [
+                "Royal Never Give Up",
+                3
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Matches Won",
+        "id": "Brewmaster Matches Won",
+        "data": [
+            [
+                "Royal Never Give Up",
+                2
+            ],
+            [
+                "phoenix gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Win Rate",
+        "id": "Brewmaster Win Rate",
+        "data": [
+            [
+                "Royal Never Give Up",
+                0.6666666666666666
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bristleback Matches Played",
+        "id": "Bristleback Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Matches Won",
+        "id": "Bristleback Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Win Rate",
+        "id": "Bristleback Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Broodmother Matches Played",
+        "id": "Broodmother Matches Played",
+        "data": [
+            [
+                "Royal Never Give Up",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Matches Won",
+        "id": "Broodmother Matches Won",
+        "data": [
+            [
+                "Royal Never Give Up",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Win Rate",
+        "id": "Broodmother Win Rate",
+        "data": [
+            [
+                "Royal Never Give Up",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Centaur Warrunner Matches Played",
+        "id": "Centaur Warrunner Matches Played",
+        "data": [
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Matches Won",
+        "id": "Centaur Warrunner Matches Won",
+        "data": [
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Win Rate",
+        "id": "Centaur Warrunner Win Rate",
+        "data": [
+            [
+                "Team Magma",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Chaos Knight Matches Played",
+        "id": "Chaos Knight Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Matches Won",
+        "id": "Chaos Knight Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Win Rate",
+        "id": "Chaos Knight Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Clinkz Matches Played",
+        "id": "Clinkz Matches Played",
+        "data": [
+            [
+                "EHOME",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Clinkz Matches Won",
+        "id": "Clinkz Matches Won",
+        "data": [
+            [
+                "EHOME",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Clinkz Win Rate",
+        "id": "Clinkz Win Rate",
+        "data": [
+            [
+                "EHOME",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Clockwerk Matches Played",
+        "id": "Clockwerk Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "EHOME",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Matches Won",
+        "id": "Clockwerk Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                0
+            ],
+            [
+                "EHOME",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Win Rate",
+        "id": "Clockwerk Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dark Seer Matches Played",
+        "id": "Dark Seer Matches Played",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Matches Won",
+        "id": "Dark Seer Matches Won",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Win Rate",
+        "id": "Dark Seer Win Rate",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dark Willow Matches Played",
+        "id": "Dark Willow Matches Played",
+        "data": [
+            [
+                "EHOME",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Matches Won",
+        "id": "Dark Willow Matches Won",
+        "data": [
+            [
+                "EHOME",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Win Rate",
+        "id": "Dark Willow Win Rate",
+        "data": [
+            [
+                "EHOME",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Death Prophet Matches Played",
+        "id": "Death Prophet Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Matches Won",
+        "id": "Death Prophet Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Team Magma",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Win Rate",
+        "id": "Death Prophet Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Disruptor Matches Played",
+        "id": "Disruptor Matches Played",
+        "data": [
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Matches Won",
+        "id": "Disruptor Matches Won",
+        "data": [
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Win Rate",
+        "id": "Disruptor Win Rate",
+        "data": [
+            [
+                "phoenix gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Doom Matches Played",
+        "id": "Doom Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                2
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "LBZS",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
+            ],
+            [
+                "Team Magma",
+                1
+            ],
+            [
+                "phoenix gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Doom Matches Won",
+        "id": "Doom Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                2
+            ],
+            [
+                "Elephant",
+                0
+            ],
+            [
+                "LBZS",
+                0
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
+            ],
+            [
+                "Team Magma",
+                0
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Doom Win Rate",
+        "id": "Doom Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dragon Knight Matches Played",
+        "id": "Dragon Knight Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                2
+            ],
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "Elephant",
+                2
+            ],
+            [
+                "Team Magma",
+                1
+            ],
+            [
+                "phoenix gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Matches Won",
+        "id": "Dragon Knight Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "CDEC ",
+                0
+            ],
+            [
+                "Elephant",
+                2
+            ],
+            [
+                "Team Magma",
+                1
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Win Rate",
+        "id": "Dragon Knight Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                0.5
+            ],
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Earth Spirit Matches Played",
+        "id": "Earth Spirit Matches Played",
+        "data": [
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Matches Won",
+        "id": "Earth Spirit Matches Won",
+        "data": [
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Win Rate",
+        "id": "Earth Spirit Win Rate",
+        "data": [
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Elder Titan Matches Played",
+        "id": "Elder Titan Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "Elephant",
+                2
+            ],
+            [
+                "LBZS",
+                1
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Matches Won",
+        "id": "Elder Titan Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                0
+            ],
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "LBZS",
+                0
+            ],
+            [
+                "phoenix gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Win Rate",
+        "id": "Elder Titan Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "Elephant",
+                0.5
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ember Spirit Matches Played",
+        "id": "Ember Spirit Matches Played",
+        "data": [
+            [
+                "CDEC ",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Matches Won",
+        "id": "Ember Spirit Matches Won",
+        "data": [
+            [
+                "CDEC ",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Win Rate",
+        "id": "Ember Spirit Win Rate",
+        "data": [
+            [
+                "CDEC ",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Enchantress Matches Played",
+        "id": "Enchantress Matches Played",
+        "data": [
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Matches Won",
+        "id": "Enchantress Matches Won",
+        "data": [
+            [
+                "Team Magma",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Win Rate",
+        "id": "Enchantress Win Rate",
+        "data": [
+            [
+                "Team Magma",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Faceless Void Matches Played",
+        "id": "Faceless Void Matches Played",
+        "data": [
+            [
+                "Xtreme  Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Matches Won",
+        "id": "Faceless Void Matches Won",
+        "data": [
+            [
+                "Xtreme  Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Win Rate",
+        "id": "Faceless Void Win Rate",
+        "data": [
+            [
+                "Xtreme  Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Grimstroke Matches Played",
+        "id": "Grimstroke Matches Played",
+        "data": [
+            [
+                "LBZS",
+                1
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Matches Won",
+        "id": "Grimstroke Matches Won",
+        "data": [
+            [
+                "LBZS",
+                0
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Win Rate",
+        "id": "Grimstroke Win Rate",
+        "data": [
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Hoodwink Matches Played",
+        "id": "Hoodwink Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                3
+            ],
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "Elephant",
+                3
+            ],
+            [
+                "Sparking Arrow Gaming",
+                2
+            ],
+            [
+                "Team Magma",
+                1
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Matches Won",
+        "id": "Hoodwink Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "Elephant",
+                2
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
+            ],
+            [
+                "Team Magma",
+                1
+            ],
+            [
+                "phoenix gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Win Rate",
+        "id": "Hoodwink Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                0.3333333333333333
+            ],
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "Elephant",
+                0.6666666666666666
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.5
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Invoker Matches Played",
+        "id": "Invoker Matches Played",
+        "data": [
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                2
+            ],
+            [
+                "Sparking Arrow Gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Matches Won",
+        "id": "Invoker Matches Won",
+        "data": [
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
+                "Sparking Arrow Gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Win Rate",
+        "id": "Invoker Win Rate",
+        "data": [
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.5
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Io Matches Played",
+        "id": "Io Matches Played",
+        "data": [
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Io Matches Won",
+        "id": "Io Matches Won",
+        "data": [
+            [
+                "Team Magma",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Io Win Rate",
+        "id": "Io Win Rate",
+        "data": [
+            [
+                "Team Magma",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Juggernaut Matches Played",
+        "id": "Juggernaut Matches Played",
+        "data": [
+            [
+                "Elephant",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Matches Won",
+        "id": "Juggernaut Matches Won",
+        "data": [
+            [
+                "Elephant",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Win Rate",
+        "id": "Juggernaut Win Rate",
+        "data": [
+            [
+                "Elephant",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Kunkka Matches Played",
+        "id": "Kunkka Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                2
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Matches Won",
+        "id": "Kunkka Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                0
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Win Rate",
+        "id": "Kunkka Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.5
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Legion Commander Matches Played",
+        "id": "Legion Commander Matches Played",
+        "data": [
+            [
+                "EHOME",
+                1
+            ],
+            [
+                "LBZS",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Matches Won",
+        "id": "Legion Commander Matches Won",
+        "data": [
+            [
+                "EHOME",
+                1
+            ],
+            [
+                "LBZS",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Win Rate",
+        "id": "Legion Commander Win Rate",
+        "data": [
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Leshrac Matches Played",
+        "id": "Leshrac Matches Played",
+        "data": [
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "Elephant",
+                2
+            ],
+            [
+                "LBZS",
+                2
+            ],
+            [
+                "phoenix gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Matches Won",
+        "id": "Leshrac Matches Won",
+        "data": [
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "LBZS",
+                0
+            ],
+            [
+                "phoenix gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Win Rate",
+        "id": "Leshrac Win Rate",
+        "data": [
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "Elephant",
+                0.5
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lifestealer Matches Played",
+        "id": "Lifestealer Matches Played",
+        "data": [
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Matches Won",
+        "id": "Lifestealer Matches Won",
+        "data": [
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
+                "Team Magma",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Win Rate",
+        "id": "Lifestealer Win Rate",
+        "data": [
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lina Matches Played",
+        "id": "Lina Matches Played",
+        "data": [
+            [
+                "EHOME",
+                1
+            ],
+            [
+                "LBZS",
+                1
+            ],
+            [
+                "Sparking Arrow Gaming",
+                2
+            ],
+            [
+                "Team Magma",
+                2
+            ],
+            [
+                "Xtreme  Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lina Matches Won",
+        "id": "Lina Matches Won",
+        "data": [
+            [
+                "EHOME",
+                1
+            ],
+            [
+                "LBZS",
+                0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0
+            ],
+            [
+                "Team Magma",
+                1
+            ],
+            [
+                "Xtreme  Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Win Rate",
+        "id": "Lina Win Rate",
+        "data": [
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "Team Magma",
+                0.5
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lion Matches Played",
+        "id": "Lion Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                3
+            ],
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "EHOME",
+                3
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "LBZS",
+                2
+            ],
+            [
+                "Royal Never Give Up",
+                3
+            ],
+            [
+                "Team Magma",
+                4
+            ],
+            [
+                "Xtreme  Gaming",
+                1
+            ],
+            [
+                "phoenix gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Lion Matches Won",
+        "id": "Lion Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                2
+            ],
+            [
+                "CDEC ",
+                0
+            ],
+            [
+                "EHOME",
+                3
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "LBZS",
+                0
+            ],
+            [
+                "Royal Never Give Up",
+                2
+            ],
+            [
+                "Team Magma",
+                2
+            ],
+            [
+                "Xtreme  Gaming",
+                0
+            ],
+            [
+                "phoenix gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Win Rate",
+        "id": "Lion Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                0.6666666666666666
+            ],
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.6666666666666666
+            ],
+            [
+                "Team Magma",
+                0.5
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Luna Matches Played",
+        "id": "Luna Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "LBZS",
+                2
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Luna Matches Won",
+        "id": "Luna Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                0
+            ],
+            [
+                "LBZS",
+                0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Luna Win Rate",
+        "id": "Luna Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lycan Matches Played",
+        "id": "Lycan Matches Played",
+        "data": [
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lycan Matches Won",
+        "id": "Lycan Matches Won",
+        "data": [
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lycan Win Rate",
+        "id": "Lycan Win Rate",
+        "data": [
+            [
+                "Team Magma",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Magnus Matches Played",
+        "id": "Magnus Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Matches Won",
+        "id": "Magnus Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Win Rate",
+        "id": "Magnus Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Mars Matches Played",
+        "id": "Mars Matches Played",
+        "data": [
+            [
+                "EHOME",
+                1
+            ],
+            [
+                "LBZS",
+                2
+            ],
+            [
+                "Royal Never Give Up",
+                2
+            ],
+            [
+                "Team Magma",
+                2
+            ],
+            [
+                "Xtreme  Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Mars Matches Won",
+        "id": "Mars Matches Won",
+        "data": [
+            [
+                "EHOME",
+                1
+            ],
+            [
+                "LBZS",
+                0
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
+                "Team Magma",
+                1
+            ],
+            [
+                "Xtreme  Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Win Rate",
+        "id": "Mars Win Rate",
+        "data": [
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.5
+            ],
+            [
+                "Team Magma",
+                0.5
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Medusa Matches Played",
+        "id": "Medusa Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "EHOME",
+                2
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
+            ],
+            [
+                "Xtreme  Gaming",
+                1
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Matches Won",
+        "id": "Medusa Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "EHOME",
+                2
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0
+            ],
+            [
+                "Xtreme  Gaming",
+                0
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Win Rate",
+        "id": "Medusa Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Mirana Matches Played",
+        "id": "Mirana Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Matches Won",
+        "id": "Mirana Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                0
+            ],
+            [
+                "CDEC ",
+                0
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Win Rate",
+        "id": "Mirana Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Morphling Matches Played",
+        "id": "Morphling Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                3
+            ],
+            [
+                "Team Magma",
+                1
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Matches Won",
+        "id": "Morphling Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                2
+            ],
+            [
+                "Team Magma",
+                1
+            ],
+            [
+                "phoenix gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Win Rate",
+        "id": "Morphling Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                0.6666666666666666
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Nature's Prophet Matches Played",
+        "id": "Nature's Prophet Matches Played",
+        "data": [
+            [
+                "Elephant",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Matches Won",
+        "id": "Nature's Prophet Matches Won",
+        "data": [
+            [
+                "Elephant",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Win Rate",
+        "id": "Nature's Prophet Win Rate",
+        "data": [
+            [
+                "Elephant",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Nyx Assassin Matches Played",
+        "id": "Nyx Assassin Matches Played",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                1
+            ],
+            [
+                "phoenix gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Matches Won",
+        "id": "Nyx Assassin Matches Won",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                0
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Win Rate",
+        "id": "Nyx Assassin Win Rate",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Pangolier Matches Played",
+        "id": "Pangolier Matches Played",
+        "data": [
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "Sparking Arrow Gaming",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Matches Won",
+        "id": "Pangolier Matches Won",
+        "data": [
+            [
+                "CDEC ",
+                0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Win Rate",
+        "id": "Pangolier Win Rate",
+        "data": [
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Phoenix Matches Played",
+        "id": "Phoenix Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "EHOME",
+                2
+            ],
+            [
+                "Sparking Arrow Gaming",
+                2
+            ],
+            [
+                "phoenix gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Matches Won",
+        "id": "Phoenix Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "CDEC ",
+                0
+            ],
+            [
+                "EHOME",
+                2
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
+            ],
+            [
+                "phoenix gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Win Rate",
+        "id": "Phoenix Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.5
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Puck Matches Played",
+        "id": "Puck Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                5
+            ],
+            [
+                "Team Magma",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Puck Matches Won",
+        "id": "Puck Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                4
+            ],
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Puck Win Rate",
+        "id": "Puck Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                0.8
+            ],
+            [
+                "Team Magma",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Razor Matches Played",
+        "id": "Razor Matches Played",
+        "data": [
+            [
+                "EHOME",
+                1
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
+            ],
+            [
+                "Team Magma",
+                1
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Razor Matches Won",
+        "id": "Razor Matches Won",
+        "data": [
+            [
+                "EHOME",
+                1
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0
+            ],
+            [
+                "Team Magma",
+                0
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Razor Win Rate",
+        "id": "Razor Win Rate",
+        "data": [
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Rubick Matches Played",
+        "id": "Rubick Matches Played",
+        "data": [
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Matches Won",
+        "id": "Rubick Matches Won",
+        "data": [
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Win Rate",
+        "id": "Rubick Win Rate",
+        "data": [
+            [
+                "phoenix gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Sand King Matches Played",
+        "id": "Sand King Matches Played",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                2
+            ],
+            [
+                "Team Magma",
+                1
+            ],
+            [
+                "Xtreme  Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Matches Won",
+        "id": "Sand King Matches Won",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                0
+            ],
+            [
+                "Team Magma",
+                1
+            ],
+            [
+                "Xtreme  Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Win Rate",
+        "id": "Sand King Win Rate",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Shadow Demon Matches Played",
+        "id": "Shadow Demon Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Matches Won",
+        "id": "Shadow Demon Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Win Rate",
+        "id": "Shadow Demon Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Shadow Shaman Matches Played",
+        "id": "Shadow Shaman Matches Played",
+        "data": [
+            [
+                "Xtreme  Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Matches Won",
+        "id": "Shadow Shaman Matches Won",
+        "data": [
+            [
+                "Xtreme  Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Win Rate",
+        "id": "Shadow Shaman Win Rate",
+        "data": [
+            [
+                "Xtreme  Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Skywrath Mage Matches Played",
+        "id": "Skywrath Mage Matches Played",
+        "data": [
+            [
+                "LBZS",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Matches Won",
+        "id": "Skywrath Mage Matches Won",
+        "data": [
+            [
+                "LBZS",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Win Rate",
+        "id": "Skywrath Mage Win Rate",
+        "data": [
+            [
+                "LBZS",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Slardar Matches Played",
+        "id": "Slardar Matches Played",
+        "data": [
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Matches Won",
+        "id": "Slardar Matches Won",
+        "data": [
+            [
+                "Team Magma",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Win Rate",
+        "id": "Slardar Win Rate",
+        "data": [
+            [
+                "Team Magma",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Spectre Matches Played",
+        "id": "Spectre Matches Played",
+        "data": [
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "EHOME",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                2
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Matches Won",
+        "id": "Spectre Matches Won",
+        "data": [
+            [
+                "CDEC ",
+                0
+            ],
+            [
+                "EHOME",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                2
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Win Rate",
+        "id": "Spectre Win Rate",
+        "data": [
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Storm Spirit Matches Played",
+        "id": "Storm Spirit Matches Played",
+        "data": [
+            [
+                "Xtreme  Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Matches Won",
+        "id": "Storm Spirit Matches Won",
+        "data": [
+            [
+                "Xtreme  Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Win Rate",
+        "id": "Storm Spirit Win Rate",
+        "data": [
+            [
+                "Xtreme  Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Sven Matches Played",
+        "id": "Sven Matches Played",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Sven Matches Won",
+        "id": "Sven Matches Won",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Sven Win Rate",
+        "id": "Sven Win Rate",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Templar Assassin Matches Played",
+        "id": "Templar Assassin Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "EHOME",
+                2
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "LBZS",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Matches Won",
+        "id": "Templar Assassin Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                0
+            ],
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "EHOME",
+                2
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "LBZS",
+                0
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Win Rate",
+        "id": "Templar Assassin Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Terrorblade Matches Played",
+        "id": "Terrorblade Matches Played",
+        "data": [
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "LBZS",
+                1
+            ],
+            [
+                "phoenix gaming",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Matches Won",
+        "id": "Terrorblade Matches Won",
+        "data": [
+            [
+                "CDEC ",
+                0
+            ],
+            [
+                "LBZS",
+                0
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Win Rate",
+        "id": "Terrorblade Win Rate",
+        "data": [
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tidehunter Matches Played",
+        "id": "Tidehunter Matches Played",
+        "data": [
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Matches Won",
+        "id": "Tidehunter Matches Won",
+        "data": [
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                0
+            ],
+            [
+                "phoenix gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Win Rate",
+        "id": "Tidehunter Win Rate",
+        "data": [
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Troll Warlord Matches Played",
+        "id": "Troll Warlord Matches Played",
+        "data": [
+            [
+                "Elephant",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Matches Won",
+        "id": "Troll Warlord Matches Won",
+        "data": [
+            [
+                "Elephant",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Win Rate",
+        "id": "Troll Warlord Win Rate",
+        "data": [
+            [
+                "Elephant",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tusk Matches Played",
+        "id": "Tusk Matches Played",
+        "data": [
+            [
+                "LBZS",
+                1
+            ],
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Matches Won",
+        "id": "Tusk Matches Won",
+        "data": [
+            [
+                "LBZS",
+                0
+            ],
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Win Rate",
+        "id": "Tusk Win Rate",
+        "data": [
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Undying Matches Played",
+        "id": "Undying Matches Played",
+        "data": [
+            [
+                "LBZS",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Undying Matches Won",
+        "id": "Undying Matches Won",
+        "data": [
+            [
+                "LBZS",
+                0
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Undying Win Rate",
+        "id": "Undying Win Rate",
+        "data": [
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ursa Matches Played",
+        "id": "Ursa Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Matches Won",
+        "id": "Ursa Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Win Rate",
+        "id": "Ursa Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Viper Matches Played",
+        "id": "Viper Matches Played",
+        "data": [
+            [
+                "CDEC ",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Viper Matches Won",
+        "id": "Viper Matches Won",
+        "data": [
+            [
+                "CDEC ",
+                0
+            ],
+            [
+                "Royal Never Give Up",
+                0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Win Rate",
+        "id": "Viper Win Rate",
+        "data": [
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Void Spirit Matches Played",
+        "id": "Void Spirit Matches Played",
+        "data": [
+            [
+                "EHOME",
+                1
+            ],
+            [
+                "phoenix gaming",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Matches Won",
+        "id": "Void Spirit Matches Won",
+        "data": [
+            [
+                "EHOME",
+                1
+            ],
+            [
+                "phoenix gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Win Rate",
+        "id": "Void Spirit Win Rate",
+        "data": [
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Winter Wyvern Matches Played",
+        "id": "Winter Wyvern Matches Played",
+        "data": [
+            [
+                "Elephant",
+                2
+            ],
+            [
+                "LBZS",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Matches Won",
+        "id": "Winter Wyvern Matches Won",
+        "data": [
+            [
+                "Elephant",
+                2
+            ],
+            [
+                "LBZS",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Win Rate",
+        "id": "Winter Wyvern Win Rate",
+        "data": [
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Wraith King Matches Played",
+        "id": "Wraith King Matches Played",
+        "data": [
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "LBZS",
+                1
+            ],
+            [
+                "Team Magma",
+                3
+            ],
+            [
+                "phoenix gaming",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Matches Won",
+        "id": "Wraith King Matches Won",
+        "data": [
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "LBZS",
+                0
+            ],
+            [
+                "Team Magma",
+                2
+            ],
+            [
+                "phoenix gaming",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Win Rate",
+        "id": "Wraith King Win Rate",
+        "data": [
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Team Magma",
+                0.6666666666666666
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    }
+]

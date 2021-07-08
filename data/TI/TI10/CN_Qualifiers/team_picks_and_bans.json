@@ -1,0 +1,3358 @@
+[
+    {
+        "name": "Abaddon Picks For",
+        "id": "Abaddon Picks",
+        "data": [
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "Team Magma",
+                3.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Xtreme  Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Abaddon Bans Against",
+        "id": "Abaddon Bans",
+        "data": [
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Picks For",
+        "id": "Ancient Apparition Picks",
+        "data": [
+            [
+                "Team Magma",
+                2.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "Xtreme  Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ancient Apparition Bans Against",
+        "id": "Ancient Apparition Bans",
+        "data": [
+            [
+                "Team Magma",
+                3.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Picks For",
+        "id": "Anti-Mage Picks",
+        "data": [
+            [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Anti-Mage Bans Against",
+        "id": "Anti-Mage Bans",
+        "data": [
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Picks For",
+        "id": "Arc Warden Picks",
+        "data": [
+            [
+                "Royal Never Give Up",
+                2.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Arc Warden Bans Against",
+        "id": "Arc Warden Bans",
+        "data": [
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Picks For",
+        "id": "Axe Picks",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                2.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Axe Bans Against",
+        "id": "Axe Bans",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "Team Magma",
+                2.0
+            ],
+            [
+                "Xtreme  Gaming",
+                1.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Picks For",
+        "id": "Batrider Picks",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Batrider Bans Against",
+        "id": "Batrider Bans",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "Xtreme  Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Picks For",
+        "id": "Bloodseeker Picks",
+        "data": [
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bloodseeker Bans Against",
+        "id": "Bloodseeker Bans",
+        "data": [
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Picks For",
+        "id": "Brewmaster Picks",
+        "data": [
+            [
+                "Royal Never Give Up",
+                3.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Bans Against",
+        "id": "Brewmaster Bans",
+        "data": [
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Picks For",
+        "id": "Bristleback Picks",
+        "data": [
+            [
+                "Aster.Aries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Bans Against",
+        "id": "Bristleback Bans",
+        "data": [
+            [
+                "Aster.Aries",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Picks For",
+        "id": "Broodmother Picks",
+        "data": [
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Broodmother Bans Against",
+        "id": "Broodmother Bans",
+        "data": [
+            [
+                "Aster.Aries",
+                7.0
+            ],
+            [
+                "LBZS",
+                4.0
+            ],
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Picks For",
+        "id": "Centaur Warrunner Picks",
+        "data": [
+            [
+                "Team Magma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Bans Against",
+        "id": "Centaur Warrunner Bans",
+        "data": [
+            [
+                "Team Magma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Picks For",
+        "id": "Chaos Knight Picks",
+        "data": [
+            [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Chaos Knight Bans Against",
+        "id": "Chaos Knight Bans",
+        "data": [
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Clinkz Picks For",
+        "id": "Clinkz Picks",
+        "data": [
+            [
+                "EHOME",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Clinkz Bans Against",
+        "id": "Clinkz Bans",
+        "data": [
+            [
+                "EHOME",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Picks For",
+        "id": "Clockwerk Picks",
+        "data": [
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Clockwerk Bans Against",
+        "id": "Clockwerk Bans",
+        "data": [
+            [
+                "Aster.Aries",
+                2.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Picks For",
+        "id": "Dark Seer Picks",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Seer Bans Against",
+        "id": "Dark Seer Bans",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                3.0
+            ],
+            [
+                "Elephant",
+                2.0
+            ],
+            [
+                "Team Magma",
+                2.0
+            ],
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Picks For",
+        "id": "Dark Willow Picks",
+        "data": [
+            [
+                "EHOME",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Bans Against",
+        "id": "Dark Willow Bans",
+        "data": [
+            [
+                "EHOME",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Picks For",
+        "id": "Death Prophet Picks",
+        "data": [
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Death Prophet Bans Against",
+        "id": "Death Prophet Bans",
+        "data": [
+            [
+                "Team Magma",
+                6.0
+            ],
+            [
+                "Royal Never Give Up",
+                3.0
+            ],
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Xtreme  Gaming",
+                1.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Picks For",
+        "id": "Disruptor Picks",
+        "data": [
+            [
+                "phoenix gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Disruptor Bans Against",
+        "id": "Disruptor Bans",
+        "data": [
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Picks For",
+        "id": "Doom Picks",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                2.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Doom Bans Against",
+        "id": "Doom Bans",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                3.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "EHOME",
+                2.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Picks For",
+        "id": "Dragon Knight Picks",
+        "data": [
+            [
+                "Elephant",
+                2.0
+            ],
+            [
+                "Aster.Aries",
+                2.0
+            ],
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Dragon Knight Bans Against",
+        "id": "Dragon Knight Bans",
+        "data": [
+            [
+                "Elephant",
+                3.0
+            ],
+            [
+                "Aster.Aries",
+                2.0
+            ],
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "EHOME",
+                3.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                2.0
+            ],
+            [
+                "Xtreme  Gaming",
+                1.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Picks For",
+        "id": "Drow Ranger Picks",
+        "data": [
+            [
+                "Aster.Aries",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Bans Against",
+        "id": "Drow Ranger Bans",
+        "data": [
+            [
+                "Aster.Aries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Picks For",
+        "id": "Earth Spirit Picks",
+        "data": [
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Earth Spirit Bans Against",
+        "id": "Earth Spirit Bans",
+        "data": [
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "LBZS",
+                2.0
+            ],
+            [
+                "Xtreme  Gaming",
+                2.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Picks For",
+        "id": "Elder Titan Picks",
+        "data": [
+            [
+                "Elephant",
+                2.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Elder Titan Bans Against",
+        "id": "Elder Titan Bans",
+        "data": [
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Picks For",
+        "id": "Ember Spirit Picks",
+        "data": [
+            [
+                "CDEC ",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Ember Spirit Bans Against",
+        "id": "Ember Spirit Bans",
+        "data": [
+            [
+                "CDEC ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Picks For",
+        "id": "Enchantress Picks",
+        "data": [
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Enchantress Bans Against",
+        "id": "Enchantress Bans",
+        "data": [
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Picks For",
+        "id": "Faceless Void Picks",
+        "data": [
+            [
+                "Xtreme  Gaming",
+                1.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Faceless Void Bans Against",
+        "id": "Faceless Void Bans",
+        "data": [
+            [
+                "Xtreme  Gaming",
+                1.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Picks For",
+        "id": "Grimstroke Picks",
+        "data": [
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Grimstroke Bans Against",
+        "id": "Grimstroke Bans",
+        "data": [
+            [
+                "phoenix gaming",
+                3.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Picks For",
+        "id": "Gyrocopter Picks",
+        "data": [
+            [
+                "Team Magma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Gyrocopter Bans Against",
+        "id": "Gyrocopter Bans",
+        "data": [
+            [
+                "Team Magma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Picks For",
+        "id": "Hoodwink Picks",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                2.0
+            ],
+            [
+                "Elephant",
+                3.0
+            ],
+            [
+                "Aster.Aries",
+                3.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Hoodwink Bans Against",
+        "id": "Hoodwink Bans",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                2.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Picks For",
+        "id": "Invoker Picks",
+        "data": [
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                2.0
+            ],
+            [
+                "Royal Never Give Up",
+                2.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Invoker Bans Against",
+        "id": "Invoker Bans",
+        "data": [
+            [
+                "CDEC ",
+                2.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "Xtreme  Gaming",
+                1.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Io Picks For",
+        "id": "Io Picks",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Io Bans Against",
+        "id": "Io Bans",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                2.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Picks For",
+        "id": "Juggernaut Picks",
+        "data": [
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Juggernaut Bans Against",
+        "id": "Juggernaut Bans",
+        "data": [
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Picks For",
+        "id": "Kunkka Picks",
+        "data": [
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                2.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Kunkka Bans Against",
+        "id": "Kunkka Bans",
+        "data": [
+            [
+                "CDEC ",
+                2.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Picks For",
+        "id": "Legion Commander Picks",
+        "data": [
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Legion Commander Bans Against",
+        "id": "Legion Commander Bans",
+        "data": [
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Picks For",
+        "id": "Leshrac Picks",
+        "data": [
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "LBZS",
+                2.0
+            ],
+            [
+                "Elephant",
+                2.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Leshrac Bans Against",
+        "id": "Leshrac Bans",
+        "data": [
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Picks For",
+        "id": "Lifestealer Picks",
+        "data": [
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Bans Against",
+        "id": "Lifestealer Bans",
+        "data": [
+            [
+                "Team Magma",
+                3.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Picks For",
+        "id": "Lina Picks",
+        "data": [
+            [
+                "Team Magma",
+                2.0
+            ],
+            [
+                "Xtreme  Gaming",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                2.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lina Bans Against",
+        "id": "Lina Bans",
+        "data": [
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "Xtreme  Gaming",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                2.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Picks For",
+        "id": "Lion Picks",
+        "data": [
+            [
+                "Team Magma",
+                4.0
+            ],
+            [
+                "EHOME",
+                3.0
+            ],
+            [
+                "Aster.Aries",
+                3.0
+            ],
+            [
+                "Royal Never Give Up",
+                3.0
+            ],
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "LBZS",
+                2.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "Xtreme  Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lion Bans Against",
+        "id": "Lion Bans",
+        "data": [
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Picks For",
+        "id": "Luna Picks",
+        "data": [
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "LBZS",
+                2.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Luna Bans Against",
+        "id": "Luna Bans",
+        "data": [
+            [
+                "Aster.Aries",
+                4.0
+            ],
+            [
+                "Team Magma",
+                4.0
+            ],
+            [
+                "Royal Never Give Up",
+                3.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                2.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lycan Picks For",
+        "id": "Lycan Picks",
+        "data": [
+            [
+                "Team Magma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Lycan Bans Against",
+        "id": "Lycan Bans",
+        "data": [
+            [
+                "Team Magma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Picks For",
+        "id": "Magnus Picks",
+        "data": [
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                2.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Magnus Bans Against",
+        "id": "Magnus Bans",
+        "data": [
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "EHOME",
+                2.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Picks For",
+        "id": "Mars Picks",
+        "data": [
+            [
+                "Team Magma",
+                2.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                2.0
+            ],
+            [
+                "Xtreme  Gaming",
+                1.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "LBZS",
+                2.0
+            ]
+        ]
+    },
+    {
+        "name": "Mars Bans Against",
+        "id": "Mars Bans",
+        "data": [
+            [
+                "Team Magma",
+                3.0
+            ],
+            [
+                "phoenix gaming",
+                4.0
+            ],
+            [
+                "EHOME",
+                2.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "Xtreme  Gaming",
+                1.0
+            ],
+            [
+                "Elephant",
+                2.0
+            ],
+            [
+                "Aster.Aries",
+                2.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Picks For",
+        "id": "Medusa Picks",
+        "data": [
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "EHOME",
+                2.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "Xtreme  Gaming",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Medusa Bans Against",
+        "id": "Medusa Bans",
+        "data": [
+            [
+                "Royal Never Give Up",
+                3.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                2.0
+            ],
+            [
+                "Team Magma",
+                2.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Picks For",
+        "id": "Mirana Picks",
+        "data": [
+            [
+                "Royal Never Give Up",
+                2.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Mirana Bans Against",
+        "id": "Mirana Bans",
+        "data": [
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Picks For",
+        "id": "Morphling Picks",
+        "data": [
+            [
+                "Aster.Aries",
+                3.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Morphling Bans Against",
+        "id": "Morphling Bans",
+        "data": [
+            [
+                "Aster.Aries",
+                2.0
+            ],
+            [
+                "LBZS",
+                2.0
+            ],
+            [
+                "Elephant",
+                2.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Picks For",
+        "id": "Nature's Prophet Picks",
+        "data": [
+            [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Bans Against",
+        "id": "Nature's Prophet Bans",
+        "data": [
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Picks For",
+        "id": "Nyx Assassin Picks",
+        "data": [
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Nyx Assassin Bans Against",
+        "id": "Nyx Assassin Bans",
+        "data": [
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "Royal Never Give Up",
+                4.0
+            ],
+            [
+                "Aster.Aries",
+                3.0
+            ],
+            [
+                "Elephant",
+                2.0
+            ],
+            [
+                "CDEC ",
+                2.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Picks For",
+        "id": "Pangolier Picks",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                3.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Pangolier Bans Against",
+        "id": "Pangolier Bans",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Picks For",
+        "id": "Phantom Lancer Picks",
+        "data": [
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Lancer Bans Against",
+        "id": "Phantom Lancer Bans",
+        "data": [
+            [
+                "Aster.Aries",
+                2.0
+            ],
+            [
+                "CDEC ",
+                2.0
+            ],
+            [
+                "LBZS",
+                2.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                2.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Picks For",
+        "id": "Phoenix Picks",
+        "data": [
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                2.0
+            ],
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "EHOME",
+                2.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Phoenix Bans Against",
+        "id": "Phoenix Bans",
+        "data": [
+            [
+                "Elephant",
+                3.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Team Magma",
+                2.0
+            ],
+            [
+                "LBZS",
+                2.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Picks For",
+        "id": "Puck Picks",
+        "data": [
+            [
+                "Aster.Aries",
+                5.0
+            ],
+            [
+                "Team Magma",
+                2.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Puck Bans Against",
+        "id": "Puck Bans",
+        "data": [
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "Team Magma",
+                2.0
+            ],
+            [
+                "phoenix gaming",
+                3.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Picks For",
+        "id": "Razor Picks",
+        "data": [
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Razor Bans Against",
+        "id": "Razor Bans",
+        "data": [
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Picks For",
+        "id": "Rubick Picks",
+        "data": [
+            [
+                "phoenix gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Rubick Bans Against",
+        "id": "Rubick Bans",
+        "data": [
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Picks For",
+        "id": "Sand King Picks",
+        "data": [
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                2.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Xtreme  Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sand King Bans Against",
+        "id": "Sand King Bans",
+        "data": [
+            [
+                "Team Magma",
+                2.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Picks For",
+        "id": "Shadow Demon Picks",
+        "data": [
+            [
+                "Aster.Aries",
+                2.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Demon Bans Against",
+        "id": "Shadow Demon Bans",
+        "data": [
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Picks For",
+        "id": "Shadow Shaman Picks",
+        "data": [
+            [
+                "Xtreme  Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Shadow Shaman Bans Against",
+        "id": "Shadow Shaman Bans",
+        "data": [
+            [
+                "Xtreme  Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Picks For",
+        "id": "Skywrath Mage Picks",
+        "data": [
+            [
+                "LBZS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Skywrath Mage Bans Against",
+        "id": "Skywrath Mage Bans",
+        "data": [
+            [
+                "LBZS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Picks For",
+        "id": "Slardar Picks",
+        "data": [
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Slardar Bans Against",
+        "id": "Slardar Bans",
+        "data": [
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Picks For",
+        "id": "Snapfire Picks",
+        "data": [
+            [
+                "EHOME",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Snapfire Bans Against",
+        "id": "Snapfire Bans",
+        "data": [
+            [
+                "EHOME",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Picks For",
+        "id": "Spectre Picks",
+        "data": [
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                2.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Spectre Bans Against",
+        "id": "Spectre Bans",
+        "data": [
+            [
+                "Elephant",
+                3.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Picks For",
+        "id": "Storm Spirit Picks",
+        "data": [
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "Xtreme  Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Storm Spirit Bans Against",
+        "id": "Storm Spirit Bans",
+        "data": [
+            [
+                "phoenix gaming",
+                1.0
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Picks For",
+        "id": "Sven Picks",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Sven Bans Against",
+        "id": "Sven Bans",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Picks For",
+        "id": "Templar Assassin Picks",
+        "data": [
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "EHOME",
+                2.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Templar Assassin Bans Against",
+        "id": "Templar Assassin Bans",
+        "data": [
+            [
+                "Elephant",
+                3.0
+            ],
+            [
+                "Aster.Aries",
+                3.0
+            ],
+            [
+                "LBZS",
+                2.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                2.0
+            ],
+            [
+                "Xtreme  Gaming",
+                2.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Picks For",
+        "id": "Terrorblade Picks",
+        "data": [
+            [
+                "phoenix gaming",
+                3.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Terrorblade Bans Against",
+        "id": "Terrorblade Bans",
+        "data": [
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "Team Magma",
+                4.0
+            ],
+            [
+                "Aster.Aries",
+                3.0
+            ],
+            [
+                "Royal Never Give Up",
+                2.0
+            ],
+            [
+                "EHOME",
+                2.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Picks For",
+        "id": "Tidehunter Picks",
+        "data": [
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tidehunter Bans Against",
+        "id": "Tidehunter Bans",
+        "data": [
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Picks For",
+        "id": "Timbersaw Picks",
+        "data": [
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Bans Against",
+        "id": "Timbersaw Bans",
+        "data": [
+            [
+                "Aster.Aries",
+                3.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Picks For",
+        "id": "Troll Warlord Picks",
+        "data": [
+            [
+                "Elephant",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Troll Warlord Bans Against",
+        "id": "Troll Warlord Bans",
+        "data": [
+            [
+                "Elephant",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Picks For",
+        "id": "Tusk Picks",
+        "data": [
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Tusk Bans Against",
+        "id": "Tusk Bans",
+        "data": [
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Picks For",
+        "id": "Undying Picks",
+        "data": [
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Undying Bans Against",
+        "id": "Undying Bans",
+        "data": [
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Picks For",
+        "id": "Ursa Picks",
+        "data": [
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Bans Against",
+        "id": "Ursa Bans",
+        "data": [
+            [
+                "Aster.Aries",
+                5.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Vengeful Spirit Picks For",
+        "id": "Vengeful Spirit Picks",
+        "data": [
+            [
+                "CDEC ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Vengeful Spirit Bans Against",
+        "id": "Vengeful Spirit Bans",
+        "data": [
+            [
+                "CDEC ",
+                3.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Picks For",
+        "id": "Viper Picks",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "Xtreme  Gaming",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "CDEC ",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Viper Bans Against",
+        "id": "Viper Bans",
+        "data": [
+            [
+                "Sparking Arrow Gaming",
+                3.0
+            ],
+            [
+                "Royal Never Give Up",
+                2.0
+            ],
+            [
+                "LBZS",
+                2.0
+            ],
+            [
+                "Team Magma",
+                2.0
+            ],
+            [
+                "Xtreme  Gaming",
+                2.0
+            ],
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "Aster.Aries",
+                1.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "CDEC ",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Picks For",
+        "id": "Void Spirit Picks",
+        "data": [
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Void Spirit Bans Against",
+        "id": "Void Spirit Bans",
+        "data": [
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Picks For",
+        "id": "Winter Wyvern Picks",
+        "data": [
+            [
+                "Elephant",
+                2.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ]
+        ]
+    },
+    {
+        "name": "Winter Wyvern Bans Against",
+        "id": "Winter Wyvern Bans",
+        "data": [
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                2.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                2.0
+            ],
+            [
+                "Royal Never Give Up",
+                2.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Picks For",
+        "id": "Wraith King Picks",
+        "data": [
+            [
+                "Team Magma",
+                3.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "LBZS",
+                1.0
+            ],
+            [
+                "phoenix gaming",
+                1.0
+            ]
+        ]
+    },
+    {
+        "name": "Wraith King Bans Against",
+        "id": "Wraith King Bans",
+        "data": [
+            [
+                "Team Magma",
+                0.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "LBZS",
+                0.0
+            ],
+            [
+                "phoenix gaming",
+                0.0
+            ]
+        ]
+    }
+]
