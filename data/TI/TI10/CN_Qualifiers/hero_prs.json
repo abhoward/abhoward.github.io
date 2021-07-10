@@ -1,17 +1,17 @@
 [
     {
         "name": "Abaddon",
-        "y": 0.20833333333333334,
+        "y": 0.15,
         "drilldown": "Abaddon Pick Rate"
     },
     {
         "name": "Alchemist",
-        "y": 0.0,
+        "y": 0.025,
         "drilldown": "Alchemist Pick Rate"
     },
     {
         "name": "Ancient Apparition",
-        "y": 0.16666666666666666,
+        "y": 0.1,
         "drilldown": "Ancient Apparition Pick Rate"
     },
     {
@@ -21,12 +21,12 @@
     },
     {
         "name": "Arc Warden",
-        "y": 0.125,
+        "y": 0.075,
         "drilldown": "Arc Warden Pick Rate"
     },
     {
         "name": "Axe",
-        "y": 0.125,
+        "y": 0.225,
         "drilldown": "Axe Pick Rate"
     },
     {
@@ -41,12 +41,12 @@
     },
     {
         "name": "Beastmaster",
-        "y": 0.0,
+        "y": 0.025,
         "drilldown": "Beastmaster Pick Rate"
     },
     {
         "name": "Bloodseeker",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Bloodseeker Pick Rate"
     },
     {
@@ -56,27 +56,27 @@
     },
     {
         "name": "Brewmaster",
-        "y": 0.16666666666666666,
+        "y": 0.175,
         "drilldown": "Brewmaster Pick Rate"
     },
     {
         "name": "Bristleback",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Bristleback Pick Rate"
     },
     {
         "name": "Broodmother",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Broodmother Pick Rate"
     },
     {
         "name": "Centaur Warrunner",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Centaur Warrunner Pick Rate"
     },
     {
         "name": "Chaos Knight",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Chaos Knight Pick Rate"
     },
     {
@@ -86,12 +86,12 @@
     },
     {
         "name": "Clinkz",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Clinkz Pick Rate"
     },
     {
         "name": "Clockwerk",
-        "y": 0.08333333333333333,
+        "y": 0.125,
         "drilldown": "Clockwerk Pick Rate"
     },
     {
@@ -101,12 +101,12 @@
     },
     {
         "name": "Dark Seer",
-        "y": 0.041666666666666664,
+        "y": 0.1,
         "drilldown": "Dark Seer Pick Rate"
     },
     {
         "name": "Dark Willow",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Dark Willow Pick Rate"
     },
     {
@@ -121,32 +121,32 @@
     },
     {
         "name": "Death Prophet",
-        "y": 0.125,
+        "y": 0.175,
         "drilldown": "Death Prophet Pick Rate"
     },
     {
         "name": "Disruptor",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Disruptor Pick Rate"
     },
     {
         "name": "Doom",
-        "y": 0.375,
+        "y": 0.325,
         "drilldown": "Doom Pick Rate"
     },
     {
         "name": "Dragon Knight",
-        "y": 0.3333333333333333,
+        "y": 0.275,
         "drilldown": "Dragon Knight Pick Rate"
     },
     {
         "name": "Drow Ranger",
-        "y": 0.0,
+        "y": 0.025,
         "drilldown": "Drow Ranger Pick Rate"
     },
     {
         "name": "Earth Spirit",
-        "y": 0.08333333333333333,
+        "y": 0.1,
         "drilldown": "Earth Spirit Pick Rate"
     },
     {
@@ -161,12 +161,12 @@
     },
     {
         "name": "Ember Spirit",
-        "y": 0.08333333333333333,
+        "y": 0.075,
         "drilldown": "Ember Spirit Pick Rate"
     },
     {
         "name": "Enchantress",
-        "y": 0.041666666666666664,
+        "y": 0.05,
         "drilldown": "Enchantress Pick Rate"
     },
     {
@@ -176,12 +176,12 @@
     },
     {
         "name": "Faceless Void",
-        "y": 0.041666666666666664,
+        "y": 0.05,
         "drilldown": "Faceless Void Pick Rate"
     },
     {
         "name": "Grimstroke",
-        "y": 0.08333333333333333,
+        "y": 0.075,
         "drilldown": "Grimstroke Pick Rate"
     },
     {
@@ -191,7 +191,7 @@
     },
     {
         "name": "Hoodwink",
-        "y": 0.4583333333333333,
+        "y": 0.55,
         "drilldown": "Hoodwink Pick Rate"
     },
     {
@@ -201,22 +201,22 @@
     },
     {
         "name": "Invoker",
-        "y": 0.20833333333333334,
+        "y": 0.175,
         "drilldown": "Invoker Pick Rate"
     },
     {
         "name": "Io",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Io Pick Rate"
     },
     {
         "name": "Jakiro",
-        "y": 0.0,
+        "y": 0.025,
         "drilldown": "Jakiro Pick Rate"
     },
     {
         "name": "Juggernaut",
-        "y": 0.041666666666666664,
+        "y": 0.05,
         "drilldown": "Juggernaut Pick Rate"
     },
     {
@@ -226,17 +226,17 @@
     },
     {
         "name": "Kunkka",
-        "y": 0.20833333333333334,
+        "y": 0.125,
         "drilldown": "Kunkka Pick Rate"
     },
     {
         "name": "Legion Commander",
-        "y": 0.08333333333333333,
+        "y": 0.1,
         "drilldown": "Legion Commander Pick Rate"
     },
     {
         "name": "Leshrac",
-        "y": 0.2916666666666667,
+        "y": 0.25,
         "drilldown": "Leshrac Pick Rate"
     },
     {
@@ -246,17 +246,17 @@
     },
     {
         "name": "Lifestealer",
-        "y": 0.08333333333333333,
+        "y": 0.075,
         "drilldown": "Lifestealer Pick Rate"
     },
     {
         "name": "Lina",
-        "y": 0.2916666666666667,
+        "y": 0.375,
         "drilldown": "Lina Pick Rate"
     },
     {
         "name": "Lion",
-        "y": 0.8333333333333334,
+        "y": 0.75,
         "drilldown": "Lion Pick Rate"
     },
     {
@@ -266,27 +266,27 @@
     },
     {
         "name": "Luna",
-        "y": 0.16666666666666666,
+        "y": 0.275,
         "drilldown": "Luna Pick Rate"
     },
     {
         "name": "Lycan",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Lycan Pick Rate"
     },
     {
         "name": "Magnus",
-        "y": 0.08333333333333333,
+        "y": 0.075,
         "drilldown": "Magnus Pick Rate"
     },
     {
         "name": "Mars",
-        "y": 0.3333333333333333,
+        "y": 0.35,
         "drilldown": "Mars Pick Rate"
     },
     {
         "name": "Medusa",
-        "y": 0.2916666666666667,
+        "y": 0.25,
         "drilldown": "Medusa Pick Rate"
     },
     {
@@ -296,7 +296,7 @@
     },
     {
         "name": "Mirana",
-        "y": 0.20833333333333334,
+        "y": 0.225,
         "drilldown": "Mirana Pick Rate"
     },
     {
@@ -306,7 +306,7 @@
     },
     {
         "name": "Morphling",
-        "y": 0.20833333333333334,
+        "y": 0.225,
         "drilldown": "Morphling Pick Rate"
     },
     {
@@ -316,7 +316,7 @@
     },
     {
         "name": "Nature's Prophet",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Nature's Prophet Pick Rate"
     },
     {
@@ -331,7 +331,7 @@
     },
     {
         "name": "Nyx Assassin",
-        "y": 0.125,
+        "y": 0.2,
         "drilldown": "Nyx Assassin Pick Rate"
     },
     {
@@ -356,12 +356,12 @@
     },
     {
         "name": "Pangolier",
-        "y": 0.16666666666666666,
+        "y": 0.1,
         "drilldown": "Pangolier Pick Rate"
     },
     {
         "name": "Phantom Assassin",
-        "y": 0.0,
+        "y": 0.025,
         "drilldown": "Phantom Assassin Pick Rate"
     },
     {
@@ -371,12 +371,12 @@
     },
     {
         "name": "Phoenix",
-        "y": 0.3333333333333333,
+        "y": 0.4,
         "drilldown": "Phoenix Pick Rate"
     },
     {
         "name": "Puck",
-        "y": 0.2916666666666667,
+        "y": 0.25,
         "drilldown": "Puck Pick Rate"
     },
     {
@@ -396,7 +396,7 @@
     },
     {
         "name": "Razor",
-        "y": 0.16666666666666666,
+        "y": 0.15,
         "drilldown": "Razor Pick Rate"
     },
     {
@@ -406,17 +406,17 @@
     },
     {
         "name": "Rubick",
-        "y": 0.041666666666666664,
+        "y": 0.05,
         "drilldown": "Rubick Pick Rate"
     },
     {
         "name": "Sand King",
-        "y": 0.16666666666666666,
+        "y": 0.15,
         "drilldown": "Sand King Pick Rate"
     },
     {
         "name": "Shadow Demon",
-        "y": 0.08333333333333333,
+        "y": 0.075,
         "drilldown": "Shadow Demon Pick Rate"
     },
     {
@@ -426,7 +426,7 @@
     },
     {
         "name": "Shadow Shaman",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Shadow Shaman Pick Rate"
     },
     {
@@ -436,12 +436,12 @@
     },
     {
         "name": "Skywrath Mage",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Skywrath Mage Pick Rate"
     },
     {
         "name": "Slardar",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Slardar Pick Rate"
     },
     {
@@ -461,7 +461,7 @@
     },
     {
         "name": "Spectre",
-        "y": 0.20833333333333334,
+        "y": 0.15,
         "drilldown": "Spectre Pick Rate"
     },
     {
@@ -471,12 +471,12 @@
     },
     {
         "name": "Storm Spirit",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Storm Spirit Pick Rate"
     },
     {
         "name": "Sven",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Sven Pick Rate"
     },
     {
@@ -486,22 +486,22 @@
     },
     {
         "name": "Templar Assassin",
-        "y": 0.3333333333333333,
+        "y": 0.325,
         "drilldown": "Templar Assassin Pick Rate"
     },
     {
         "name": "Terrorblade",
-        "y": 0.20833333333333334,
+        "y": 0.325,
         "drilldown": "Terrorblade Pick Rate"
     },
     {
         "name": "Tidehunter",
-        "y": 0.125,
+        "y": 0.15,
         "drilldown": "Tidehunter Pick Rate"
     },
     {
         "name": "Timbersaw",
-        "y": 0.0,
+        "y": 0.075,
         "drilldown": "Timbersaw Pick Rate"
     },
     {
@@ -521,12 +521,12 @@
     },
     {
         "name": "Troll Warlord",
-        "y": 0.041666666666666664,
+        "y": 0.025,
         "drilldown": "Troll Warlord Pick Rate"
     },
     {
         "name": "Tusk",
-        "y": 0.08333333333333333,
+        "y": 0.05,
         "drilldown": "Tusk Pick Rate"
     },
     {
@@ -536,7 +536,7 @@
     },
     {
         "name": "Undying",
-        "y": 0.08333333333333333,
+        "y": 0.1,
         "drilldown": "Undying Pick Rate"
     },
     {
@@ -556,7 +556,7 @@
     },
     {
         "name": "Viper",
-        "y": 0.125,
+        "y": 0.075,
         "drilldown": "Viper Pick Rate"
     },
     {
@@ -566,7 +566,7 @@
     },
     {
         "name": "Void Spirit",
-        "y": 0.125,
+        "y": 0.075,
         "drilldown": "Void Spirit Pick Rate"
     },
     {
@@ -586,7 +586,7 @@
     },
     {
         "name": "Winter Wyvern",
-        "y": 0.125,
+        "y": 0.25,
         "drilldown": "Winter Wyvern Pick Rate"
     },
     {
@@ -596,12 +596,12 @@
     },
     {
         "name": "Wraith King",
-        "y": 0.25,
+        "y": 0.175,
         "drilldown": "Wraith King Pick Rate"
     },
     {
         "name": "Zeus",
-        "y": 0.0,
+        "y": 0.025,
         "drilldown": "Zeus Pick Rate"
     }
 ]

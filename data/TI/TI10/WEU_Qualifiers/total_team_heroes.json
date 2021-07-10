@@ -17,7 +17,7 @@
             ],
             [
                 "Hellbear Smashers",
-                1
+                2
             ],
             [
                 "Team Bald Reborn",
@@ -25,7 +25,7 @@
             ],
             [
                 "Tundra Esports ",
-                2
+                7
             ],
             [
                 "ViKin.gg",
@@ -59,7 +59,7 @@
             ],
             [
                 "Tundra Esports ",
-                2
+                6
             ],
             [
                 "ViKin.gg",
@@ -85,7 +85,7 @@
             ],
             [
                 "Hellbear Smashers",
-                1.0
+                0.5
             ],
             [
                 "Team Bald Reborn",
@@ -93,7 +93,7 @@
             ],
             [
                 "Tundra Esports ",
-                1.0
+                0.8571428571428571
             ],
             [
                 "ViKin.gg",
@@ -118,8 +118,12 @@
         "id": "Alchemist Matches Played",
         "data": [
             [
+                "Nigma",
+                1
+            ],
+            [
                 "OG",
-                2
+                3
             ],
             [
                 "ViKin.gg",
@@ -131,6 +135,10 @@
         "name": "Alchemist Matches Won",
         "id": "Alchemist Matches Won",
         "data": [
+            [
+                "Nigma",
+                0
+            ],
             [
                 "OG",
                 2
@@ -146,8 +154,12 @@
         "id": "Alchemist Win Rate",
         "data": [
             [
+                "Nigma",
+                0.0
+            ],
+            [
                 "OG",
-                1.0
+                0.6666666666666666
             ],
             [
                 "ViKin.gg",
@@ -176,8 +188,16 @@
                 1
             ],
             [
-                "Team Liquid",
+                "Into The Breach",
                 1
+            ],
+            [
+                "OG",
+                1
+            ],
+            [
+                "Team Liquid",
+                2
             ],
             [
                 "ViKin.gg",
@@ -194,8 +214,16 @@
                 0
             ],
             [
+                "Into The Breach",
+                0
+            ],
+            [
+                "OG",
+                0
+            ],
+            [
                 "Team Liquid",
-                1
+                2
             ],
             [
                 "ViKin.gg",
@@ -209,6 +237,14 @@
         "data": [
             [
                 "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "OG",
                 0.0
             ],
             [
@@ -240,6 +276,10 @@
             [
                 "Brame",
                 1
+            ],
+            [
+                "Tundra Esports ",
+                1
             ]
         ]
     },
@@ -250,6 +290,10 @@
             [
                 "Brame",
                 1
+            ],
+            [
+                "Tundra Esports ",
+                0
             ]
         ]
     },
@@ -260,6 +304,10 @@
             [
                 "Brame",
                 1.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
             ]
         ],
         "type": "spline",
@@ -282,6 +330,10 @@
             [
                 "Hellbear Smashers",
                 1
+            ],
+            [
+                "OG",
+                1
             ]
         ]
     },
@@ -292,6 +344,10 @@
             [
                 "Hellbear Smashers",
                 0
+            ],
+            [
+                "OG",
+                0
             ]
         ]
     },
@@ -301,6 +357,10 @@
         "data": [
             [
                 "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "OG",
                 0.0
             ]
         ],
@@ -326,12 +386,28 @@
                 2
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "Hellbear Smashers",
                 3
             ],
             [
                 "Hippomaniacs",
                 1
+            ],
+            [
+                "Into The Breach",
+                1
+            ],
+            [
+                "OG",
+                2
+            ],
+            [
+                "Team Liquid",
+                2
             ],
             [
                 "ViKin.gg",
@@ -348,12 +424,28 @@
                 0
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "Hellbear Smashers",
                 1
             ],
             [
                 "Hippomaniacs",
                 0
+            ],
+            [
+                "Into The Breach",
+                1
+            ],
+            [
+                "OG",
+                2
+            ],
+            [
+                "Team Liquid",
+                2
             ],
             [
                 "ViKin.gg",
@@ -370,12 +462,28 @@
                 0.0
             ],
             [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
                 "Hellbear Smashers",
                 0.3333333333333333
             ],
             [
                 "Hippomaniacs",
                 0.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
             ],
             [
                 "ViKin.gg",
@@ -409,7 +517,7 @@
             ],
             [
                 "Tundra Esports ",
-                1
+                2
             ]
         ]
     },
@@ -427,7 +535,7 @@
             ],
             [
                 "Tundra Esports ",
-                1
+                2
             ]
         ]
     },
@@ -462,6 +570,156 @@
         }
     },
     {
+        "name": "Beastmaster Matches Played",
+        "id": "Beastmaster Matches Played",
+        "data": [
+            [
+                "Chicken Fighters",
+                2
+            ],
+            [
+                "OG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Matches Won",
+        "id": "Beastmaster Matches Won",
+        "data": [
+            [
+                "Chicken Fighters",
+                2
+            ],
+            [
+                "OG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Win Rate",
+        "id": "Beastmaster Win Rate",
+        "data": [
+            [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Brewmaster Matches Played",
+        "id": "Brewmaster Matches Played",
+        "data": [
+            [
+                "Hellbear Smashers",
+                1
+            ],
+            [
+                "Tundra Esports ",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Matches Won",
+        "id": "Brewmaster Matches Won",
+        "data": [
+            [
+                "Hellbear Smashers",
+                0
+            ],
+            [
+                "Tundra Esports ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Brewmaster Win Rate",
+        "id": "Brewmaster Win Rate",
+        "data": [
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Bristleback Matches Played",
+        "id": "Bristleback Matches Played",
+        "data": [
+            [
+                "OG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Matches Won",
+        "id": "Bristleback Matches Won",
+        "data": [
+            [
+                "OG",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Bristleback Win Rate",
+        "id": "Bristleback Win Rate",
+        "data": [
+            [
+                "OG",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
         "name": "Broodmother Matches Played",
         "id": "Broodmother Matches Played",
         "data": [
@@ -472,6 +730,14 @@
             [
                 "Into The Breach",
                 1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Tundra Esports ",
+                2
             ],
             [
                 "ViKin.gg",
@@ -492,6 +758,14 @@
                 1
             ],
             [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Tundra Esports ",
+                2
+            ],
+            [
                 "ViKin.gg",
                 1
             ]
@@ -510,7 +784,69 @@
                 1.0
             ],
             [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
                 "ViKin.gg",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Centaur Warrunner Matches Played",
+        "id": "Centaur Warrunner Matches Played",
+        "data": [
+            [
+                "Nigma",
+                2
+            ],
+            [
+                "OG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Matches Won",
+        "id": "Centaur Warrunner Matches Won",
+        "data": [
+            [
+                "Nigma",
+                2
+            ],
+            [
+                "OG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Centaur Warrunner Win Rate",
+        "id": "Centaur Warrunner Win Rate",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "OG",
                 1.0
             ]
         ],
@@ -536,7 +872,15 @@
                 1
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "Team Bald Reborn",
+                1
+            ],
+            [
+                "Team Liquid",
                 1
             ]
         ]
@@ -550,8 +894,16 @@
                 0
             ],
             [
+                "OG",
+                0
+            ],
+            [
                 "Team Bald Reborn",
                 1
+            ],
+            [
+                "Team Liquid",
+                0
             ]
         ]
     },
@@ -564,8 +916,58 @@
                 0.0
             ],
             [
+                "OG",
+                0.0
+            ],
+            [
                 "Team Bald Reborn",
                 1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Chen Matches Played",
+        "id": "Chen Matches Played",
+        "data": [
+            [
+                "OG",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Chen Matches Won",
+        "id": "Chen Matches Won",
+        "data": [
+            [
+                "OG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Chen Win Rate",
+        "id": "Chen Win Rate",
+        "data": [
+            [
+                "OG",
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -591,11 +993,11 @@
             ],
             [
                 "Into The Breach",
-                3
+                4
             ],
             [
                 "OG",
-                1
+                2
             ],
             [
                 "Tundra Esports ",
@@ -617,7 +1019,7 @@
             ],
             [
                 "Into The Breach",
-                2
+                3
             ],
             [
                 "OG",
@@ -643,11 +1045,11 @@
             ],
             [
                 "Into The Breach",
-                0.6666666666666666
+                0.75
             ],
             [
                 "OG",
-                1.0
+                0.5
             ],
             [
                 "Tundra Esports ",
@@ -676,6 +1078,14 @@
         "id": "Dark Seer Matches Played",
         "data": [
             [
+                "OG",
+                2
+            ],
+            [
+                "Spider Pigzs",
+                1
+            ],
+            [
                 "Team Bald Reborn",
                 1
             ]
@@ -685,6 +1095,14 @@
         "name": "Dark Seer Matches Won",
         "id": "Dark Seer Matches Won",
         "data": [
+            [
+                "OG",
+                1
+            ],
+            [
+                "Spider Pigzs",
+                0
+            ],
             [
                 "Team Bald Reborn",
                 0
@@ -696,8 +1114,70 @@
         "id": "Dark Seer Win Rate",
         "data": [
             [
+                "OG",
+                0.5
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
                 "Team Bald Reborn",
                 0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Dark Willow Matches Played",
+        "id": "Dark Willow Matches Played",
+        "data": [
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "OG",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Matches Won",
+        "id": "Dark Willow Matches Won",
+        "data": [
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "OG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Dark Willow Win Rate",
+        "id": "Dark Willow Win Rate",
+        "data": [
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "OG",
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -762,6 +1242,10 @@
             [
                 "Ghost Frogs",
                 1
+            ],
+            [
+                "OG",
+                2
             ]
         ]
     },
@@ -772,6 +1256,10 @@
             [
                 "Ghost Frogs",
                 0
+            ],
+            [
+                "OG",
+                1
             ]
         ]
     },
@@ -782,6 +1270,10 @@
             [
                 "Ghost Frogs",
                 0.0
+            ],
+            [
+                "OG",
+                0.5
             ]
         ],
         "type": "spline",
@@ -872,6 +1364,10 @@
                 1
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "ViKin.gg",
                 2
             ]
@@ -898,6 +1394,10 @@
                 0
             ],
             [
+                "Into The Breach",
+                0
+            ],
+            [
                 "ViKin.gg",
                 0
             ]
@@ -921,6 +1421,10 @@
             ],
             [
                 "Hippomaniacs",
+                0.0
+            ],
+            [
+                "Into The Breach",
                 0.0
             ],
             [
@@ -958,15 +1462,23 @@
                 1
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "Nigma",
                 1
             ],
             [
                 "OG",
-                1
+                3
             ],
             [
                 "Team Bald Reborn",
+                1
+            ],
+            [
+                "Team Liquid",
                 1
             ]
         ]
@@ -988,16 +1500,24 @@
                 1
             ],
             [
+                "Into The Breach",
+                0
+            ],
+            [
                 "Nigma",
                 1
             ],
             [
                 "OG",
-                1
+                2
             ],
             [
                 "Team Bald Reborn",
                 0
+            ],
+            [
+                "Team Liquid",
+                1
             ]
         ]
     },
@@ -1018,16 +1538,24 @@
                 1.0
             ],
             [
+                "Into The Breach",
+                0.0
+            ],
+            [
                 "Nigma",
                 1.0
             ],
             [
                 "OG",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Team Bald Reborn",
                 0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
             ]
         ],
         "type": "spline",
@@ -1108,6 +1636,10 @@
             [
                 "Chicken Fighters",
                 1
+            ],
+            [
+                "Nigma",
+                1
             ]
         ]
     },
@@ -1122,6 +1654,10 @@
             [
                 "Chicken Fighters",
                 1
+            ],
+            [
+                "Nigma",
+                1
             ]
         ]
     },
@@ -1135,6 +1671,10 @@
             ],
             [
                 "Chicken Fighters",
+                1.0
+            ],
+            [
+                "Nigma",
                 1.0
             ]
         ],
@@ -1169,7 +1709,7 @@
             ],
             [
                 "Nigma",
-                1
+                2
             ]
         ]
     },
@@ -1213,7 +1753,7 @@
             ],
             [
                 "Nigma",
-                1.0
+                0.5
             ]
         ],
         "type": "spline",
@@ -1239,14 +1779,18 @@
             ],
             [
                 "Nigma",
-                1
+                2
             ],
             [
                 "Spider Pigzs",
-                1
+                2
             ],
             [
                 "Team Liquid",
+                2
+            ],
+            [
+                "Tundra Esports ",
                 1
             ]
         ]
@@ -1270,6 +1814,10 @@
             [
                 "Team Liquid",
                 0
+            ],
+            [
+                "Tundra Esports ",
+                0
             ]
         ]
     },
@@ -1283,12 +1831,58 @@
             ],
             [
                 "Nigma",
-                1.0
+                0.5
             ],
             [
                 "Spider Pigzs",
-                1.0
+                0.5
             ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Enigma Matches Played",
+        "id": "Enigma Matches Played",
+        "data": [
+            [
+                "Team Liquid",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Matches Won",
+        "id": "Enigma Matches Won",
+        "data": [
+            [
+                "Team Liquid",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Enigma Win Rate",
+        "id": "Enigma Win Rate",
+        "data": [
             [
                 "Team Liquid",
                 0.0
@@ -1313,7 +1907,7 @@
         "data": [
             [
                 "Chicken Fighters",
-                2
+                5
             ],
             [
                 "Ghost Frogs",
@@ -1331,7 +1925,7 @@
         "data": [
             [
                 "Chicken Fighters",
-                2
+                4
             ],
             [
                 "Ghost Frogs",
@@ -1349,7 +1943,7 @@
         "data": [
             [
                 "Chicken Fighters",
-                1.0
+                0.8
             ],
             [
                 "Ghost Frogs",
@@ -1382,6 +1976,10 @@
                 1
             ],
             [
+                "Spider Pigzs",
+                2
+            ],
+            [
                 "Team Bald Reborn",
                 1
             ]
@@ -1393,6 +1991,10 @@
         "data": [
             [
                 "Hellbear Smashers",
+                1
+            ],
+            [
+                "Spider Pigzs",
                 1
             ],
             [
@@ -1408,6 +2010,10 @@
             [
                 "Hellbear Smashers",
                 1.0
+            ],
+            [
+                "Spider Pigzs",
+                0.5
             ],
             [
                 "Team Bald Reborn",
@@ -1433,10 +2039,18 @@
         "data": [
             [
                 "Hellbear Smashers",
-                1
+                2
             ],
             [
                 "Nigma",
+                1
+            ],
+            [
+                "OG",
+                1
+            ],
+            [
+                "Spider Pigzs",
                 1
             ]
         ]
@@ -1452,6 +2066,14 @@
             [
                 "Nigma",
                 0
+            ],
+            [
+                "OG",
+                1
+            ],
+            [
+                "Spider Pigzs",
+                0
             ]
         ]
     },
@@ -1461,10 +2083,18 @@
         "data": [
             [
                 "Hellbear Smashers",
-                1.0
+                0.5
             ],
             [
                 "Nigma",
+                0.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
                 0.0
             ]
         ],
@@ -1495,10 +2125,14 @@
             ],
             [
                 "Hellbear Smashers",
-                4
+                5
             ],
             [
                 "Into The Breach",
+                3
+            ],
+            [
+                "Nigma",
                 3
             ],
             [
@@ -1506,11 +2140,19 @@
                 1
             ],
             [
+                "OG",
+                4
+            ],
+            [
                 "Spider Pigzs",
-                2
+                4
             ],
             [
                 "Team Bald Reborn",
+                1
+            ],
+            [
+                "Team Liquid",
                 1
             ]
         ]
@@ -1536,16 +2178,28 @@
                 2
             ],
             [
+                "Nigma",
+                2
+            ],
+            [
                 "No Bounty Hunter",
                 0
             ],
             [
+                "OG",
+                3
+            ],
+            [
                 "Spider Pigzs",
-                1
+                2
             ],
             [
                 "Team Bald Reborn",
                 1
+            ],
+            [
+                "Team Liquid",
+                0
             ]
         ]
     },
@@ -1563,15 +2217,23 @@
             ],
             [
                 "Hellbear Smashers",
-                0.25
+                0.2
             ],
             [
                 "Into The Breach",
                 0.6666666666666666
             ],
             [
+                "Nigma",
+                0.6666666666666666
+            ],
+            [
                 "No Bounty Hunter",
                 0.0
+            ],
+            [
+                "OG",
+                0.75
             ],
             [
                 "Spider Pigzs",
@@ -1580,6 +2242,10 @@
             [
                 "Team Bald Reborn",
                 1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
             ]
         ],
         "type": "spline",
@@ -1601,15 +2267,23 @@
         "data": [
             [
                 "Chicken Fighters",
-                1
+                3
             ],
             [
                 "Hellbear Smashers",
                 1
             ],
             [
-                "Spider Pigzs",
+                "Nigma",
+                1
+            ],
+            [
+                "OG",
                 2
+            ],
+            [
+                "Spider Pigzs",
+                3
             ],
             [
                 "Tundra Esports ",
@@ -1627,15 +2301,23 @@
         "data": [
             [
                 "Chicken Fighters",
-                1
+                3
             ],
             [
                 "Hellbear Smashers",
                 1
             ],
             [
-                "Spider Pigzs",
+                "Nigma",
+                1
+            ],
+            [
+                "OG",
                 2
+            ],
+            [
+                "Spider Pigzs",
+                3
             ],
             [
                 "Tundra Esports ",
@@ -1657,6 +2339,14 @@
             ],
             [
                 "Hellbear Smashers",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "OG",
                 1.0
             ],
             [
@@ -1691,7 +2381,15 @@
         "data": [
             [
                 "Nigma",
+                4
+            ],
+            [
+                "OG",
                 1
+            ],
+            [
+                "Team Liquid",
+                2
             ]
         ]
     },
@@ -1701,6 +2399,14 @@
         "data": [
             [
                 "Nigma",
+                3
+            ],
+            [
+                "OG",
+                1
+            ],
+            [
+                "Team Liquid",
                 0
             ]
         ]
@@ -1711,6 +2417,14 @@
         "data": [
             [
                 "Nigma",
+                0.75
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Team Liquid",
                 0.0
             ]
         ],
@@ -1733,7 +2447,7 @@
         "data": [
             [
                 "Spider Pigzs",
-                1
+                2
             ]
         ]
     },
@@ -1743,7 +2457,7 @@
         "data": [
             [
                 "Spider Pigzs",
-                1
+                2
             ]
         ]
     },
@@ -1832,11 +2546,19 @@
                 1
             ],
             [
-                "Spider Pigzs",
+                "OG",
                 1
             ],
             [
+                "Spider Pigzs",
+                2
+            ],
+            [
                 "Team Liquid",
+                3
+            ],
+            [
+                "Tundra Esports ",
                 1
             ]
         ]
@@ -1850,11 +2572,19 @@
                 1
             ],
             [
+                "OG",
+                0
+            ],
+            [
                 "Spider Pigzs",
                 0
             ],
             [
                 "Team Liquid",
+                2
+            ],
+            [
+                "Tundra Esports ",
                 1
             ]
         ]
@@ -1868,11 +2598,19 @@
                 1.0
             ],
             [
+                "OG",
+                0.0
+            ],
+            [
                 "Spider Pigzs",
                 0.0
             ],
             [
                 "Team Liquid",
+                0.6666666666666666
+            ],
+            [
+                "Tundra Esports ",
                 1.0
             ]
         ],
@@ -1894,6 +2632,10 @@
         "id": "Leshrac Matches Played",
         "data": [
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "Hellbear Smashers",
                 1
             ],
@@ -1903,7 +2645,11 @@
             ],
             [
                 "OG",
-                1
+                3
+            ],
+            [
+                "Team Liquid",
+                2
             ]
         ]
     },
@@ -1912,6 +2658,10 @@
         "id": "Leshrac Matches Won",
         "data": [
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "Hellbear Smashers",
                 1
             ],
@@ -1921,7 +2671,11 @@
             ],
             [
                 "OG",
-                0
+                1
+            ],
+            [
+                "Team Liquid",
+                1
             ]
         ]
     },
@@ -1929,6 +2683,10 @@
         "name": "Leshrac Win Rate",
         "id": "Leshrac Win Rate",
         "data": [
+            [
+                "Chicken Fighters",
+                1.0
+            ],
             [
                 "Hellbear Smashers",
                 1.0
@@ -1939,6 +2697,52 @@
             ],
             [
                 "OG",
+                0.3333333333333333
+            ],
+            [
+                "Team Liquid",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Lifestealer Matches Played",
+        "id": "Lifestealer Matches Played",
+        "data": [
+            [
+                "Nigma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Matches Won",
+        "id": "Lifestealer Matches Won",
+        "data": [
+            [
+                "Nigma",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Lifestealer Win Rate",
+        "id": "Lifestealer Win Rate",
+        "data": [
+            [
+                "Nigma",
                 0.0
             ]
         ],
@@ -1972,8 +2776,24 @@
                 2
             ],
             [
+                "Nigma",
+                3
+            ],
+            [
                 "OG",
-                2
+                3
+            ],
+            [
+                "Spider Pigzs",
+                1
+            ],
+            [
+                "Team Liquid",
+                4
+            ],
+            [
+                "Tundra Esports ",
+                3
             ],
             [
                 "ViKin.gg",
@@ -1998,8 +2818,24 @@
                 0
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "OG",
                 1
+            ],
+            [
+                "Spider Pigzs",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Tundra Esports ",
+                2
             ],
             [
                 "ViKin.gg",
@@ -2024,8 +2860,24 @@
                 0.0
             ],
             [
+                "Nigma",
+                0.3333333333333333
+            ],
+            [
                 "OG",
-                0.5
+                0.3333333333333333
+            ],
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.25
+            ],
+            [
+                "Tundra Esports ",
+                0.6666666666666666
             ],
             [
                 "ViKin.gg",
@@ -2051,15 +2903,19 @@
         "data": [
             [
                 "Chicken Fighters",
-                1
+                2
             ],
             [
                 "Into The Breach",
                 1
             ],
             [
+                "Nigma",
+                2
+            ],
+            [
                 "OG",
-                1
+                4
             ],
             [
                 "Spider Pigzs",
@@ -2077,15 +2933,19 @@
         "data": [
             [
                 "Chicken Fighters",
-                1
+                2
             ],
             [
                 "Into The Breach",
                 1
             ],
             [
-                "OG",
+                "Nigma",
                 1
+            ],
+            [
+                "OG",
+                2
             ],
             [
                 "Spider Pigzs",
@@ -2110,8 +2970,12 @@
                 1.0
             ],
             [
+                "Nigma",
+                0.5
+            ],
+            [
                 "OG",
-                1.0
+                0.5
             ],
             [
                 "Spider Pigzs",
@@ -2141,7 +3005,7 @@
         "data": [
             [
                 "Team Liquid",
-                1
+                2
             ]
         ]
     },
@@ -2151,7 +3015,7 @@
         "data": [
             [
                 "Team Liquid",
-                1
+                2
             ]
         ]
     },
@@ -2190,12 +3054,20 @@
                 2
             ],
             [
+                "Nigma",
+                5
+            ],
+            [
                 "Spider Pigzs",
+                4
+            ],
+            [
+                "Team Liquid",
                 3
             ],
             [
                 "Tundra Esports ",
-                1
+                4
             ]
         ]
     },
@@ -2212,12 +3084,20 @@
                 2
             ],
             [
+                "Nigma",
+                4
+            ],
+            [
                 "Spider Pigzs",
                 2
             ],
             [
+                "Team Liquid",
+                2
+            ],
+            [
                 "Tundra Esports ",
-                1
+                3
             ]
         ]
     },
@@ -2234,12 +3114,20 @@
                 1.0
             ],
             [
+                "Nigma",
+                0.8
+            ],
+            [
                 "Spider Pigzs",
+                0.5
+            ],
+            [
+                "Team Liquid",
                 0.6666666666666666
             ],
             [
                 "Tundra Esports ",
-                1.0
+                0.75
             ]
         ],
         "type": "spline",
@@ -2306,7 +3194,19 @@
                 2
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
+                "Into The Breach",
+                1
+            ],
+            [
                 "OG",
+                4
+            ],
+            [
+                "Spider Pigzs",
                 1
             ]
         ]
@@ -2320,8 +3220,20 @@
                 0
             ],
             [
-                "OG",
+                "Chicken Fighters",
                 0
+            ],
+            [
+                "Into The Breach",
+                0
+            ],
+            [
+                "OG",
+                1
+            ],
+            [
+                "Spider Pigzs",
+                1
             ]
         ]
     },
@@ -2334,8 +3246,20 @@
                 0.0
             ],
             [
-                "OG",
+                "Chicken Fighters",
                 0.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "OG",
+                0.25
+            ],
+            [
+                "Spider Pigzs",
+                1.0
             ]
         ],
         "type": "spline",
@@ -2360,12 +3284,16 @@
                 1
             ],
             [
+                "Nigma",
+                5
+            ],
+            [
                 "Spider Pigzs",
-                2
+                3
             ],
             [
                 "Team Liquid",
-                1
+                2
             ]
         ]
     },
@@ -2376,6 +3304,10 @@
             [
                 "Hellbear Smashers",
                 0
+            ],
+            [
+                "Nigma",
+                3
             ],
             [
                 "Spider Pigzs",
@@ -2396,12 +3328,16 @@
                 0.0
             ],
             [
+                "Nigma",
+                0.6
+            ],
+            [
                 "Spider Pigzs",
-                0.5
+                0.3333333333333333
             ],
             [
                 "Team Liquid",
-                1.0
+                0.5
             ]
         ],
         "type": "spline",
@@ -2422,6 +3358,10 @@
         "id": "Medusa Matches Played",
         "data": [
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "Into The Breach",
                 1
             ],
@@ -2436,6 +3376,10 @@
         "id": "Medusa Matches Won",
         "data": [
             [
+                "Chicken Fighters",
+                0
+            ],
+            [
                 "Into The Breach",
                 1
             ],
@@ -2449,6 +3393,10 @@
         "name": "Medusa Win Rate",
         "id": "Medusa Win Rate",
         "data": [
+            [
+                "Chicken Fighters",
+                0.0
+            ],
             [
                 "Into The Breach",
                 1.0
@@ -2485,6 +3433,10 @@
             ],
             [
                 "Into The Breach",
+                2
+            ],
+            [
+                "OG",
                 1
             ],
             [
@@ -2492,8 +3444,12 @@
                 1
             ],
             [
-                "Tundra Esports ",
+                "Team Liquid",
                 1
+            ],
+            [
+                "Tundra Esports ",
+                8
             ]
         ]
     },
@@ -2511,15 +3467,23 @@
             ],
             [
                 "Into The Breach",
-                1
+                2
+            ],
+            [
+                "OG",
+                0
             ],
             [
                 "Spider Pigzs",
                 1
             ],
             [
-                "Tundra Esports ",
+                "Team Liquid",
                 1
+            ],
+            [
+                "Tundra Esports ",
+                5
             ]
         ]
     },
@@ -2540,12 +3504,20 @@
                 1.0
             ],
             [
+                "OG",
+                0.0
+            ],
+            [
                 "Spider Pigzs",
                 1.0
             ],
             [
-                "Tundra Esports ",
+                "Team Liquid",
                 1.0
+            ],
+            [
+                "Tundra Esports ",
+                0.625
             ]
         ],
         "type": "spline",
@@ -2570,8 +3542,12 @@
                 1
             ],
             [
-                "Team Liquid",
+                "Spider Pigzs",
                 1
+            ],
+            [
+                "Team Liquid",
+                3
             ]
         ]
     },
@@ -2582,6 +3558,10 @@
             [
                 "Ghost Frogs",
                 0
+            ],
+            [
+                "Spider Pigzs",
+                1
             ],
             [
                 "Team Liquid",
@@ -2596,6 +3576,10 @@
             [
                 "Ghost Frogs",
                 0.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
             ],
             [
                 "Team Liquid",
@@ -2628,6 +3612,10 @@
                 1
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "Team Bald Reborn",
                 1
             ],
@@ -2647,6 +3635,10 @@
             ],
             [
                 "Into The Breach",
+                0
+            ],
+            [
+                "OG",
                 0
             ],
             [
@@ -2672,11 +3664,99 @@
                 0.0
             ],
             [
+                "OG",
+                0.0
+            ],
+            [
                 "Team Bald Reborn",
                 1.0
             ],
             [
                 "ViKin.gg",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Naga Siren Matches Played",
+        "id": "Naga Siren Matches Played",
+        "data": [
+            [
+                "OG",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren Matches Won",
+        "id": "Naga Siren Matches Won",
+        "data": [
+            [
+                "OG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Naga Siren Win Rate",
+        "id": "Naga Siren Win Rate",
+        "data": [
+            [
+                "OG",
+                0.3333333333333333
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Nature's Prophet Matches Played",
+        "id": "Nature's Prophet Matches Played",
+        "data": [
+            [
+                "Nigma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Matches Won",
+        "id": "Nature's Prophet Matches Won",
+        "data": [
+            [
+                "Nigma",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Nature's Prophet Win Rate",
+        "id": "Nature's Prophet Win Rate",
+        "data": [
+            [
+                "Nigma",
                 0.0
             ]
         ],
@@ -2740,20 +3820,40 @@
         "id": "Nyx Assassin Matches Played",
         "data": [
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "Hellbear Smashers",
                 2
             ],
             [
                 "Into The Breach",
-                1
+                2
             ],
             [
                 "Nigma",
+                3
+            ],
+            [
+                "OG",
+                2
+            ],
+            [
+                "Spider Pigzs",
                 2
             ],
             [
                 "Team Bald Reborn",
                 2
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Tundra Esports ",
+                4
             ]
         ]
     },
@@ -2762,6 +3862,10 @@
         "id": "Nyx Assassin Matches Won",
         "data": [
             [
+                "Chicken Fighters",
+                0
+            ],
+            [
                 "Hellbear Smashers",
                 2
             ],
@@ -2774,8 +3878,24 @@
                 2
             ],
             [
+                "OG",
+                2
+            ],
+            [
+                "Spider Pigzs",
+                1
+            ],
+            [
                 "Team Bald Reborn",
                 0
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Tundra Esports ",
+                3
             ]
         ]
     },
@@ -2784,20 +3904,40 @@
         "id": "Nyx Assassin Win Rate",
         "data": [
             [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
                 "Hellbear Smashers",
                 1.0
             ],
             [
                 "Into The Breach",
-                1.0
+                0.5
             ],
             [
                 "Nigma",
+                0.6666666666666666
+            ],
+            [
+                "OG",
                 1.0
+            ],
+            [
+                "Spider Pigzs",
+                0.5
             ],
             [
                 "Team Bald Reborn",
                 0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Tundra Esports ",
+                0.75
             ]
         ],
         "type": "spline",
@@ -2823,6 +3963,10 @@
             ],
             [
                 "OG",
+                3
+            ],
+            [
+                "Team Liquid",
                 2
             ]
         ]
@@ -2838,6 +3982,10 @@
             [
                 "OG",
                 1
+            ],
+            [
+                "Team Liquid",
+                0
             ]
         ]
     },
@@ -2851,7 +3999,11 @@
             ],
             [
                 "OG",
-                0.5
+                0.3333333333333333
+            ],
+            [
+                "Team Liquid",
+                0.0
             ]
         ],
         "type": "spline",
@@ -2872,11 +4024,23 @@
         "id": "Pangolier Matches Played",
         "data": [
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
+                "OG",
+                3
+            ],
+            [
                 "Spider Pigzs",
-                2
+                3
             ],
             [
                 "Team Bald Reborn",
+                1
+            ],
+            [
+                "Team Liquid",
                 1
             ],
             [
@@ -2890,12 +4054,24 @@
         "id": "Pangolier Matches Won",
         "data": [
             [
+                "Chicken Fighters",
+                0
+            ],
+            [
+                "OG",
+                3
+            ],
+            [
                 "Spider Pigzs",
                 0
             ],
             [
                 "Team Bald Reborn",
                 1
+            ],
+            [
+                "Team Liquid",
+                0
             ],
             [
                 "ViKin.gg",
@@ -2908,12 +4084,24 @@
         "id": "Pangolier Win Rate",
         "data": [
             [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
                 "Spider Pigzs",
                 0.0
             ],
             [
                 "Team Bald Reborn",
                 1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
             ],
             [
                 "ViKin.gg",
@@ -2942,6 +4130,10 @@
                 1
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "Spider Pigzs",
                 1
             ]
@@ -2956,6 +4148,10 @@
                 1
             ],
             [
+                "Nigma",
+                0
+            ],
+            [
                 "Spider Pigzs",
                 1
             ]
@@ -2968,6 +4164,10 @@
             [
                 "Chicken Fighters",
                 1.0
+            ],
+            [
+                "Nigma",
+                0.0
             ],
             [
                 "Spider Pigzs",
@@ -3047,7 +4247,7 @@
         "data": [
             [
                 "Chicken Fighters",
-                4
+                5
             ],
             [
                 "Hellbear Smashers",
@@ -3055,7 +4255,7 @@
             ],
             [
                 "Nigma",
-                2
+                4
             ],
             [
                 "Team Bald Reborn",
@@ -3063,7 +4263,7 @@
             ],
             [
                 "Team Liquid",
-                1
+                2
             ]
         ]
     },
@@ -3073,7 +4273,7 @@
         "data": [
             [
                 "Chicken Fighters",
-                4
+                5
             ],
             [
                 "Hellbear Smashers",
@@ -3081,7 +4281,7 @@
             ],
             [
                 "Nigma",
-                1
+                2
             ],
             [
                 "Team Bald Reborn",
@@ -3115,7 +4315,7 @@
             ],
             [
                 "Team Liquid",
-                1.0
+                0.5
             ]
         ],
         "type": "spline",
@@ -3140,8 +4340,12 @@
                 1
             ],
             [
-                "Into The Breach",
+                "Hellbear Smashers",
                 1
+            ],
+            [
+                "Into The Breach",
+                2
             ],
             [
                 "No Bounty Hunter",
@@ -3149,7 +4353,7 @@
             ],
             [
                 "OG",
-                1
+                2
             ],
             [
                 "Team Bald Reborn",
@@ -3164,6 +4368,10 @@
             [
                 "Chicken Fighters",
                 1
+            ],
+            [
+                "Hellbear Smashers",
+                0
             ],
             [
                 "Into The Breach",
@@ -3192,8 +4400,12 @@
                 1.0
             ],
             [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
                 "Into The Breach",
-                1.0
+                0.5
             ],
             [
                 "No Bounty Hunter",
@@ -3201,7 +4413,7 @@
             ],
             [
                 "OG",
-                1.0
+                0.5
             ],
             [
                 "Team Bald Reborn",
@@ -3272,8 +4484,12 @@
                 2
             ],
             [
-                "OG",
+                "Nigma",
                 1
+            ],
+            [
+                "OG",
+                3
             ],
             [
                 "Team Bald Reborn",
@@ -3281,6 +4497,10 @@
             ],
             [
                 "Team Liquid",
+                2
+            ],
+            [
+                "Tundra Esports ",
                 1
             ]
         ]
@@ -3294,8 +4514,12 @@
                 2
             ],
             [
+                "Nigma",
+                0
+            ],
+            [
                 "OG",
-                1
+                2
             ],
             [
                 "Team Bald Reborn",
@@ -3303,6 +4527,10 @@
             ],
             [
                 "Team Liquid",
+                1
+            ],
+            [
+                "Tundra Esports ",
                 1
             ]
         ]
@@ -3316,8 +4544,12 @@
                 1.0
             ],
             [
+                "Nigma",
+                0.0
+            ],
+            [
                 "OG",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Team Bald Reborn",
@@ -3325,6 +4557,10 @@
             ],
             [
                 "Team Liquid",
+                0.5
+            ],
+            [
+                "Tundra Esports ",
                 1.0
             ]
         ],
@@ -3388,7 +4624,19 @@
         "id": "Sand King Matches Played",
         "data": [
             [
+                "OG",
+                1
+            ],
+            [
+                "Spider Pigzs",
+                1
+            ],
+            [
                 "Team Liquid",
+                2
+            ],
+            [
+                "Tundra Esports ",
                 1
             ]
         ]
@@ -3398,8 +4646,20 @@
         "id": "Sand King Matches Won",
         "data": [
             [
+                "OG",
+                1
+            ],
+            [
+                "Spider Pigzs",
+                0
+            ],
+            [
                 "Team Liquid",
                 0
+            ],
+            [
+                "Tundra Esports ",
+                1
             ]
         ]
     },
@@ -3408,8 +4668,20 @@
         "id": "Sand King Win Rate",
         "data": [
             [
+                "OG",
+                1.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
                 "Team Liquid",
                 0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
             ]
         ],
         "type": "spline",
@@ -3440,6 +4712,14 @@
             [
                 "Hippomaniacs",
                 1
+            ],
+            [
+                "Into The Breach",
+                1
+            ],
+            [
+                "OG",
+                1
             ]
         ]
     },
@@ -3458,6 +4738,14 @@
             [
                 "Hippomaniacs",
                 0
+            ],
+            [
+                "Into The Breach",
+                0
+            ],
+            [
+                "OG",
+                1
             ]
         ]
     },
@@ -3476,6 +4764,14 @@
             [
                 "Hippomaniacs",
                 0.0
+            ],
+            [
+                "Into The Breach",
+                0.0
+            ],
+            [
+                "OG",
+                1.0
             ]
         ],
         "type": "spline",
@@ -3496,8 +4792,12 @@
         "id": "Slardar Matches Played",
         "data": [
             [
-                "Team Liquid",
+                "Nigma",
                 1
+            ],
+            [
+                "Team Liquid",
+                4
             ]
         ]
     },
@@ -3506,8 +4806,12 @@
         "id": "Slardar Matches Won",
         "data": [
             [
-                "Team Liquid",
+                "Nigma",
                 1
+            ],
+            [
+                "Team Liquid",
+                2
             ]
         ]
     },
@@ -3516,8 +4820,54 @@
         "id": "Slardar Win Rate",
         "data": [
             [
-                "Team Liquid",
+                "Nigma",
                 1.0
+            ],
+            [
+                "Team Liquid",
+                0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Slark Matches Played",
+        "id": "Slark Matches Played",
+        "data": [
+            [
+                "Team Liquid",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Slark Matches Won",
+        "id": "Slark Matches Won",
+        "data": [
+            [
+                "Team Liquid",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Slark Win Rate",
+        "id": "Slark Win Rate",
+        "data": [
+            [
+                "Team Liquid",
+                0.0
             ]
         ],
         "type": "spline",
@@ -3539,7 +4889,7 @@
         "data": [
             [
                 "Chicken Fighters",
-                2
+                6
             ],
             [
                 "Into The Breach",
@@ -3547,7 +4897,7 @@
             ],
             [
                 "Spider Pigzs",
-                1
+                3
             ],
             [
                 "Team Liquid",
@@ -3565,7 +4915,7 @@
         "data": [
             [
                 "Chicken Fighters",
-                2
+                4
             ],
             [
                 "Into The Breach",
@@ -3591,7 +4941,7 @@
         "data": [
             [
                 "Chicken Fighters",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Into The Breach",
@@ -3632,6 +4982,10 @@
                 1
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "ViKin.gg",
                 1
             ]
@@ -3646,6 +5000,10 @@
                 1
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "ViKin.gg",
                 0
             ]
@@ -3657,6 +5015,10 @@
         "data": [
             [
                 "Chicken Fighters",
+                1.0
+            ],
+            [
+                "Into The Breach",
                 1.0
             ],
             [
@@ -3684,6 +5046,14 @@
             [
                 "Hellbear Smashers",
                 1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
             ]
         ]
     },
@@ -3694,6 +5064,14 @@
             [
                 "Hellbear Smashers",
                 0
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Team Liquid",
+                0
             ]
         ]
     },
@@ -3703,6 +5081,56 @@
         "data": [
             [
                 "Hellbear Smashers",
+                0.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Techies Matches Played",
+        "id": "Techies Matches Played",
+        "data": [
+            [
+                "Chicken Fighters",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Techies Matches Won",
+        "id": "Techies Matches Won",
+        "data": [
+            [
+                "Chicken Fighters",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Techies Win Rate",
+        "id": "Techies Win Rate",
+        "data": [
+            [
+                "Chicken Fighters",
                 0.0
             ]
         ],
@@ -3728,12 +5156,24 @@
                 1
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "Ghost Frogs",
                 1
             ],
             [
                 "Nigma",
+                4
+            ],
+            [
+                "OG",
                 2
+            ],
+            [
+                "Team Liquid",
+                1
             ]
         ]
     },
@@ -3746,12 +5186,24 @@
                 0
             ],
             [
+                "Chicken Fighters",
+                0
+            ],
+            [
                 "Ghost Frogs",
                 1
             ],
             [
                 "Nigma",
-                1
+                2
+            ],
+            [
+                "OG",
+                2
+            ],
+            [
+                "Team Liquid",
+                0
             ]
         ]
     },
@@ -3764,12 +5216,24 @@
                 0.0
             ],
             [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
                 "Ghost Frogs",
                 1.0
             ],
             [
                 "Nigma",
                 0.5
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
             ]
         ],
         "type": "spline",
@@ -3790,6 +5254,10 @@
         "id": "Terrorblade Matches Played",
         "data": [
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "Hellbear Smashers",
                 1
             ],
@@ -3799,15 +5267,19 @@
             ],
             [
                 "Nigma",
-                1
+                4
             ],
             [
                 "No Bounty Hunter",
                 1
             ],
             [
-                "Spider Pigzs",
+                "OG",
                 1
+            ],
+            [
+                "Spider Pigzs",
+                3
             ],
             [
                 "Team Liquid",
@@ -3815,7 +5287,7 @@
             ],
             [
                 "Tundra Esports ",
-                1
+                5
             ]
         ]
     },
@@ -3824,6 +5296,10 @@
         "id": "Terrorblade Matches Won",
         "data": [
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "Hellbear Smashers",
                 0
             ],
@@ -3833,15 +5309,19 @@
             ],
             [
                 "Nigma",
-                1
+                3
             ],
             [
                 "No Bounty Hunter",
                 0
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "Spider Pigzs",
-                0
+                1
             ],
             [
                 "Team Liquid",
@@ -3849,7 +5329,7 @@
             ],
             [
                 "Tundra Esports ",
-                1
+                5
             ]
         ]
     },
@@ -3858,6 +5338,10 @@
         "id": "Terrorblade Win Rate",
         "data": [
             [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
                 "Hellbear Smashers",
                 0.0
             ],
@@ -3867,15 +5351,19 @@
             ],
             [
                 "Nigma",
-                1.0
+                0.75
             ],
             [
                 "No Bounty Hunter",
                 0.0
             ],
             [
+                "OG",
+                1.0
+            ],
+            [
                 "Spider Pigzs",
-                0.0
+                0.3333333333333333
             ],
             [
                 "Team Liquid",
@@ -3913,11 +5401,19 @@
             ],
             [
                 "Nigma",
+                2
+            ],
+            [
+                "OG",
                 1
             ],
             [
                 "Team Bald Reborn",
                 1
+            ],
+            [
+                "Tundra Esports ",
+                4
             ]
         ]
     },
@@ -3938,8 +5434,16 @@
                 0
             ],
             [
+                "OG",
+                0
+            ],
+            [
                 "Team Bald Reborn",
                 0
+            ],
+            [
+                "Tundra Esports ",
+                2
             ]
         ]
     },
@@ -3960,8 +5464,16 @@
                 0.0
             ],
             [
+                "OG",
+                0.0
+            ],
+            [
                 "Team Bald Reborn",
                 0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.5
             ]
         ],
         "type": "spline",
@@ -3987,18 +5499,26 @@
             ],
             [
                 "Into The Breach",
-                2
+                3
             ],
             [
                 "Nigma",
-                2
+                4
             ],
             [
                 "No Bounty Hunter",
                 1
             ],
             [
+                "OG",
+                2
+            ],
+            [
                 "Spider Pigzs",
+                2
+            ],
+            [
+                "Team Liquid",
                 1
             ]
         ]
@@ -4024,8 +5544,16 @@
                 0
             ],
             [
-                "Spider Pigzs",
+                "OG",
                 1
+            ],
+            [
+                "Spider Pigzs",
+                2
+            ],
+            [
+                "Team Liquid",
+                0
             ]
         ]
     },
@@ -4039,18 +5567,80 @@
             ],
             [
                 "Into The Breach",
-                0.5
+                0.3333333333333333
             ],
             [
                 "Nigma",
-                1.0
+                0.5
             ],
             [
                 "No Bounty Hunter",
                 0.0
             ],
             [
+                "OG",
+                0.5
+            ],
+            [
                 "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Tiny Matches Played",
+        "id": "Tiny Matches Played",
+        "data": [
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Matches Won",
+        "id": "Tiny Matches Won",
+        "data": [
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Tiny Win Rate",
+        "id": "Tiny Win Rate",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "Team Liquid",
                 1.0
             ]
         ],
@@ -4115,7 +5705,11 @@
         "data": [
             [
                 "Into The Breach",
-                1
+                2
+            ],
+            [
+                "Nigma",
+                3
             ]
         ]
     },
@@ -4126,6 +5720,10 @@
             [
                 "Into The Breach",
                 1
+            ],
+            [
+                "Nigma",
+                2
             ]
         ]
     },
@@ -4135,7 +5733,95 @@
         "data": [
             [
                 "Into The Breach",
-                1.0
+                0.5
+            ],
+            [
+                "Nigma",
+                0.6666666666666666
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Ursa Matches Played",
+        "id": "Ursa Matches Played",
+        "data": [
+            [
+                "Tundra Esports ",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Matches Won",
+        "id": "Ursa Matches Won",
+        "data": [
+            [
+                "Tundra Esports ",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Ursa Win Rate",
+        "id": "Ursa Win Rate",
+        "data": [
+            [
+                "Tundra Esports ",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Vengeful Spirit Matches Played",
+        "id": "Vengeful Spirit Matches Played",
+        "data": [
+            [
+                "Nigma",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Vengeful Spirit Matches Won",
+        "id": "Vengeful Spirit Matches Won",
+        "data": [
+            [
+                "Nigma",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Vengeful Spirit Win Rate",
+        "id": "Vengeful Spirit Win Rate",
+        "data": [
+            [
+                "Nigma",
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -4214,6 +5900,10 @@
                 2
             ],
             [
+                "Team Liquid",
+                1
+            ],
+            [
                 "Tundra Esports ",
                 1
             ]
@@ -4240,6 +5930,10 @@
                 0
             ],
             [
+                "Team Liquid",
+                1
+            ],
+            [
                 "Tundra Esports ",
                 1
             ]
@@ -4264,6 +5958,10 @@
             [
                 "Spider Pigzs",
                 0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
             ],
             [
                 "Tundra Esports ",
@@ -4296,6 +5994,10 @@
                 1
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "Spider Pigzs",
                 1
             ],
@@ -4305,7 +6007,7 @@
             ],
             [
                 "Tundra Esports ",
-                1
+                2
             ],
             [
                 "ViKin.gg",
@@ -4323,6 +6025,10 @@
             ],
             [
                 "No Bounty Hunter",
+                0
+            ],
+            [
+                "OG",
                 0
             ],
             [
@@ -4356,6 +6062,10 @@
                 0.0
             ],
             [
+                "OG",
+                0.0
+            ],
+            [
                 "Spider Pigzs",
                 0.0
             ],
@@ -4365,7 +6075,7 @@
             ],
             [
                 "Tundra Esports ",
-                1.0
+                0.5
             ],
             [
                 "ViKin.gg",
@@ -4386,9 +6096,109 @@
         }
     },
     {
+        "name": "Warlock Matches Played",
+        "id": "Warlock Matches Played",
+        "data": [
+            [
+                "Team Liquid",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Matches Won",
+        "id": "Warlock Matches Won",
+        "data": [
+            [
+                "Team Liquid",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Warlock Win Rate",
+        "id": "Warlock Win Rate",
+        "data": [
+            [
+                "Team Liquid",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Windranger Matches Played",
+        "id": "Windranger Matches Played",
+        "data": [
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "OG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Matches Won",
+        "id": "Windranger Matches Won",
+        "data": [
+            [
+                "Nigma",
+                1
+            ],
+            [
+                "OG",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Windranger Win Rate",
+        "id": "Windranger Win Rate",
+        "data": [
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "OG",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
         "name": "Winter Wyvern Matches Played",
         "id": "Winter Wyvern Matches Played",
         "data": [
+            [
+                "Chicken Fighters",
+                3
+            ],
             [
                 "Ghost Frogs",
                 1
@@ -4402,8 +6212,20 @@
                 1
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "No Bounty Hunter",
                 1
+            ],
+            [
+                "Spider Pigzs",
+                1
+            ],
+            [
+                "Tundra Esports ",
+                3
             ]
         ]
     },
@@ -4411,6 +6233,10 @@
         "name": "Winter Wyvern Matches Won",
         "id": "Winter Wyvern Matches Won",
         "data": [
+            [
+                "Chicken Fighters",
+                2
+            ],
             [
                 "Ghost Frogs",
                 1
@@ -4424,8 +6250,20 @@
                 0
             ],
             [
+                "Nigma",
+                0
+            ],
+            [
                 "No Bounty Hunter",
                 0
+            ],
+            [
+                "Spider Pigzs",
+                0
+            ],
+            [
+                "Tundra Esports ",
+                2
             ]
         ]
     },
@@ -4433,6 +6271,10 @@
         "name": "Winter Wyvern Win Rate",
         "id": "Winter Wyvern Win Rate",
         "data": [
+            [
+                "Chicken Fighters",
+                0.6666666666666666
+            ],
             [
                 "Ghost Frogs",
                 1.0
@@ -4446,8 +6288,20 @@
                 0.0
             ],
             [
+                "Nigma",
+                0.0
+            ],
+            [
                 "No Bounty Hunter",
                 0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -4478,6 +6332,10 @@
             [
                 "Hippomaniacs",
                 1
+            ],
+            [
+                "Into The Breach",
+                1
             ]
         ]
     },
@@ -4496,6 +6354,10 @@
             [
                 "Hippomaniacs",
                 0
+            ],
+            [
+                "Into The Breach",
+                0
             ]
         ]
     },
@@ -4513,6 +6375,10 @@
             ],
             [
                 "Hippomaniacs",
+                0.0
+            ],
+            [
+                "Into The Breach",
                 0.0
             ]
         ],
@@ -4538,6 +6404,14 @@
                 1
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
+                "OG",
+                1
+            ],
+            [
                 "Spider Pigzs",
                 1
             ]
@@ -4552,6 +6426,14 @@
                 0
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
+                "OG",
+                0
+            ],
+            [
                 "Spider Pigzs",
                 1
             ]
@@ -4563,6 +6445,14 @@
         "data": [
             [
                 "Hippomaniacs",
+                0.0
+            ],
+            [
+                "Into The Breach",
+                1.0
+            ],
+            [
+                "OG",
                 0.0
             ],
             [

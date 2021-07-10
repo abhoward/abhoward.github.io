@@ -1,137 +1,277 @@
 [
     {
         "match": "Into The Breach vs Hippomaniacs",
-        "y": 27,
+        "y": 55,
         "name": 1297
     },
     {
+        "match": "Spider Pigzs vs Nigma",
+        "y": 54,
+        "name": 1425
+    },
+    {
         "match": "Chicken Fighters vs No Bounty Hunter",
-        "y": 26,
+        "y": 53,
+        "name": 1432
+    },
+    {
+        "match": "Chicken Fighters vs Team Liquid",
+        "y": 52,
         "name": 1432
     },
     {
         "match": "Into The Breach vs Brame",
-        "y": 25,
+        "y": 51,
         "name": 1577
     },
     {
         "match": "Hippomaniacs vs Into The Breach",
-        "y": 24,
+        "y": 50,
         "name": 1583
     },
     {
         "match": "ViKin.gg vs OG",
-        "y": 23,
+        "y": 49,
         "name": 1634
     },
     {
+        "match": "Team Liquid vs Tundra Esports ",
+        "y": 48,
+        "name": 1736
+    },
+    {
         "match": "Spider Pigzs vs Team Bald Reborn",
-        "y": 22,
+        "y": 47,
         "name": 1754
     },
     {
+        "match": "Nigma vs Team Liquid",
+        "y": 46,
+        "name": 1767
+    },
+    {
+        "match": "Nigma vs Spider Pigzs",
+        "y": 45,
+        "name": 1772
+    },
+    {
+        "match": "OG vs Nigma",
+        "y": 44,
+        "name": 1805
+    },
+    {
         "match": "Ghost Frogs vs Hellbear Smashers",
-        "y": 21,
+        "y": 43,
         "name": 1897
     },
     {
+        "match": "OG vs Tundra Esports ",
+        "y": 42,
+        "name": 1910
+    },
+    {
         "match": "Tundra Esports  vs Brame",
-        "y": 20,
+        "y": 41,
         "name": 1912
     },
     {
         "match": "Hellbear Smashers vs Nigma",
-        "y": 19,
+        "y": 40,
         "name": 1928
     },
     {
+        "match": "Tundra Esports  vs OG",
+        "y": 39,
+        "name": 1985
+    },
+    {
+        "match": "Spider Pigzs vs Into The Breach",
+        "y": 38,
+        "name": 2018
+    },
+    {
+        "match": "Chicken Fighters vs Team Liquid",
+        "y": 37,
+        "name": 2021
+    },
+    {
+        "match": "OG vs Nigma",
+        "y": 36,
+        "name": 2030
+    },
+    {
+        "match": "Nigma vs OG",
+        "y": 35,
+        "name": 2041
+    },
+    {
+        "match": "Nigma vs OG",
+        "y": 34,
+        "name": 2069
+    },
+    {
+        "match": "Tundra Esports  vs OG",
+        "y": 33,
+        "name": 2128
+    },
+    {
+        "match": "Tundra Esports  vs Team Liquid",
+        "y": 32,
+        "name": 2139
+    },
+    {
         "match": "Chicken Fighters vs ViKin.gg",
-        "y": 18,
+        "y": 31,
         "name": 2146
     },
     {
+        "match": "OG vs Tundra Esports ",
+        "y": 30,
+        "name": 2164
+    },
+    {
         "match": "Spider Pigzs vs Team Bald Reborn",
-        "y": 17,
+        "y": 29,
         "name": 2169
     },
     {
         "match": "Spider Pigzs vs Team Liquid",
-        "y": 16,
+        "y": 28,
         "name": 2195
     },
     {
         "match": "Ghost Frogs vs Hellbear Smashers",
-        "y": 15,
+        "y": 27,
         "name": 2203
     },
     {
+        "match": "Chicken Fighters vs Hellbear Smashers",
+        "y": 26,
+        "name": 2211
+    },
+    {
         "match": "Hellbear Smashers vs Nigma",
-        "y": 14,
+        "y": 25,
         "name": 2247
     },
     {
+        "match": "Team Liquid vs Nigma",
+        "y": 24,
+        "name": 2374
+    },
+    {
+        "match": "OG vs Nigma",
+        "y": 23,
+        "name": 2415
+    },
+    {
         "match": "ViKin.gg vs OG",
-        "y": 13,
+        "y": 22,
         "name": 2424
     },
     {
         "match": "No Bounty Hunter vs Chicken Fighters",
-        "y": 12,
+        "y": 21,
         "name": 2435
     },
     {
+        "match": "Nigma vs OG",
+        "y": 20,
+        "name": 2510
+    },
+    {
         "match": "Spider Pigzs vs Team Liquid",
-        "y": 11,
+        "y": 19,
         "name": 2538
     },
     {
+        "match": "Tundra Esports  vs OG",
+        "y": 18,
+        "name": 2543
+    },
+    {
         "match": "Hellbear Smashers vs Nigma",
-        "y": 10,
+        "y": 17,
         "name": 2571
     },
     {
+        "match": "Nigma vs Team Liquid",
+        "y": 16,
+        "name": 2691
+    },
+    {
         "match": "Into The Breach vs Brame",
-        "y": 9,
+        "y": 15,
         "name": 2739
     },
     {
         "match": "ViKin.gg vs Chicken Fighters",
-        "y": 8,
+        "y": 14,
         "name": 2752
     },
     {
         "match": "Chicken Fighters vs Hellbear Smashers",
-        "y": 7,
+        "y": 13,
         "name": 2774
     },
     {
+        "match": "Tundra Esports  vs OG",
+        "y": 12,
+        "name": 2838
+    },
+    {
+        "match": "Chicken Fighters vs Team Liquid",
+        "y": 11,
+        "name": 3085
+    },
+    {
         "match": "Into The Breach vs Brame",
-        "y": 6,
+        "y": 10,
         "name": 3166
     },
     {
         "match": "Spider Pigzs vs Team Liquid",
-        "y": 5,
+        "y": 9,
         "name": 3180
     },
     {
         "match": "Brame vs Tundra Esports ",
-        "y": 4,
+        "y": 8,
         "name": 3227
     },
     {
         "match": "ViKin.gg vs OG",
-        "y": 3,
+        "y": 7,
         "name": 3359
     },
     {
         "match": "Hellbear Smashers vs Ghost Frogs",
-        "y": 2,
+        "y": 6,
         "name": 3416
     },
     {
+        "match": "OG vs Tundra Esports ",
+        "y": 5,
+        "name": 3582
+    },
+    {
+        "match": "Into The Breach vs Spider Pigzs",
+        "y": 4,
+        "name": 3604
+    },
+    {
+        "match": "Spider Pigzs vs Into The Breach",
+        "y": 3,
+        "name": 3693
+    },
+    {
         "match": "Spider Pigzs vs Team Bald Reborn",
-        "y": 1,
+        "y": 2,
         "name": 4301
+    },
+    {
+        "match": "Chicken Fighters vs Team Liquid",
+        "y": 1,
+        "name": 6234
     }
 ]

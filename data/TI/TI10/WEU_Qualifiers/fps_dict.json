@@ -1,12 +1,12 @@
 {
-    "rad_fps": 5,
-    "dire_fps": 22,
-    "wins_fps": 12,
-    "losses_fps": 15,
-    "rad_fps_rad_wins": 1,
-    "dire_fps_rad_wins": 11,
-    "dire_fps_dire_wins": 11,
-    "rad_fps_dire_wins": 4,
-    "rad_wins": 12,
-    "dire_wins": 15
+    "rad_fps": 9,
+    "dire_fps": 46,
+    "wins_fps": 27,
+    "losses_fps": 28,
+    "rad_fps_rad_wins": 4,
+    "dire_fps_rad_wins": 23,
+    "dire_fps_dire_wins": 23,
+    "rad_fps_dire_wins": 5,
+    "rad_wins": 27,
+    "dire_wins": 28
 }

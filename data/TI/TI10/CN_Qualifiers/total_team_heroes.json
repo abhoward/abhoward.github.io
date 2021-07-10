@@ -4,6 +4,10 @@
         "id": "Abaddon Matches Played",
         "data": [
             [
+                "EHOME",
+                1
+            ],
+            [
                 "Team Magma",
                 3
             ],
@@ -21,6 +25,10 @@
         "name": "Abaddon Matches Won",
         "id": "Abaddon Matches Won",
         "data": [
+            [
+                "EHOME",
+                1
+            ],
             [
                 "Team Magma",
                 2
@@ -40,6 +48,10 @@
         "id": "Abaddon Win Rate",
         "data": [
             [
+                "EHOME",
+                1.0
+            ],
+            [
                 "Team Magma",
                 0.6666666666666666
             ],
@@ -49,6 +61,48 @@
             ],
             [
                 "phoenix gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Alchemist Matches Played",
+        "id": "Alchemist Matches Played",
+        "data": [
+            [
+                "Royal Never Give Up",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Matches Won",
+        "id": "Alchemist Matches Won",
+        "data": [
+            [
+                "Royal Never Give Up",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Alchemist Win Rate",
+        "id": "Alchemist Win Rate",
+        "data": [
+            [
+                "Royal Never Give Up",
                 0.0
             ]
         ],
@@ -190,12 +244,24 @@
         "id": "Axe Matches Played",
         "data": [
             [
+                "Aster.Aries",
+                1
+            ],
+            [
                 "EHOME",
+                2
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Royal Never Give Up",
                 1
             ],
             [
                 "Sparking Arrow Gaming",
-                2
+                4
             ]
         ]
     },
@@ -204,8 +270,20 @@
         "id": "Axe Matches Won",
         "data": [
             [
+                "Aster.Aries",
+                0
+            ],
+            [
                 "EHOME",
                 1
+            ],
+            [
+                "Elephant",
+                0
+            ],
+            [
+                "Royal Never Give Up",
+                0
             ],
             [
                 "Sparking Arrow Gaming",
@@ -218,12 +296,66 @@
         "id": "Axe Win Rate",
         "data": [
             [
+                "Aster.Aries",
+                0.0
+            ],
+            [
                 "EHOME",
-                1.0
+                0.5
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
             ],
             [
                 "Sparking Arrow Gaming",
-                0.5
+                0.25
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Beastmaster Matches Played",
+        "id": "Beastmaster Matches Played",
+        "data": [
+            [
+                "EHOME",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Matches Won",
+        "id": "Beastmaster Matches Won",
+        "data": [
+            [
+                "EHOME",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Beastmaster Win Rate",
+        "id": "Beastmaster Win Rate",
+        "data": [
+            [
+                "EHOME",
+                1.0
             ]
         ],
         "type": "spline",
@@ -286,6 +418,14 @@
         "id": "Brewmaster Matches Played",
         "data": [
             [
+                "EHOME",
+                1
+            ],
+            [
+                "Elephant",
+                2
+            ],
+            [
                 "Royal Never Give Up",
                 3
             ],
@@ -300,6 +440,14 @@
         "id": "Brewmaster Matches Won",
         "data": [
             [
+                "EHOME",
+                0
+            ],
+            [
+                "Elephant",
+                2
+            ],
+            [
                 "Royal Never Give Up",
                 2
             ],
@@ -313,6 +461,14 @@
         "name": "Brewmaster Win Rate",
         "id": "Brewmaster Win Rate",
         "data": [
+            [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
             [
                 "Royal Never Give Up",
                 0.6666666666666666
@@ -551,10 +707,14 @@
         "data": [
             [
                 "Aster.Aries",
-                1
+                2
             ],
             [
                 "EHOME",
+                2
+            ],
+            [
+                "Elephant",
                 1
             ]
         ]
@@ -570,6 +730,10 @@
             [
                 "EHOME",
                 1
+            ],
+            [
+                "Elephant",
+                1
             ]
         ]
     },
@@ -583,6 +747,10 @@
             ],
             [
                 "EHOME",
+                0.5
+            ],
+            [
+                "Elephant",
                 1.0
             ]
         ],
@@ -604,6 +772,18 @@
         "id": "Dark Seer Matches Played",
         "data": [
             [
+                "EHOME",
+                1
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
                 "Sparking Arrow Gaming",
                 1
             ]
@@ -614,6 +794,18 @@
         "id": "Dark Seer Matches Won",
         "data": [
             [
+                "EHOME",
+                0
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
                 "Sparking Arrow Gaming",
                 1
             ]
@@ -623,6 +815,18 @@
         "name": "Dark Seer Win Rate",
         "id": "Dark Seer Win Rate",
         "data": [
+            [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
             [
                 "Sparking Arrow Gaming",
                 1.0
@@ -693,11 +897,15 @@
             ],
             [
                 "Elephant",
+                3
+            ],
+            [
+                "Royal Never Give Up",
                 1
             ],
             [
                 "Team Magma",
-                1
+                2
             ]
         ]
     },
@@ -711,6 +919,10 @@
             ],
             [
                 "Elephant",
+                1
+            ],
+            [
+                "Royal Never Give Up",
                 1
             ],
             [
@@ -729,6 +941,10 @@
             ],
             [
                 "Elephant",
+                0.3333333333333333
+            ],
+            [
+                "Royal Never Give Up",
                 1.0
             ],
             [
@@ -797,7 +1013,11 @@
         "data": [
             [
                 "Aster.Aries",
-                2
+                4
+            ],
+            [
+                "EHOME",
+                1
             ],
             [
                 "Elephant",
@@ -813,7 +1033,7 @@
             ],
             [
                 "Sparking Arrow Gaming",
-                1
+                2
             ],
             [
                 "Team Magma",
@@ -832,6 +1052,10 @@
             [
                 "Aster.Aries",
                 2
+            ],
+            [
+                "EHOME",
+                1
             ],
             [
                 "Elephant",
@@ -865,6 +1089,10 @@
         "data": [
             [
                 "Aster.Aries",
+                0.5
+            ],
+            [
+                "EHOME",
                 1.0
             ],
             [
@@ -881,7 +1109,7 @@
             ],
             [
                 "Sparking Arrow Gaming",
-                1.0
+                0.5
             ],
             [
                 "Team Magma",
@@ -922,8 +1150,12 @@
                 2
             ],
             [
-                "Team Magma",
+                "Royal Never Give Up",
                 1
+            ],
+            [
+                "Team Magma",
+                3
             ],
             [
                 "phoenix gaming",
@@ -948,8 +1180,12 @@
                 2
             ],
             [
-                "Team Magma",
+                "Royal Never Give Up",
                 1
+            ],
+            [
+                "Team Magma",
+                3
             ],
             [
                 "phoenix gaming",
@@ -971,6 +1207,10 @@
             ],
             [
                 "Elephant",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
                 1.0
             ],
             [
@@ -996,16 +1236,58 @@
         }
     },
     {
+        "name": "Drow Ranger Matches Played",
+        "id": "Drow Ranger Matches Played",
+        "data": [
+            [
+                "Royal Never Give Up",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Matches Won",
+        "id": "Drow Ranger Matches Won",
+        "data": [
+            [
+                "Royal Never Give Up",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Drow Ranger Win Rate",
+        "id": "Drow Ranger Win Rate",
+        "data": [
+            [
+                "Royal Never Give Up",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
         "name": "Earth Spirit Matches Played",
         "id": "Earth Spirit Matches Played",
         "data": [
             [
                 "Elephant",
-                1
+                2
             ],
             [
                 "Team Magma",
-                1
+                2
             ]
         ]
     },
@@ -1015,7 +1297,7 @@
         "data": [
             [
                 "Elephant",
-                1
+                2
             ],
             [
                 "Team Magma",
@@ -1033,7 +1315,7 @@
             ],
             [
                 "Team Magma",
-                1.0
+                0.5
             ]
         ],
         "type": "spline",
@@ -1062,12 +1344,20 @@
                 1
             ],
             [
+                "EHOME",
+                1
+            ],
+            [
                 "Elephant",
-                2
+                3
             ],
             [
                 "LBZS",
                 1
+            ],
+            [
+                "Team Magma",
+                2
             ],
             [
                 "phoenix gaming",
@@ -1088,12 +1378,20 @@
                 1
             ],
             [
-                "Elephant",
+                "EHOME",
                 1
+            ],
+            [
+                "Elephant",
+                2
             ],
             [
                 "LBZS",
                 0
+            ],
+            [
+                "Team Magma",
+                1
             ],
             [
                 "phoenix gaming",
@@ -1114,12 +1412,20 @@
                 1.0
             ],
             [
+                "EHOME",
+                1.0
+            ],
+            [
                 "Elephant",
-                0.5
+                0.6666666666666666
             ],
             [
                 "LBZS",
                 0.0
+            ],
+            [
+                "Team Magma",
+                0.5
             ],
             [
                 "phoenix gaming",
@@ -1146,6 +1452,10 @@
             [
                 "CDEC ",
                 2
+            ],
+            [
+                "Royal Never Give Up",
+                1
             ]
         ]
     },
@@ -1156,6 +1466,10 @@
             [
                 "CDEC ",
                 0
+            ],
+            [
+                "Royal Never Give Up",
+                0
             ]
         ]
     },
@@ -1165,6 +1479,10 @@
         "data": [
             [
                 "CDEC ",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
                 0.0
             ]
         ],
@@ -1186,6 +1504,10 @@
         "id": "Enchantress Matches Played",
         "data": [
             [
+                "EHOME",
+                1
+            ],
+            [
                 "Team Magma",
                 1
             ]
@@ -1196,6 +1518,10 @@
         "id": "Enchantress Matches Won",
         "data": [
             [
+                "EHOME",
+                1
+            ],
+            [
                 "Team Magma",
                 0
             ]
@@ -1205,6 +1531,10 @@
         "name": "Enchantress Win Rate",
         "id": "Enchantress Win Rate",
         "data": [
+            [
+                "EHOME",
+                1.0
+            ],
             [
                 "Team Magma",
                 0.0
@@ -1228,6 +1558,10 @@
         "id": "Faceless Void Matches Played",
         "data": [
             [
+                "Elephant",
+                1
+            ],
+            [
                 "Xtreme  Gaming",
                 1
             ]
@@ -1238,6 +1572,10 @@
         "id": "Faceless Void Matches Won",
         "data": [
             [
+                "Elephant",
+                1
+            ],
+            [
                 "Xtreme  Gaming",
                 0
             ]
@@ -1247,6 +1585,10 @@
         "name": "Faceless Void Win Rate",
         "id": "Faceless Void Win Rate",
         "data": [
+            [
+                "Elephant",
+                1.0
+            ],
             [
                 "Xtreme  Gaming",
                 0.0
@@ -1270,6 +1612,10 @@
         "id": "Grimstroke Matches Played",
         "data": [
             [
+                "Elephant",
+                1
+            ],
+            [
                 "LBZS",
                 1
             ],
@@ -1284,6 +1630,10 @@
         "id": "Grimstroke Matches Won",
         "data": [
             [
+                "Elephant",
+                0
+            ],
+            [
                 "LBZS",
                 0
             ],
@@ -1297,6 +1647,10 @@
         "name": "Grimstroke Win Rate",
         "id": "Grimstroke Win Rate",
         "data": [
+            [
+                "Elephant",
+                0.0
+            ],
             [
                 "LBZS",
                 0.0
@@ -1332,8 +1686,16 @@
                 1
             ],
             [
-                "Elephant",
+                "EHOME",
                 3
+            ],
+            [
+                "Elephant",
+                4
+            ],
+            [
+                "Royal Never Give Up",
+                2
             ],
             [
                 "Sparking Arrow Gaming",
@@ -1341,7 +1703,7 @@
             ],
             [
                 "Team Magma",
-                1
+                6
             ],
             [
                 "phoenix gaming",
@@ -1362,8 +1724,16 @@
                 1
             ],
             [
+                "EHOME",
+                1
+            ],
+            [
                 "Elephant",
-                2
+                3
+            ],
+            [
+                "Royal Never Give Up",
+                1
             ],
             [
                 "Sparking Arrow Gaming",
@@ -1371,7 +1741,7 @@
             ],
             [
                 "Team Magma",
-                1
+                4
             ],
             [
                 "phoenix gaming",
@@ -1392,8 +1762,16 @@
                 1.0
             ],
             [
+                "EHOME",
+                0.3333333333333333
+            ],
+            [
                 "Elephant",
-                0.6666666666666666
+                0.75
+            ],
+            [
+                "Royal Never Give Up",
+                0.5
             ],
             [
                 "Sparking Arrow Gaming",
@@ -1401,7 +1779,7 @@
             ],
             [
                 "Team Magma",
-                1.0
+                0.6666666666666666
             ],
             [
                 "phoenix gaming",
@@ -1427,7 +1805,7 @@
         "data": [
             [
                 "Elephant",
-                1
+                2
             ],
             [
                 "Royal Never Give Up",
@@ -1435,7 +1813,7 @@
             ],
             [
                 "Sparking Arrow Gaming",
-                2
+                3
             ]
         ]
     },
@@ -1463,7 +1841,7 @@
         "data": [
             [
                 "Elephant",
-                1.0
+                0.5
             ],
             [
                 "Royal Never Give Up",
@@ -1471,7 +1849,7 @@
             ],
             [
                 "Sparking Arrow Gaming",
-                1.0
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -1530,9 +1908,55 @@
         }
     },
     {
+        "name": "Jakiro Matches Played",
+        "id": "Jakiro Matches Played",
+        "data": [
+            [
+                "Team Magma",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Jakiro Matches Won",
+        "id": "Jakiro Matches Won",
+        "data": [
+            [
+                "Team Magma",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Jakiro Win Rate",
+        "id": "Jakiro Win Rate",
+        "data": [
+            [
+                "Team Magma",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
         "name": "Juggernaut Matches Played",
         "id": "Juggernaut Matches Played",
         "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
             [
                 "Elephant",
                 1
@@ -1544,6 +1968,10 @@
         "id": "Juggernaut Matches Won",
         "data": [
             [
+                "Aster.Aries",
+                0
+            ],
+            [
                 "Elephant",
                 1
             ]
@@ -1553,6 +1981,10 @@
         "name": "Juggernaut Win Rate",
         "id": "Juggernaut Win Rate",
         "data": [
+            [
+                "Aster.Aries",
+                0.0
+            ],
             [
                 "Elephant",
                 1.0
@@ -1658,7 +2090,15 @@
                 1
             ],
             [
+                "Elephant",
+                1
+            ],
+            [
                 "LBZS",
+                1
+            ],
+            [
+                "Royal Never Give Up",
                 1
             ]
         ]
@@ -1672,8 +2112,16 @@
                 1
             ],
             [
+                "Elephant",
+                1
+            ],
+            [
                 "LBZS",
                 0
+            ],
+            [
+                "Royal Never Give Up",
+                1
             ]
         ]
     },
@@ -1686,8 +2134,16 @@
                 1.0
             ],
             [
+                "Elephant",
+                1.0
+            ],
+            [
                 "LBZS",
                 0.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
             ]
         ],
         "type": "spline",
@@ -1713,11 +2169,15 @@
             ],
             [
                 "Elephant",
-                2
+                4
             ],
             [
                 "LBZS",
                 2
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
             ],
             [
                 "phoenix gaming",
@@ -1735,10 +2195,14 @@
             ],
             [
                 "Elephant",
-                1
+                3
             ],
             [
                 "LBZS",
+                0
+            ],
+            [
+                "Sparking Arrow Gaming",
                 0
             ],
             [
@@ -1757,10 +2221,14 @@
             ],
             [
                 "Elephant",
-                0.5
+                0.75
             ],
             [
                 "LBZS",
+                0.0
+            ],
+            [
+                "Sparking Arrow Gaming",
                 0.0
             ],
             [
@@ -1787,7 +2255,7 @@
         "data": [
             [
                 "Royal Never Give Up",
-                1
+                2
             ],
             [
                 "Team Magma",
@@ -1801,7 +2269,7 @@
         "data": [
             [
                 "Royal Never Give Up",
-                1
+                2
             ],
             [
                 "Team Magma",
@@ -1841,11 +2309,19 @@
         "data": [
             [
                 "EHOME",
-                1
+                3
+            ],
+            [
+                "Elephant",
+                3
             ],
             [
                 "LBZS",
                 1
+            ],
+            [
+                "Royal Never Give Up",
+                2
             ],
             [
                 "Sparking Arrow Gaming",
@@ -1853,7 +2329,7 @@
             ],
             [
                 "Team Magma",
-                2
+                3
             ],
             [
                 "Xtreme  Gaming",
@@ -1867,11 +2343,19 @@
         "data": [
             [
                 "EHOME",
-                1
+                3
+            ],
+            [
+                "Elephant",
+                3
             ],
             [
                 "LBZS",
                 0
+            ],
+            [
+                "Royal Never Give Up",
+                2
             ],
             [
                 "Sparking Arrow Gaming",
@@ -1879,7 +2363,7 @@
             ],
             [
                 "Team Magma",
-                1
+                2
             ],
             [
                 "Xtreme  Gaming",
@@ -1896,8 +2380,16 @@
                 1.0
             ],
             [
+                "Elephant",
+                1.0
+            ],
+            [
                 "LBZS",
                 0.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
             ],
             [
                 "Sparking Arrow Gaming",
@@ -1905,7 +2397,7 @@
             ],
             [
                 "Team Magma",
-                0.5
+                0.6666666666666666
             ],
             [
                 "Xtreme  Gaming",
@@ -1931,7 +2423,7 @@
         "data": [
             [
                 "Aster.Aries",
-                3
+                5
             ],
             [
                 "CDEC ",
@@ -1939,11 +2431,11 @@
             ],
             [
                 "EHOME",
-                3
+                4
             ],
             [
                 "Elephant",
-                1
+                4
             ],
             [
                 "LBZS",
@@ -1951,11 +2443,15 @@
             ],
             [
                 "Royal Never Give Up",
-                3
+                4
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
             ],
             [
                 "Team Magma",
-                4
+                6
             ],
             [
                 "Xtreme  Gaming",
@@ -1985,7 +2481,7 @@
             ],
             [
                 "Elephant",
-                1
+                3
             ],
             [
                 "LBZS",
@@ -1996,8 +2492,12 @@
                 2
             ],
             [
+                "Sparking Arrow Gaming",
+                0
+            ],
+            [
                 "Team Magma",
-                2
+                3
             ],
             [
                 "Xtreme  Gaming",
@@ -2015,7 +2515,7 @@
         "data": [
             [
                 "Aster.Aries",
-                0.6666666666666666
+                0.4
             ],
             [
                 "CDEC ",
@@ -2023,11 +2523,11 @@
             ],
             [
                 "EHOME",
-                1.0
+                0.75
             ],
             [
                 "Elephant",
-                1.0
+                0.75
             ],
             [
                 "LBZS",
@@ -2035,7 +2535,11 @@
             ],
             [
                 "Royal Never Give Up",
-                0.6666666666666666
+                0.5
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
             ],
             [
                 "Team Magma",
@@ -2072,12 +2576,28 @@
                 1
             ],
             [
+                "EHOME",
+                2
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
                 "LBZS",
                 2
             ],
             [
+                "Royal Never Give Up",
+                1
+            ],
+            [
                 "Sparking Arrow Gaming",
                 1
+            ],
+            [
+                "Team Magma",
+                3
             ]
         ]
     },
@@ -2090,12 +2610,28 @@
                 0
             ],
             [
+                "EHOME",
+                1
+            ],
+            [
+                "Elephant",
+                0
+            ],
+            [
                 "LBZS",
                 0
             ],
             [
+                "Royal Never Give Up",
+                1
+            ],
+            [
                 "Sparking Arrow Gaming",
                 1
+            ],
+            [
+                "Team Magma",
+                2
             ]
         ]
     },
@@ -2108,12 +2644,28 @@
                 0.0
             ],
             [
+                "EHOME",
+                0.5
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
                 "LBZS",
                 0.0
             ],
             [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
                 "Sparking Arrow Gaming",
                 1.0
+            ],
+            [
+                "Team Magma",
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -2178,6 +2730,10 @@
             [
                 "Aster.Aries",
                 2
+            ],
+            [
+                "Elephant",
+                1
             ]
         ]
     },
@@ -2187,6 +2743,10 @@
         "data": [
             [
                 "Aster.Aries",
+                1
+            ],
+            [
+                "Elephant",
                 1
             ]
         ]
@@ -2198,6 +2758,10 @@
             [
                 "Aster.Aries",
                 0.5
+            ],
+            [
+                "Elephant",
+                1.0
             ]
         ],
         "type": "spline",
@@ -2219,6 +2783,10 @@
         "data": [
             [
                 "EHOME",
+                2
+            ],
+            [
+                "Elephant",
                 1
             ],
             [
@@ -2227,11 +2795,11 @@
             ],
             [
                 "Royal Never Give Up",
-                2
+                3
             ],
             [
                 "Team Magma",
-                2
+                5
             ],
             [
                 "Xtreme  Gaming",
@@ -2245,7 +2813,11 @@
         "data": [
             [
                 "EHOME",
-                1
+                2
+            ],
+            [
+                "Elephant",
+                0
             ],
             [
                 "LBZS",
@@ -2274,16 +2846,20 @@
                 1.0
             ],
             [
+                "Elephant",
+                0.0
+            ],
+            [
                 "LBZS",
                 0.0
             ],
             [
                 "Royal Never Give Up",
-                0.5
+                0.3333333333333333
             ],
             [
                 "Team Magma",
-                0.5
+                0.2
             ],
             [
                 "Xtreme  Gaming",
@@ -2313,11 +2889,11 @@
             ],
             [
                 "EHOME",
-                2
+                4
             ],
             [
                 "Elephant",
-                1
+                2
             ],
             [
                 "Sparking Arrow Gaming",
@@ -2343,7 +2919,7 @@
             ],
             [
                 "EHOME",
-                2
+                3
             ],
             [
                 "Elephant",
@@ -2373,11 +2949,11 @@
             ],
             [
                 "EHOME",
-                1.0
+                0.75
             ],
             [
                 "Elephant",
-                1.0
+                0.5
             ],
             [
                 "Sparking Arrow Gaming",
@@ -2419,11 +2995,15 @@
             ],
             [
                 "Elephant",
-                1
+                4
             ],
             [
                 "Royal Never Give Up",
                 2
+            ],
+            [
+                "Team Magma",
+                1
             ]
         ]
     },
@@ -2441,10 +3021,14 @@
             ],
             [
                 "Elephant",
-                1
+                3
             ],
             [
                 "Royal Never Give Up",
+                1
+            ],
+            [
+                "Team Magma",
                 1
             ]
         ]
@@ -2463,11 +3047,15 @@
             ],
             [
                 "Elephant",
-                1.0
+                0.75
             ],
             [
                 "Royal Never Give Up",
                 0.5
+            ],
+            [
+                "Team Magma",
+                1.0
             ]
         ],
         "type": "spline",
@@ -2492,8 +3080,12 @@
                 3
             ],
             [
-                "Team Magma",
+                "EHOME",
                 1
+            ],
+            [
+                "Team Magma",
+                4
             ],
             [
                 "phoenix gaming",
@@ -2510,8 +3102,12 @@
                 2
             ],
             [
+                "EHOME",
+                0
+            ],
+            [
                 "Team Magma",
-                1
+                3
             ],
             [
                 "phoenix gaming",
@@ -2528,8 +3124,12 @@
                 0.6666666666666666
             ],
             [
+                "EHOME",
+                0.0
+            ],
+            [
                 "Team Magma",
-                1.0
+                0.75
             ],
             [
                 "phoenix gaming",
@@ -2596,7 +3196,19 @@
         "id": "Nyx Assassin Matches Played",
         "data": [
             [
+                "Elephant",
+                2
+            ],
+            [
+                "Royal Never Give Up",
+                2
+            ],
+            [
                 "Sparking Arrow Gaming",
+                1
+            ],
+            [
+                "Team Magma",
                 1
             ],
             [
@@ -2610,8 +3222,20 @@
         "id": "Nyx Assassin Matches Won",
         "data": [
             [
+                "Elephant",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                2
+            ],
+            [
                 "Sparking Arrow Gaming",
                 0
+            ],
+            [
+                "Team Magma",
+                1
             ],
             [
                 "phoenix gaming",
@@ -2624,8 +3248,20 @@
         "id": "Nyx Assassin Win Rate",
         "data": [
             [
+                "Elephant",
+                0.5
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
                 "Sparking Arrow Gaming",
                 0.0
+            ],
+            [
+                "Team Magma",
+                1.0
             ],
             [
                 "phoenix gaming",
@@ -2700,12 +3336,54 @@
         }
     },
     {
+        "name": "Phantom Assassin Matches Played",
+        "id": "Phantom Assassin Matches Played",
+        "data": [
+            [
+                "EHOME",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Matches Won",
+        "id": "Phantom Assassin Matches Won",
+        "data": [
+            [
+                "EHOME",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Phantom Assassin Win Rate",
+        "id": "Phantom Assassin Win Rate",
+        "data": [
+            [
+                "EHOME",
+                1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
         "name": "Phoenix Matches Played",
         "id": "Phoenix Matches Played",
         "data": [
             [
                 "Aster.Aries",
-                1
+                2
             ],
             [
                 "CDEC ",
@@ -2713,11 +3391,15 @@
             ],
             [
                 "EHOME",
-                2
+                4
+            ],
+            [
+                "Elephant",
+                3
             ],
             [
                 "Sparking Arrow Gaming",
-                2
+                4
             ],
             [
                 "phoenix gaming",
@@ -2742,6 +3424,10 @@
                 2
             ],
             [
+                "Elephant",
+                1
+            ],
+            [
                 "Sparking Arrow Gaming",
                 1
             ],
@@ -2757,7 +3443,7 @@
         "data": [
             [
                 "Aster.Aries",
-                1.0
+                0.5
             ],
             [
                 "CDEC ",
@@ -2765,11 +3451,15 @@
             ],
             [
                 "EHOME",
-                1.0
+                0.5
+            ],
+            [
+                "Elephant",
+                0.3333333333333333
             ],
             [
                 "Sparking Arrow Gaming",
-                0.5
+                0.25
             ],
             [
                 "phoenix gaming",
@@ -2798,8 +3488,16 @@
                 5
             ],
             [
+                "EHOME",
+                1
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
                 "Team Magma",
-                2
+                3
             ]
         ]
     },
@@ -2812,8 +3510,16 @@
                 4
             ],
             [
+                "EHOME",
+                0
+            ],
+            [
+                "Elephant",
+                0
+            ],
+            [
                 "Team Magma",
-                1
+                2
             ]
         ]
     },
@@ -2826,8 +3532,16 @@
                 0.8
             ],
             [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
                 "Team Magma",
-                0.5
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -2849,7 +3563,7 @@
         "data": [
             [
                 "EHOME",
-                1
+                2
             ],
             [
                 "Sparking Arrow Gaming",
@@ -2857,7 +3571,7 @@
             ],
             [
                 "Team Magma",
-                1
+                2
             ],
             [
                 "phoenix gaming",
@@ -2879,7 +3593,7 @@
             ],
             [
                 "Team Magma",
-                0
+                1
             ],
             [
                 "phoenix gaming",
@@ -2893,7 +3607,7 @@
         "data": [
             [
                 "EHOME",
-                1.0
+                0.5
             ],
             [
                 "Sparking Arrow Gaming",
@@ -2901,7 +3615,7 @@
             ],
             [
                 "Team Magma",
-                0.0
+                0.5
             ],
             [
                 "phoenix gaming",
@@ -2926,6 +3640,10 @@
         "id": "Rubick Matches Played",
         "data": [
             [
+                "EHOME",
+                1
+            ],
+            [
                 "phoenix gaming",
                 1
             ]
@@ -2936,6 +3654,10 @@
         "id": "Rubick Matches Won",
         "data": [
             [
+                "EHOME",
+                1
+            ],
+            [
                 "phoenix gaming",
                 1
             ]
@@ -2945,6 +3667,10 @@
         "name": "Rubick Win Rate",
         "id": "Rubick Win Rate",
         "data": [
+            [
+                "EHOME",
+                1.0
+            ],
             [
                 "phoenix gaming",
                 1.0
@@ -2968,6 +3694,14 @@
         "id": "Sand King Matches Played",
         "data": [
             [
+                "Elephant",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
                 "Sparking Arrow Gaming",
                 2
             ],
@@ -2986,6 +3720,14 @@
         "id": "Sand King Matches Won",
         "data": [
             [
+                "Elephant",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
                 "Sparking Arrow Gaming",
                 0
             ],
@@ -3003,6 +3745,14 @@
         "name": "Sand King Win Rate",
         "id": "Sand King Win Rate",
         "data": [
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
             [
                 "Sparking Arrow Gaming",
                 0.0
@@ -3036,6 +3786,10 @@
             [
                 "Aster.Aries",
                 2
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
             ]
         ]
     },
@@ -3046,6 +3800,10 @@
             [
                 "Aster.Aries",
                 2
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0
             ]
         ]
     },
@@ -3056,6 +3814,10 @@
             [
                 "Aster.Aries",
                 1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
             ]
         ],
         "type": "spline",
@@ -3216,6 +3978,10 @@
             [
                 "Sparking Arrow Gaming",
                 1
+            ],
+            [
+                "Team Magma",
+                1
             ]
         ]
     },
@@ -3238,6 +4004,10 @@
             [
                 "Sparking Arrow Gaming",
                 0
+            ],
+            [
+                "Team Magma",
+                0
             ]
         ]
     },
@@ -3259,6 +4029,10 @@
             ],
             [
                 "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "Team Magma",
                 0.0
             ]
         ],
@@ -3373,11 +4147,11 @@
             ],
             [
                 "EHOME",
-                2
+                4
             ],
             [
                 "Elephant",
-                1
+                2
             ],
             [
                 "LBZS",
@@ -3389,7 +4163,7 @@
             ],
             [
                 "Team Magma",
-                1
+                3
             ]
         ]
     },
@@ -3407,11 +4181,11 @@
             ],
             [
                 "EHOME",
-                2
+                3
             ],
             [
                 "Elephant",
-                1
+                2
             ],
             [
                 "LBZS",
@@ -3423,7 +4197,7 @@
             ],
             [
                 "Team Magma",
-                1
+                2
             ]
         ]
     },
@@ -3441,7 +4215,7 @@
             ],
             [
                 "EHOME",
-                1.0
+                0.75
             ],
             [
                 "Elephant",
@@ -3457,7 +4231,7 @@
             ],
             [
                 "Team Magma",
-                1.0
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -3482,7 +4256,27 @@
                 1
             ],
             [
+                "EHOME",
+                1
+            ],
+            [
+                "Elephant",
+                3
+            ],
+            [
                 "LBZS",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                2
+            ],
+            [
+                "Sparking Arrow Gaming",
+                1
+            ],
+            [
+                "Team Magma",
                 1
             ],
             [
@@ -3500,8 +4294,28 @@
                 0
             ],
             [
+                "EHOME",
+                0
+            ],
+            [
+                "Elephant",
+                3
+            ],
+            [
                 "LBZS",
                 0
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0
+            ],
+            [
+                "Team Magma",
+                1
             ],
             [
                 "phoenix gaming",
@@ -3518,8 +4332,28 @@
                 0.0
             ],
             [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
                 "LBZS",
                 0.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.5
+            ],
+            [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "Team Magma",
+                1.0
             ],
             [
                 "phoenix gaming",
@@ -3544,8 +4378,12 @@
         "id": "Tidehunter Matches Played",
         "data": [
             [
-                "Elephant",
+                "EHOME",
                 1
+            ],
+            [
+                "Elephant",
+                3
             ],
             [
                 "Royal Never Give Up",
@@ -3562,8 +4400,12 @@
         "id": "Tidehunter Matches Won",
         "data": [
             [
+                "EHOME",
+                0
+            ],
+            [
                 "Elephant",
-                1
+                2
             ],
             [
                 "Royal Never Give Up",
@@ -3580,8 +4422,12 @@
         "id": "Tidehunter Win Rate",
         "data": [
             [
+                "EHOME",
+                0.0
+            ],
+            [
                 "Elephant",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Royal Never Give Up",
@@ -3590,6 +4436,60 @@
             [
                 "phoenix gaming",
                 0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Timbersaw Matches Played",
+        "id": "Timbersaw Matches Played",
+        "data": [
+            [
+                "Aster.Aries",
+                1
+            ],
+            [
+                "Team Magma",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Matches Won",
+        "id": "Timbersaw Matches Won",
+        "data": [
+            [
+                "Aster.Aries",
+                0
+            ],
+            [
+                "Team Magma",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Timbersaw Win Rate",
+        "id": "Timbersaw Win Rate",
+        "data": [
+            [
+                "Aster.Aries",
+                0.0
+            ],
+            [
+                "Team Magma",
+                1.0
             ]
         ],
         "type": "spline",
@@ -3711,7 +4611,7 @@
             ],
             [
                 "Royal Never Give Up",
-                1
+                3
             ]
         ]
     },
@@ -3725,7 +4625,7 @@
             ],
             [
                 "Royal Never Give Up",
-                1
+                2
             ]
         ]
     },
@@ -3739,7 +4639,7 @@
             ],
             [
                 "Royal Never Give Up",
-                1.0
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -3761,7 +4661,7 @@
         "data": [
             [
                 "Aster.Aries",
-                1
+                2
             ],
             [
                 "CDEC ",
@@ -3769,7 +4669,7 @@
             ],
             [
                 "Team Magma",
-                1
+                2
             ]
         ]
     },
@@ -3797,7 +4697,7 @@
         "data": [
             [
                 "Aster.Aries",
-                1.0
+                0.5
             ],
             [
                 "CDEC ",
@@ -3805,7 +4705,7 @@
             ],
             [
                 "Team Magma",
-                1.0
+                0.5
             ]
         ],
         "type": "spline",
@@ -3946,12 +4846,20 @@
         "id": "Winter Wyvern Matches Played",
         "data": [
             [
+                "EHOME",
+                3
+            ],
+            [
                 "Elephant",
-                2
+                4
             ],
             [
                 "LBZS",
                 1
+            ],
+            [
+                "Royal Never Give Up",
+                2
             ]
         ]
     },
@@ -3960,12 +4868,20 @@
         "id": "Winter Wyvern Matches Won",
         "data": [
             [
+                "EHOME",
+                1
+            ],
+            [
                 "Elephant",
-                2
+                4
             ],
             [
                 "LBZS",
                 0
+            ],
+            [
+                "Royal Never Give Up",
+                1
             ]
         ]
     },
@@ -3974,12 +4890,20 @@
         "id": "Winter Wyvern Win Rate",
         "data": [
             [
+                "EHOME",
+                0.3333333333333333
+            ],
+            [
                 "Elephant",
                 1.0
             ],
             [
                 "LBZS",
                 0.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.5
             ]
         ],
         "type": "spline",
@@ -4001,7 +4925,7 @@
         "data": [
             [
                 "Elephant",
-                1
+                2
             ],
             [
                 "LBZS",
@@ -4023,7 +4947,7 @@
         "data": [
             [
                 "Elephant",
-                1
+                2
             ],
             [
                 "LBZS",
@@ -4057,6 +4981,48 @@
             ],
             [
                 "phoenix gaming",
+                0.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Zeus Matches Played",
+        "id": "Zeus Matches Played",
+        "data": [
+            [
+                "EHOME",
+                1
+            ]
+        ]
+    },
+    {
+        "name": "Zeus Matches Won",
+        "id": "Zeus Matches Won",
+        "data": [
+            [
+                "EHOME",
+                0
+            ]
+        ]
+    },
+    {
+        "name": "Zeus Win Rate",
+        "id": "Zeus Win Rate",
+        "data": [
+            [
+                "EHOME",
                 0.0
             ]
         ],

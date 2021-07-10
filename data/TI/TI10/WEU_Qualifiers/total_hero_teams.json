@@ -265,6 +265,14 @@
                 1
             ],
             [
+                "Axe",
+                1
+            ],
+            [
+                "Beastmaster",
+                2
+            ],
+            [
                 "Clockwerk",
                 1
             ],
@@ -286,7 +294,7 @@
             ],
             [
                 "Faceless Void",
-                2
+                5
             ],
             [
                 "Hoodwink",
@@ -294,14 +302,34 @@
             ],
             [
                 "Invoker",
+                3
+            ],
+            [
+                "Leshrac",
                 1
             ],
             [
                 "Lion",
-                1
+                2
             ],
             [
                 "Luna",
+                1
+            ],
+            [
+                "Magnus",
+                1
+            ],
+            [
+                "Medusa",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                1
+            ],
+            [
+                "Pangolier",
                 1
             ],
             [
@@ -310,7 +338,7 @@
             ],
             [
                 "Phoenix",
-                4
+                5
             ],
             [
                 "Puck",
@@ -322,15 +350,31 @@
             ],
             [
                 "Snapfire",
-                2
+                6
             ],
             [
                 "Spectre",
                 1
             ],
             [
+                "Techies",
+                1
+            ],
+            [
+                "Templar Assassin",
+                1
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
                 "Viper",
                 2
+            ],
+            [
+                "Winter Wyvern",
+                3
             ]
         ]
     },
@@ -343,6 +387,14 @@
                 1
             ],
             [
+                "Axe",
+                1
+            ],
+            [
+                "Beastmaster",
+                2
+            ],
+            [
                 "Clockwerk",
                 1
             ],
@@ -364,7 +416,7 @@
             ],
             [
                 "Faceless Void",
-                2
+                4
             ],
             [
                 "Hoodwink",
@@ -372,15 +424,35 @@
             ],
             [
                 "Invoker",
+                3
+            ],
+            [
+                "Leshrac",
                 1
             ],
             [
                 "Lion",
-                1
+                2
             ],
             [
                 "Luna",
                 1
+            ],
+            [
+                "Magnus",
+                0
+            ],
+            [
+                "Medusa",
+                0
+            ],
+            [
+                "Nyx Assassin",
+                0
+            ],
+            [
+                "Pangolier",
+                0
             ],
             [
                 "Phantom Assassin",
@@ -388,7 +460,7 @@
             ],
             [
                 "Phoenix",
-                4
+                5
             ],
             [
                 "Puck",
@@ -400,14 +472,30 @@
             ],
             [
                 "Snapfire",
-                2
+                4
             ],
             [
                 "Spectre",
                 1
             ],
             [
+                "Techies",
+                0
+            ],
+            [
+                "Templar Assassin",
+                0
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
                 "Viper",
+                2
+            ],
+            [
+                "Winter Wyvern",
                 2
             ]
         ]
@@ -421,6 +509,14 @@
                 1.0
             ],
             [
+                "Axe",
+                1.0
+            ],
+            [
+                "Beastmaster",
+                1.0
+            ],
+            [
                 "Clockwerk",
                 1.0
             ],
@@ -442,7 +538,7 @@
             ],
             [
                 "Faceless Void",
-                1.0
+                0.8
             ],
             [
                 "Hoodwink",
@@ -453,12 +549,32 @@
                 1.0
             ],
             [
+                "Leshrac",
+                1.0
+            ],
+            [
                 "Lion",
                 1.0
             ],
             [
                 "Luna",
                 1.0
+            ],
+            [
+                "Magnus",
+                0.0
+            ],
+            [
+                "Medusa",
+                0.0
+            ],
+            [
+                "Nyx Assassin",
+                0.0
+            ],
+            [
+                "Pangolier",
+                0.0
             ],
             [
                 "Phantom Assassin",
@@ -478,15 +594,31 @@
             ],
             [
                 "Snapfire",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Spectre",
                 1.0
             ],
             [
+                "Techies",
+                0.0
+            ],
+            [
+                "Templar Assassin",
+                0.0
+            ],
+            [
+                "Terrorblade",
+                1.0
+            ],
+            [
                 "Viper",
                 1.0
+            ],
+            [
+                "Winter Wyvern",
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -692,7 +824,7 @@
         "data": [
             [
                 "Abaddon",
-                1
+                2
             ],
             [
                 "Ancient Apparition",
@@ -711,6 +843,10 @@
                 1
             ],
             [
+                "Brewmaster",
+                1
+            ],
+            [
                 "Dragon Knight",
                 2
             ],
@@ -720,11 +856,11 @@
             ],
             [
                 "Gyrocopter",
-                1
+                2
             ],
             [
                 "Hoodwink",
-                4
+                5
             ],
             [
                 "Invoker",
@@ -757,6 +893,10 @@
             [
                 "Phoenix",
                 3
+            ],
+            [
+                "Puck",
+                1
             ],
             [
                 "Pugna",
@@ -805,6 +945,10 @@
                 1
             ],
             [
+                "Brewmaster",
+                0
+            ],
+            [
                 "Dragon Knight",
                 0
             ],
@@ -853,6 +997,10 @@
                 1
             ],
             [
+                "Puck",
+                0
+            ],
+            [
                 "Pugna",
                 0
             ],
@@ -880,7 +1028,7 @@
         "data": [
             [
                 "Abaddon",
-                1.0
+                0.5
             ],
             [
                 "Ancient Apparition",
@@ -899,6 +1047,10 @@
                 1.0
             ],
             [
+                "Brewmaster",
+                0.0
+            ],
+            [
                 "Dragon Knight",
                 0.0
             ],
@@ -908,11 +1060,11 @@
             ],
             [
                 "Gyrocopter",
-                1.0
+                0.5
             ],
             [
                 "Hoodwink",
-                0.25
+                0.2
             ],
             [
                 "Invoker",
@@ -945,6 +1097,10 @@
             [
                 "Phoenix",
                 0.3333333333333333
+            ],
+            [
+                "Puck",
+                0.0
             ],
             [
                 "Pugna",
@@ -1121,15 +1277,31 @@
         "id": "Into The Breach Matches Played",
         "data": [
             [
+                "Ancient Apparition",
+                1
+            ],
+            [
+                "Axe",
+                1
+            ],
+            [
                 "Broodmother",
                 1
             ],
             [
                 "Clockwerk",
-                3
+                4
             ],
             [
                 "Doom",
+                1
+            ],
+            [
+                "Dragon Knight",
+                1
+            ],
+            [
+                "Drow Ranger",
                 1
             ],
             [
@@ -1149,12 +1321,16 @@
                 2
             ],
             [
+                "Magnus",
+                1
+            ],
+            [
                 "Medusa",
                 1
             ],
             [
                 "Mirana",
-                1
+                2
             ],
             [
                 "Morphling",
@@ -1162,14 +1338,22 @@
             ],
             [
                 "Nyx Assassin",
-                1
+                2
             ],
             [
                 "Puck",
+                2
+            ],
+            [
+                "Shadow Demon",
                 1
             ],
             [
                 "Snapfire",
+                1
+            ],
+            [
+                "Spectre",
                 1
             ],
             [
@@ -1182,15 +1366,23 @@
             ],
             [
                 "Timbersaw",
-                2
+                3
             ],
             [
                 "Tusk",
-                1
+                2
             ],
             [
                 "Void Spirit",
                 2
+            ],
+            [
+                "Wraith King",
+                1
+            ],
+            [
+                "Zeus",
+                1
             ]
         ]
     },
@@ -1199,16 +1391,32 @@
         "id": "Into The Breach Matches Won",
         "data": [
             [
+                "Ancient Apparition",
+                0
+            ],
+            [
+                "Axe",
+                1
+            ],
+            [
                 "Broodmother",
                 1
             ],
             [
                 "Clockwerk",
-                2
+                3
             ],
             [
                 "Doom",
                 1
+            ],
+            [
+                "Dragon Knight",
+                0
+            ],
+            [
+                "Drow Ranger",
+                0
             ],
             [
                 "Ember Spirit",
@@ -1227,12 +1435,16 @@
                 2
             ],
             [
+                "Magnus",
+                0
+            ],
+            [
                 "Medusa",
                 1
             ],
             [
                 "Mirana",
-                1
+                2
             ],
             [
                 "Morphling",
@@ -1247,7 +1459,15 @@
                 1
             ],
             [
+                "Shadow Demon",
+                0
+            ],
+            [
                 "Snapfire",
+                1
+            ],
+            [
+                "Spectre",
                 1
             ],
             [
@@ -1269,6 +1489,14 @@
             [
                 "Void Spirit",
                 1
+            ],
+            [
+                "Wraith King",
+                0
+            ],
+            [
+                "Zeus",
+                1
             ]
         ]
     },
@@ -1277,16 +1505,32 @@
         "id": "Into The Breach Win Rate",
         "data": [
             [
+                "Ancient Apparition",
+                0.0
+            ],
+            [
+                "Axe",
+                1.0
+            ],
+            [
                 "Broodmother",
                 1.0
             ],
             [
                 "Clockwerk",
-                0.6666666666666666
+                0.75
             ],
             [
                 "Doom",
                 1.0
+            ],
+            [
+                "Dragon Knight",
+                0.0
+            ],
+            [
+                "Drow Ranger",
+                0.0
             ],
             [
                 "Ember Spirit",
@@ -1303,6 +1547,10 @@
             [
                 "Luna",
                 1.0
+            ],
+            [
+                "Magnus",
+                0.0
             ],
             [
                 "Medusa",
@@ -1318,14 +1566,22 @@
             ],
             [
                 "Nyx Assassin",
-                1.0
+                0.5
             ],
             [
                 "Puck",
-                1.0
+                0.5
+            ],
+            [
+                "Shadow Demon",
+                0.0
             ],
             [
                 "Snapfire",
+                1.0
+            ],
+            [
+                "Spectre",
                 1.0
             ],
             [
@@ -1338,15 +1594,23 @@
             ],
             [
                 "Timbersaw",
-                0.5
+                0.3333333333333333
             ],
             [
                 "Tusk",
-                1.0
+                0.5
             ],
             [
                 "Void Spirit",
                 0.5
+            ],
+            [
+                "Wraith King",
+                0.0
+            ],
+            [
+                "Zeus",
+                1.0
             ]
         ],
         "type": "spline",
@@ -1366,48 +1630,132 @@
         "id": "Nigma Matches Played",
         "data": [
             [
+                "Alchemist",
+                1
+            ],
+            [
+                "Centaur Warrunner",
+                2
+            ],
+            [
+                "Dark Willow",
+                1
+            ],
+            [
                 "Drow Ranger",
                 1
             ],
             [
-                "Ember Spirit",
+                "Elder Titan",
                 1
             ],
             [
+                "Ember Spirit",
+                2
+            ],
+            [
                 "Enchantress",
-                1
+                2
             ],
             [
                 "Gyrocopter",
                 1
             ],
             [
+                "Hoodwink",
+                3
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
                 "Io",
+                4
+            ],
+            [
+                "Lifestealer",
+                1
+            ],
+            [
+                "Lina",
+                3
+            ],
+            [
+                "Lion",
+                2
+            ],
+            [
+                "Luna",
+                5
+            ],
+            [
+                "Mars",
+                5
+            ],
+            [
+                "Nature's Prophet",
                 1
             ],
             [
                 "Nyx Assassin",
-                2
+                3
+            ],
+            [
+                "Phantom Assassin",
+                1
             ],
             [
                 "Phoenix",
-                2
+                4
+            ],
+            [
+                "Razor",
+                1
+            ],
+            [
+                "Slardar",
+                1
+            ],
+            [
+                "Storm Spirit",
+                1
             ],
             [
                 "Templar Assassin",
-                2
+                4
             ],
             [
                 "Terrorblade",
-                1
+                4
             ],
             [
                 "Tidehunter",
-                1
+                2
             ],
             [
                 "Timbersaw",
-                2
+                4
+            ],
+            [
+                "Tiny",
+                1
+            ],
+            [
+                "Tusk",
+                3
+            ],
+            [
+                "Vengeful Spirit",
+                3
+            ],
+            [
+                "Windranger",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                1
             ]
         ]
     },
@@ -1416,7 +1764,23 @@
         "id": "Nigma Matches Won",
         "data": [
             [
+                "Alchemist",
+                0
+            ],
+            [
+                "Centaur Warrunner",
+                2
+            ],
+            [
+                "Dark Willow",
+                0
+            ],
+            [
                 "Drow Ranger",
+                1
+            ],
+            [
+                "Elder Titan",
                 1
             ],
             [
@@ -1432,7 +1796,39 @@
                 0
             ],
             [
+                "Hoodwink",
+                2
+            ],
+            [
+                "Invoker",
+                1
+            ],
+            [
                 "Io",
+                3
+            ],
+            [
+                "Lifestealer",
+                0
+            ],
+            [
+                "Lina",
+                1
+            ],
+            [
+                "Lion",
+                1
+            ],
+            [
+                "Luna",
+                4
+            ],
+            [
+                "Mars",
+                3
+            ],
+            [
+                "Nature's Prophet",
                 0
             ],
             [
@@ -1440,16 +1836,32 @@
                 2
             ],
             [
+                "Phantom Assassin",
+                0
+            ],
+            [
                 "Phoenix",
+                2
+            ],
+            [
+                "Razor",
+                0
+            ],
+            [
+                "Slardar",
+                1
+            ],
+            [
+                "Storm Spirit",
                 1
             ],
             [
                 "Templar Assassin",
-                1
+                2
             ],
             [
                 "Terrorblade",
-                1
+                3
             ],
             [
                 "Tidehunter",
@@ -1458,6 +1870,26 @@
             [
                 "Timbersaw",
                 2
+            ],
+            [
+                "Tiny",
+                1
+            ],
+            [
+                "Tusk",
+                2
+            ],
+            [
+                "Vengeful Spirit",
+                2
+            ],
+            [
+                "Windranger",
+                1
+            ],
+            [
+                "Winter Wyvern",
+                0
             ]
         ]
     },
@@ -1466,32 +1898,96 @@
         "id": "Nigma Win Rate",
         "data": [
             [
+                "Alchemist",
+                0.0
+            ],
+            [
+                "Centaur Warrunner",
+                1.0
+            ],
+            [
+                "Dark Willow",
+                0.0
+            ],
+            [
                 "Drow Ranger",
                 1.0
             ],
             [
-                "Ember Spirit",
+                "Elder Titan",
                 1.0
             ],
             [
+                "Ember Spirit",
+                0.5
+            ],
+            [
                 "Enchantress",
-                1.0
+                0.5
             ],
             [
                 "Gyrocopter",
                 0.0
             ],
             [
+                "Hoodwink",
+                0.6666666666666666
+            ],
+            [
+                "Invoker",
+                1.0
+            ],
+            [
                 "Io",
+                0.75
+            ],
+            [
+                "Lifestealer",
+                0.0
+            ],
+            [
+                "Lina",
+                0.3333333333333333
+            ],
+            [
+                "Lion",
+                0.5
+            ],
+            [
+                "Luna",
+                0.8
+            ],
+            [
+                "Mars",
+                0.6
+            ],
+            [
+                "Nature's Prophet",
                 0.0
             ],
             [
                 "Nyx Assassin",
-                1.0
+                0.6666666666666666
+            ],
+            [
+                "Phantom Assassin",
+                0.0
             ],
             [
                 "Phoenix",
                 0.5
+            ],
+            [
+                "Razor",
+                0.0
+            ],
+            [
+                "Slardar",
+                1.0
+            ],
+            [
+                "Storm Spirit",
+                1.0
             ],
             [
                 "Templar Assassin",
@@ -1499,7 +1995,7 @@
             ],
             [
                 "Terrorblade",
-                1.0
+                0.75
             ],
             [
                 "Tidehunter",
@@ -1507,7 +2003,27 @@
             ],
             [
                 "Timbersaw",
+                0.5
+            ],
+            [
+                "Tiny",
                 1.0
+            ],
+            [
+                "Tusk",
+                0.6666666666666666
+            ],
+            [
+                "Vengeful Spirit",
+                0.6666666666666666
+            ],
+            [
+                "Windranger",
+                1.0
+            ],
+            [
+                "Winter Wyvern",
+                0.0
             ]
         ],
         "type": "spline",
@@ -1677,50 +2193,170 @@
         "data": [
             [
                 "Alchemist",
+                3
+            ],
+            [
+                "Ancient Apparition",
+                1
+            ],
+            [
+                "Arc Warden",
+                1
+            ],
+            [
+                "Axe",
                 2
             ],
             [
-                "Clockwerk",
+                "Beastmaster",
                 1
             ],
             [
-                "Drow Ranger",
+                "Bristleback",
                 1
+            ],
+            [
+                "Centaur Warrunner",
+                1
+            ],
+            [
+                "Chaos Knight",
+                1
+            ],
+            [
+                "Chen",
+                3
+            ],
+            [
+                "Clockwerk",
+                2
+            ],
+            [
+                "Dark Seer",
+                2
+            ],
+            [
+                "Dark Willow",
+                3
+            ],
+            [
+                "Disruptor",
+                2
+            ],
+            [
+                "Drow Ranger",
+                3
             ],
             [
                 "Earth Spirit",
                 1
             ],
             [
-                "Leshrac",
+                "Gyrocopter",
                 1
             ],
             [
-                "Lina",
+                "Hoodwink",
+                4
+            ],
+            [
+                "Invoker",
                 2
             ],
             [
-                "Lion",
+                "Io",
                 1
             ],
             [
-                "Magnus",
+                "Keeper of the Light",
                 1
+            ],
+            [
+                "Leshrac",
+                3
+            ],
+            [
+                "Lina",
+                3
+            ],
+            [
+                "Lion",
+                4
+            ],
+            [
+                "Magnus",
+                4
             ],
             [
                 "Medusa",
                 1
             ],
             [
-                "Oracle",
-                2
-            ],
-            [
-                "Puck",
+                "Mirana",
                 1
             ],
             [
+                "Morphling",
+                1
+            ],
+            [
+                "Naga Siren",
+                3
+            ],
+            [
+                "Nyx Assassin",
+                2
+            ],
+            [
+                "Oracle",
+                3
+            ],
+            [
+                "Pangolier",
+                3
+            ],
+            [
+                "Puck",
+                2
+            ],
+            [
                 "Razor",
+                3
+            ],
+            [
+                "Sand King",
+                1
+            ],
+            [
+                "Shadow Demon",
+                1
+            ],
+            [
+                "Templar Assassin",
+                2
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
+                "Tidehunter",
+                1
+            ],
+            [
+                "Timbersaw",
+                2
+            ],
+            [
+                "Void Spirit",
+                1
+            ],
+            [
+                "Windranger",
+                1
+            ],
+            [
+                "Zeus",
                 1
             ]
         ]
@@ -1734,20 +2370,84 @@
                 2
             ],
             [
+                "Ancient Apparition",
+                0
+            ],
+            [
+                "Arc Warden",
+                0
+            ],
+            [
+                "Axe",
+                2
+            ],
+            [
+                "Beastmaster",
+                1
+            ],
+            [
+                "Bristleback",
+                0
+            ],
+            [
+                "Centaur Warrunner",
+                1
+            ],
+            [
+                "Chaos Knight",
+                0
+            ],
+            [
+                "Chen",
+                2
+            ],
+            [
                 "Clockwerk",
                 1
             ],
             [
-                "Drow Ranger",
+                "Dark Seer",
                 1
+            ],
+            [
+                "Dark Willow",
+                2
+            ],
+            [
+                "Disruptor",
+                1
+            ],
+            [
+                "Drow Ranger",
+                2
             ],
             [
                 "Earth Spirit",
                 0
             ],
             [
-                "Leshrac",
+                "Gyrocopter",
+                1
+            ],
+            [
+                "Hoodwink",
+                3
+            ],
+            [
+                "Invoker",
+                2
+            ],
+            [
+                "Io",
+                1
+            ],
+            [
+                "Keeper of the Light",
                 0
+            ],
+            [
+                "Leshrac",
+                1
             ],
             [
                 "Lina",
@@ -1755,19 +2455,39 @@
             ],
             [
                 "Lion",
-                1
+                2
             ],
             [
                 "Magnus",
-                0
+                1
             ],
             [
                 "Medusa",
                 1
             ],
             [
+                "Mirana",
+                0
+            ],
+            [
+                "Morphling",
+                0
+            ],
+            [
+                "Naga Siren",
+                1
+            ],
+            [
+                "Nyx Assassin",
+                2
+            ],
+            [
                 "Oracle",
                 1
+            ],
+            [
+                "Pangolier",
+                3
             ],
             [
                 "Puck",
@@ -1775,7 +2495,43 @@
             ],
             [
                 "Razor",
+                2
+            ],
+            [
+                "Sand King",
                 1
+            ],
+            [
+                "Shadow Demon",
+                1
+            ],
+            [
+                "Templar Assassin",
+                2
+            ],
+            [
+                "Terrorblade",
+                1
+            ],
+            [
+                "Tidehunter",
+                0
+            ],
+            [
+                "Timbersaw",
+                1
+            ],
+            [
+                "Void Spirit",
+                0
+            ],
+            [
+                "Windranger",
+                1
+            ],
+            [
+                "Zeus",
+                0
             ]
         ]
     },
@@ -1785,51 +2541,171 @@
         "data": [
             [
                 "Alchemist",
+                0.6666666666666666
+            ],
+            [
+                "Ancient Apparition",
+                0.0
+            ],
+            [
+                "Arc Warden",
+                0.0
+            ],
+            [
+                "Axe",
                 1.0
+            ],
+            [
+                "Beastmaster",
+                1.0
+            ],
+            [
+                "Bristleback",
+                0.0
+            ],
+            [
+                "Centaur Warrunner",
+                1.0
+            ],
+            [
+                "Chaos Knight",
+                0.0
+            ],
+            [
+                "Chen",
+                0.6666666666666666
             ],
             [
                 "Clockwerk",
-                1.0
+                0.5
+            ],
+            [
+                "Dark Seer",
+                0.5
+            ],
+            [
+                "Dark Willow",
+                0.6666666666666666
+            ],
+            [
+                "Disruptor",
+                0.5
             ],
             [
                 "Drow Ranger",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Earth Spirit",
                 0.0
             ],
             [
-                "Leshrac",
-                0.0
-            ],
-            [
-                "Lina",
-                0.5
-            ],
-            [
-                "Lion",
+                "Gyrocopter",
                 1.0
             ],
             [
-                "Magnus",
+                "Hoodwink",
+                0.75
+            ],
+            [
+                "Invoker",
+                1.0
+            ],
+            [
+                "Io",
+                1.0
+            ],
+            [
+                "Keeper of the Light",
                 0.0
+            ],
+            [
+                "Leshrac",
+                0.3333333333333333
+            ],
+            [
+                "Lina",
+                0.3333333333333333
+            ],
+            [
+                "Lion",
+                0.5
+            ],
+            [
+                "Magnus",
+                0.25
             ],
             [
                 "Medusa",
                 1.0
             ],
             [
+                "Mirana",
+                0.0
+            ],
+            [
+                "Morphling",
+                0.0
+            ],
+            [
+                "Naga Siren",
+                0.3333333333333333
+            ],
+            [
+                "Nyx Assassin",
+                1.0
+            ],
+            [
                 "Oracle",
-                0.5
+                0.3333333333333333
+            ],
+            [
+                "Pangolier",
+                1.0
             ],
             [
                 "Puck",
-                1.0
+                0.5
             ],
             [
                 "Razor",
+                0.6666666666666666
+            ],
+            [
+                "Sand King",
                 1.0
+            ],
+            [
+                "Shadow Demon",
+                1.0
+            ],
+            [
+                "Templar Assassin",
+                1.0
+            ],
+            [
+                "Terrorblade",
+                1.0
+            ],
+            [
+                "Tidehunter",
+                0.0
+            ],
+            [
+                "Timbersaw",
+                0.5
+            ],
+            [
+                "Void Spirit",
+                0.0
+            ],
+            [
+                "Windranger",
+                1.0
+            ],
+            [
+                "Zeus",
+                0.0
             ]
         ],
         "type": "spline",
@@ -1849,20 +2725,32 @@
         "id": "Spider Pigzs Matches Played",
         "data": [
             [
+                "Dark Seer",
+                1
+            ],
+            [
                 "Enchantress",
+                2
+            ],
+            [
+                "Grimstroke",
+                2
+            ],
+            [
+                "Gyrocopter",
                 1
             ],
             [
                 "Hoodwink",
-                2
+                4
             ],
             [
                 "Invoker",
-                2
+                3
             ],
             [
                 "Jakiro",
-                1
+                2
             ],
             [
                 "Juggernaut",
@@ -1870,6 +2758,10 @@
             ],
             [
                 "Keeper of the Light",
+                2
+            ],
+            [
+                "Lina",
                 1
             ],
             [
@@ -1878,14 +2770,22 @@
             ],
             [
                 "Luna",
-                3
+                4
+            ],
+            [
+                "Magnus",
+                1
             ],
             [
                 "Mars",
-                2
+                3
             ],
             [
                 "Mirana",
+                1
+            ],
+            [
+                "Monkey King",
                 1
             ],
             [
@@ -1893,24 +2793,32 @@
                 1
             ],
             [
-                "Pangolier",
+                "Nyx Assassin",
                 2
+            ],
+            [
+                "Pangolier",
+                3
             ],
             [
                 "Phantom Assassin",
                 1
             ],
             [
-                "Snapfire",
+                "Sand King",
                 1
+            ],
+            [
+                "Snapfire",
+                3
             ],
             [
                 "Terrorblade",
-                1
+                3
             ],
             [
                 "Timbersaw",
-                1
+                2
             ],
             [
                 "Treant Protector",
@@ -1922,6 +2830,10 @@
             ],
             [
                 "Void Spirit",
+                1
+            ],
+            [
+                "Winter Wyvern",
                 1
             ],
             [
@@ -1935,20 +2847,32 @@
         "id": "Spider Pigzs Matches Won",
         "data": [
             [
+                "Dark Seer",
+                0
+            ],
+            [
                 "Enchantress",
                 1
             ],
             [
-                "Hoodwink",
+                "Grimstroke",
                 1
             ],
             [
-                "Invoker",
+                "Gyrocopter",
+                0
+            ],
+            [
+                "Hoodwink",
                 2
             ],
             [
+                "Invoker",
+                3
+            ],
+            [
                 "Jakiro",
-                1
+                2
             ],
             [
                 "Juggernaut",
@@ -1959,12 +2883,20 @@
                 0
             ],
             [
+                "Lina",
+                1
+            ],
+            [
                 "Lion",
                 2
             ],
             [
                 "Luna",
                 2
+            ],
+            [
+                "Magnus",
+                1
             ],
             [
                 "Mars",
@@ -1975,7 +2907,15 @@
                 1
             ],
             [
+                "Monkey King",
+                1
+            ],
+            [
                 "Night Stalker",
+                1
+            ],
+            [
+                "Nyx Assassin",
                 1
             ],
             [
@@ -1987,16 +2927,20 @@
                 1
             ],
             [
+                "Sand King",
+                0
+            ],
+            [
                 "Snapfire",
                 0
             ],
             [
                 "Terrorblade",
-                0
+                1
             ],
             [
                 "Timbersaw",
-                1
+                2
             ],
             [
                 "Treant Protector",
@@ -2008,6 +2952,10 @@
             ],
             [
                 "Void Spirit",
+                0
+            ],
+            [
+                "Winter Wyvern",
                 0
             ],
             [
@@ -2021,8 +2969,20 @@
         "id": "Spider Pigzs Win Rate",
         "data": [
             [
+                "Dark Seer",
+                0.0
+            ],
+            [
                 "Enchantress",
-                1.0
+                0.5
+            ],
+            [
+                "Grimstroke",
+                0.5
+            ],
+            [
+                "Gyrocopter",
+                0.0
             ],
             [
                 "Hoodwink",
@@ -2045,24 +3005,40 @@
                 0.0
             ],
             [
+                "Lina",
+                1.0
+            ],
+            [
                 "Lion",
                 0.6666666666666666
             ],
             [
                 "Luna",
-                0.6666666666666666
+                0.5
+            ],
+            [
+                "Magnus",
+                1.0
             ],
             [
                 "Mars",
-                0.5
+                0.3333333333333333
             ],
             [
                 "Mirana",
                 1.0
             ],
             [
+                "Monkey King",
+                1.0
+            ],
+            [
                 "Night Stalker",
                 1.0
+            ],
+            [
+                "Nyx Assassin",
+                0.5
             ],
             [
                 "Pangolier",
@@ -2073,12 +3049,16 @@
                 1.0
             ],
             [
+                "Sand King",
+                0.0
+            ],
+            [
                 "Snapfire",
                 0.0
             ],
             [
                 "Terrorblade",
-                0.0
+                0.3333333333333333
             ],
             [
                 "Timbersaw",
@@ -2094,6 +3074,10 @@
             ],
             [
                 "Void Spirit",
+                0.0
+            ],
+            [
+                "Winter Wyvern",
                 0.0
             ],
             [
@@ -2316,10 +3300,30 @@
         "data": [
             [
                 "Ancient Apparition",
+                2
+            ],
+            [
+                "Axe",
+                2
+            ],
+            [
+                "Broodmother",
+                1
+            ],
+            [
+                "Chaos Knight",
+                1
+            ],
+            [
+                "Drow Ranger",
                 1
             ],
             [
                 "Enchantress",
+                2
+            ],
+            [
+                "Enigma",
                 1
             ],
             [
@@ -2327,28 +3331,64 @@
                 1
             ],
             [
-                "Keeper of the Light",
+                "Hoodwink",
                 1
+            ],
+            [
+                "Io",
+                2
+            ],
+            [
+                "Keeper of the Light",
+                3
+            ],
+            [
+                "Leshrac",
+                2
+            ],
+            [
+                "Lina",
+                4
             ],
             [
                 "Lone Druid",
-                1
+                2
+            ],
+            [
+                "Luna",
+                3
             ],
             [
                 "Mars",
+                2
+            ],
+            [
+                "Mirana",
                 1
             ],
             [
                 "Monkey King",
+                3
+            ],
+            [
+                "Nyx Assassin",
+                1
+            ],
+            [
+                "Oracle",
+                2
+            ],
+            [
+                "Pangolier",
                 1
             ],
             [
                 "Phoenix",
-                1
+                2
             ],
             [
                 "Razor",
-                1
+                2
             ],
             [
                 "Rubick",
@@ -2356,19 +3396,47 @@
             ],
             [
                 "Sand King",
-                1
+                2
             ],
             [
                 "Slardar",
-                1
+                4
+            ],
+            [
+                "Slark",
+                2
             ],
             [
                 "Snapfire",
                 1
             ],
             [
+                "Storm Spirit",
+                1
+            ],
+            [
+                "Templar Assassin",
+                1
+            ],
+            [
                 "Terrorblade",
                 2
+            ],
+            [
+                "Timbersaw",
+                1
+            ],
+            [
+                "Tiny",
+                1
+            ],
+            [
+                "Viper",
+                1
+            ],
+            [
+                "Warlock",
+                1
             ]
         ]
     },
@@ -2378,6 +3446,22 @@
         "data": [
             [
                 "Ancient Apparition",
+                2
+            ],
+            [
+                "Axe",
+                2
+            ],
+            [
+                "Broodmother",
+                0
+            ],
+            [
+                "Chaos Knight",
+                0
+            ],
+            [
+                "Drow Ranger",
                 1
             ],
             [
@@ -2385,23 +3469,63 @@
                 0
             ],
             [
+                "Enigma",
+                0
+            ],
+            [
                 "Faceless Void",
                 1
             ],
             [
+                "Hoodwink",
+                0
+            ],
+            [
+                "Io",
+                0
+            ],
+            [
                 "Keeper of the Light",
+                2
+            ],
+            [
+                "Leshrac",
+                1
+            ],
+            [
+                "Lina",
                 1
             ],
             [
                 "Lone Druid",
-                1
+                2
+            ],
+            [
+                "Luna",
+                2
             ],
             [
                 "Mars",
                 1
             ],
             [
+                "Mirana",
+                1
+            ],
+            [
                 "Monkey King",
+                0
+            ],
+            [
+                "Nyx Assassin",
+                1
+            ],
+            [
+                "Oracle",
+                0
+            ],
+            [
+                "Pangolier",
                 0
             ],
             [
@@ -2422,15 +3546,43 @@
             ],
             [
                 "Slardar",
-                1
+                2
+            ],
+            [
+                "Slark",
+                0
             ],
             [
                 "Snapfire",
                 1
             ],
             [
+                "Storm Spirit",
+                0
+            ],
+            [
+                "Templar Assassin",
+                0
+            ],
+            [
                 "Terrorblade",
                 1
+            ],
+            [
+                "Timbersaw",
+                0
+            ],
+            [
+                "Tiny",
+                1
+            ],
+            [
+                "Viper",
+                1
+            ],
+            [
+                "Warlock",
+                0
             ]
         ]
     },
@@ -2443,7 +3595,27 @@
                 1.0
             ],
             [
+                "Axe",
+                1.0
+            ],
+            [
+                "Broodmother",
+                0.0
+            ],
+            [
+                "Chaos Knight",
+                0.0
+            ],
+            [
+                "Drow Ranger",
+                1.0
+            ],
+            [
                 "Enchantress",
+                0.0
+            ],
+            [
+                "Enigma",
                 0.0
             ],
             [
@@ -2451,15 +3623,39 @@
                 1.0
             ],
             [
+                "Hoodwink",
+                0.0
+            ],
+            [
+                "Io",
+                0.0
+            ],
+            [
                 "Keeper of the Light",
-                1.0
+                0.6666666666666666
+            ],
+            [
+                "Leshrac",
+                0.5
+            ],
+            [
+                "Lina",
+                0.25
             ],
             [
                 "Lone Druid",
                 1.0
             ],
             [
+                "Luna",
+                0.6666666666666666
+            ],
+            [
                 "Mars",
+                0.5
+            ],
+            [
+                "Mirana",
                 1.0
             ],
             [
@@ -2467,12 +3663,24 @@
                 0.0
             ],
             [
-                "Phoenix",
+                "Nyx Assassin",
                 1.0
             ],
             [
+                "Oracle",
+                0.0
+            ],
+            [
+                "Pangolier",
+                0.0
+            ],
+            [
+                "Phoenix",
+                0.5
+            ],
+            [
                 "Razor",
-                1.0
+                0.5
             ],
             [
                 "Rubick",
@@ -2484,15 +3692,43 @@
             ],
             [
                 "Slardar",
-                1.0
+                0.5
+            ],
+            [
+                "Slark",
+                0.0
             ],
             [
                 "Snapfire",
                 1.0
             ],
             [
+                "Storm Spirit",
+                0.0
+            ],
+            [
+                "Templar Assassin",
+                0.0
+            ],
+            [
                 "Terrorblade",
                 0.5
+            ],
+            [
+                "Timbersaw",
+                0.0
+            ],
+            [
+                "Tiny",
+                1.0
+            ],
+            [
+                "Viper",
+                1.0
+            ],
+            [
+                "Warlock",
+                0.0
             ]
         ],
         "type": "spline",
@@ -2513,14 +3749,30 @@
         "data": [
             [
                 "Abaddon",
-                2
+                7
             ],
             [
-                "Batrider",
+                "Anti-Mage",
                 1
             ],
             [
+                "Batrider",
+                2
+            ],
+            [
+                "Brewmaster",
+                2
+            ],
+            [
+                "Broodmother",
+                2
+            ],
+            [
                 "Clockwerk",
+                1
+            ],
+            [
+                "Enchantress",
                 1
             ],
             [
@@ -2528,15 +3780,43 @@
                 1
             ],
             [
-                "Luna",
+                "Keeper of the Light",
                 1
             ],
             [
+                "Lina",
+                3
+            ],
+            [
+                "Luna",
+                4
+            ],
+            [
                 "Mirana",
+                8
+            ],
+            [
+                "Nyx Assassin",
+                4
+            ],
+            [
+                "Razor",
+                1
+            ],
+            [
+                "Sand King",
                 1
             ],
             [
                 "Terrorblade",
+                5
+            ],
+            [
+                "Tidehunter",
+                4
+            ],
+            [
+                "Ursa",
                 1
             ],
             [
@@ -2545,7 +3825,11 @@
             ],
             [
                 "Void Spirit",
-                1
+                2
+            ],
+            [
+                "Winter Wyvern",
+                3
             ]
         ]
     },
@@ -2555,31 +3839,75 @@
         "data": [
             [
                 "Abaddon",
-                2
+                6
+            ],
+            [
+                "Anti-Mage",
+                0
             ],
             [
                 "Batrider",
+                2
+            ],
+            [
+                "Brewmaster",
                 1
+            ],
+            [
+                "Broodmother",
+                2
             ],
             [
                 "Clockwerk",
                 1
             ],
             [
+                "Enchantress",
+                0
+            ],
+            [
                 "Invoker",
                 1
             ],
             [
-                "Luna",
+                "Keeper of the Light",
                 1
             ],
             [
+                "Lina",
+                2
+            ],
+            [
+                "Luna",
+                3
+            ],
+            [
                 "Mirana",
+                5
+            ],
+            [
+                "Nyx Assassin",
+                3
+            ],
+            [
+                "Razor",
+                1
+            ],
+            [
+                "Sand King",
                 1
             ],
             [
                 "Terrorblade",
-                1
+                5
+            ],
+            [
+                "Tidehunter",
+                2
+            ],
+            [
+                "Ursa",
+                0
             ],
             [
                 "Viper",
@@ -2588,6 +3916,10 @@
             [
                 "Void Spirit",
                 1
+            ],
+            [
+                "Winter Wyvern",
+                2
             ]
         ]
     },
@@ -2597,10 +3929,22 @@
         "data": [
             [
                 "Abaddon",
-                1.0
+                0.8571428571428571
+            ],
+            [
+                "Anti-Mage",
+                0.0
             ],
             [
                 "Batrider",
+                1.0
+            ],
+            [
+                "Brewmaster",
+                0.5
+            ],
+            [
+                "Broodmother",
                 1.0
             ],
             [
@@ -2608,15 +3952,39 @@
                 1.0
             ],
             [
+                "Enchantress",
+                0.0
+            ],
+            [
                 "Invoker",
                 1.0
             ],
             [
-                "Luna",
+                "Keeper of the Light",
                 1.0
             ],
             [
+                "Lina",
+                0.6666666666666666
+            ],
+            [
+                "Luna",
+                0.75
+            ],
+            [
                 "Mirana",
+                0.625
+            ],
+            [
+                "Nyx Assassin",
+                0.75
+            ],
+            [
+                "Razor",
+                1.0
+            ],
+            [
+                "Sand King",
                 1.0
             ],
             [
@@ -2624,12 +3992,24 @@
                 1.0
             ],
             [
+                "Tidehunter",
+                0.5
+            ],
+            [
+                "Ursa",
+                0.0
+            ],
+            [
                 "Viper",
                 1.0
             ],
             [
                 "Void Spirit",
-                1.0
+                0.5
+            ],
+            [
+                "Winter Wyvern",
+                0.6666666666666666
             ]
         ],
         "type": "spline",
