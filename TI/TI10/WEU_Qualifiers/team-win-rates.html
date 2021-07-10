@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/drilldown.js"></script>
+    </head>
+    <body style="margin:0;padding:0;height:100vh">
+        <div id="container" style="width:100%;height:100%">Loading....</div>
+        <script>
+            var loc = window.location.pathname.split('/').slice(-2)[0];
+            var teamMatchesPlayedLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/TI/TI10/' + loc + '/team_matches_played.json';
+            var teamMatchesWonLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/TI/TI10/' + loc + '/team_matches_won.json';
+            var teamWinRatesLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/TI/TI10/' + loc + '/team_win_rates.json';
+            var totalHeroTeamsLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/TI/TI10/' + loc + '/total_hero_teams.json';
+
+            function createHighchart(data1, data2, data3, data4) {
+                var teamMatchesPlayed = data1[0];
+                var teamMatchesWon = data2[0];
+                var teamWinRates = data3[0];
+                var totalHeroTeams = data4[0];
+
+                Highcharts.chart('container', {
+                    'chart': {
+                        'type': 'column'
+                    },
+                    'title': {
+                        'text': '<b>TI10 WEU Qualifiers</b></br>Team Win Rates'
+                    },
+                    'subtitle': {
+                        'text': 'Click on the bars or team names to drill down to hero stats. Source: opendota.com'
+                    },
+                    'legend': {
+                        'verticalAlign': 'top'
+                    },
+                    'plotOptions': {
+                        'series': {
+                            'grouping': false
+                        },
+                        'spline': {
+                            'zones': [
+                                {
+                                'value': 0.25, 
+                                'color': '#f56969'
+                                }, 
+                                {
+                                'value': 0.5, 
+                                'color': '#d8db53'
+                                }, 
+                                {'value': 0.9, 
+                                 'color': '#1ac73d'
+                                }, 
+                                {'value': 1.01, 
+                                 'color': '#1a48c7'
+                                }
+                            ]
+                        }
+                    },
+                    'tooltip': {
+                        'shared': true,
+                        'pointFormatter': function() {
+                            var value;
+                            if (this.series.name.includes("Win Rate")) {
+                                value = this.y*100;
+                                value = value.toFixed(2) + '%'
+                            } else {
+                                value = this.y.toLocaleString(undefined, {'minimumFractionDigits':0, 'maximumFractionDigits':0});
+                            }
+                            if (typeof this.zone.color != "undefined") {
+                                return '<span style="color:' + this.zone.color + '">' + this.series.name + '</span>: <b>' + value + '</b><br />';
+                            } else {
+                                return '<span style="color:' + this.series.color + '">' + this.series.name + '</span>: <b>' + value + '</b><br />';
+                            }
+                        },
+                        'headerFormat': '<b>{point.key}</b><br>'
+                    },
+                    'xAxis': {
+                        'type': 'category',
+                        'title': {
+                            'text': 'Team'
+                        }
+                    },
+                    'yAxis': [
+                        { // Primary Axis
+                            'min': 0,
+                            'title': {
+                                'text': 'Number of Matches'
+                            },
+                        },
+                        { // Secondary Axis
+                            'min': 0,
+                            'max': 1.0,
+                            'title': {
+                                'text': 'Win Rate'
+                            },
+                            'startOnTick': false,
+                            'endOnTick': false,
+                            'gridLineColor': 'transparent',
+                            'opposite': true,
+                            'labels': {
+                                'formatter': function () {
+                                    var value = Math.trunc(this.value*100);
+                                    return value + '%';
+                                }
+                            }
+                        }
+                    ],
+                    'series': [
+                        {
+                            'type': 'column',
+                            'name': 'Matches Played',
+                            'color': 'rgba(0, 156, 173, 0.45)',
+                            'data': teamMatchesPlayed
+                        },
+                        {
+                            'type': 'column',
+                            'name': 'Matches Won',
+                            'color': 'rgba(0, 156, 173, 1)',
+                            'data': teamMatchesWon
+                        },
+                        {
+                            'type': 'spline',
+                            'name': 'Win Rate',
+                            'color': 'rgba(72, 219, 119, 1)',
+                            'yAxis': 1,
+                            'lineWidth': 0,
+                            'states': {
+                                'hover': {
+                                    'enabled': false
+                                }
+                            },
+                            'marker': {
+                                'symbol': 'diamond',
+                                'radius': 6
+                            },
+                            'data': teamWinRates
+                        }
+                    ],
+                    'drilldown': {
+                        'drillUpButton': {
+                            'theme': {
+                                'fill': 'white',
+                                'stroke-width': 1,
+                                'stroke': 'silver',
+                                'r': 0
+                            }
+                        },
+                        'series': totalHeroTeams
+                    }
+                });
+            }
+
+            function ajaxCalls() {
+                return [
+                    $.ajax({
+                        url: teamMatchesPlayedLink,
+                        dataType: 'json'
+                    }),
+                    $.ajax({
+                        url: teamMatchesWonLink,
+                        dataType: 'json'
+                    }),
+                    $.ajax({
+                        url: teamWinRatesLink,
+                        dataType: 'json'
+                    }),
+                    $.ajax({
+                        url: totalHeroTeamsLink,
+                        dataType: 'json'
+                    })
+                ];
+            }
+
+            $.when.apply($, ajaxCalls()).then(createHighchart);
+        </script>
+    </body>
+</html>
