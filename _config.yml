@@ -3,7 +3,7 @@ title: "AFK Data"
 author: "Alec Howard"
 description: "A website dedicated to providing accessible statistics and interactive visualizations."
 date_format: "%Y-%m-%d"
-url: "https://abhoward.github.io"
+url: "https://afkdata.io"
 theme: "jekyll-theme-midnight"
 plugins: 
   - jekyll-seo-tag
