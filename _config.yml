@@ -1,7 +1,7 @@
 # Site Settings
-title: "Dota Data"
+title: "AFK Data"
 author: "Alec Howard"
-description: "A website dedicated to providing accessible stats and graphs for professional DOTA 2 matches."
+description: "A website dedicated to providing accessible statistics and interactive visualizations."
 date_format: "%Y-%m-%d"
 url: "https://abhoward.github.io"
 theme: "jekyll-theme-midnight"
