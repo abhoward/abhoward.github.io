@@ -20,6 +20,10 @@
                 1
             ],
             [
+                "Brame",
+                1
+            ],
+            [
                 "Chicken Fighters",
                 1
             ],
@@ -36,6 +40,10 @@
                 1
             ],
             [
+                "EHOME",
+                1
+            ],
+            [
                 "Fnatic",
                 4
             ],
@@ -49,7 +57,7 @@
             ],
             [
                 "Hellbear Smashers",
-                1
+                2
             ],
             [
                 "Infamous Gaming",
@@ -93,7 +101,7 @@
             ],
             [
                 "Tundra Esports ",
-                2
+                7
             ],
             [
                 "Unknown Team",
@@ -138,6 +146,10 @@
                 0
             ],
             [
+                "Brame",
+                0
+            ],
+            [
                 "Chicken Fighters",
                 1
             ],
@@ -152,6 +164,10 @@
             [
                 "EGOBOYS",
                 0
+            ],
+            [
+                "EHOME",
+                1
             ],
             [
                 "Fnatic",
@@ -211,7 +227,7 @@
             ],
             [
                 "Tundra Esports ",
-                2
+                6
             ],
             [
                 "Unknown Team",
@@ -256,6 +272,10 @@
                 0.0
             ],
             [
+                "Brame",
+                0.0
+            ],
+            [
                 "Chicken Fighters",
                 1.0
             ],
@@ -272,6 +292,10 @@
                 0.0
             ],
             [
+                "EHOME",
+                1.0
+            ],
+            [
                 "Fnatic",
                 0.75
             ],
@@ -285,7 +309,7 @@
             ],
             [
                 "Hellbear Smashers",
-                1.0
+                0.5
             ],
             [
                 "Infamous Gaming",
@@ -329,7 +353,7 @@
             ],
             [
                 "Tundra Esports ",
-                1.0
+                0.8571428571428571
             ],
             [
                 "Unknown Team",
@@ -374,8 +398,16 @@
                 1
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "OG",
-                2
+                3
+            ],
+            [
+                "Royal Never Give Up",
+                1
             ],
             [
                 "ViKin.gg",
@@ -392,8 +424,16 @@
                 1
             ],
             [
+                "Nigma",
+                0
+            ],
+            [
                 "OG",
                 2
+            ],
+            [
+                "Royal Never Give Up",
+                0
             ],
             [
                 "ViKin.gg",
@@ -410,8 +450,16 @@
                 1.0
             ],
             [
+                "Nigma",
+                0.0
+            ],
+            [
                 "OG",
-                1.0
+                0.6666666666666666
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
             ],
             [
                 "ViKin.gg",
@@ -492,6 +540,10 @@
                 1
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "Motivate.Trust Gaming",
                 1
             ],
@@ -512,6 +564,10 @@
                 1
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "Omega Gaming",
                 1
             ],
@@ -529,7 +585,7 @@
             ],
             [
                 "Team Liquid",
-                1
+                2
             ],
             [
                 "Team Magma",
@@ -630,6 +686,10 @@
                 0
             ],
             [
+                "Into The Breach",
+                0
+            ],
+            [
                 "Motivate.Trust Gaming",
                 1
             ],
@@ -650,6 +710,10 @@
                 0
             ],
             [
+                "OG",
+                0
+            ],
+            [
                 "Omega Gaming",
                 0
             ],
@@ -667,7 +731,7 @@
             ],
             [
                 "Team Liquid",
-                1
+                2
             ],
             [
                 "Team Magma",
@@ -768,6 +832,10 @@
                 0.0
             ],
             [
+                "Into The Breach",
+                0.0
+            ],
+            [
                 "Motivate.Trust Gaming",
                 1.0
             ],
@@ -785,6 +853,10 @@
             ],
             [
                 "OB.Neon",
+                0.0
+            ],
+            [
+                "OG",
                 0.0
             ],
             [
@@ -876,6 +948,10 @@
             [
                 "SG esports",
                 1
+            ],
+            [
+                "Tundra Esports ",
+                1
             ]
         ]
     },
@@ -898,6 +974,10 @@
             [
                 "SG esports",
                 1
+            ],
+            [
+                "Tundra Esports ",
+                0
             ]
         ]
     },
@@ -920,6 +1000,10 @@
             [
                 "SG esports",
                 1.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
             ]
         ],
         "type": "spline",
@@ -956,8 +1040,12 @@
                 1
             ],
             [
-                "Royal Never Give Up",
+                "OG",
                 1
+            ],
+            [
+                "Royal Never Give Up",
+                2
             ],
             [
                 "Sparking Arrow Gaming",
@@ -983,6 +1071,10 @@
             ],
             [
                 "NoPing Esports",
+                0
+            ],
+            [
+                "OG",
                 0
             ],
             [
@@ -1013,6 +1105,10 @@
             ],
             [
                 "NoPing Esports",
+                0.0
+            ],
+            [
+                "OG",
                 0.0
             ],
             [
@@ -1058,6 +1154,10 @@
                 1
             ],
             [
+                "Aster.Aries",
+                1
+            ],
+            [
                 "BINOMISTAS",
                 1
             ],
@@ -1067,6 +1167,10 @@
             ],
             [
                 "Brame",
+                2
+            ],
+            [
+                "Chicken Fighters",
                 1
             ],
             [
@@ -1083,6 +1187,10 @@
             ],
             [
                 "EHOME",
+                2
+            ],
+            [
+                "Elephant",
                 1
             ],
             [
@@ -1103,7 +1211,7 @@
             ],
             [
                 "Hellbear Smashers",
-                2
+                3
             ],
             [
                 "Hippomaniacs",
@@ -1122,6 +1230,10 @@
                 2
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "Natus Vincere",
                 2
             ],
@@ -1130,8 +1242,16 @@
                 2
             ],
             [
+                "OG",
+                2
+            ],
+            [
                 "PuckChamp",
                 3
+            ],
+            [
+                "Royal Never Give Up",
+                1
             ],
             [
                 "SG esports",
@@ -1143,10 +1263,14 @@
             ],
             [
                 "Sparking Arrow Gaming",
-                2
+                4
             ],
             [
                 "Team Empire",
+                2
+            ],
+            [
+                "Team Liquid",
                 2
             ],
             [
@@ -1204,6 +1328,10 @@
                 0
             ],
             [
+                "Aster.Aries",
+                0
+            ],
+            [
                 "BINOMISTAS",
                 0
             ],
@@ -1214,6 +1342,10 @@
             [
                 "Brame",
                 0
+            ],
+            [
+                "Chicken Fighters",
+                1
             ],
             [
                 "Cignal Ultra",
@@ -1230,6 +1362,10 @@
             [
                 "EHOME",
                 1
+            ],
+            [
+                "Elephant",
+                0
             ],
             [
                 "Execration",
@@ -1268,6 +1404,10 @@
                 0
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "Natus Vincere",
                 1
             ],
@@ -1276,7 +1416,15 @@
                 2
             ],
             [
+                "OG",
+                2
+            ],
+            [
                 "PuckChamp",
+                0
+            ],
+            [
+                "Royal Never Give Up",
                 0
             ],
             [
@@ -1294,6 +1442,10 @@
             [
                 "Team Empire",
                 1
+            ],
+            [
+                "Team Liquid",
+                2
             ],
             [
                 "Team SMG",
@@ -1350,6 +1502,10 @@
                 0.0
             ],
             [
+                "Aster.Aries",
+                0.0
+            ],
+            [
                 "BINOMISTAS",
                 0.0
             ],
@@ -1360,6 +1516,10 @@
             [
                 "Brame",
                 0.0
+            ],
+            [
+                "Chicken Fighters",
+                1.0
             ],
             [
                 "Cignal Ultra",
@@ -1375,7 +1535,11 @@
             ],
             [
                 "EHOME",
-                1.0
+                0.5
+            ],
+            [
+                "Elephant",
+                0.0
             ],
             [
                 "Execration",
@@ -1395,7 +1559,7 @@
             ],
             [
                 "Hellbear Smashers",
-                0.5
+                0.3333333333333333
             ],
             [
                 "Hippomaniacs",
@@ -1414,6 +1578,10 @@
                 0.0
             ],
             [
+                "Into The Breach",
+                1.0
+            ],
+            [
                 "Natus Vincere",
                 0.5
             ],
@@ -1422,7 +1590,15 @@
                 1.0
             ],
             [
+                "OG",
+                1.0
+            ],
+            [
                 "PuckChamp",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
                 0.0
             ],
             [
@@ -1435,11 +1611,15 @@
             ],
             [
                 "Sparking Arrow Gaming",
-                0.5
+                0.25
             ],
             [
                 "Team Empire",
                 0.5
+            ],
+            [
+                "Team Liquid",
+                1.0
             ],
             [
                 "Team SMG",
@@ -1501,7 +1681,7 @@
             ],
             [
                 "Brame",
-                1
+                2
             ],
             [
                 "Fantastic Five",
@@ -1545,7 +1725,7 @@
             ],
             [
                 "Tundra Esports ",
-                1
+                2
             ],
             [
                 "Winstrike Team",
@@ -1611,7 +1791,7 @@
             ],
             [
                 "Tundra Esports ",
-                1
+                2
             ],
             [
                 "Winstrike Team",
@@ -1633,7 +1813,7 @@
             ],
             [
                 "Brame",
-                1.0
+                0.5
             ],
             [
                 "Fantastic Five",
@@ -1702,11 +1882,23 @@
         "id": "Beastmaster Matches Played",
         "data": [
             [
+                "Chicken Fighters",
+                2
+            ],
+            [
+                "EHOME",
+                1
+            ],
+            [
                 "Fantastic Five",
                 1
             ],
             [
                 "Infamous Gaming",
+                1
+            ],
+            [
+                "OG",
                 1
             ],
             [
@@ -1724,11 +1916,23 @@
         "id": "Beastmaster Matches Won",
         "data": [
             [
+                "Chicken Fighters",
+                2
+            ],
+            [
+                "EHOME",
+                1
+            ],
+            [
                 "Fantastic Five",
                 0
             ],
             [
                 "Infamous Gaming",
+                1
+            ],
+            [
+                "OG",
                 1
             ],
             [
@@ -1746,11 +1950,23 @@
         "id": "Beastmaster Win Rate",
         "data": [
             [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "EHOME",
+                1.0
+            ],
+            [
                 "Fantastic Five",
                 0.0
             ],
             [
                 "Infamous Gaming",
+                1.0
+            ],
+            [
+                "OG",
                 1.0
             ],
             [
@@ -1918,6 +2134,18 @@
         "id": "Brewmaster Matches Played",
         "data": [
             [
+                "EHOME",
+                1
+            ],
+            [
+                "Elephant",
+                2
+            ],
+            [
+                "Hellbear Smashers",
+                1
+            ],
+            [
                 "Royal Never Give Up",
                 3
             ],
@@ -1927,6 +2155,10 @@
             ],
             [
                 "Team SMG",
+                2
+            ],
+            [
+                "Tundra Esports ",
                 2
             ],
             [
@@ -1944,6 +2176,18 @@
         "id": "Brewmaster Matches Won",
         "data": [
             [
+                "EHOME",
+                0
+            ],
+            [
+                "Elephant",
+                2
+            ],
+            [
+                "Hellbear Smashers",
+                0
+            ],
+            [
                 "Royal Never Give Up",
                 2
             ],
@@ -1954,6 +2198,10 @@
             [
                 "Team SMG",
                 2
+            ],
+            [
+                "Tundra Esports ",
+                1
             ],
             [
                 "Unknown Team",
@@ -1970,6 +2218,18 @@
         "id": "Brewmaster Win Rate",
         "data": [
             [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
                 "Royal Never Give Up",
                 0.6666666666666666
             ],
@@ -1980,6 +2240,10 @@
             [
                 "Team SMG",
                 1.0
+            ],
+            [
+                "Tundra Esports ",
+                0.5
             ],
             [
                 "Unknown Team",
@@ -2028,6 +2292,10 @@
                 1
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "SG esports",
                 1
             ],
@@ -2066,6 +2334,10 @@
                 1
             ],
             [
+                "OG",
+                0
+            ],
+            [
                 "SG esports",
                 1
             ],
@@ -2102,6 +2374,10 @@
             [
                 "OB.Neon",
                 1.0
+            ],
+            [
+                "OG",
+                0.0
             ],
             [
                 "SG esports",
@@ -2178,6 +2454,14 @@
                 2
             ],
             [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Tundra Esports ",
+                2
+            ],
+            [
                 "Undying",
                 2
             ],
@@ -2234,6 +2518,14 @@
             [
                 "Team Empire",
                 1
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Tundra Esports ",
+                2
             ],
             [
                 "Undying",
@@ -2294,6 +2586,14 @@
                 0.5
             ],
             [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
+            ],
+            [
                 "Undying",
                 1.0
             ],
@@ -2340,7 +2640,15 @@
                 1
             ],
             [
+                "Nigma",
+                2
+            ],
+            [
                 "NoPing Esports",
+                1
+            ],
+            [
+                "OG",
                 1
             ],
             [
@@ -2398,7 +2706,15 @@
                 0
             ],
             [
+                "Nigma",
+                2
+            ],
+            [
                 "NoPing Esports",
+                1
+            ],
+            [
+                "OG",
                 1
             ],
             [
@@ -2456,7 +2772,15 @@
                 0.0
             ],
             [
+                "Nigma",
+                1.0
+            ],
+            [
                 "NoPing Esports",
+                1.0
+            ],
+            [
+                "OG",
                 1.0
             ],
             [
@@ -2514,7 +2838,15 @@
                 1
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "Team Bald Reborn",
+                1
+            ],
+            [
+                "Team Liquid",
                 1
             ],
             [
@@ -2536,8 +2868,16 @@
                 0
             ],
             [
+                "OG",
+                0
+            ],
+            [
                 "Team Bald Reborn",
                 1
+            ],
+            [
+                "Team Liquid",
+                0
             ],
             [
                 "Team SMG",
@@ -2558,12 +2898,62 @@
                 0.0
             ],
             [
+                "OG",
+                0.0
+            ],
+            [
                 "Team Bald Reborn",
                 1.0
             ],
             [
+                "Team Liquid",
+                0.0
+            ],
+            [
                 "Team SMG",
                 1.0
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Chen Matches Played",
+        "id": "Chen Matches Played",
+        "data": [
+            [
+                "OG",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Chen Matches Won",
+        "id": "Chen Matches Won",
+        "data": [
+            [
+                "OG",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Chen Win Rate",
+        "id": "Chen Win Rate",
+        "data": [
+            [
+                "OG",
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -2635,7 +3025,7 @@
             ],
             [
                 "Aster.Aries",
-                1
+                2
             ],
             [
                 "BOOM Esports",
@@ -2655,6 +3045,10 @@
             ],
             [
                 "EHOME",
+                2
+            ],
+            [
+                "Elephant",
                 1
             ],
             [
@@ -2667,7 +3061,7 @@
             ],
             [
                 "Into The Breach",
-                2
+                4
             ],
             [
                 "Lilgun ",
@@ -2683,7 +3077,7 @@
             ],
             [
                 "OG",
-                1
+                2
             ],
             [
                 "PuckChamp",
@@ -2748,6 +3142,10 @@
                 1
             ],
             [
+                "Elephant",
+                1
+            ],
+            [
                 "Fantastic Five",
                 0
             ],
@@ -2757,7 +3155,7 @@
             ],
             [
                 "Into The Breach",
-                1
+                3
             ],
             [
                 "Lilgun ",
@@ -2835,6 +3233,10 @@
             ],
             [
                 "EHOME",
+                0.5
+            ],
+            [
+                "Elephant",
                 1.0
             ],
             [
@@ -2847,7 +3249,7 @@
             ],
             [
                 "Into The Breach",
-                0.5
+                0.75
             ],
             [
                 "Lilgun ",
@@ -2863,7 +3265,7 @@
             ],
             [
                 "OG",
-                1.0
+                0.5
             ],
             [
                 "PuckChamp",
@@ -3018,6 +3420,14 @@
                 3
             ],
             [
+                "EHOME",
+                1
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
                 "Galaxy Racer Esports",
                 2
             ],
@@ -3034,7 +3444,19 @@
                 1
             ],
             [
+                "OG",
+                2
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
                 "Sparking Arrow Gaming",
+                1
+            ],
+            [
+                "Spider Pigzs",
                 1
             ],
             [
@@ -3076,6 +3498,14 @@
                 1
             ],
             [
+                "EHOME",
+                0
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
                 "Galaxy Racer Esports",
                 1
             ],
@@ -3092,8 +3522,20 @@
                 1
             ],
             [
+                "OG",
+                1
+            ],
+            [
+                "Royal Never Give Up",
+                1
+            ],
+            [
                 "Sparking Arrow Gaming",
                 1
+            ],
+            [
+                "Spider Pigzs",
+                0
             ],
             [
                 "TNC Predator",
@@ -3134,6 +3576,14 @@
                 0.3333333333333333
             ],
             [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Elephant",
+                1.0
+            ],
+            [
                 "Galaxy Racer Esports",
                 0.5
             ],
@@ -3150,8 +3600,20 @@
                 1.0
             ],
             [
+                "OG",
+                0.5
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
                 "Sparking Arrow Gaming",
                 1.0
+            ],
+            [
+                "Spider Pigzs",
+                0.0
             ],
             [
                 "TNC Predator",
@@ -3224,6 +3686,14 @@
                 4
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
+                "OG",
+                3
+            ],
+            [
                 "PuckChamp",
                 1
             ],
@@ -3283,6 +3753,14 @@
             ],
             [
                 "Nemiga Gaming",
+                2
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
+                "OG",
                 2
             ],
             [
@@ -3346,6 +3824,14 @@
             [
                 "Nemiga Gaming",
                 0.5
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
+                "OG",
+                0.6666666666666666
             ],
             [
                 "PuckChamp",
@@ -3444,6 +3930,10 @@
                 1
             ],
             [
+                "Elephant",
+                3
+            ],
+            [
                 "Execration",
                 1
             ],
@@ -3472,6 +3962,10 @@
                 3
             ],
             [
+                "Royal Never Give Up",
+                1
+            ],
+            [
                 "SG esports",
                 2
             ],
@@ -3485,7 +3979,7 @@
             ],
             [
                 "Team Magma",
-                1
+                2
             ],
             [
                 "Team SMG",
@@ -3538,6 +4032,10 @@
                 1
             ],
             [
+                "Elephant",
+                1
+            ],
+            [
                 "Execration",
                 1
             ],
@@ -3563,6 +4061,10 @@
             ],
             [
                 "PuckChamp",
+                1
+            ],
+            [
+                "Royal Never Give Up",
                 1
             ],
             [
@@ -3632,6 +4134,10 @@
                 1.0
             ],
             [
+                "Elephant",
+                0.3333333333333333
+            ],
+            [
                 "Execration",
                 1.0
             ],
@@ -3658,6 +4164,10 @@
             [
                 "PuckChamp",
                 0.3333333333333333
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
             ],
             [
                 "SG esports",
@@ -3738,6 +4248,10 @@
                 1
             ],
             [
+                "OG",
+                2
+            ],
+            [
                 "Team Unique",
                 1
             ],
@@ -3772,6 +4286,10 @@
                 0
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "Team Unique",
                 1
             ],
@@ -3804,6 +4322,10 @@
             [
                 "Ghost Frogs",
                 0.0
+            ],
+            [
+                "OG",
+                0.5
             ],
             [
                 "Team Unique",
@@ -3841,7 +4363,7 @@
             ],
             [
                 "Aster.Aries",
-                2
+                4
             ],
             [
                 "BOOM Esports",
@@ -3860,6 +4382,10 @@
                 1
             ],
             [
+                "EHOME",
+                1
+            ],
+            [
                 "Elephant",
                 1
             ],
@@ -3869,6 +4395,10 @@
             ],
             [
                 "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Into The Breach",
                 1
             ],
             [
@@ -3897,7 +4427,7 @@
             ],
             [
                 "Sparking Arrow Gaming",
-                1
+                2
             ],
             [
                 "TNC Predator",
@@ -3970,6 +4500,10 @@
                 0
             ],
             [
+                "EHOME",
+                1
+            ],
+            [
                 "Elephant",
                 0
             ],
@@ -3979,6 +4513,10 @@
             ],
             [
                 "Galaxy Racer Esports",
+                1
+            ],
+            [
+                "Into The Breach",
                 1
             ],
             [
@@ -4061,7 +4599,7 @@
             ],
             [
                 "Aster.Aries",
-                1.0
+                0.5
             ],
             [
                 "BOOM Esports",
@@ -4080,6 +4618,10 @@
                 0.0
             ],
             [
+                "EHOME",
+                1.0
+            ],
+            [
                 "Elephant",
                 0.0
             ],
@@ -4089,6 +4631,10 @@
             ],
             [
                 "Galaxy Racer Esports",
+                1.0
+            ],
+            [
+                "Into The Breach",
                 1.0
             ],
             [
@@ -4117,7 +4663,7 @@
             ],
             [
                 "Sparking Arrow Gaming",
-                1.0
+                0.5
             ],
             [
                 "TNC Predator",
@@ -4214,6 +4760,10 @@
                 1
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "Cignal Ultra",
                 2
             ],
@@ -4258,6 +4808,10 @@
                 1
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "Motivate.Trust Gaming",
                 2
             ],
@@ -4271,6 +4825,10 @@
             ],
             [
                 "NoPing Esports",
+                1
+            ],
+            [
+                "Royal Never Give Up",
                 1
             ],
             [
@@ -4291,7 +4849,7 @@
             ],
             [
                 "Team Magma",
-                1
+                3
             ],
             [
                 "Team Mystery",
@@ -4388,6 +4946,10 @@
                 0
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "Cignal Ultra",
                 2
             ],
@@ -4432,6 +4994,10 @@
                 0
             ],
             [
+                "Into The Breach",
+                0
+            ],
+            [
                 "Motivate.Trust Gaming",
                 0
             ],
@@ -4446,6 +5012,10 @@
             [
                 "NoPing Esports",
                 0
+            ],
+            [
+                "Royal Never Give Up",
+                1
             ],
             [
                 "SG esports",
@@ -4465,7 +5035,7 @@
             ],
             [
                 "Team Magma",
-                1
+                3
             ],
             [
                 "Team Mystery",
@@ -4562,6 +5132,10 @@
                 0.0
             ],
             [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
                 "Cignal Ultra",
                 1.0
             ],
@@ -4606,6 +5180,10 @@
                 0.0
             ],
             [
+                "Into The Breach",
+                0.0
+            ],
+            [
                 "Motivate.Trust Gaming",
                 0.0
             ],
@@ -4620,6 +5198,10 @@
             [
                 "NoPing Esports",
                 0.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
             ],
             [
                 "SG esports",
@@ -4736,11 +5318,19 @@
                 1
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "Nigma",
                 1
             ],
             [
                 "OG",
+                3
+            ],
+            [
+                "Royal Never Give Up",
                 1
             ],
             [
@@ -4749,6 +5339,10 @@
             ],
             [
                 "Team Bald Reborn",
+                1
+            ],
+            [
+                "Team Liquid",
                 1
             ],
             [
@@ -4798,12 +5392,20 @@
                 1
             ],
             [
+                "Into The Breach",
+                0
+            ],
+            [
                 "Nigma",
                 1
             ],
             [
                 "OG",
-                1
+                2
+            ],
+            [
+                "Royal Never Give Up",
+                0
             ],
             [
                 "South Built Esports",
@@ -4812,6 +5414,10 @@
             [
                 "Team Bald Reborn",
                 0
+            ],
+            [
+                "Team Liquid",
+                1
             ],
             [
                 "Team SMG",
@@ -4860,12 +5466,20 @@
                 1.0
             ],
             [
+                "Into The Breach",
+                0.0
+            ],
+            [
                 "Nigma",
                 1.0
             ],
             [
                 "OG",
-                1.0
+                0.6666666666666666
+            ],
+            [
+                "Royal Never Give Up",
+                0.0
             ],
             [
                 "South Built Esports",
@@ -4874,6 +5488,10 @@
             [
                 "Team Bald Reborn",
                 0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
             ],
             [
                 "Team SMG",
@@ -4922,6 +5540,10 @@
                 1
             ],
             [
+                "Elephant",
+                2
+            ],
+            [
                 "Execration",
                 5
             ],
@@ -4959,7 +5581,7 @@
             ],
             [
                 "Team Magma",
-                1
+                2
             ]
         ]
     },
@@ -4982,6 +5604,10 @@
             [
                 "EGOBOYS",
                 1
+            ],
+            [
+                "Elephant",
+                2
             ],
             [
                 "Execration",
@@ -5046,6 +5672,10 @@
                 1.0
             ],
             [
+                "Elephant",
+                1.0
+            ],
+            [
                 "Execration",
                 0.6
             ],
@@ -5083,7 +5713,7 @@
             ],
             [
                 "Team Magma",
-                1.0
+                0.5
             ]
         ],
         "type": "spline",
@@ -5178,8 +5808,12 @@
                 1
             ],
             [
+                "EHOME",
+                1
+            ],
+            [
                 "Elephant",
-                2
+                3
             ],
             [
                 "Execration",
@@ -5198,8 +5832,16 @@
                 1
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "SG esports",
                 1
+            ],
+            [
+                "Team Magma",
+                2
             ],
             [
                 "Team SMG",
@@ -5256,8 +5898,12 @@
                 1
             ],
             [
-                "Elephant",
+                "EHOME",
                 1
+            ],
+            [
+                "Elephant",
+                2
             ],
             [
                 "Execration",
@@ -5276,7 +5922,15 @@
                 0
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "SG esports",
+                1
+            ],
+            [
+                "Team Magma",
                 1
             ],
             [
@@ -5334,8 +5988,12 @@
                 1.0
             ],
             [
+                "EHOME",
+                1.0
+            ],
+            [
                 "Elephant",
-                0.5
+                0.6666666666666666
             ],
             [
                 "Execration",
@@ -5354,8 +6012,16 @@
                 0.0
             ],
             [
+                "Nigma",
+                1.0
+            ],
+            [
                 "SG esports",
                 1.0
+            ],
+            [
+                "Team Magma",
+                0.5
             ],
             [
                 "Team SMG",
@@ -5444,6 +6110,10 @@
                 1
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "Inverse",
                 1
             ],
@@ -5453,10 +6123,14 @@
             ],
             [
                 "Nigma",
-                1
+                2
             ],
             [
                 "OB.Neon",
+                1
+            ],
+            [
+                "Royal Never Give Up",
                 1
             ],
             [
@@ -5538,6 +6212,10 @@
                 1
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "Inverse",
                 0
             ],
@@ -5551,6 +6229,10 @@
             ],
             [
                 "OB.Neon",
+                0
+            ],
+            [
+                "Royal Never Give Up",
                 0
             ],
             [
@@ -5632,6 +6314,10 @@
                 1.0
             ],
             [
+                "Into The Breach",
+                1.0
+            ],
+            [
                 "Inverse",
                 0.0
             ],
@@ -5641,10 +6327,14 @@
             ],
             [
                 "Nigma",
-                1.0
+                0.5
             ],
             [
                 "OB.Neon",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
                 0.0
             ],
             [
@@ -5714,6 +6404,10 @@
                 1
             ],
             [
+                "EHOME",
+                1
+            ],
+            [
                 "Execration",
                 1
             ],
@@ -5735,7 +6429,7 @@
             ],
             [
                 "Nigma",
-                1
+                2
             ],
             [
                 "OB.Neon",
@@ -5743,7 +6437,7 @@
             ],
             [
                 "Spider Pigzs",
-                1
+                2
             ],
             [
                 "TNC Predator",
@@ -5755,7 +6449,7 @@
             ],
             [
                 "Team Liquid",
-                1
+                2
             ],
             [
                 "Team Magma",
@@ -5764,6 +6458,10 @@
             [
                 "Team SMG",
                 4
+            ],
+            [
+                "Tundra Esports ",
+                1
             ],
             [
                 "Undying",
@@ -5802,6 +6500,10 @@
             [
                 "Brame",
                 0
+            ],
+            [
+                "EHOME",
+                1
             ],
             [
                 "Execration",
@@ -5856,6 +6558,10 @@
                 2
             ],
             [
+                "Tundra Esports ",
+                0
+            ],
+            [
                 "Undying",
                 1
             ]
@@ -5894,6 +6600,10 @@
                 0.0
             ],
             [
+                "EHOME",
+                1.0
+            ],
+            [
                 "Execration",
                 0.0
             ],
@@ -5915,7 +6625,7 @@
             ],
             [
                 "Nigma",
-                1.0
+                0.5
             ],
             [
                 "OB.Neon",
@@ -5923,7 +6633,7 @@
             ],
             [
                 "Spider Pigzs",
-                1.0
+                0.5
             ],
             [
                 "TNC Predator",
@@ -5944,6 +6654,10 @@
             [
                 "Team SMG",
                 0.5
+            ],
+            [
+                "Tundra Esports ",
+                0.0
             ],
             [
                 "Undying",
@@ -5974,6 +6688,10 @@
             [
                 "Infinity",
                 1
+            ],
+            [
+                "Team Liquid",
+                1
             ]
         ]
     },
@@ -5988,6 +6706,10 @@
             [
                 "Infinity",
                 0
+            ],
+            [
+                "Team Liquid",
+                0
             ]
         ]
     },
@@ -6001,6 +6723,10 @@
             ],
             [
                 "Infinity",
+                0.0
+            ],
+            [
+                "Team Liquid",
                 0.0
             ]
         ],
@@ -6039,7 +6765,11 @@
             ],
             [
                 "Chicken Fighters",
-                2
+                5
+            ],
+            [
+                "Elephant",
+                1
             ],
             [
                 "Ghost Frogs",
@@ -6121,7 +6851,11 @@
             ],
             [
                 "Chicken Fighters",
-                2
+                4
+            ],
+            [
+                "Elephant",
+                1
             ],
             [
                 "Ghost Frogs",
@@ -6203,6 +6937,10 @@
             ],
             [
                 "Chicken Fighters",
+                0.8
+            ],
+            [
+                "Elephant",
                 1.0
             ],
             [
@@ -6296,6 +7034,10 @@
                 1
             ],
             [
+                "Elephant",
+                1
+            ],
+            [
                 "Galaxy Racer Esports",
                 1
             ],
@@ -6328,8 +7070,16 @@
                 1
             ],
             [
+                "Spider Pigzs",
+                2
+            ],
+            [
                 "TNC Predator",
                 2
+            ],
+            [
+                "Team Bald Reborn",
+                1
             ],
             [
                 "Team Mystery",
@@ -6362,6 +7112,10 @@
                 0
             ],
             [
+                "Elephant",
+                0
+            ],
+            [
                 "Galaxy Racer Esports",
                 0
             ],
@@ -6394,8 +7148,16 @@
                 0
             ],
             [
+                "Spider Pigzs",
+                1
+            ],
+            [
                 "TNC Predator",
                 1
+            ],
+            [
+                "Team Bald Reborn",
+                0
             ],
             [
                 "Team Mystery",
@@ -6428,6 +7190,10 @@
                 0.0
             ],
             [
+                "Elephant",
+                0.0
+            ],
+            [
                 "Galaxy Racer Esports",
                 0.0
             ],
@@ -6460,8 +7226,16 @@
                 0.0
             ],
             [
+                "Spider Pigzs",
+                0.5
+            ],
+            [
                 "TNC Predator",
                 0.5
+            ],
+            [
+                "Team Bald Reborn",
+                0.0
             ],
             [
                 "Team Mystery",
@@ -6507,7 +7281,7 @@
             ],
             [
                 "Hellbear Smashers",
-                1
+                2
             ],
             [
                 "Infamous Gaming",
@@ -6530,8 +7304,16 @@
                 3
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "Simply TOOBASED",
                 2
+            ],
+            [
+                "Spider Pigzs",
+                1
             ],
             [
                 "Unknown Team",
@@ -6588,8 +7370,16 @@
                 2
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "Simply TOOBASED",
                 1
+            ],
+            [
+                "Spider Pigzs",
+                0
             ],
             [
                 "Unknown Team",
@@ -6623,7 +7413,7 @@
             ],
             [
                 "Hellbear Smashers",
-                1.0
+                0.5
             ],
             [
                 "Infamous Gaming",
@@ -6646,8 +7436,16 @@
                 0.6666666666666666
             ],
             [
+                "OG",
+                1.0
+            ],
+            [
                 "Simply TOOBASED",
                 0.5
+            ],
+            [
+                "Spider Pigzs",
+                0.0
             ],
             [
                 "Unknown Team",
@@ -6708,12 +7506,20 @@
                 1
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "DogChamp",
                 2
             ],
             [
-                "Elephant",
+                "EHOME",
                 3
+            ],
+            [
+                "Elephant",
+                4
             ],
             [
                 "HellRaisers",
@@ -6721,7 +7527,7 @@
             ],
             [
                 "Hellbear Smashers",
-                4
+                5
             ],
             [
                 "Hokori",
@@ -6741,7 +7547,7 @@
             ],
             [
                 "Into The Breach",
-                2
+                3
             ],
             [
                 "Motivate.Trust Gaming",
@@ -6752,6 +7558,10 @@
                 2
             ],
             [
+                "Nigma",
+                3
+            ],
+            [
                 "No Bounty Hunter",
                 1
             ],
@@ -6760,8 +7570,16 @@
                 1
             ],
             [
+                "OG",
+                4
+            ],
+            [
                 "PuckChamp",
                 3
+            ],
+            [
+                "Royal Never Give Up",
+                2
             ],
             [
                 "Simply TOOBASED",
@@ -6773,7 +7591,7 @@
             ],
             [
                 "Spider Pigzs",
-                2
+                4
             ],
             [
                 "TNC Predator",
@@ -6788,8 +7606,12 @@
                 11
             ],
             [
-                "Team Magma",
+                "Team Liquid",
                 1
+            ],
+            [
+                "Team Magma",
+                6
             ],
             [
                 "Team Spirit",
@@ -6870,12 +7692,20 @@
                 1
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "DogChamp",
                 2
             ],
             [
+                "EHOME",
+                1
+            ],
+            [
                 "Elephant",
-                2
+                3
             ],
             [
                 "HellRaisers",
@@ -6903,7 +7733,7 @@
             ],
             [
                 "Into The Breach",
-                1
+                2
             ],
             [
                 "Motivate.Trust Gaming",
@@ -6911,6 +7741,10 @@
             ],
             [
                 "Natus Vincere",
+                2
+            ],
+            [
+                "Nigma",
                 2
             ],
             [
@@ -6922,8 +7756,16 @@
                 0
             ],
             [
+                "OG",
+                3
+            ],
+            [
                 "PuckChamp",
                 2
+            ],
+            [
+                "Royal Never Give Up",
+                1
             ],
             [
                 "Simply TOOBASED",
@@ -6935,7 +7777,7 @@
             ],
             [
                 "Spider Pigzs",
-                1
+                2
             ],
             [
                 "TNC Predator",
@@ -6950,8 +7792,12 @@
                 7
             ],
             [
+                "Team Liquid",
+                0
+            ],
+            [
                 "Team Magma",
-                1
+                4
             ],
             [
                 "Team Spirit",
@@ -7032,12 +7878,20 @@
                 1.0
             ],
             [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
                 "DogChamp",
                 1.0
             ],
             [
+                "EHOME",
+                0.3333333333333333
+            ],
+            [
                 "Elephant",
-                0.6666666666666666
+                0.75
             ],
             [
                 "HellRaisers",
@@ -7045,7 +7899,7 @@
             ],
             [
                 "Hellbear Smashers",
-                0.25
+                0.2
             ],
             [
                 "Hokori",
@@ -7065,7 +7919,7 @@
             ],
             [
                 "Into The Breach",
-                0.5
+                0.6666666666666666
             ],
             [
                 "Motivate.Trust Gaming",
@@ -7076,6 +7930,10 @@
                 1.0
             ],
             [
+                "Nigma",
+                0.6666666666666666
+            ],
+            [
                 "No Bounty Hunter",
                 0.0
             ],
@@ -7084,8 +7942,16 @@
                 0.0
             ],
             [
+                "OG",
+                0.75
+            ],
+            [
                 "PuckChamp",
                 0.6666666666666666
+            ],
+            [
+                "Royal Never Give Up",
+                0.5
             ],
             [
                 "Simply TOOBASED",
@@ -7112,8 +7978,12 @@
                 0.6363636363636364
             ],
             [
+                "Team Liquid",
+                0.0
+            ],
+            [
                 "Team Magma",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Team Spirit",
@@ -7190,12 +8060,16 @@
                 2
             ],
             [
+                "Chicken Fighters",
+                3
+            ],
+            [
                 "D2 Hustlers",
                 2
             ],
             [
                 "Elephant",
-                1
+                2
             ],
             [
                 "Execration",
@@ -7226,6 +8100,10 @@
                 1
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "NoPing Esports",
                 2
             ],
@@ -7234,8 +8112,12 @@
                 1
             ],
             [
+                "OG",
+                2
+            ],
+            [
                 "Royal Never Give Up",
-                1
+                2
             ],
             [
                 "SG esports",
@@ -7243,11 +8125,11 @@
             ],
             [
                 "Sparking Arrow Gaming",
-                2
+                3
             ],
             [
                 "Spider Pigzs",
-                1
+                3
             ],
             [
                 "Team Empire",
@@ -7300,6 +8182,10 @@
                 2
             ],
             [
+                "Chicken Fighters",
+                3
+            ],
+            [
                 "D2 Hustlers",
                 1
             ],
@@ -7336,12 +8222,20 @@
                 1
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "NoPing Esports",
                 1
             ],
             [
                 "OB.Neon",
                 0
+            ],
+            [
+                "OG",
+                2
             ],
             [
                 "Royal Never Give Up",
@@ -7357,7 +8251,7 @@
             ],
             [
                 "Spider Pigzs",
-                1
+                3
             ],
             [
                 "Team Empire",
@@ -7410,12 +8304,16 @@
                 1.0
             ],
             [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
                 "D2 Hustlers",
                 0.5
             ],
             [
                 "Elephant",
-                1.0
+                0.5
             ],
             [
                 "Execration",
@@ -7446,6 +8344,10 @@
                 1.0
             ],
             [
+                "Nigma",
+                1.0
+            ],
+            [
                 "NoPing Esports",
                 0.5
             ],
@@ -7454,8 +8356,12 @@
                 0.0
             ],
             [
-                "Royal Never Give Up",
+                "OG",
                 1.0
+            ],
+            [
+                "Royal Never Give Up",
+                0.5
             ],
             [
                 "SG esports",
@@ -7463,7 +8369,7 @@
             ],
             [
                 "Sparking Arrow Gaming",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Spider Pigzs",
@@ -7525,7 +8431,15 @@
             ],
             [
                 "Nigma",
+                4
+            ],
+            [
+                "OG",
                 1
+            ],
+            [
+                "Team Liquid",
+                2
             ],
             [
                 "Team Magma",
@@ -7547,6 +8461,14 @@
             ],
             [
                 "Nigma",
+                3
+            ],
+            [
+                "OG",
+                1
+            ],
+            [
+                "Team Liquid",
                 0
             ],
             [
@@ -7569,6 +8491,14 @@
             ],
             [
                 "Nigma",
+                0.75
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Team Liquid",
                 0.0
             ],
             [
@@ -7594,6 +8524,14 @@
         "id": "Jakiro Matches Played",
         "data": [
             [
+                "Spider Pigzs",
+                2
+            ],
+            [
+                "Team Magma",
+                1
+            ],
+            [
                 "The Cut",
                 1
             ]
@@ -7604,6 +8542,14 @@
         "id": "Jakiro Matches Won",
         "data": [
             [
+                "Spider Pigzs",
+                2
+            ],
+            [
+                "Team Magma",
+                0
+            ],
+            [
                 "The Cut",
                 0
             ]
@@ -7613,6 +8559,14 @@
         "name": "Jakiro Win Rate",
         "id": "Jakiro Win Rate",
         "data": [
+            [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
+                "Team Magma",
+                0.0
+            ],
             [
                 "The Cut",
                 0.0
@@ -7640,6 +8594,10 @@
                 1
             ],
             [
+                "Aster.Aries",
+                1
+            ],
+            [
                 "BINOMISTAS",
                 1
             ],
@@ -7657,6 +8615,10 @@
             ],
             [
                 "D2 Hustlers",
+                1
+            ],
+            [
+                "Elephant",
                 1
             ],
             [
@@ -7702,6 +8664,10 @@
                 1
             ],
             [
+                "Aster.Aries",
+                0
+            ],
+            [
                 "BINOMISTAS",
                 0
             ],
@@ -7720,6 +8686,10 @@
             [
                 "D2 Hustlers",
                 0
+            ],
+            [
+                "Elephant",
+                1
             ],
             [
                 "Execration",
@@ -7764,6 +8734,10 @@
                 1.0
             ],
             [
+                "Aster.Aries",
+                0.0
+            ],
+            [
                 "BINOMISTAS",
                 0.0
             ],
@@ -7782,6 +8756,10 @@
             [
                 "D2 Hustlers",
                 0.0
+            ],
+            [
+                "Elephant",
+                1.0
             ],
             [
                 "Execration",
@@ -7846,11 +8824,19 @@
                 1
             ],
             [
-                "Spider Pigzs",
+                "OG",
                 1
             ],
             [
+                "Spider Pigzs",
+                2
+            ],
+            [
                 "Team Liquid",
+                3
+            ],
+            [
+                "Tundra Esports ",
                 1
             ]
         ]
@@ -7872,11 +8858,19 @@
                 1
             ],
             [
+                "OG",
+                0
+            ],
+            [
                 "Spider Pigzs",
                 0
             ],
             [
                 "Team Liquid",
+                2
+            ],
+            [
+                "Tundra Esports ",
                 1
             ]
         ]
@@ -7898,11 +8892,19 @@
                 1.0
             ],
             [
+                "OG",
+                0.0
+            ],
+            [
                 "Spider Pigzs",
                 0.0
             ],
             [
                 "Team Liquid",
+                0.6666666666666666
+            ],
+            [
+                "Tundra Esports ",
                 1.0
             ]
         ],
@@ -7937,6 +8939,10 @@
             ],
             [
                 "Black N Yellow",
+                1
+            ],
+            [
+                "Elephant",
                 1
             ],
             [
@@ -8022,6 +9028,10 @@
                 1
             ],
             [
+                "Elephant",
+                1
+            ],
+            [
                 "Galaxy Racer Esports",
                 1
             ],
@@ -8101,6 +9111,10 @@
             ],
             [
                 "Black N Yellow",
+                1.0
+            ],
+            [
+                "Elephant",
                 1.0
             ],
             [
@@ -8194,11 +9208,19 @@
                 1
             ],
             [
+                "Elephant",
+                1
+            ],
+            [
                 "Fnatic",
                 3
             ],
             [
                 "LBZS",
+                1
+            ],
+            [
+                "Royal Never Give Up",
                 1
             ],
             [
@@ -8228,12 +9250,20 @@
                 1
             ],
             [
+                "Elephant",
+                1
+            ],
+            [
                 "Fnatic",
                 2
             ],
             [
                 "LBZS",
                 0
+            ],
+            [
+                "Royal Never Give Up",
+                1
             ],
             [
                 "TNC Predator",
@@ -8262,12 +9292,20 @@
                 1.0
             ],
             [
+                "Elephant",
+                1.0
+            ],
+            [
                 "Fnatic",
                 0.6666666666666666
             ],
             [
                 "LBZS",
                 0.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
             ],
             [
                 "TNC Predator",
@@ -8332,6 +9370,10 @@
                 1
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "Cignal Ultra",
                 1
             ],
@@ -8341,7 +9383,7 @@
             ],
             [
                 "Elephant",
-                2
+                4
             ],
             [
                 "Execration",
@@ -8381,7 +9423,7 @@
             ],
             [
                 "OG",
-                1
+                3
             ],
             [
                 "PuckChamp",
@@ -8396,7 +9438,15 @@
                 3
             ],
             [
+                "Sparking Arrow Gaming",
+                1
+            ],
+            [
                 "TNC Predator",
+                2
+            ],
+            [
+                "Team Liquid",
                 2
             ],
             [
@@ -8466,6 +9516,10 @@
                 1
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "Cignal Ultra",
                 1
             ],
@@ -8475,7 +9529,7 @@
             ],
             [
                 "Elephant",
-                1
+                3
             ],
             [
                 "Execration",
@@ -8515,7 +9569,7 @@
             ],
             [
                 "OG",
-                0
+                1
             ],
             [
                 "PuckChamp",
@@ -8530,8 +9584,16 @@
                 2
             ],
             [
+                "Sparking Arrow Gaming",
+                0
+            ],
+            [
                 "TNC Predator",
                 0
+            ],
+            [
+                "Team Liquid",
+                1
             ],
             [
                 "Team SMG",
@@ -8600,6 +9662,10 @@
                 1.0
             ],
             [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
                 "Cignal Ultra",
                 1.0
             ],
@@ -8609,7 +9675,7 @@
             ],
             [
                 "Elephant",
-                0.5
+                0.75
             ],
             [
                 "Execration",
@@ -8649,7 +9715,7 @@
             ],
             [
                 "OG",
-                0.0
+                0.3333333333333333
             ],
             [
                 "PuckChamp",
@@ -8664,8 +9730,16 @@
                 0.6666666666666666
             ],
             [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
                 "TNC Predator",
                 0.0
+            ],
+            [
+                "Team Liquid",
+                0.5
             ],
             [
                 "Team SMG",
@@ -8780,6 +9854,10 @@
                 2
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "NoPing Esports",
                 1
             ],
@@ -8789,7 +9867,7 @@
             ],
             [
                 "Royal Never Give Up",
-                1
+                2
             ],
             [
                 "TNC Predator",
@@ -8850,6 +9928,10 @@
                 0
             ],
             [
+                "Nigma",
+                0
+            ],
+            [
                 "NoPing Esports",
                 0
             ],
@@ -8859,7 +9941,7 @@
             ],
             [
                 "Royal Never Give Up",
-                1
+                2
             ],
             [
                 "TNC Predator",
@@ -8917,6 +9999,10 @@
             ],
             [
                 "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "Nigma",
                 0.0
             ],
             [
@@ -8999,7 +10085,7 @@
             ],
             [
                 "Brame",
-                2
+                3
             ],
             [
                 "Cignal Ultra",
@@ -9015,7 +10101,11 @@
             ],
             [
                 "EHOME",
-                1
+                3
+            ],
+            [
+                "Elephant",
+                3
             ],
             [
                 "Galaxy Racer Esports",
@@ -9027,7 +10117,7 @@
             ],
             [
                 "Hellbear Smashers",
-                2
+                3
             ],
             [
                 "Hippomaniacs",
@@ -9042,16 +10132,24 @@
                 1
             ],
             [
+                "Nigma",
+                3
+            ],
+            [
                 "OB.Neon",
                 1
             ],
             [
                 "OG",
-                2
+                3
             ],
             [
                 "PuckChamp",
                 3
+            ],
+            [
+                "Royal Never Give Up",
+                2
             ],
             [
                 "Simply TOOBASED",
@@ -9062,12 +10160,20 @@
                 2
             ],
             [
+                "Spider Pigzs",
+                1
+            ],
+            [
                 "Team Empire",
                 7
             ],
             [
+                "Team Liquid",
+                4
+            ],
+            [
                 "Team Magma",
-                2
+                3
             ],
             [
                 "Team Mystery",
@@ -9088,6 +10194,10 @@
             [
                 "Trident Clan",
                 1
+            ],
+            [
+                "Tundra Esports ",
+                3
             ],
             [
                 "Undying",
@@ -9157,7 +10267,11 @@
             ],
             [
                 "EHOME",
-                1
+                3
+            ],
+            [
+                "Elephant",
+                3
             ],
             [
                 "Galaxy Racer Esports",
@@ -9184,6 +10298,10 @@
                 0
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "OB.Neon",
                 0
             ],
@@ -9196,6 +10314,10 @@
                 2
             ],
             [
+                "Royal Never Give Up",
+                2
+            ],
+            [
                 "Simply TOOBASED",
                 0
             ],
@@ -9204,12 +10326,20 @@
                 0
             ],
             [
+                "Spider Pigzs",
+                1
+            ],
+            [
                 "Team Empire",
                 5
             ],
             [
-                "Team Magma",
+                "Team Liquid",
                 1
+            ],
+            [
+                "Team Magma",
+                2
             ],
             [
                 "Team Mystery",
@@ -9230,6 +10360,10 @@
             [
                 "Trident Clan",
                 0
+            ],
+            [
+                "Tundra Esports ",
+                2
             ],
             [
                 "Undying",
@@ -9283,7 +10417,7 @@
             ],
             [
                 "Brame",
-                0.5
+                0.3333333333333333
             ],
             [
                 "Cignal Ultra",
@@ -9302,6 +10436,10 @@
                 1.0
             ],
             [
+                "Elephant",
+                1.0
+            ],
+            [
                 "Galaxy Racer Esports",
                 0.0
             ],
@@ -9311,7 +10449,7 @@
             ],
             [
                 "Hellbear Smashers",
-                0.5
+                0.3333333333333333
             ],
             [
                 "Hippomaniacs",
@@ -9326,16 +10464,24 @@
                 0.0
             ],
             [
+                "Nigma",
+                0.3333333333333333
+            ],
+            [
                 "OB.Neon",
                 0.0
             ],
             [
                 "OG",
-                0.5
+                0.3333333333333333
             ],
             [
                 "PuckChamp",
                 0.6666666666666666
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
             ],
             [
                 "Simply TOOBASED",
@@ -9346,12 +10492,20 @@
                 0.0
             ],
             [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
                 "Team Empire",
                 0.7142857142857143
             ],
             [
+                "Team Liquid",
+                0.25
+            ],
+            [
                 "Team Magma",
-                0.5
+                0.6666666666666666
             ],
             [
                 "Team Mystery",
@@ -9372,6 +10526,10 @@
             [
                 "Trident Clan",
                 0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.6666666666666666
             ],
             [
                 "Undying",
@@ -9425,7 +10583,7 @@
             ],
             [
                 "Aster.Aries",
-                2
+                5
             ],
             [
                 "B8",
@@ -9449,7 +10607,7 @@
             ],
             [
                 "Chicken Fighters",
-                1
+                2
             ],
             [
                 "DogChamp",
@@ -9457,11 +10615,11 @@
             ],
             [
                 "EHOME",
-                3
+                4
             ],
             [
                 "Elephant",
-                1
+                4
             ],
             [
                 "Execration",
@@ -9512,6 +10670,10 @@
                 3
             ],
             [
+                "Nigma",
+                2
+            ],
+            [
                 "NoPing Esports",
                 3
             ],
@@ -9525,7 +10687,7 @@
             ],
             [
                 "OG",
-                1
+                4
             ],
             [
                 "PuckChamp",
@@ -9533,7 +10695,7 @@
             ],
             [
                 "Royal Never Give Up",
-                2
+                4
             ],
             [
                 "SG esports",
@@ -9548,8 +10710,12 @@
                 1
             ],
             [
+                "Sparking Arrow Gaming",
+                1
+            ],
+            [
                 "Spider Pigzs",
-                2
+                3
             ],
             [
                 "TNC Predator",
@@ -9561,7 +10727,7 @@
             ],
             [
                 "Team Magma",
-                4
+                6
             ],
             [
                 "Team SMG",
@@ -9631,7 +10797,7 @@
             ],
             [
                 "Aster.Aries",
-                1
+                2
             ],
             [
                 "B8",
@@ -9655,7 +10821,7 @@
             ],
             [
                 "Chicken Fighters",
-                1
+                2
             ],
             [
                 "DogChamp",
@@ -9667,7 +10833,7 @@
             ],
             [
                 "Elephant",
-                1
+                3
             ],
             [
                 "Execration",
@@ -9718,6 +10884,10 @@
                 2
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "NoPing Esports",
                 2
             ],
@@ -9731,7 +10901,7 @@
             ],
             [
                 "OG",
-                1
+                2
             ],
             [
                 "PuckChamp",
@@ -9754,8 +10924,12 @@
                 0
             ],
             [
+                "Sparking Arrow Gaming",
+                0
+            ],
+            [
                 "Spider Pigzs",
-                1
+                2
             ],
             [
                 "TNC Predator",
@@ -9767,7 +10941,7 @@
             ],
             [
                 "Team Magma",
-                2
+                3
             ],
             [
                 "Team SMG",
@@ -9837,7 +11011,7 @@
             ],
             [
                 "Aster.Aries",
-                0.5
+                0.4
             ],
             [
                 "B8",
@@ -9869,11 +11043,11 @@
             ],
             [
                 "EHOME",
-                1.0
+                0.75
             ],
             [
                 "Elephant",
-                1.0
+                0.75
             ],
             [
                 "Execration",
@@ -9924,6 +11098,10 @@
                 0.6666666666666666
             ],
             [
+                "Nigma",
+                0.5
+            ],
+            [
                 "NoPing Esports",
                 0.6666666666666666
             ],
@@ -9937,7 +11115,7 @@
             ],
             [
                 "OG",
-                1.0
+                0.5
             ],
             [
                 "PuckChamp",
@@ -9945,7 +11123,7 @@
             ],
             [
                 "Royal Never Give Up",
-                1.0
+                0.5
             ],
             [
                 "SG esports",
@@ -9960,8 +11138,12 @@
                 0.0
             ],
             [
+                "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
                 "Spider Pigzs",
-                0.5
+                0.6666666666666666
             ],
             [
                 "TNC Predator",
@@ -10043,7 +11225,7 @@
         "data": [
             [
                 "Team Liquid",
-                1
+                2
             ],
             [
                 "bumble bEE's",
@@ -10057,7 +11239,7 @@
         "data": [
             [
                 "Team Liquid",
-                1
+                2
             ],
             [
                 "bumble bEE's",
@@ -10136,6 +11318,18 @@
                 1
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
+                "EHOME",
+                2
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
                 "Execration",
                 1
             ],
@@ -10161,7 +11355,7 @@
             ],
             [
                 "Into The Breach",
-                1
+                2
             ],
             [
                 "Inverse",
@@ -10172,7 +11366,15 @@
                 2
             ],
             [
+                "Nigma",
+                5
+            ],
+            [
                 "NoPing Esports",
+                1
+            ],
+            [
+                "Royal Never Give Up",
                 1
             ],
             [
@@ -10189,7 +11391,7 @@
             ],
             [
                 "Spider Pigzs",
-                3
+                4
             ],
             [
                 "TNC Predator",
@@ -10198,6 +11400,14 @@
             [
                 "Team Empire",
                 7
+            ],
+            [
+                "Team Liquid",
+                3
+            ],
+            [
+                "Team Magma",
+                3
             ],
             [
                 "Team Mystery",
@@ -10217,7 +11427,7 @@
             ],
             [
                 "Tundra Esports ",
-                1
+                4
             ],
             [
                 "Unknown Team",
@@ -10278,6 +11488,18 @@
                 0
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
+                "EHOME",
+                1
+            ],
+            [
+                "Elephant",
+                0
+            ],
+            [
                 "Execration",
                 1
             ],
@@ -10303,7 +11525,7 @@
             ],
             [
                 "Into The Breach",
-                1
+                2
             ],
             [
                 "Inverse",
@@ -10314,8 +11536,16 @@
                 0
             ],
             [
+                "Nigma",
+                4
+            ],
+            [
                 "NoPing Esports",
                 0
+            ],
+            [
+                "Royal Never Give Up",
+                1
             ],
             [
                 "SG esports",
@@ -10342,6 +11572,14 @@
                 6
             ],
             [
+                "Team Liquid",
+                2
+            ],
+            [
+                "Team Magma",
+                2
+            ],
+            [
                 "Team Mystery",
                 0
             ],
@@ -10359,7 +11597,7 @@
             ],
             [
                 "Tundra Esports ",
-                1
+                3
             ],
             [
                 "Unknown Team",
@@ -10420,6 +11658,18 @@
                 0.0
             ],
             [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
+                "EHOME",
+                0.5
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
                 "Execration",
                 1.0
             ],
@@ -10456,8 +11706,16 @@
                 0.0
             ],
             [
+                "Nigma",
+                0.8
+            ],
+            [
                 "NoPing Esports",
                 0.0
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
             ],
             [
                 "SG esports",
@@ -10473,7 +11731,7 @@
             ],
             [
                 "Spider Pigzs",
-                0.6666666666666666
+                0.5
             ],
             [
                 "TNC Predator",
@@ -10482,6 +11740,14 @@
             [
                 "Team Empire",
                 0.8571428571428571
+            ],
+            [
+                "Team Liquid",
+                0.6666666666666666
+            ],
+            [
+                "Team Magma",
+                0.6666666666666666
             ],
             [
                 "Team Mystery",
@@ -10501,7 +11767,7 @@
             ],
             [
                 "Tundra Esports ",
-                1.0
+                0.75
             ],
             [
                 "Unknown Team",
@@ -10605,7 +11871,7 @@
             ],
             [
                 "Aster.Aries",
-                1
+                2
             ],
             [
                 "B8",
@@ -10616,7 +11882,15 @@
                 2
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "D2 Hustlers",
+                1
+            ],
+            [
+                "Elephant",
                 1
             ],
             [
@@ -10632,6 +11906,10 @@
                 1
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "Motivate.Trust Gaming",
                 1
             ],
@@ -10641,7 +11919,7 @@
             ],
             [
                 "OG",
-                1
+                4
             ],
             [
                 "SG esports",
@@ -10649,6 +11927,10 @@
             ],
             [
                 "South Built Esports",
+                1
+            ],
+            [
+                "Spider Pigzs",
                 1
             ],
             [
@@ -10679,7 +11961,7 @@
             ],
             [
                 "Aster.Aries",
-                0
+                1
             ],
             [
                 "B8",
@@ -10690,8 +11972,16 @@
                 0
             ],
             [
+                "Chicken Fighters",
+                0
+            ],
+            [
                 "D2 Hustlers",
                 0
+            ],
+            [
+                "Elephant",
+                1
             ],
             [
                 "Execration",
@@ -10706,6 +11996,10 @@
                 1
             ],
             [
+                "Into The Breach",
+                0
+            ],
+            [
                 "Motivate.Trust Gaming",
                 0
             ],
@@ -10715,7 +12009,7 @@
             ],
             [
                 "OG",
-                0
+                1
             ],
             [
                 "SG esports",
@@ -10724,6 +12018,10 @@
             [
                 "South Built Esports",
                 0
+            ],
+            [
+                "Spider Pigzs",
+                1
             ],
             [
                 "TNC Predator",
@@ -10753,7 +12051,7 @@
             ],
             [
                 "Aster.Aries",
-                0.0
+                0.5
             ],
             [
                 "B8",
@@ -10764,8 +12062,16 @@
                 0.0
             ],
             [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
                 "D2 Hustlers",
                 0.0
+            ],
+            [
+                "Elephant",
+                1.0
             ],
             [
                 "Execration",
@@ -10780,6 +12086,10 @@
                 1.0
             ],
             [
+                "Into The Breach",
+                0.0
+            ],
+            [
                 "Motivate.Trust Gaming",
                 0.0
             ],
@@ -10789,7 +12099,7 @@
             ],
             [
                 "OG",
-                0.0
+                0.25
             ],
             [
                 "SG esports",
@@ -10798,6 +12108,10 @@
             [
                 "South Built Esports",
                 0.0
+            ],
+            [
+                "Spider Pigzs",
+                1.0
             ],
             [
                 "TNC Predator",
@@ -10859,6 +12173,10 @@
             ],
             [
                 "EHOME",
+                2
+            ],
+            [
+                "Elephant",
                 1
             ],
             [
@@ -10867,6 +12185,10 @@
             ],
             [
                 "HellRaisers",
+                1
+            ],
+            [
+                "Hellbear Smashers",
                 1
             ],
             [
@@ -10894,6 +12216,10 @@
                 3
             ],
             [
+                "Nigma",
+                5
+            ],
+            [
                 "NoPing Esports",
                 3
             ],
@@ -10903,7 +12229,7 @@
             ],
             [
                 "Royal Never Give Up",
-                2
+                3
             ],
             [
                 "SG esports",
@@ -10915,7 +12241,7 @@
             ],
             [
                 "Spider Pigzs",
-                2
+                3
             ],
             [
                 "Team Empire",
@@ -10923,11 +12249,11 @@
             ],
             [
                 "Team Liquid",
-                1
+                2
             ],
             [
                 "Team Magma",
-                2
+                5
             ],
             [
                 "Team Spirit",
@@ -10981,7 +12307,11 @@
             ],
             [
                 "EHOME",
-                1
+                2
+            ],
+            [
+                "Elephant",
+                0
             ],
             [
                 "Execration",
@@ -10990,6 +12320,10 @@
             [
                 "HellRaisers",
                 1
+            ],
+            [
+                "Hellbear Smashers",
+                0
             ],
             [
                 "Hokori",
@@ -11014,6 +12348,10 @@
             [
                 "Nemiga Gaming",
                 1
+            ],
+            [
+                "Nigma",
+                3
             ],
             [
                 "NoPing Esports",
@@ -11106,12 +12444,20 @@
                 1.0
             ],
             [
+                "Elephant",
+                0.0
+            ],
+            [
                 "Execration",
                 0.0
             ],
             [
                 "HellRaisers",
                 1.0
+            ],
+            [
+                "Hellbear Smashers",
+                0.0
             ],
             [
                 "Hokori",
@@ -11138,6 +12484,10 @@
                 0.3333333333333333
             ],
             [
+                "Nigma",
+                0.6
+            ],
+            [
                 "NoPing Esports",
                 0.6666666666666666
             ],
@@ -11147,7 +12497,7 @@
             ],
             [
                 "Royal Never Give Up",
-                0.5
+                0.3333333333333333
             ],
             [
                 "SG esports",
@@ -11159,7 +12509,7 @@
             ],
             [
                 "Spider Pigzs",
-                0.5
+                0.3333333333333333
             ],
             [
                 "Team Empire",
@@ -11167,11 +12517,11 @@
             ],
             [
                 "Team Liquid",
-                1.0
+                0.5
             ],
             [
                 "Team Magma",
-                0.5
+                0.2
             ],
             [
                 "Team Spirit",
@@ -11228,12 +12578,16 @@
                 1
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "EHOME",
-                2
+                4
             ],
             [
                 "Elephant",
-                1
+                2
             ],
             [
                 "Fnatic",
@@ -11334,8 +12688,12 @@
                 1
             ],
             [
+                "Chicken Fighters",
+                0
+            ],
+            [
                 "EHOME",
-                2
+                3
             ],
             [
                 "Elephant",
@@ -11440,12 +12798,16 @@
                 1.0
             ],
             [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
                 "EHOME",
-                1.0
+                0.75
             ],
             [
                 "Elephant",
-                1.0
+                0.5
             ],
             [
                 "Fnatic",
@@ -11621,7 +12983,7 @@
             ],
             [
                 "Elephant",
-                1
+                4
             ],
             [
                 "Execration",
@@ -11657,7 +13019,7 @@
             ],
             [
                 "Into The Breach",
-                1
+                2
             ],
             [
                 "Motivate.Trust Gaming",
@@ -11670,6 +13032,10 @@
             [
                 "OB.Neon",
                 2
+            ],
+            [
+                "OG",
+                1
             ],
             [
                 "Royal Never Give Up",
@@ -11700,6 +13066,14 @@
                 1
             ],
             [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Magma",
+                1
+            ],
+            [
                 "Team Spirit",
                 4
             ],
@@ -11709,7 +13083,7 @@
             ],
             [
                 "Tundra Esports ",
-                1
+                8
             ],
             [
                 "Undying",
@@ -11771,7 +13145,7 @@
             ],
             [
                 "Elephant",
-                1
+                3
             ],
             [
                 "Execration",
@@ -11807,7 +13181,7 @@
             ],
             [
                 "Into The Breach",
-                1
+                2
             ],
             [
                 "Motivate.Trust Gaming",
@@ -11820,6 +13194,10 @@
             [
                 "OB.Neon",
                 1
+            ],
+            [
+                "OG",
+                0
             ],
             [
                 "Royal Never Give Up",
@@ -11850,6 +13228,14 @@
                 1
             ],
             [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Magma",
+                1
+            ],
+            [
                 "Team Spirit",
                 4
             ],
@@ -11859,7 +13245,7 @@
             ],
             [
                 "Tundra Esports ",
-                1
+                5
             ],
             [
                 "Undying",
@@ -11921,7 +13307,7 @@
             ],
             [
                 "Elephant",
-                1.0
+                0.75
             ],
             [
                 "Execration",
@@ -11972,6 +13358,10 @@
                 0.5
             ],
             [
+                "OG",
+                0.0
+            ],
+            [
                 "Royal Never Give Up",
                 0.5
             ],
@@ -12000,6 +13390,14 @@
                 1.0
             ],
             [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Magma",
+                1.0
+            ],
+            [
                 "Team Spirit",
                 1.0
             ],
@@ -12009,7 +13407,7 @@
             ],
             [
                 "Tundra Esports ",
-                1.0
+                0.625
             ],
             [
                 "Undying",
@@ -12070,8 +13468,12 @@
                 1
             ],
             [
-                "Team Liquid",
+                "Spider Pigzs",
                 1
+            ],
+            [
+                "Team Liquid",
+                3
             ],
             [
                 "Ωmega Esports",
@@ -12105,6 +13507,10 @@
             ],
             [
                 "Natus Vincere",
+                1
+            ],
+            [
+                "Spider Pigzs",
                 1
             ],
             [
@@ -12146,6 +13552,10 @@
                 1.0
             ],
             [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
                 "Team Liquid",
                 0.0
             ],
@@ -12177,7 +13587,7 @@
             ],
             [
                 "Aster.Aries",
-                2
+                3
             ],
             [
                 "BINOMISTAS",
@@ -12188,7 +13598,15 @@
                 2
             ],
             [
+                "Brame",
+                1
+            ],
+            [
                 "DogChamp",
+                1
+            ],
+            [
+                "EHOME",
                 1
             ],
             [
@@ -12204,6 +13622,10 @@
                 1
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "TNC Predator",
                 1
             ],
@@ -12213,7 +13635,7 @@
             ],
             [
                 "Team Magma",
-                1
+                4
             ],
             [
                 "Undying",
@@ -12247,7 +13669,7 @@
             ],
             [
                 "Aster.Aries",
-                1
+                2
             ],
             [
                 "BINOMISTAS",
@@ -12258,7 +13680,15 @@
                 1
             ],
             [
+                "Brame",
+                0
+            ],
+            [
                 "DogChamp",
+                0
+            ],
+            [
+                "EHOME",
                 0
             ],
             [
@@ -12274,6 +13704,10 @@
                 0
             ],
             [
+                "OG",
+                0
+            ],
+            [
                 "TNC Predator",
                 0
             ],
@@ -12283,7 +13717,7 @@
             ],
             [
                 "Team Magma",
-                1
+                3
             ],
             [
                 "Undying",
@@ -12317,7 +13751,7 @@
             ],
             [
                 "Aster.Aries",
-                0.5
+                0.6666666666666666
             ],
             [
                 "BINOMISTAS",
@@ -12328,7 +13762,15 @@
                 0.5
             ],
             [
+                "Brame",
+                0.0
+            ],
+            [
                 "DogChamp",
+                0.0
+            ],
+            [
+                "EHOME",
                 0.0
             ],
             [
@@ -12344,6 +13786,10 @@
                 0.0
             ],
             [
+                "OG",
+                0.0
+            ],
+            [
                 "TNC Predator",
                 0.0
             ],
@@ -12353,7 +13799,7 @@
             ],
             [
                 "Team Magma",
-                1.0
+                0.75
             ],
             [
                 "Undying",
@@ -12410,6 +13856,10 @@
                 1
             ],
             [
+                "OG",
+                3
+            ],
+            [
                 "Team Empire",
                 1
             ],
@@ -12440,6 +13890,10 @@
                 0
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "Team Empire",
                 0
             ],
@@ -12468,6 +13922,10 @@
             [
                 "Natus Vincere",
                 0.0
+            ],
+            [
+                "OG",
+                0.3333333333333333
             ],
             [
                 "Team Empire",
@@ -12512,6 +13970,10 @@
                 1
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "OB.Neon",
                 2
             ],
@@ -12546,6 +14008,10 @@
                 1
             ],
             [
+                "Nigma",
+                0
+            ],
+            [
                 "OB.Neon",
                 1
             ],
@@ -12578,6 +14044,10 @@
             [
                 "Elephant",
                 1.0
+            ],
+            [
+                "Nigma",
+                0.0
             ],
             [
                 "OB.Neon",
@@ -12766,6 +14236,10 @@
                 4
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "Cignal Ultra",
                 1
             ],
@@ -12776,6 +14250,10 @@
             [
                 "EGOBOYS",
                 1
+            ],
+            [
+                "Elephant",
+                2
             ],
             [
                 "Execration",
@@ -12803,7 +14281,7 @@
             ],
             [
                 "Into The Breach",
-                1
+                2
             ],
             [
                 "Lilgun ",
@@ -12815,14 +14293,22 @@
             ],
             [
                 "Nigma",
-                2
+                3
             ],
             [
                 "OB.Neon",
                 3
             ],
             [
+                "OG",
+                2
+            ],
+            [
                 "PuckChamp",
+                2
+            ],
+            [
+                "Royal Never Give Up",
                 2
             ],
             [
@@ -12838,15 +14324,27 @@
                 1
             ],
             [
+                "Spider Pigzs",
+                2
+            ],
+            [
                 "TNC Predator",
                 2
             ],
             [
                 "Team Bald Reborn",
-                1
+                2
             ],
             [
                 "Team Empire",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Magma",
                 1
             ],
             [
@@ -12870,6 +14368,10 @@
                 1
             ],
             [
+                "Tundra Esports ",
+                4
+            ],
+            [
                 "Undying",
                 2
             ],
@@ -12887,7 +14389,7 @@
             ],
             [
                 "phoenix gaming",
-                1
+                2
             ],
             [
                 "Ωmega Esports",
@@ -12924,6 +14426,10 @@
                 1
             ],
             [
+                "Chicken Fighters",
+                0
+            ],
+            [
                 "Cignal Ultra",
                 1
             ],
@@ -12934,6 +14440,10 @@
             [
                 "EGOBOYS",
                 0
+            ],
+            [
+                "Elephant",
+                1
             ],
             [
                 "Execration",
@@ -12980,8 +14490,16 @@
                 2
             ],
             [
+                "OG",
+                2
+            ],
+            [
                 "PuckChamp",
                 1
+            ],
+            [
+                "Royal Never Give Up",
+                2
             ],
             [
                 "SG esports",
@@ -12996,6 +14514,10 @@
                 0
             ],
             [
+                "Spider Pigzs",
+                1
+            ],
+            [
                 "TNC Predator",
                 1
             ],
@@ -13005,6 +14527,14 @@
             ],
             [
                 "Team Empire",
+                1
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Magma",
                 1
             ],
             [
@@ -13026,6 +14556,10 @@
             [
                 "Trident Clan",
                 0
+            ],
+            [
+                "Tundra Esports ",
+                3
             ],
             [
                 "Undying",
@@ -13082,6 +14616,10 @@
                 0.25
             ],
             [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
                 "Cignal Ultra",
                 1.0
             ],
@@ -13092,6 +14630,10 @@
             [
                 "EGOBOYS",
                 0.0
+            ],
+            [
+                "Elephant",
+                0.5
             ],
             [
                 "Execration",
@@ -13119,7 +14661,7 @@
             ],
             [
                 "Into The Breach",
-                1.0
+                0.5
             ],
             [
                 "Lilgun ",
@@ -13131,15 +14673,23 @@
             ],
             [
                 "Nigma",
-                1.0
+                0.6666666666666666
             ],
             [
                 "OB.Neon",
                 0.6666666666666666
             ],
             [
+                "OG",
+                1.0
+            ],
+            [
                 "PuckChamp",
                 0.5
+            ],
+            [
+                "Royal Never Give Up",
+                1.0
             ],
             [
                 "SG esports",
@@ -13154,6 +14704,10 @@
                 0.0
             ],
             [
+                "Spider Pigzs",
+                0.5
+            ],
+            [
                 "TNC Predator",
                 0.5
             ],
@@ -13163,6 +14717,14 @@
             ],
             [
                 "Team Empire",
+                1.0
+            ],
+            [
+                "Team Liquid",
+                1.0
+            ],
+            [
+                "Team Magma",
                 1.0
             ],
             [
@@ -13186,6 +14748,10 @@
                 0.0
             ],
             [
+                "Tundra Esports ",
+                0.75
+            ],
+            [
                 "Undying",
                 1.0
             ],
@@ -13203,7 +14769,7 @@
             ],
             [
                 "phoenix gaming",
-                1.0
+                0.5
             ],
             [
                 "Ωmega Esports",
@@ -13265,7 +14831,7 @@
             ],
             [
                 "OG",
-                2
+                3
             ],
             [
                 "SG esports",
@@ -13278,6 +14844,10 @@
             [
                 "Team Empire",
                 1
+            ],
+            [
+                "Team Liquid",
+                2
             ],
             [
                 "Team Spirit",
@@ -13350,6 +14920,10 @@
                 0
             ],
             [
+                "Team Liquid",
+                0
+            ],
+            [
                 "Team Spirit",
                 0
             ],
@@ -13405,7 +14979,7 @@
             ],
             [
                 "OG",
-                0.5
+                0.3333333333333333
             ],
             [
                 "SG esports",
@@ -13417,6 +14991,10 @@
             ],
             [
                 "Team Empire",
+                0.0
+            ],
+            [
+                "Team Liquid",
                 0.0
             ],
             [
@@ -13516,6 +15094,10 @@
                 1
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "D2 Hustlers",
                 1
             ],
@@ -13544,6 +15126,10 @@
                 3
             ],
             [
+                "OG",
+                3
+            ],
+            [
                 "PuckChamp",
                 4
             ],
@@ -13557,10 +15143,14 @@
             ],
             [
                 "Spider Pigzs",
-                2
+                3
             ],
             [
                 "Team Bald Reborn",
+                1
+            ],
+            [
+                "Team Liquid",
                 1
             ],
             [
@@ -13590,6 +15180,10 @@
                 0
             ],
             [
+                "Chicken Fighters",
+                0
+            ],
+            [
                 "D2 Hustlers",
                 1
             ],
@@ -13618,6 +15212,10 @@
                 2
             ],
             [
+                "OG",
+                3
+            ],
+            [
                 "PuckChamp",
                 4
             ],
@@ -13636,6 +15234,10 @@
             [
                 "Team Bald Reborn",
                 1
+            ],
+            [
+                "Team Liquid",
+                0
             ],
             [
                 "Team Mystery",
@@ -13661,6 +15263,10 @@
             ],
             [
                 "CDEC ",
+                0.0
+            ],
+            [
+                "Chicken Fighters",
                 0.0
             ],
             [
@@ -13692,6 +15298,10 @@
                 0.6666666666666666
             ],
             [
+                "OG",
+                1.0
+            ],
+            [
                 "PuckChamp",
                 1.0
             ],
@@ -13710,6 +15320,10 @@
             [
                 "Team Bald Reborn",
                 1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
             ],
             [
                 "Team Mystery",
@@ -13746,8 +15360,20 @@
                 1
             ],
             [
+                "EHOME",
+                1
+            ],
+            [
+                "Nigma",
+                1
+            ],
+            [
                 "OB.Neon",
                 2
+            ],
+            [
+                "Spider Pigzs",
+                1
             ],
             [
                 "TNC Predator",
@@ -13776,7 +15402,19 @@
                 0
             ],
             [
+                "EHOME",
+                1
+            ],
+            [
+                "Nigma",
+                0
+            ],
+            [
                 "OB.Neon",
+                1
+            ],
+            [
+                "Spider Pigzs",
                 1
             ],
             [
@@ -13806,8 +15444,20 @@
                 0.0
             ],
             [
+                "EHOME",
+                1.0
+            ],
+            [
+                "Nigma",
+                0.0
+            ],
+            [
                 "OB.Neon",
                 0.5
+            ],
+            [
+                "Spider Pigzs",
+                1.0
             ],
             [
                 "TNC Predator",
@@ -14075,7 +15725,7 @@
             ],
             [
                 "Aster.Aries",
-                1
+                2
             ],
             [
                 "BINOMISTAS",
@@ -14095,7 +15745,7 @@
             ],
             [
                 "Chicken Fighters",
-                3
+                5
             ],
             [
                 "Cignal Ultra",
@@ -14111,7 +15761,11 @@
             ],
             [
                 "EHOME",
-                2
+                4
+            ],
+            [
+                "Elephant",
+                3
             ],
             [
                 "Execration",
@@ -14151,7 +15805,7 @@
             ],
             [
                 "Nigma",
-                2
+                4
             ],
             [
                 "SG esports",
@@ -14163,7 +15817,7 @@
             ],
             [
                 "Sparking Arrow Gaming",
-                2
+                4
             ],
             [
                 "TNC Predator",
@@ -14175,7 +15829,7 @@
             ],
             [
                 "Team Liquid",
-                1
+                2
             ],
             [
                 "Team Spirit",
@@ -14199,7 +15853,7 @@
             ],
             [
                 "phoenix gaming",
-                1
+                2
             ]
         ]
     },
@@ -14241,7 +15895,7 @@
             ],
             [
                 "Chicken Fighters",
-                3
+                5
             ],
             [
                 "Cignal Ultra",
@@ -14258,6 +15912,10 @@
             [
                 "EHOME",
                 2
+            ],
+            [
+                "Elephant",
+                1
             ],
             [
                 "Execration",
@@ -14297,7 +15955,7 @@
             ],
             [
                 "Nigma",
-                1
+                2
             ],
             [
                 "SG esports",
@@ -14367,7 +16025,7 @@
             ],
             [
                 "Aster.Aries",
-                1.0
+                0.5
             ],
             [
                 "BINOMISTAS",
@@ -14403,7 +16061,11 @@
             ],
             [
                 "EHOME",
-                1.0
+                0.5
+            ],
+            [
+                "Elephant",
+                0.3333333333333333
             ],
             [
                 "Execration",
@@ -14455,7 +16117,7 @@
             ],
             [
                 "Sparking Arrow Gaming",
-                0.5
+                0.25
             ],
             [
                 "TNC Predator",
@@ -14467,7 +16129,7 @@
             ],
             [
                 "Team Liquid",
-                1.0
+                0.5
             ],
             [
                 "Team Spirit",
@@ -14517,7 +16179,7 @@
             ],
             [
                 "Aster.Aries",
-                4
+                5
             ],
             [
                 "BOOM Esports",
@@ -14540,6 +16202,14 @@
                 3
             ],
             [
+                "EHOME",
+                1
+            ],
+            [
+                "Elephant",
+                1
+            ],
+            [
                 "Execration",
                 4
             ],
@@ -14556,6 +16226,10 @@
                 1
             ],
             [
+                "Hellbear Smashers",
+                1
+            ],
+            [
                 "Infamous Gaming",
                 3
             ],
@@ -14569,7 +16243,7 @@
             ],
             [
                 "Into The Breach",
-                1
+                2
             ],
             [
                 "Lilgun ",
@@ -14593,7 +16267,7 @@
             ],
             [
                 "OG",
-                1
+                2
             ],
             [
                 "PuckChamp",
@@ -14617,7 +16291,7 @@
             ],
             [
                 "Team Magma",
-                2
+                3
             ],
             [
                 "Team Unique",
@@ -14651,7 +16325,7 @@
             ],
             [
                 "Aster.Aries",
-                3
+                4
             ],
             [
                 "BOOM Esports",
@@ -14674,6 +16348,14 @@
                 1
             ],
             [
+                "EHOME",
+                0
+            ],
+            [
+                "Elephant",
+                0
+            ],
+            [
                 "Execration",
                 2
             ],
@@ -14687,6 +16369,10 @@
             ],
             [
                 "HellRaisers",
+                0
+            ],
+            [
+                "Hellbear Smashers",
                 0
             ],
             [
@@ -14751,7 +16437,7 @@
             ],
             [
                 "Team Magma",
-                1
+                2
             ],
             [
                 "Team Unique",
@@ -14785,7 +16471,7 @@
             ],
             [
                 "Aster.Aries",
-                0.75
+                0.8
             ],
             [
                 "BOOM Esports",
@@ -14808,6 +16494,14 @@
                 0.3333333333333333
             ],
             [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Elephant",
+                0.0
+            ],
+            [
                 "Execration",
                 0.5
             ],
@@ -14824,6 +16518,10 @@
                 0.0
             ],
             [
+                "Hellbear Smashers",
+                0.0
+            ],
+            [
                 "Infamous Gaming",
                 0.6666666666666666
             ],
@@ -14837,7 +16535,7 @@
             ],
             [
                 "Into The Breach",
-                1.0
+                0.5
             ],
             [
                 "Lilgun ",
@@ -14861,7 +16559,7 @@
             ],
             [
                 "OG",
-                1.0
+                0.5
             ],
             [
                 "PuckChamp",
@@ -14885,7 +16583,7 @@
             ],
             [
                 "Team Magma",
-                0.5
+                0.6666666666666666
             ],
             [
                 "Team Unique",
@@ -14994,6 +16692,10 @@
             [
                 "Fantastic Five",
                 1
+            ],
+            [
+                "Hellbear Smashers",
+                1
             ]
         ]
     },
@@ -15004,6 +16706,10 @@
             [
                 "Fantastic Five",
                 0
+            ],
+            [
+                "Hellbear Smashers",
+                0
             ]
         ]
     },
@@ -15013,6 +16719,10 @@
         "data": [
             [
                 "Fantastic Five",
+                0.0
+            ],
+            [
+                "Hellbear Smashers",
                 0.0
             ]
         ],
@@ -15089,7 +16799,7 @@
             ],
             [
                 "EHOME",
-                1
+                2
             ],
             [
                 "Execration",
@@ -15100,8 +16810,12 @@
                 1
             ],
             [
-                "OG",
+                "Nigma",
                 1
+            ],
+            [
+                "OG",
+                3
             ],
             [
                 "Sparking Arrow Gaming",
@@ -15112,12 +16826,16 @@
                 1
             ],
             [
-                "Team Liquid",
+                "Team Bald Reborn",
                 1
             ],
             [
+                "Team Liquid",
+                2
+            ],
+            [
                 "Team Magma",
-                1
+                2
             ],
             [
                 "Team SMG",
@@ -15129,6 +16847,10 @@
             ],
             [
                 "The Cut",
+                1
+            ],
+            [
+                "Tundra Esports ",
                 1
             ],
             [
@@ -15170,8 +16892,12 @@
                 1
             ],
             [
+                "Nigma",
+                0
+            ],
+            [
                 "OG",
-                1
+                2
             ],
             [
                 "Sparking Arrow Gaming",
@@ -15182,12 +16908,16 @@
                 1
             ],
             [
+                "Team Bald Reborn",
+                0
+            ],
+            [
                 "Team Liquid",
                 1
             ],
             [
                 "Team Magma",
-                0
+                1
             ],
             [
                 "Team SMG",
@@ -15200,6 +16930,10 @@
             [
                 "The Cut",
                 0
+            ],
+            [
+                "Tundra Esports ",
+                1
             ],
             [
                 "bumble bEE's",
@@ -15229,7 +16963,7 @@
             ],
             [
                 "EHOME",
-                1.0
+                0.5
             ],
             [
                 "Execration",
@@ -15240,8 +16974,12 @@
                 1.0
             ],
             [
+                "Nigma",
+                0.0
+            ],
+            [
                 "OG",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Sparking Arrow Gaming",
@@ -15252,12 +16990,16 @@
                 1.0
             ],
             [
+                "Team Bald Reborn",
+                0.0
+            ],
+            [
                 "Team Liquid",
-                1.0
+                0.5
             ],
             [
                 "Team Magma",
-                0.0
+                0.5
             ],
             [
                 "Team SMG",
@@ -15270,6 +17012,10 @@
             [
                 "The Cut",
                 0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
             ],
             [
                 "bumble bEE's",
@@ -15372,6 +17118,10 @@
                 2
             ],
             [
+                "EHOME",
+                1
+            ],
+            [
                 "HellRaisers",
                 1
             ],
@@ -15407,6 +17157,10 @@
             ],
             [
                 "DogChamp",
+                1
+            ],
+            [
+                "EHOME",
                 1
             ],
             [
@@ -15446,6 +17200,10 @@
             [
                 "DogChamp",
                 0.5
+            ],
+            [
+                "EHOME",
+                1.0
             ],
             [
                 "HellRaisers",
@@ -15506,6 +17264,10 @@
                 1
             ],
             [
+                "Elephant",
+                1
+            ],
+            [
                 "HellRaisers",
                 1
             ],
@@ -15518,11 +17280,19 @@
                 1
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "Omega Gaming",
                 1
             ],
             [
                 "PuckChamp",
+                1
+            ],
+            [
+                "Royal Never Give Up",
                 1
             ],
             [
@@ -15534,8 +17304,12 @@
                 2
             ],
             [
-                "Team Liquid",
+                "Spider Pigzs",
                 1
+            ],
+            [
+                "Team Liquid",
+                2
             ],
             [
                 "Team Magma",
@@ -15551,6 +17325,10 @@
             ],
             [
                 "Trident Clan",
+                1
+            ],
+            [
+                "Tundra Esports ",
                 1
             ],
             [
@@ -15588,6 +17366,10 @@
                 1
             ],
             [
+                "Elephant",
+                1
+            ],
+            [
                 "HellRaisers",
                 0
             ],
@@ -15600,6 +17382,10 @@
                 1
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "Omega Gaming",
                 0
             ],
@@ -15608,11 +17394,19 @@
                 0
             ],
             [
+                "Royal Never Give Up",
+                1
+            ],
+            [
                 "Simply TOOBASED",
                 1
             ],
             [
                 "Sparking Arrow Gaming",
+                0
+            ],
+            [
+                "Spider Pigzs",
                 0
             ],
             [
@@ -15634,6 +17428,10 @@
             [
                 "Trident Clan",
                 0
+            ],
+            [
+                "Tundra Esports ",
+                1
             ],
             [
                 "Undying",
@@ -15670,6 +17468,10 @@
                 1.0
             ],
             [
+                "Elephant",
+                1.0
+            ],
+            [
                 "HellRaisers",
                 0.0
             ],
@@ -15682,6 +17484,10 @@
                 1.0
             ],
             [
+                "OG",
+                1.0
+            ],
+            [
                 "Omega Gaming",
                 0.0
             ],
@@ -15690,11 +17496,19 @@
                 0.0
             ],
             [
+                "Royal Never Give Up",
+                1.0
+            ],
+            [
                 "Simply TOOBASED",
                 0.3333333333333333
             ],
             [
                 "Sparking Arrow Gaming",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
                 0.0
             ],
             [
@@ -15716,6 +17530,10 @@
             [
                 "Trident Clan",
                 0.0
+            ],
+            [
+                "Tundra Esports ",
+                1.0
             ],
             [
                 "Undying",
@@ -15749,7 +17567,7 @@
         "data": [
             [
                 "Aster.Aries",
-                1
+                2
             ],
             [
                 "Brame",
@@ -15776,6 +17594,10 @@
                 1
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "Latam Defenders",
                 1
             ],
@@ -15789,6 +17611,14 @@
             ],
             [
                 "Nemiga Gaming",
+                1
+            ],
+            [
+                "OG",
+                1
+            ],
+            [
+                "Sparking Arrow Gaming",
                 1
             ],
             [
@@ -15811,7 +17641,7 @@
         "data": [
             [
                 "Aster.Aries",
-                1
+                2
             ],
             [
                 "Brame",
@@ -15838,6 +17668,10 @@
                 0
             ],
             [
+                "Into The Breach",
+                0
+            ],
+            [
                 "Latam Defenders",
                 0
             ],
@@ -15851,6 +17685,14 @@
             ],
             [
                 "Nemiga Gaming",
+                0
+            ],
+            [
+                "OG",
+                1
+            ],
+            [
+                "Sparking Arrow Gaming",
                 0
             ],
             [
@@ -15900,6 +17742,10 @@
                 0.0
             ],
             [
+                "Into The Breach",
+                0.0
+            ],
+            [
                 "Latam Defenders",
                 0.0
             ],
@@ -15913,6 +17759,14 @@
             ],
             [
                 "Nemiga Gaming",
+                0.0
+            ],
+            [
+                "OG",
+                1.0
+            ],
+            [
+                "Sparking Arrow Gaming",
                 0.0
             ],
             [
@@ -16094,6 +17948,10 @@
                 1
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "OB.Neon",
                 1
             ],
@@ -16103,7 +17961,7 @@
             ],
             [
                 "Team Liquid",
-                1
+                4
             ],
             [
                 "Team Magma",
@@ -16132,6 +17990,10 @@
                 0
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "OB.Neon",
                 0
             ],
@@ -16141,7 +18003,7 @@
             ],
             [
                 "Team Liquid",
-                1
+                2
             ],
             [
                 "Team Magma",
@@ -16170,6 +18032,10 @@
                 0.0
             ],
             [
+                "Nigma",
+                1.0
+            ],
+            [
                 "OB.Neon",
                 0.0
             ],
@@ -16179,7 +18045,7 @@
             ],
             [
                 "Team Liquid",
-                1.0
+                0.5
             ],
             [
                 "Team Magma",
@@ -16208,6 +18074,10 @@
                 1
             ],
             [
+                "Team Liquid",
+                2
+            ],
+            [
                 "The Cut",
                 1
             ]
@@ -16222,6 +18092,10 @@
                 1
             ],
             [
+                "Team Liquid",
+                0
+            ],
+            [
                 "The Cut",
                 0
             ]
@@ -16234,6 +18108,10 @@
             [
                 "SG esports",
                 1.0
+            ],
+            [
+                "Team Liquid",
+                0.0
             ],
             [
                 "The Cut",
@@ -16267,7 +18145,7 @@
             ],
             [
                 "Chicken Fighters",
-                2
+                6
             ],
             [
                 "Fnatic",
@@ -16291,7 +18169,7 @@
             ],
             [
                 "Spider Pigzs",
-                1
+                3
             ],
             [
                 "TNC Predator",
@@ -16333,7 +18211,7 @@
             ],
             [
                 "Chicken Fighters",
-                2
+                4
             ],
             [
                 "Fnatic",
@@ -16399,7 +18277,7 @@
             ],
             [
                 "Chicken Fighters",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Fnatic",
@@ -16566,6 +18444,10 @@
                 3
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "Motivate.Trust Gaming",
                 2
             ],
@@ -16592,6 +18474,10 @@
             [
                 "Team Empire",
                 4
+            ],
+            [
+                "Team Magma",
+                1
             ],
             [
                 "The Cut",
@@ -16684,6 +18570,10 @@
                 2
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "Motivate.Trust Gaming",
                 1
             ],
@@ -16710,6 +18600,10 @@
             [
                 "Team Empire",
                 2
+            ],
+            [
+                "Team Magma",
+                0
             ],
             [
                 "The Cut",
@@ -16802,6 +18696,10 @@
                 0.6666666666666666
             ],
             [
+                "Into The Breach",
+                1.0
+            ],
+            [
                 "Motivate.Trust Gaming",
                 0.5
             ],
@@ -16828,6 +18726,10 @@
             [
                 "Team Empire",
                 0.5
+            ],
+            [
+                "Team Magma",
+                0.0
             ],
             [
                 "The Cut",
@@ -16920,11 +18822,19 @@
                 1
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "Simply TOOBASED",
                 1
             ],
             [
                 "South Built Esports",
+                1
+            ],
+            [
+                "Team Liquid",
                 1
             ],
             [
@@ -16994,11 +18904,19 @@
                 0
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "Simply TOOBASED",
                 0
             ],
             [
                 "South Built Esports",
+                0
+            ],
+            [
+                "Team Liquid",
                 0
             ],
             [
@@ -17068,11 +18986,19 @@
                 0.0
             ],
             [
+                "Nigma",
+                1.0
+            ],
+            [
                 "Simply TOOBASED",
                 0.0
             ],
             [
                 "South Built Esports",
+                0.0
+            ],
+            [
+                "Team Liquid",
                 0.0
             ],
             [
@@ -17200,6 +19126,10 @@
         "id": "Techies Matches Played",
         "data": [
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "DogChamp",
                 1
             ],
@@ -17214,6 +19144,10 @@
         "id": "Techies Matches Won",
         "data": [
             [
+                "Chicken Fighters",
+                0
+            ],
+            [
                 "DogChamp",
                 0
             ],
@@ -17227,6 +19161,10 @@
         "name": "Techies Win Rate",
         "id": "Techies Win Rate",
         "data": [
+            [
+                "Chicken Fighters",
+                0.0
+            ],
             [
                 "DogChamp",
                 0.0
@@ -17282,6 +19220,10 @@
                 1
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "DogChamp",
                 3
             ],
@@ -17291,11 +19233,11 @@
             ],
             [
                 "EHOME",
-                2
+                4
             ],
             [
                 "Elephant",
-                1
+                2
             ],
             [
                 "Execration",
@@ -17335,7 +19277,7 @@
             ],
             [
                 "Nigma",
-                2
+                4
             ],
             [
                 "NoPing Esports",
@@ -17344,6 +19286,10 @@
             [
                 "NoTechies",
                 1
+            ],
+            [
+                "OG",
+                2
             ],
             [
                 "Royal Never Give Up",
@@ -17358,8 +19304,12 @@
                 2
             ],
             [
-                "Team Magma",
+                "Team Liquid",
                 1
+            ],
+            [
+                "Team Magma",
+                3
             ],
             [
                 "Team Spirit",
@@ -17420,6 +19370,10 @@
                 1
             ],
             [
+                "Chicken Fighters",
+                0
+            ],
+            [
                 "DogChamp",
                 1
             ],
@@ -17429,11 +19383,11 @@
             ],
             [
                 "EHOME",
-                2
+                3
             ],
             [
                 "Elephant",
-                1
+                2
             ],
             [
                 "Execration",
@@ -17473,7 +19427,7 @@
             ],
             [
                 "Nigma",
-                1
+                2
             ],
             [
                 "NoPing Esports",
@@ -17482,6 +19436,10 @@
             [
                 "NoTechies",
                 0
+            ],
+            [
+                "OG",
+                2
             ],
             [
                 "Royal Never Give Up",
@@ -17496,8 +19454,12 @@
                 2
             ],
             [
+                "Team Liquid",
+                0
+            ],
+            [
                 "Team Magma",
-                1
+                2
             ],
             [
                 "Team Spirit",
@@ -17558,6 +19520,10 @@
                 1.0
             ],
             [
+                "Chicken Fighters",
+                0.0
+            ],
+            [
                 "DogChamp",
                 0.3333333333333333
             ],
@@ -17567,7 +19533,7 @@
             ],
             [
                 "EHOME",
-                1.0
+                0.75
             ],
             [
                 "Elephant",
@@ -17622,6 +19588,10 @@
                 0.0
             ],
             [
+                "OG",
+                1.0
+            ],
+            [
                 "Royal Never Give Up",
                 1.0
             ],
@@ -17634,8 +19604,12 @@
                 1.0
             ],
             [
+                "Team Liquid",
+                0.0
+            ],
+            [
                 "Team Magma",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Team Spirit",
@@ -17712,12 +19686,24 @@
                 1
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "D2 Hustlers",
                 3
             ],
             [
                 "EGOBOYS",
                 1
+            ],
+            [
+                "EHOME",
+                1
+            ],
+            [
+                "Elephant",
+                3
             ],
             [
                 "Execration",
@@ -17765,7 +19751,7 @@
             ],
             [
                 "Nigma",
-                1
+                4
             ],
             [
                 "No Bounty Hunter",
@@ -17776,16 +19762,28 @@
                 2
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "PuckChamp",
                 3
+            ],
+            [
+                "Royal Never Give Up",
+                2
             ],
             [
                 "SG esports",
                 3
             ],
             [
-                "Spider Pigzs",
+                "Sparking Arrow Gaming",
                 1
+            ],
+            [
+                "Spider Pigzs",
+                3
             ],
             [
                 "TNC Predator",
@@ -17800,6 +19798,10 @@
                 2
             ],
             [
+                "Team Magma",
+                1
+            ],
+            [
                 "Team Spirit",
                 2
             ],
@@ -17809,7 +19811,7 @@
             ],
             [
                 "Tundra Esports ",
-                1
+                5
             ],
             [
                 "Undying",
@@ -17825,7 +19827,7 @@
             ],
             [
                 "phoenix gaming",
-                2
+                3
             ],
             [
                 "Ωmega Esports",
@@ -17870,12 +19872,24 @@
                 0
             ],
             [
+                "Chicken Fighters",
+                1
+            ],
+            [
                 "D2 Hustlers",
                 3
             ],
             [
                 "EGOBOYS",
                 0
+            ],
+            [
+                "EHOME",
+                0
+            ],
+            [
+                "Elephant",
+                3
             ],
             [
                 "Execration",
@@ -17923,7 +19937,7 @@
             ],
             [
                 "Nigma",
-                1
+                3
             ],
             [
                 "No Bounty Hunter",
@@ -17934,7 +19948,15 @@
                 2
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "PuckChamp",
+                1
+            ],
+            [
+                "Royal Never Give Up",
                 1
             ],
             [
@@ -17942,8 +19964,12 @@
                 2
             ],
             [
-                "Spider Pigzs",
+                "Sparking Arrow Gaming",
                 0
+            ],
+            [
+                "Spider Pigzs",
+                1
             ],
             [
                 "TNC Predator",
@@ -17958,6 +19984,10 @@
                 1
             ],
             [
+                "Team Magma",
+                1
+            ],
+            [
                 "Team Spirit",
                 2
             ],
@@ -17967,7 +19997,7 @@
             ],
             [
                 "Tundra Esports ",
-                1
+                5
             ],
             [
                 "Undying",
@@ -18028,12 +20058,24 @@
                 0.0
             ],
             [
+                "Chicken Fighters",
+                1.0
+            ],
+            [
                 "D2 Hustlers",
                 1.0
             ],
             [
                 "EGOBOYS",
                 0.0
+            ],
+            [
+                "EHOME",
+                0.0
+            ],
+            [
+                "Elephant",
+                1.0
             ],
             [
                 "Execration",
@@ -18081,7 +20123,7 @@
             ],
             [
                 "Nigma",
-                1.0
+                0.75
             ],
             [
                 "No Bounty Hunter",
@@ -18092,16 +20134,28 @@
                 1.0
             ],
             [
+                "OG",
+                1.0
+            ],
+            [
                 "PuckChamp",
                 0.3333333333333333
+            ],
+            [
+                "Royal Never Give Up",
+                0.5
             ],
             [
                 "SG esports",
                 0.6666666666666666
             ],
             [
-                "Spider Pigzs",
+                "Sparking Arrow Gaming",
                 0.0
+            ],
+            [
+                "Spider Pigzs",
+                0.3333333333333333
             ],
             [
                 "TNC Predator",
@@ -18114,6 +20168,10 @@
             [
                 "Team Liquid",
                 0.5
+            ],
+            [
+                "Team Magma",
+                1.0
             ],
             [
                 "Team Spirit",
@@ -18141,7 +20199,7 @@
             ],
             [
                 "phoenix gaming",
-                0.5
+                0.3333333333333333
             ],
             [
                 "Ωmega Esports",
@@ -18182,8 +20240,12 @@
                 3
             ],
             [
-                "Elephant",
+                "EHOME",
                 1
+            ],
+            [
+                "Elephant",
+                3
             ],
             [
                 "Fnatic",
@@ -18211,14 +20273,22 @@
             ],
             [
                 "Nigma",
-                1
+                2
             ],
             [
                 "NoPing Esports",
                 3
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "PuckChamp",
+                1
+            ],
+            [
+                "Royal Never Give Up",
                 1
             ],
             [
@@ -18230,12 +20300,24 @@
                 1
             ],
             [
+                "Team Bald Reborn",
+                1
+            ],
+            [
                 "Team Spirit",
                 1
             ],
             [
+                "Tundra Esports ",
+                4
+            ],
+            [
                 "Unknown Team",
                 2
+            ],
+            [
+                "phoenix gaming",
+                1
             ]
         ]
     },
@@ -18260,8 +20342,12 @@
                 2
             ],
             [
+                "EHOME",
+                0
+            ],
+            [
                 "Elephant",
-                1
+                2
             ],
             [
                 "Fnatic",
@@ -18296,7 +20382,15 @@
                 2
             ],
             [
+                "OG",
+                0
+            ],
+            [
                 "PuckChamp",
+                0
+            ],
+            [
+                "Royal Never Give Up",
                 0
             ],
             [
@@ -18308,12 +20402,24 @@
                 1
             ],
             [
+                "Team Bald Reborn",
+                0
+            ],
+            [
                 "Team Spirit",
                 1
             ],
             [
+                "Tundra Esports ",
+                2
+            ],
+            [
                 "Unknown Team",
                 1
+            ],
+            [
+                "phoenix gaming",
+                0
             ]
         ]
     },
@@ -18338,8 +20444,12 @@
                 0.6666666666666666
             ],
             [
+                "EHOME",
+                0.0
+            ],
+            [
                 "Elephant",
-                1.0
+                0.6666666666666666
             ],
             [
                 "Fnatic",
@@ -18374,7 +20484,15 @@
                 0.6666666666666666
             ],
             [
+                "OG",
+                0.0
+            ],
+            [
                 "PuckChamp",
+                0.0
+            ],
+            [
+                "Royal Never Give Up",
                 0.0
             ],
             [
@@ -18386,12 +20504,24 @@
                 1.0
             ],
             [
+                "Team Bald Reborn",
+                0.0
+            ],
+            [
                 "Team Spirit",
                 1.0
             ],
             [
+                "Tundra Esports ",
+                0.5
+            ],
+            [
                 "Unknown Team",
                 0.5
+            ],
+            [
+                "phoenix gaming",
+                0.0
             ]
         ],
         "type": "spline",
@@ -18417,6 +20547,10 @@
             ],
             [
                 "AS Monaco Gambit",
+                1
+            ],
+            [
+                "Aster.Aries",
                 1
             ],
             [
@@ -18449,7 +20583,7 @@
             ],
             [
                 "Into The Breach",
-                2
+                3
             ],
             [
                 "Lilgun ",
@@ -18465,7 +20599,7 @@
             ],
             [
                 "Nigma",
-                2
+                4
             ],
             [
                 "No Bounty Hunter",
@@ -18484,6 +20618,10 @@
                 2
             ],
             [
+                "OG",
+                2
+            ],
+            [
                 "SG esports",
                 1
             ],
@@ -18492,8 +20630,20 @@
                 1
             ],
             [
+                "Spider Pigzs",
+                2
+            ],
+            [
                 "Team Empire",
                 7
+            ],
+            [
+                "Team Liquid",
+                1
+            ],
+            [
+                "Team Magma",
+                2
             ],
             [
                 "Team Mystery",
@@ -18538,6 +20688,10 @@
                 0
             ],
             [
+                "Aster.Aries",
+                0
+            ],
+            [
                 "B8",
                 0
             ],
@@ -18602,6 +20756,10 @@
                 1
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "SG esports",
                 1
             ],
@@ -18610,8 +20768,20 @@
                 0
             ],
             [
+                "Spider Pigzs",
+                2
+            ],
+            [
                 "Team Empire",
                 3
+            ],
+            [
+                "Team Liquid",
+                0
+            ],
+            [
+                "Team Magma",
+                2
             ],
             [
                 "Team Mystery",
@@ -18656,6 +20826,10 @@
                 0.0
             ],
             [
+                "Aster.Aries",
+                0.0
+            ],
+            [
                 "B8",
                 0.0
             ],
@@ -18685,7 +20859,7 @@
             ],
             [
                 "Into The Breach",
-                0.5
+                0.3333333333333333
             ],
             [
                 "Lilgun ",
@@ -18701,7 +20875,7 @@
             ],
             [
                 "Nigma",
-                1.0
+                0.5
             ],
             [
                 "No Bounty Hunter",
@@ -18720,6 +20894,10 @@
                 0.5
             ],
             [
+                "OG",
+                0.5
+            ],
+            [
                 "SG esports",
                 1.0
             ],
@@ -18728,8 +20906,20 @@
                 0.0
             ],
             [
+                "Spider Pigzs",
+                1.0
+            ],
+            [
                 "Team Empire",
                 0.42857142857142855
+            ],
+            [
+                "Team Liquid",
+                0.0
+            ],
+            [
+                "Team Magma",
+                1.0
             ],
             [
                 "Team Mystery",
@@ -18818,6 +21008,10 @@
                 1
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "NoPing Esports",
                 5
             ],
@@ -18831,6 +21025,10 @@
             ],
             [
                 "TNC Predator",
+                1
+            ],
+            [
+                "Team Liquid",
                 1
             ],
             [
@@ -18884,6 +21082,10 @@
                 0
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "NoPing Esports",
                 4
             ],
@@ -18898,6 +21100,10 @@
             [
                 "TNC Predator",
                 0
+            ],
+            [
+                "Team Liquid",
+                1
             ],
             [
                 "Team Spirit",
@@ -18950,6 +21156,10 @@
                 0.0
             ],
             [
+                "Nigma",
+                1.0
+            ],
+            [
                 "NoPing Esports",
                 0.8
             ],
@@ -18964,6 +21174,10 @@
             [
                 "TNC Predator",
                 0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
             ],
             [
                 "Team Spirit",
@@ -19249,7 +21463,7 @@
             ],
             [
                 "Into The Breach",
-                1
+                2
             ],
             [
                 "Inverse",
@@ -19262,6 +21476,10 @@
             [
                 "Nemiga Gaming",
                 1
+            ],
+            [
+                "Nigma",
+                3
             ],
             [
                 "OB.Neon",
@@ -19334,6 +21552,10 @@
                 1
             ],
             [
+                "Nigma",
+                2
+            ],
+            [
                 "OB.Neon",
                 1
             ],
@@ -19389,7 +21611,7 @@
             ],
             [
                 "Into The Breach",
-                1.0
+                0.5
             ],
             [
                 "Inverse",
@@ -19402,6 +21624,10 @@
             [
                 "Nemiga Gaming",
                 1.0
+            ],
+            [
+                "Nigma",
+                0.6666666666666666
             ],
             [
                 "OB.Neon",
@@ -19553,7 +21779,7 @@
             ],
             [
                 "Royal Never Give Up",
-                1
+                3
             ]
         ]
     },
@@ -19587,7 +21813,7 @@
             ],
             [
                 "Royal Never Give Up",
-                1
+                2
             ]
         ]
     },
@@ -19621,7 +21847,7 @@
             ],
             [
                 "Royal Never Give Up",
-                1.0
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -19647,7 +21873,7 @@
             ],
             [
                 "Aster.Aries",
-                1
+                2
             ],
             [
                 "Black N Yellow",
@@ -19675,10 +21901,14 @@
             ],
             [
                 "Team Magma",
-                1
+                2
             ],
             [
                 "Team Spirit",
+                1
+            ],
+            [
+                "Tundra Esports ",
                 1
             ],
             [
@@ -19736,6 +21966,10 @@
                 1
             ],
             [
+                "Tundra Esports ",
+                0
+            ],
+            [
                 "Winstrike Team",
                 0
             ],
@@ -19755,7 +21989,7 @@
             ],
             [
                 "Aster.Aries",
-                1.0
+                0.5
             ],
             [
                 "Black N Yellow",
@@ -19783,11 +22017,15 @@
             ],
             [
                 "Team Magma",
-                1.0
+                0.5
             ],
             [
                 "Team Spirit",
                 1.0
+            ],
+            [
+                "Tundra Esports ",
+                0.0
             ],
             [
                 "Winstrike Team",
@@ -19796,6 +22034,48 @@
             [
                 "bumble bEE's",
                 0.5
+            ]
+        ],
+        "type": "spline",
+        "yAxis": 1,
+        "lineWidth": 0,
+        "states": {
+            "hover": {
+                "enabled": false
+            }
+        },
+        "marker": {
+            "symbol": "diamond",
+            "radius": 6
+        }
+    },
+    {
+        "name": "Vengeful Spirit Matches Played",
+        "id": "Vengeful Spirit Matches Played",
+        "data": [
+            [
+                "Nigma",
+                3
+            ]
+        ]
+    },
+    {
+        "name": "Vengeful Spirit Matches Won",
+        "id": "Vengeful Spirit Matches Won",
+        "data": [
+            [
+                "Nigma",
+                2
+            ]
+        ]
+    },
+    {
+        "name": "Vengeful Spirit Win Rate",
+        "id": "Vengeful Spirit Win Rate",
+        "data": [
+            [
+                "Nigma",
+                0.6666666666666666
             ]
         ],
         "type": "spline",
@@ -20022,6 +22302,10 @@
                 2
             ],
             [
+                "Royal Never Give Up",
+                1
+            ],
+            [
                 "Sparking Arrow Gaming",
                 1
             ],
@@ -20031,6 +22315,10 @@
             ],
             [
                 "TNC Predator",
+                1
+            ],
+            [
+                "Team Liquid",
                 1
             ],
             [
@@ -20124,6 +22412,10 @@
                 1
             ],
             [
+                "Royal Never Give Up",
+                0
+            ],
+            [
                 "Sparking Arrow Gaming",
                 0
             ],
@@ -20134,6 +22426,10 @@
             [
                 "TNC Predator",
                 0
+            ],
+            [
+                "Team Liquid",
+                1
             ],
             [
                 "Tundra Esports ",
@@ -20226,6 +22522,10 @@
                 0.5
             ],
             [
+                "Royal Never Give Up",
+                0.0
+            ],
+            [
                 "Sparking Arrow Gaming",
                 0.0
             ],
@@ -20236,6 +22536,10 @@
             [
                 "TNC Predator",
                 0.0
+            ],
+            [
+                "Team Liquid",
+                1.0
             ],
             [
                 "Tundra Esports ",
@@ -20354,6 +22658,10 @@
                 1
             ],
             [
+                "OG",
+                1
+            ],
+            [
                 "Omega Gaming",
                 1
             ],
@@ -20370,8 +22678,12 @@
                 1
             ],
             [
-                "Tundra Esports ",
+                "Team Bald Reborn",
                 1
+            ],
+            [
+                "Tundra Esports ",
+                2
             ],
             [
                 "Unknown Team",
@@ -20383,7 +22695,7 @@
             ],
             [
                 "phoenix gaming",
-                1
+                2
             ]
         ]
     },
@@ -20432,6 +22744,10 @@
                 0
             ],
             [
+                "OG",
+                0
+            ],
+            [
                 "Omega Gaming",
                 0
             ],
@@ -20445,6 +22761,10 @@
             ],
             [
                 "TNC Predator",
+                0
+            ],
+            [
+                "Team Bald Reborn",
                 0
             ],
             [
@@ -20510,6 +22830,10 @@
                 0.0
             ],
             [
+                "OG",
+                0.0
+            ],
+            [
                 "Omega Gaming",
                 0.0
             ],
@@ -20526,8 +22850,12 @@
                 0.0
             ],
             [
+                "Team Bald Reborn",
+                0.0
+            ],
+            [
                 "Tundra Esports ",
-                1.0
+                0.5
             ],
             [
                 "Unknown Team",
@@ -20564,6 +22892,10 @@
                 1
             ],
             [
+                "Team Liquid",
+                1
+            ],
+            [
                 "Trident Clan",
                 1
             ]
@@ -20578,6 +22910,10 @@
                 0
             ],
             [
+                "Team Liquid",
+                0
+            ],
+            [
                 "Trident Clan",
                 0
             ]
@@ -20589,6 +22925,10 @@
         "data": [
             [
                 "AS Monaco Gambit",
+                0.0
+            ],
+            [
+                "Team Liquid",
                 0.0
             ],
             [
@@ -20672,6 +23012,14 @@
                 1
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
+                "OG",
+                1
+            ],
+            [
                 "PuckChamp",
                 1
             ],
@@ -20702,6 +23050,14 @@
                 1
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
+                "OG",
+                1
+            ],
+            [
                 "PuckChamp",
                 1
             ],
@@ -20729,6 +23085,14 @@
             ],
             [
                 "Nemiga Gaming",
+                1.0
+            ],
+            [
+                "Nigma",
+                1.0
+            ],
+            [
+                "OG",
                 1.0
             ],
             [
@@ -20774,12 +23138,20 @@
                 2
             ],
             [
+                "Chicken Fighters",
+                3
+            ],
+            [
                 "D2 Hustlers",
                 2
             ],
             [
+                "EHOME",
+                3
+            ],
+            [
                 "Elephant",
-                1
+                4
             ],
             [
                 "Execration",
@@ -20803,7 +23175,7 @@
             ],
             [
                 "Hellbear Smashers",
-                1
+                2
             ],
             [
                 "Hippomaniacs",
@@ -20830,6 +23202,10 @@
                 3
             ],
             [
+                "Nigma",
+                1
+            ],
+            [
                 "No Bounty Hunter",
                 1
             ],
@@ -20842,7 +23218,15 @@
                 4
             ],
             [
+                "Royal Never Give Up",
+                2
+            ],
+            [
                 "South Built Esports",
+                1
+            ],
+            [
+                "Spider Pigzs",
                 1
             ],
             [
@@ -20864,6 +23248,10 @@
             [
                 "The Cut",
                 1
+            ],
+            [
+                "Tundra Esports ",
+                3
             ],
             [
                 "Undying",
@@ -20912,12 +23300,20 @@
                 2
             ],
             [
+                "Chicken Fighters",
+                2
+            ],
+            [
                 "D2 Hustlers",
                 1
             ],
             [
-                "Elephant",
+                "EHOME",
                 1
+            ],
+            [
+                "Elephant",
+                4
             ],
             [
                 "Execration",
@@ -20968,6 +23364,10 @@
                 2
             ],
             [
+                "Nigma",
+                0
+            ],
+            [
                 "No Bounty Hunter",
                 0
             ],
@@ -20980,7 +23380,15 @@
                 1
             ],
             [
+                "Royal Never Give Up",
+                1
+            ],
+            [
                 "South Built Esports",
+                0
+            ],
+            [
+                "Spider Pigzs",
                 0
             ],
             [
@@ -21002,6 +23410,10 @@
             [
                 "The Cut",
                 0
+            ],
+            [
+                "Tundra Esports ",
+                2
             ],
             [
                 "Undying",
@@ -21050,8 +23462,16 @@
                 1.0
             ],
             [
+                "Chicken Fighters",
+                0.6666666666666666
+            ],
+            [
                 "D2 Hustlers",
                 0.5
+            ],
+            [
+                "EHOME",
+                0.3333333333333333
             ],
             [
                 "Elephant",
@@ -21079,7 +23499,7 @@
             ],
             [
                 "Hellbear Smashers",
-                1.0
+                0.5
             ],
             [
                 "Hippomaniacs",
@@ -21106,6 +23526,10 @@
                 0.6666666666666666
             ],
             [
+                "Nigma",
+                0.0
+            ],
+            [
                 "No Bounty Hunter",
                 0.0
             ],
@@ -21118,7 +23542,15 @@
                 0.25
             ],
             [
+                "Royal Never Give Up",
+                0.5
+            ],
+            [
                 "South Built Esports",
+                0.0
+            ],
+            [
+                "Spider Pigzs",
                 0.0
             ],
             [
@@ -21140,6 +23572,10 @@
             [
                 "The Cut",
                 0.0
+            ],
+            [
+                "Tundra Esports ",
+                0.6666666666666666
             ],
             [
                 "Undying",
@@ -21303,7 +23739,7 @@
             ],
             [
                 "Elephant",
-                1
+                2
             ],
             [
                 "Execration",
@@ -21323,6 +23759,10 @@
             ],
             [
                 "Infinity",
+                1
+            ],
+            [
+                "Into The Breach",
                 1
             ],
             [
@@ -21381,7 +23821,7 @@
             ],
             [
                 "Elephant",
-                1
+                2
             ],
             [
                 "Execration",
@@ -21401,6 +23841,10 @@
             ],
             [
                 "Infinity",
+                0
+            ],
+            [
+                "Into The Breach",
                 0
             ],
             [
@@ -21482,6 +23926,10 @@
                 0.0
             ],
             [
+                "Into The Breach",
+                0.0
+            ],
+            [
                 "LBZS",
                 0.0
             ],
@@ -21532,6 +23980,10 @@
         "id": "Zeus Matches Played",
         "data": [
             [
+                "EHOME",
+                1
+            ],
+            [
                 "HellRaisers",
                 1
             ],
@@ -21540,7 +23992,15 @@
                 1
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "OB.Neon",
+                1
+            ],
+            [
+                "OG",
                 1
             ],
             [
@@ -21558,6 +24018,10 @@
         "id": "Zeus Matches Won",
         "data": [
             [
+                "EHOME",
+                0
+            ],
+            [
                 "HellRaisers",
                 0
             ],
@@ -21566,8 +24030,16 @@
                 0
             ],
             [
+                "Into The Breach",
+                1
+            ],
+            [
                 "OB.Neon",
                 1
+            ],
+            [
+                "OG",
+                0
             ],
             [
                 "Spider Pigzs",
@@ -21584,6 +24056,10 @@
         "id": "Zeus Win Rate",
         "data": [
             [
+                "EHOME",
+                0.0
+            ],
+            [
                 "HellRaisers",
                 0.0
             ],
@@ -21592,8 +24068,16 @@
                 0.0
             ],
             [
+                "Into The Breach",
+                1.0
+            ],
+            [
                 "OB.Neon",
                 1.0
+            ],
+            [
+                "OG",
+                0.0
             ],
             [
                 "Spider Pigzs",
