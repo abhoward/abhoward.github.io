@@ -9,3 +9,9 @@ Below you can find various visualizations based on data and statistics from pro-
 - ### [The International Stats & Graphs](TI)
 
 - ### [Other Various Charts](Various)
+
+# Shiny Pokémon 
+
+For those interested in hunting shiny Pokémon, you can use the counter below to track your hunts.
+
+- ### [Counter](Counter)

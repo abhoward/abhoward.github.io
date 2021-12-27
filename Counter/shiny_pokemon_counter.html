@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    </head>
+    <body>
+        <style type="text/css">
+            img {
+                /*border: 2px solid;*/
+                /*background-color: #cccccc;*/
+            }
+
+            body {
+                background-color: #777777;
+            }
+
+            span {
+                font-size: 36pt;
+                white-space: nowrap;
+                overflow: hidden;
+            }
+
+            #addButton {
+                background-color: green;
+                color: white;
+                font-size: 25px;
+                padding: 1px 50px;
+                border: 2px solid black;
+                border-radius: 6px;
+                transition-duration: 0.1s;
+                cursor:pointer;
+            }
+
+            #subButton {
+                background-color: darkred;
+                color:  white;
+                font-size: 25px;
+                padding: 1px 50px;
+                border: 2px solid black;
+                border-radius: 6px;
+                transition-duration: 0.1s;
+                cursor:pointer;
+            }
+
+            #addButton:hover {
+                background-color: seagreen; 
+                color: white;
+            }
+
+            #subButton:hover {
+                background-color: indianred; 
+                color: white;
+            }
+
+            /*#counter-node {
+                border: 2px dashed;
+            }*/
+        </style>
+        <div id="counter-node">
+            <div>
+                <center>
+                    <img id="pokemon-sprite" src="" width="10%" height="10%">
+                    <br>
+                    <b><span id="counter-number" contenteditable="false">0</span></b>
+                    <br>
+                </center>
+            </div>
+            <center>
+                <div>
+                    <button id="addButton" onclick="incrementClick()">+</button>
+                    <button id="subButton" onclick="decrementClick()">-</button>
+                </div>
+                <br>
+                <div>
+                    <form id="hunt-info"><b>Generation:</b>
+                        <select id="gen-select">
+                            <option value="Gen1">Gen1</option>
+                            <option value="Gen2">Gen2</option>
+                            <option value="Gen3">Gen3</option>
+                            <option value="Gen4">Gen4</option>
+                            <option value="Gen5">Gen5</option>
+                            <option value="Gen6">Gen6</option>
+                            <option value="Gen7">Gen7</option>
+                            <option value="Gen8">Gen8</option>
+                        </select><br><br>
+                        <b>Game:</b> <input type="text" id="pokemon-game" value="" onclick="addGameOptions()">
+                        <b>Target:</b> <input type="text" id="pokemon-name" value="">
+                    </form><br>
+                    <button onclick="setSprite()">Set Sprite</button>
+                    <button onclick="resetCounter()">RESET</button>
+                </div>
+                <br>
+                <!-- <div>
+                    <button onclick="addCounter()">Add Counter</button>
+                </div> -->
+            </center>
+        </div>
+        <br>
+        <script type="text/javascript">
+            if (getCounter() != 0) {
+                var counter = getCounter();
+                updateCounter(counter);
+            }
+            else {
+                var counter = 0;
+            }
+
+            if (getName() != '') {
+                var pokemonName = getName();
+                updateName(pokemonName);
+                setSprite();
+            }
+            else {
+                var pokemonName = '';
+            }
+
+            function incrementClick() {
+                updateCounter(++counter);
+                storeCounter(counter);
+            }
+
+            function decrementClick() {
+                if (counter > 0) {
+                    updateCounter(--counter);
+                    storeCounter(counter);
+                }
+            }
+
+            function resetCounter() {
+                counter = 0;
+                updateCounter(counter);
+                storeCounter(counter);
+            }
+
+            function updateCounter(value) {
+                document.getElementById("counter-number").innerHTML = value;
+            }
+
+            function updateName(value) {
+                document.getElementById("pokemon-name").value = value;
+            }
+
+            function storeCounter(value) {
+                if (value = 'manual') {
+                    value = document.getElementById("counter-number").innerHTML;
+                }
+                localStorage.setItem("count", value);
+            }
+
+            function getCounter() {
+                var count = localStorage.getItem("count") || 0;
+                return count;
+            }
+
+            function storeName(value) {
+                localStorage.setItem("name", value);
+            }
+
+            function getName() {
+                var name = localStorage.getItem("name") || '';
+                return name;
+            }
+
+            function addCounter() {
+                var itm = document.getElementById("counter-node");
+                var cln = itm.cloneNode(true);
+                document.body.appendChild(cln);
+            }
+
+            function addGameOptions() {
+                var gen = document.getElementById("gen-select").value;
+                var select = document.getElementById("pokemon-game");
+                var apiUrl = 'https://api.github.com/repos/abhoward/abhoward.github.io/contents/data/PokemonSprites/' + gen;
+                httpGet(apiUrl);
+            }
+
+            function addNameOptions() {
+                var gen = document.getElementById("gen-select").value;
+                var select = document.getElementById("pokemon-name");
+                var path = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/contents/data/PokemonSprites/' + gen; 
+            }
+
+            function setSprite() {
+                var pokemonName = document.getElementById("pokemon-name").value;
+                var source = "https://img.pokemondb.net/sprites/black-white/anim/shiny/" + pokemonName.toLowerCase() + ".gif"
+                var image = document.getElementById("pokemon-sprite");
+                image.src = source;
+                storeName(pokemonName);
+            }
+
+            function httpGet(url) {
+                // var xmlHttp = new XMLHttpRequest();
+                // xmlHttp.onreadystatechange = function() {
+                //     if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
+                //         callback(xmlHttp.responseText);
+                // }
+                // console.log(xmlHttp.readyState);
+                // xmlHttp.open("GET", url, true);
+                // xmlHttp.send(null);
+
+                fetch(url).then(response => console.log(response.json()));
+            }
+
+            // $('.counter-number').on('DOMSubtreeModified',function(){
+            //   alert('changed')
+            // })
+        </script>
+    </body>
+</html>
