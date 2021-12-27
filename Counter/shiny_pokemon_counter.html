@@ -21,6 +21,13 @@
                 overflow: hidden;
             }
 
+            select {
+                text-align: center;
+                width:10%;
+                /*float: right;*/
+                padding: 10px;
+            }
+
             #addButton {
                 background-color: green;
                 color: white;
@@ -62,7 +69,7 @@
                 <center>
                     <img id="pokemon-sprite" src="" width="10%" height="10%">
                     <br>
-                    <b><span id="counter-number" contenteditable="false">0</span></b>
+                    <h1><span id="counter-number" contenteditable="false">0</span></h1>
                     <br>
                 </center>
             </div>
@@ -73,21 +80,21 @@
                 </div>
                 <br>
                 <div>
-                    <form id="hunt-info"><b>Generation:</b>
-                        <select id="gen-select">
-                            <option value="Gen1">Gen1</option>
-                            <option value="Gen2">Gen2</option>
-                            <option value="Gen3">Gen3</option>
-                            <option value="Gen4">Gen4</option>
-                            <option value="Gen5">Gen5</option>
-                            <option value="Gen6">Gen6</option>
-                            <option value="Gen7">Gen7</option>
-                            <option value="Gen8">Gen8</option>
+                    <form id="hunt-info"><h1>Settings:</h1>
+                        <!-- <b>Generation:</b> -->
+                        <select onchange="saveSettings()" id="gen-select" >
+                            <option selected disabled>Choose a generation</option>
                         </select><br><br>
-                        <b>Game:</b> <input type="text" id="pokemon-game" value="" onclick="addGameOptions()">
-                        <b>Target:</b> <input type="text" id="pokemon-name" value="">
+                        <!-- <b>Game:</b> -->
+                        <select onchange="saveSettings()" id="pokemon-game">
+                            <option selected disabled>Choose a game</option>
+                        </select><br><br>
+                        <!-- <b>Target:</b> -->
+                        <select onchange="saveSettings()" id="pokemon-name">
+                            <option selected disabled>Choose a Pokemon</option>
+                        </select><br>
                     </form><br>
-                    <button onclick="setSprite()">Set Sprite</button>
+                    <button onclick="saveSettings()">Save Settings</button>
                     <button onclick="resetCounter()">RESET</button>
                 </div>
                 <br>
@@ -98,32 +105,52 @@
         </div>
         <br>
         <script type="text/javascript">
-            if (getCounter() != 0) {
-                var counter = getCounter();
-                updateCounter(counter);
-            }
-            else {
-                var counter = 0;
-            }
-
-            var gameListLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/pokemon_info.json'
+            var pokemonInfo = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/pokemon/pokemon_info.json'
             ajaxCalls();
+            initializeSettings();
 
-            if (getName() != '') {
-                var pokemonName = getName();
-                updateName(pokemonName);
-                setSprite();
-            }
-            else {
-                var pokemonName = '';
+            function initializeSettings() {
+                if (getCounter() != 0) {
+                    var counter = getCounter();
+                    updateCounter(counter);
+                } else {
+                    var counter = 0;
+                }
+
+                if (getName() != 'Red') {
+                    var pokemonName = getName();
+                    updateName(pokemonName);
+                } else {
+                    pokemonName = 'Red';
+                }
+
+                if (getGen() != 'Gen1') {
+                    var pokemonGen = getGen();
+                    updateGen(pokemonGen);
+                }
+                else {
+                    var pokemonGen = 'Generation 1'
+                }
+
+                if (getGame() != 'Red') {
+                    var pokemonGame = getGame();
+                    updateGame(pokemonGame);
+                }
+
+                if (getSprite() != '') {
+                    var pokemonSprite = getSprite();
+                    updateSprite(pokemonSprite);
+                }
             }
 
             function incrementClick() {
+                counter = getCounter();
                 updateCounter(++counter);
                 storeCounter(counter);
             }
 
             function decrementClick() {
+                counter = getCounter()
                 if (counter > 0) {
                     updateCounter(--counter);
                     storeCounter(counter);
@@ -136,88 +163,140 @@
                 storeCounter(counter);
             }
 
+            //----------------Update Functions----------------
             function updateCounter(value) {
                 document.getElementById("counter-number").innerHTML = value;
+            }
+
+            function updateGen(value) {
+                document.getElementById("gen-select").value = value;
             }
 
             function updateName(value) {
                 document.getElementById("pokemon-name").value = value;
             }
 
+            function updateGame(value) {
+                document.getElementById("pokemon-game").value = value;
+            }
+
+            function updateSprite(value) {
+                document.getElementById("pokemon-sprite").src = value;
+            }
+
+            //----------------Store Functions----------------
             function storeCounter(value) {
-                if (value = 'manual') {
-                    value = document.getElementById("counter-number").innerHTML;
-                }
                 localStorage.setItem("count", value);
             }
 
-            function getCounter() {
-                var count = localStorage.getItem("count") || 0;
-                return count;
+            function storeGen(value) {
+                localStorage.setItem("gen", value);
+            }
+
+            function storeGame(value) {
+                localStorage.setItem("game", value);
+                console.log(value);
             }
 
             function storeName(value) {
                 localStorage.setItem("name", value);
             }
 
+            function storeSprite(value) {
+                localStorage.setItem("sprite", value);
+            }
+
+            //----------------Get Functions----------------
+            function getCounter() {
+                var count = localStorage.getItem("count") || 0;
+                return count;
+            }
+
+            function getGen() {
+                var gen = localStorage.getItem("gen") || 'Generation 1';
+                return gen
+            }
+
+            function getGame() {
+                var game = localStorage.getItem("game") || 'Red';
+                return game;
+            }
+
             function getName() {
-                var name = localStorage.getItem("name") || '';
+                var name = localStorage.getItem("name") || 'Bulbasaur';
                 return name;
             }
 
-            function addCounter() {
-                var itm = document.getElementById("counter-node");
-                var cln = itm.cloneNode(true);
-                document.body.appendChild(cln);
+            function getSprite() {
+                var sprite = localStorage.getItem("sprite") || 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/sprites/generation1/red/1.png';
+                return sprite
             }
+
+            // function addCounter() {
+            //     var itm = document.getElementById("counter-node");
+            //     var cln = itm.cloneNode(true);
+            //     document.body.appendChild(cln);
+            // }
 
             function addOptions(data) {
-                console.log(data[0]);
+                var selectedGen = document.getElementById("gen-select");
+                var selectedGame = document.getElementById("pokemon-game");
+                var selectedPokemon = document.getElementById("pokemon-name");
+                
+                gens = Object.keys(data);
+                pokemon = data[getGen()]['pokemon'];
+                games = data[getGen()]['games'];
+
+                for (var i = 0; i < gens.length; i++) {
+                    var option = gens[i];
+                    var element = document.createElement("option");
+
+                    element.text = option;
+                    element.value = option;
+                    selectedGen.options.add(element);
+                    updateGen(getGen());
+                }
+
+                for (var i = 0; i < games.length; i++) {
+                    var option = games[i];
+                    var element = document.createElement("option");
+
+                    element.text = option;
+                    element.value = option;
+                    selectedGame.options.add(element);
+                    updateGame(getGame());
+                }
+
+                for (var i = 0; i < pokemon.length; i++) {
+                    var option = pokemon[i];
+                    var element = document.createElement("option");
+
+                    element.text = option;
+                    element.value = option;
+                    selectedPokemon.add(element);
+                    updateName(getName());
+                }
             }
 
-            function addGameOptions() {
-                var gen = document.getElementById("gen-select").value;
-                var select = document.getElementById("pokemon-game");
-                var apiUrl = 'https://api.github.com/repos/abhoward/abhoward.github.io/contents/data/PokemonSprites/' + gen;
-                httpGet(apiUrl);
-            }
-
-            function addNameOptions() {
-                var gen = document.getElementById("gen-select").value;
-                var select = document.getElementById("pokemon-name");
-                var path = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/contents/data/PokemonSprites/' + gen; 
-            }
-
-            function setSprite() {
+            function saveSettings() {
+                var pokemonGen = document.getElementById("gen-select").value;
+                var pokemonGame = document.getElementById("pokemon-game").value;
                 var pokemonName = document.getElementById("pokemon-name").value;
-                var source = "https://img.pokemondb.net/sprites/black-white/anim/shiny/" + pokemonName.toLowerCase() + ".gif"
-                var image = document.getElementById("pokemon-sprite");
-                image.src = source;
+                var source = "https://play.pokemonshowdown.com/sprites/ani-shiny/" + pokemonName.toLowerCase() + ".gif"
+                // var source = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/sprites/generation1/blue/1.png'
+
+                storeSprite(source);
                 storeName(pokemonName);
-            }
+                storeGame(pokemonGame);
+                storeGen(pokemonGen);
 
-            async function httpGet(url) {
-                // var xmlHttp = new XMLHttpRequest();
-                // xmlHttp.onreadystatechange = function() {
-                //     if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
-                //         callback(xmlHttp.responseText);
-                // }
-                // console.log(xmlHttp.readyState);
-                // xmlHttp.open("GET", url, true);
-                // xmlHttp.send(null);
-
-                const response = await fetch(url);
-                const json = response.json();
-                console.log(json);
-                Object.entries(json).forEach(([key, value]) => {
-                    console.log('${key}: ${value}');
-                });
+                updateSprite(source);
             }
 
             function ajaxCalls() {
                 return [
                     $.ajax({
-                        url: gameListLink,
+                        url: pokemonInfo,
                         dataType: 'json'
                     })
                 ];
