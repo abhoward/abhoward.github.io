@@ -107,6 +107,7 @@
             }
 
             var gameListLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/pokemon_info.json'
+            ajaxCalls();
 
             if (getName() != '') {
                 var pokemonName = getName();
@@ -170,6 +171,10 @@
                 document.body.appendChild(cln);
             }
 
+            function addOptions(data) {
+                console.log(data[0]);
+            }
+
             function addGameOptions() {
                 var gen = document.getElementById("gen-select").value;
                 var select = document.getElementById("pokemon-game");
@@ -212,23 +217,13 @@
             function ajaxCalls() {
                 return [
                     $.ajax({
-                        url: teamMatchesPlayedLink,
-                        dataType: 'json'
-                    }),
-                    $.ajax({
-                        url: teamMatchesWonLink,
-                        dataType: 'json'
-                    }),
-                    $.ajax({
-                        url: teamWinRatesLink,
-                        dataType: 'json'
-                    }),
-                    $.ajax({
-                        url: totalHeroTeamsLink,
+                        url: gameListLink,
                         dataType: 'json'
                     })
                 ];
             }
+
+            $.when.apply($, ajaxCalls()).then(addOptions);
 
             // $('.counter-number').on('DOMSubtreeModified',function(){
             //   alert('changed')
