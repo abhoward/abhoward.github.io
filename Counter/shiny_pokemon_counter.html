@@ -55,6 +55,19 @@
                 color: white;
             }
 
+            form label {
+                font-weight: bold;
+            }
+
+            select {
+                background-color: #cccccc;
+                border-color: #000000
+            }
+
+            #multiplier {
+                width: 50px;
+            }
+
             /*#counter-node {
                 border: 2px dashed;
             }*/
@@ -70,6 +83,7 @@
             </div>
             <center>
                 <div>
+                    <input type="number" id="multiplier" name="multiplier" value="1" min="1" max="999">
                     <button id="addButton" onclick="incrementClick()">+</button>
                     <button id="subButton" onclick="decrementClick()">-</button>
                 </div>
@@ -77,15 +91,15 @@
                 <div>
                     <form id="hunt-info"><h1>Settings:</h1>
                         <!-- <b>Generation:</b> -->
-                        <select onchange="saveSettings()" id="gen-select" >
-                            <option selected disabled>Choose a generation</option>
+                        <label for="gen-select">Generation:</label><br>
+                        <select onchange="saveSettings();updateOptions();" id="gen-select">
                         </select><br><br>
-                        <!-- <b>Game:</b> -->
-                        <select onchange="saveSettings()" id="pokemon-game">
+                        <label for="pokemon-game">Game:</label><br>
+                        <select onchange="saveSettings();updateOptions();" id="pokemon-game">
                             <option selected disabled>Choose a game</option>
                         </select><br><br>
-                        <!-- <b>Target:</b> -->
-                        <select onchange="saveSettings()" id="pokemon-name">
+                        <label for="pokemon-name">Pokemon:</label><br>
+                        <select onchange="saveSettings();updateOptions();" id="pokemon-name">
                             <option selected disabled>Choose a Pokemon</option>
                         </select><br>
                     </form><br>
@@ -105,21 +119,21 @@
             initializeSettings();
 
             function initializeSettings() {
-                if (getCounter() != 0) {
+                if (getCounter() !== 0) {
                     var counter = getCounter();
                     updateCounter(counter);
                 } else {
                     var counter = 0;
                 }
 
-                if (getName() != 'Red') {
+                if (getName() !== 'Red') {
                     var pokemonName = getName();
                     updateName(pokemonName);
                 } else {
                     pokemonName = 'Red';
                 }
 
-                if (getGen() != 'Gen1') {
+                if (getGen() !== 'Gen1') {
                     var pokemonGen = getGen();
                     updateGen(pokemonGen);
                 }
@@ -127,20 +141,27 @@
                     var pokemonGen = 'Generation 1'
                 }
 
-                if (getGame() != 'Red') {
+                if (getGame() !== 'Red') {
                     var pokemonGame = getGame();
                     updateGame(pokemonGame);
                 }
 
-                if (getSprite() != '') {
+                if (getSprite() !== '') {
                     var pokemonSprite = getSprite();
                     updateSprite(pokemonSprite);
                 }
             }
 
             function incrementClick() {
+                var multiplier = document.getElementById("multiplier").value;
+                console.log(multiplier);
+                if (multiplier === '') {
+                    multiplier = 1;
+                }
+                console.log(isNaN(multiplier));
                 counter = getCounter();
-                updateCounter(++counter);
+                counter = parseInt(counter) + parseInt(multiplier);
+                updateCounter(counter);
                 storeCounter(counter);
             }
 
@@ -223,7 +244,7 @@
             }
 
             function getSprite() {
-                var sprite = localStorage.getItem("sprite") || 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/sprites/generation1/red/1.png';
+                var sprite = localStorage.getItem("sprite") || 'https://play.pokemonshowdown.com/sprites/ani-shiny/bulbasaur.gif';
                 return sprite
             }
 
@@ -233,14 +254,29 @@
             //     document.body.appendChild(cln);
             // }
 
-            function addOptions(data) {
+            function initializeData(data) {
+                pokemonInfo = data;
+                updateOptions();
+            }
+
+            function updateOptions() {
                 var selectedGen = document.getElementById("gen-select");
                 var selectedGame = document.getElementById("pokemon-game");
                 var selectedPokemon = document.getElementById("pokemon-name");
-                
-                gens = Object.keys(data);
-                pokemon = data[getGen()]['pokemon'];
-                games = data[getGen()]['games'];
+
+                var currentGen = getGen();
+
+                gens = Object.keys(pokemonInfo);
+                games = pokemonInfo[currentGen]['games'];
+
+                for (var i = 0; i < parseInt(currentGen.split(" ")[1]); i++) {
+                    console.log(i);
+                    pokemon = pokemonInfo['Generation ' + (i+1)]['pokemon'];
+                }
+
+                selectedGen.innerHTML = '';
+                selectedGame.innerHTML = '';
+                selectedPokemon.innerHTML = '';
 
                 for (var i = 0; i < gens.length; i++) {
                     var option = gens[i];
@@ -277,15 +313,26 @@
                 var pokemonGen = document.getElementById("gen-select").value;
                 var pokemonGame = document.getElementById("pokemon-game").value;
                 var pokemonName = document.getElementById("pokemon-name").value;
-                var source = "https://play.pokemonshowdown.com/sprites/ani-shiny/" + pokemonName.toLowerCase() + ".gif"
-                // var source = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/sprites/generation1/blue/1.png'
+                
+                if (pokemonGen = "Generation 2") {
+                    var cleanedGame = "crystal"
+                }
 
-                storeSprite(source);
-                storeName(pokemonName);
-                storeGame(pokemonGame);
-                storeGen(pokemonGen);
+                var source = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/sprites/' + pokemonGen.toLowerCase().replace(/ /g, '') + '/' + (cleanedGame || pokemonGame.toLowerCase()) + '/' + pokemonName.toLowerCase() + '.gif'
 
-                updateSprite(source);
+                if (pokemonName != '') {
+                    storeName(pokemonName);
+                    storeSprite(source);
+                    updateSprite(source);
+                }
+
+                if (pokemonGame != '') {
+                    storeGame(pokemonGame);
+                }
+
+                if (pokemonGen != '') {
+                    storeGen(pokemonGen);
+                }
             }
 
             function ajaxCalls() {
@@ -297,7 +344,7 @@
                 ];
             }
 
-            $.when.apply($, ajaxCalls()).then(addOptions);
+            $.when.apply($, ajaxCalls()).then(initializeData);
 
             // $('.counter-number').on('DOMSubtreeModified',function(){
             //   alert('changed')
