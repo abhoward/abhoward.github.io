@@ -75,7 +75,7 @@
         <div id="counter-node">
             <div>
                 <center>
-                    <img id="pokemon-sprite" src="" width="10%" height="10%">
+                    <img id="pokemon-sprite" src="" width="10%" height="10%" onerror="errorImage() ">
                     <br>
                     <h1><span id="counter-number" contenteditable="false">0</span></h1>
                     <br>
@@ -154,11 +154,9 @@
 
             function incrementClick() {
                 var multiplier = document.getElementById("multiplier").value;
-                console.log(multiplier);
                 if (multiplier === '') {
                     multiplier = 1;
                 }
-                console.log(isNaN(multiplier));
                 counter = getCounter();
                 counter = parseInt(counter) + parseInt(multiplier);
                 updateCounter(counter);
@@ -177,6 +175,12 @@
                 counter = 0;
                 updateCounter(counter);
                 storeCounter(counter);
+            }
+
+            function errorImage() {
+                var source = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/sprites/error.png'
+
+                updateSprite(source);
             }
 
             //----------------Update Functions----------------
@@ -211,7 +215,6 @@
 
             function storeGame(value) {
                 localStorage.setItem("game", value);
-                console.log(value);
             }
 
             function storeName(value) {
@@ -263,15 +266,15 @@
                 var selectedGen = document.getElementById("gen-select");
                 var selectedGame = document.getElementById("pokemon-game");
                 var selectedPokemon = document.getElementById("pokemon-name");
+                var pokemon = [];
 
                 var currentGen = getGen();
 
-                gens = Object.keys(pokemonInfo);
-                games = pokemonInfo[currentGen]['games'];
+                var gens = Object.keys(pokemonInfo);
+                var games = pokemonInfo[currentGen]['games'];
 
                 for (var i = 0; i < parseInt(currentGen.split(" ")[1]); i++) {
-                    console.log(i);
-                    pokemon = pokemonInfo['Generation ' + (i+1)]['pokemon'];
+                    pokemon = pokemon.concat(pokemonInfo['Generation ' + (i+1)]['pokemon']);
                 }
 
                 selectedGen.innerHTML = '';
@@ -313,24 +316,26 @@
                 var pokemonGen = document.getElementById("gen-select").value;
                 var pokemonGame = document.getElementById("pokemon-game").value;
                 var pokemonName = document.getElementById("pokemon-name").value;
-                
-                if (pokemonGen = "Generation 2") {
-                    var cleanedGame = "crystal"
+
+                if (['Crystal', 'Emerald'].includes(pokemonGame)) {
+                    var fileType = ".gif";
+                } else {
+                    var fileType = ".png";
                 }
 
-                var source = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/sprites/' + pokemonGen.toLowerCase().replace(/ /g, '') + '/' + (cleanedGame || pokemonGame.toLowerCase()) + '/' + pokemonName.toLowerCase() + '.gif'
+                var source = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/sprites/' + pokemonGen.toLowerCase().replace(/ /g, '') + '/' + pokemonGame.toLowerCase() + '/' + pokemonName.toLowerCase() + fileType;
 
-                if (pokemonName != '') {
+                if (pokemonName !== '') {
                     storeName(pokemonName);
                     storeSprite(source);
                     updateSprite(source);
                 }
 
-                if (pokemonGame != '') {
+                if (pokemonGame !== '') {
                     storeGame(pokemonGame);
                 }
 
-                if (pokemonGen != '') {
+                if (pokemonGen !== '') {
                     storeGen(pokemonGen);
                 }
             }
