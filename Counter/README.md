@@ -3,5 +3,6 @@
 
 ### Preview:
 <div class="iframe-container">
-  <iframe src="shiny_pokemon_counter.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Shiny Hunting Counter" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+  <iframe src="shiny_pokemon_counter.html" width="100%" height="100%" frameborder="0" loading="lazy" scrolling="no" title="Shiny Hunting Counter" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> 
+  </iframe>
 </div>

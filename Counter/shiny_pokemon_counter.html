@@ -6,10 +6,6 @@
     </head>
     <body>
         <style type="text/css">
-            body {
-                background-color: #777777;
-            }
-
             span {
                 font-size: 36pt;
                 white-space: nowrap;
@@ -116,7 +112,8 @@
         </div>
         <br>
         <script type="text/javascript">
-            var pokemonInfo = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/pokemon_info.json'
+            var genInfoUrl = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/gen_info.json'
+            var gameInfoUrl = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/game_info.json'
             ajaxCalls();
             initializeSettings();
 
@@ -260,8 +257,9 @@
             //     document.body.appendChild(cln);
             // }
 
-            function initializeData(data) {
-                pokemonInfo = data;
+            function initializeData(data1, data2) {
+                genInfo = data1;
+                gameInfo = data2;
                 updateOptions();
             }
 
@@ -346,7 +344,11 @@
             function ajaxCalls() {
                 return [
                     $.ajax({
-                        url: pokemonInfo,
+                        url: genInfo,
+                        dataType: 'json'
+                    }),
+                    $.ajax({
+                        url: gameInfo,
                         dataType: 'json'
                     })
                 ];
