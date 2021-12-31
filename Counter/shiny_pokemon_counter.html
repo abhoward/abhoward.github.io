@@ -6,6 +6,10 @@
     </head>
     <body>
         <style type="text/css">
+            body {
+                background-color: #0d1117;
+                color: #eeeeee;
+            }
             span {
                 font-size: 36pt;
                 white-space: nowrap;
@@ -15,16 +19,18 @@
             select {
                 text-align: center;
                 width:10%;
-                /*float: right;*/
                 padding: 10px;
+                background-color: #aaaaaa;
+                border-color: #ffffff;
+                border-radius: 6px;
             }
 
             #addButton {
-                background-color: green;
+                background-color: darkgreen;
                 color: white;
                 font-size: 25px;
                 padding: 1px 50px;
-                border: 2px solid black;
+                border: 2px solid seagreen;
                 border-radius: 6px;
                 transition-duration: 0.1s;
                 cursor:pointer;
@@ -32,10 +38,10 @@
 
             #subButton {
                 background-color: darkred;
-                color:  white;
+                color: white;
                 font-size: 25px;
                 padding: 1px 50px;
-                border: 2px solid black;
+                border: 2px solid indianred;
                 border-radius: 6px;
                 transition-duration: 0.1s;
                 cursor:pointer;
@@ -53,11 +59,6 @@
 
             form label {
                 font-weight: bold;
-            }
-
-            select {
-                background-color: #cccccc;
-                border-color: #000000
             }
 
             #multiplier {
@@ -271,11 +272,11 @@
 
                 var currentGen = getGen();
 
-                var gens = Object.keys(pokemonInfo);
-                var games = pokemonInfo[currentGen]['games'];
+                var gens = Object.keys(genInfo);
+                var games = Object.key(gameInfo);
 
                 for (var i = 0; i < parseInt(currentGen.split(" ")[1]); i++) {
-                    pokemon = pokemon.concat(pokemonInfo['Generation ' + (i+1)]['pokemon']);
+                    pokemon = pokemon.concat(genInfo['Generation ' + (i+1)]['pokemon']);
                 }
 
                 selectedGen.innerHTML = '';
@@ -344,11 +345,11 @@
             function ajaxCalls() {
                 return [
                     $.ajax({
-                        url: genInfo,
+                        url: genInfoUrl,
                         dataType: 'json'
                     }),
                     $.ajax({
-                        url: gameInfo,
+                        url: gameInfoUrl,
                         dataType: 'json'
                     })
                 ];

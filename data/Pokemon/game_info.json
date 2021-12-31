@@ -22,7 +22,7 @@
 			"Soft Reset/Random Encounter": "1/8192"
 		},
 		"generation": 1
-	}
+	},
 	"Yellow": {
 		"filetype": ".png",
 		"charm": "false",
@@ -99,5 +99,13 @@
 			"Soft Reset/Random Encounter": "1/8192"
 		},
 		"generation": 3
+	},
+	"Platinum": {
+		"filetype": ".gif",
+		"charm": "false",
+		"methods": {
+			"Soft Reset/Random Encounter": "1/8192"
+		},
+		"generation": 4
 	}
 }
