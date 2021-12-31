@@ -259,8 +259,8 @@
             // }
 
             function initializeData(data1, data2) {
-                genInfo = data1;
-                gameInfo = data2;
+                genInfo = data1[0];
+                gameInfo = data2[0];
                 updateOptions();
             }
 
@@ -273,7 +273,7 @@
                 var currentGen = getGen();
 
                 var gens = Object.keys(genInfo);
-                var games = Object.key(gameInfo);
+                var games = genInfo[currentGen]['games'];
 
                 for (var i = 0; i < parseInt(currentGen.split(" ")[1]); i++) {
                     pokemon = pokemon.concat(genInfo['Generation ' + (i+1)]['pokemon']);
@@ -301,6 +301,7 @@
                     element.value = option;
                     selectedGame.options.add(element);
                     updateGame(getGame());
+                    
                 }
 
                 for (var i = 0; i < pokemon.length; i++) {
@@ -312,6 +313,8 @@
                     selectedPokemon.add(element);
                     updateName(getName());
                 }
+
+                saveSettings();
             }
 
             function saveSettings() {
@@ -319,7 +322,7 @@
                 var pokemonGame = document.getElementById("pokemon-game").value;
                 var pokemonName = document.getElementById("pokemon-name").value;
 
-                if (['Crystal', 'Emerald'].includes(pokemonGame)) {
+                if (['Crystal', 'Emerald', 'Platinum'].includes(pokemonGame)) {
                     var fileType = ".gif";
                 } else {
                     var fileType = ".png";
