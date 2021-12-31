@@ -75,7 +75,9 @@
         <div id="counter-node">
             <div>
                 <center>
-                    <img id="pokemon-sprite" src="" width="10%" height="10%" onerror="errorImage() ">
+                    <a id="pokemon-image" href="" class="image" target="_blank" rel="noopener noreferrer">
+                        <img id="pokemon-sprite" src="" width="10%" height="10%" onerror="errorImage()">
+                    </a>
                     <br>
                     <h1><span id="counter-number" contenteditable="false">0</span></h1>
                     <br>
@@ -202,6 +204,7 @@
 
             function updateSprite(value) {
                 document.getElementById("pokemon-sprite").src = value;
+                document.getElementById("pokemon-image").href = value;
             }
 
             //----------------Store Functions----------------
@@ -237,17 +240,17 @@
             }
 
             function getGame() {
-                var game = localStorage.getItem("game") || 'Red';
+                var game = localStorage.getItem("game");
                 return game;
             }
 
             function getName() {
-                var name = localStorage.getItem("name") || 'Bulbasaur';
+                var name = localStorage.getItem("name");
                 return name;
             }
 
             function getSprite() {
-                var sprite = localStorage.getItem("sprite") || 'https://play.pokemonshowdown.com/sprites/ani-shiny/bulbasaur.gif';
+                var sprite = localStorage.getItem("sprite");
                 return sprite
             }
 

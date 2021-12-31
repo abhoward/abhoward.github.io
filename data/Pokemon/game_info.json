@@ -1,0 +1,103 @@
+{
+	"Red": {
+		"filetype": ".png",
+		"charm": "false",
+		"methods": {
+			"Soft Reset/Random Encounter": "1/8192"
+		},
+		"generation": 1
+	},
+	"Blue": {
+		"filetype": ".png",
+		"charm": "false",
+		"methods": {
+			"Soft Reset/Random Encounter": "1/8192"
+		},
+		"generation": 1
+	},
+	"Green": {
+		"filetype": ".png",
+		"charm": "false",
+		"methods": {
+			"Soft Reset/Random Encounter": "1/8192"
+		},
+		"generation": 1
+	}
+	"Yellow": {
+		"filetype": ".png",
+		"charm": "false",
+		"methods": {
+			"Soft Reset/Random Encounter": "1/8192"
+		},
+		"generation": 1
+	},
+	"Gold": {
+		"filetype": ".png",
+		"charm": "false",
+		"methods": {
+			"Soft Reset/Random Encounter": "1/8192",
+			"Shiny Parent": "1/64"
+		},
+		"generation": 2
+	},
+	"Silver": {
+		"filetype": ".png",
+		"charm": "false",
+		"methods": {
+			"Soft Reset/Random Encounter": "1/8192",
+			"Shiny Parent": "1/64"
+		},
+		"generation": 2
+	},
+	"Crystal": {
+		"filetype": ".gif",
+		"charm": "false",
+		"methods": {
+			"Soft Reset/Random Encounter": "1/8192",
+			"Shiny Parent": "1/64",
+			"Odd Egg": "7/50",
+			"Odd Egg (JPN)": "1/2"
+		},
+		"generation": 2
+	},
+	"Ruby": {
+		"filetype": ".png",
+		"charm": "false",
+		"methods": {
+			"Soft Reset/Random Encounter": "1/8192"
+		},
+		"generation": 3
+	},
+	"Sapphire": {
+		"filetype": ".png",
+		"charm": "false",
+		"methods": {
+			"Soft Reset/Random Encounter": "1/8192"
+		},
+		"generation": 3
+	},
+	"Emerald": {
+		"filetype": ".gif",
+		"charm": "false",
+		"methods": {
+			"Soft Reset/Random Encounter": "1/8192"
+		},
+		"generation": 3
+	},
+	"FireRed": {
+		"filetype": ".png",
+		"charm": "false",
+		"methods": {
+			"Soft Reset/Random Encounter": "1/8192"
+		},
+		"generation": 3
+	},
+	"LeafGreen": {
+		"filetype": ".gif",
+		"charm": "false",
+		"methods": {
+			"Soft Reset/Random Encounter": "1/8192"
+		},
+		"generation": 3
+	}
+}
