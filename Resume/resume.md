@@ -1,13 +1,13 @@
 # Alec's Resume
 
-## General Info 
+### General Info 
 - **About:** Huge nerd. Obsessed with data, Pokemon, gaming, heavy metal, football, and corgis.
 
-- **Contact:** `(925) 550-0398` \| [`alecbhoward@gmail.com`](mailto:alecbhoward@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/alecbhoward)
+- **Contact:** [`(925) 550-0398`](tel:9255500398) \| [`alecbhoward@gmail.com`](mailto:alecbhoward@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/alecbhoward)
 
 - **Location:** Houston, TX
 
-## Technologies & Skills
+### Technologies & Skills
 - **Languages:** Python, SQL, git, bash, HTML, CSS, Javascript
 
 - **Data Visualization:** Highcharts, Mode Analytics, Seaborn, Matplotlib, Tableau
@@ -16,7 +16,7 @@
 
 - **Development Environments:** SQL, dbt, Django, Selenium
 
-## Experience
+### Experience
 **NZXT \| Remote \| April 2019 - Present**
 
 *Data Scientist*
@@ -27,7 +27,7 @@
 
 - Automated the company's rewards system in which the members can receive swag and other goodies for interacting with NZXT's community. 
 
-**Beyond the Summit | Los Angeles, California | July 2018 - July 2020 (Contractor)**
+**Beyond the Summit \| Los Angeles, California \| July 2018 - July 2020 (Contractor)**
 
 *Data Engineer & Data Analyst*
 
@@ -35,7 +35,7 @@
 
 - Built a business friendly website using Python's Django to host data and create visualizations.
 
-**Genentech | South San Francisco, California | February 2017 - March 2018**
+**Genentech \| South San Francisco, California \| February 2017 - March 2018**
 
 *Business System Analyst*
 
@@ -45,19 +45,19 @@
 Google Sheets.
 - Helped create and manage team’s Github page, helping to document and preserve SQL and Python code.
 
-**Hearthlytics | San Francisco, California | July 2015 - June 2016**
+**Hearthlytics \| San Francisco, California \| July 2015 - June 2016**
 
-**Discovia | San Francisco, California | November 2014 - July 2015**
+**Discovia \| San Francisco, California \| November 2014 - July 2015**
 
 *Search Analyst*
 - Collected various data using SQL based search tools in order to gain better understanding of the relevant documents pertaining to clients’ litigation. 
 
-## Education
+### Education
 
-**General Assembly | San Francisco, California | April 2016 - July 2016**
+**General Assembly \| San Francisco, California \| April 2016 - July 2016**
 
 - Received Certificate of Completion for Data Science Immersive Course
 
-**University of Santa Cruz | Santa Cruz, California | September 2010 - July 2014**
+**University of Santa Cruz \| Santa Cruz, California \| September 2010 - July 2014**
 
 - BS in Applied Mathematics, Psychology
