@@ -15,3 +15,7 @@ Below you can find various visualizations based on data and statistics from pro-
 For those interested in hunting shiny Pokémon, you can use the counter below to track your hunts.
 
 - ### [Counter](Counter/shiny_pokemon_counter.html "Click to view counter in full"){:target="_blank"}
+
+# Resume
+
+If for some reason you're interested in reading about my professional experience, you can find my resume [here](Resume/resume.md){:target="_blank"}

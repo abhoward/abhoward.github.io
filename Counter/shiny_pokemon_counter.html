@@ -3,17 +3,21 @@
     <head>
         <meta charset="utf-8" />
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+        <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
     </head>
     <body>
         <style type="text/css">
             body {
                 background-color: #0d1117;
-                color: #eeeeee;
+                /**/
             }
-            span {
+
+            #counter-number {
                 font-size: 36pt;
                 white-space: nowrap;
                 overflow: hidden;
+                color: #eeeeee;
             }
 
             select {
@@ -57,12 +61,13 @@
                 color: white;
             }
 
-            form label {
+            form {
                 font-weight: bold;
+                color: #eeeeee;
             }
 
             #multiplier {
-                width: 50px;
+                width: 3%;
             }
 
             /*#counter-node {
@@ -117,6 +122,10 @@
             var gameInfoUrl = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/game_info.json'
             ajaxCalls();
             initializeSettings();
+
+            $(document).ready(function() {
+                $("#pokemon-name").select2();
+            })
 
             function initializeSettings() {
                 if (getCounter() !== 0) {
@@ -284,13 +293,27 @@
                 selectedPokemon.innerHTML = '';
 
                 for (var i = 0; i < gens.length; i++) {
-                    var option = gens[i];
-                    var element = document.createElement("option");
+                    var genOption = gens[i];
+                    var genElement = document.createElement("option");
+                    var groupElement = document.createElement("optgroup");
 
-                    element.text = option;
-                    element.value = option;
-                    selectedGen.options.add(element);
+                    genElement.text = genOption;
+                    genElement.value = genOption;
+                    selectedGen.options.add(genElement);
                     updateGen(getGen());
+
+                    groupElement.label = genOption;
+                    selectedPokemon.add(groupElement);
+
+                    for (var j = 0; j < pokemon.length; j++) {
+                        var pokemonOption = pokemon[j];
+                        var pokemonElement = document.createElement("option");
+
+                        pokemonElement.text = pokemonOption;
+                        pokemonElement.value = pokemonOption;
+                        groupElement.appendChild(pokemonElement);
+                        updateName(getName());
+                    }
                 }
 
                 for (var i = 0; i < games.length; i++) {
@@ -304,15 +327,7 @@
                     
                 }
 
-                for (var i = 0; i < pokemon.length; i++) {
-                    var option = pokemon[i];
-                    var element = document.createElement("option");
-
-                    element.text = option;
-                    element.value = option;
-                    selectedPokemon.add(element);
-                    updateName(getName());
-                }
+                
 
                 saveSettings();
             }
