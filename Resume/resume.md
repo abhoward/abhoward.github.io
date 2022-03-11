@@ -1,12 +1,9 @@
 # Alec's Resume
 
----
-
-
 ## General Info 
 - **About:** Huge nerd. Obsessed with data, Pokemon, gaming, heavy metal, football, and corgis.
 
-- **Contact:** `(925) 550-0398` || [`alecbhoward@gmail.com`](mailto:alecbhoward@gmail.com) || [LinkedIn](https://www.linkedin.com/in/alecbhoward)
+- **Contact:** `(925) 550-0398` \| [`alecbhoward@gmail.com`](mailto:alecbhoward@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/alecbhoward)
 
 - **Location:** Houston, TX
 
@@ -20,7 +17,7 @@
 - **Development Environments:** SQL, dbt, Django, Selenium
 
 ## Experience
-**NZXT || Remote || April 2019 - Present**
+**NZXT \| Remote \| April 2019 - Present**
 
 *Data Scientist*
 
