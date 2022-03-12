@@ -19,4 +19,4 @@ For those interested in hunting shiny Pokémon, you can use the counter below to
 # Resume
 
 If for some reason you're interested in reading about my professional experience, you can find my resume below
-- [Resume](Resume/resume.md){:target="_blank"}
+- ### [Resume](Resume/resume.md){:target="_blank"}
