@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/drilldown.js"></script>
+    </head>
+    <body style="margin:0;padding:0;height:100vh">
+        <div id="container" style="width:100%;height:100%">Loading....</div>
+        <script>
+            var safariWeek2023Link = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/safari_week_2023_data.json';
+
+            function createHighchart(data1) {
+                var safariWeek2023 = data1[0];
+
+                Highcharts.chart('container', {
+                    'chart': {
+                        'type': 'histogram'
+                    },
+                    'title': {
+                        'text': '<b>Safari Week 2023</b></br>Encounter Distribution'
+                    },
+                    'subtitle': {
+                        'text': 'Click on the bars to drill down. Source: Twitter.<br><i>Only includes tweets that contain the hashtag #safariweek2023</i>'
+                    },
+                    'legend': {
+                        'verticalAlign': 'top'
+                    },
+                    'plotOptions': {
+                        'histogram': {
+                            'accessibility': {
+                                'point': {
+                                    'valueDescriptionFormat': '{index}. {point.x:.3f} to {point.x2:.3f}, {point.y}.'
+                                }
+                            }
+                        }
+                    },
+                    'tooltip': {
+                        'shared': true,
+                        // 'pointFormatter': function() {
+                        //     var value;
+                        //     if (this.series.name.includes("Win Rate")) {
+                        //         value = this.y*100;
+                        //         value = value.toFixed(2) + '%'
+                        //     } else {
+                        //         value = this.y.toLocaleString(undefined, {'minimumFractionDigits':0, 'maximumFractionDigits':0});
+                        //     }
+                        //     if (typeof this.zone.color != "undefined") {
+                        //         return '<span style="color:' + this.zone.color + '">' + this.series.name + '</span>: <b>' + value + '</b><br />';
+                        //     } else {
+                        //         return '<span style="color:' + this.series.color + '">' + this.series.name + '</span>: <b>' + value + '</b><br />';
+                        //     }
+                        // },
+                        'headerFormat': '<b>{point.key}</b><br>'
+                    },
+                    'xAxis': [{
+                        'title': {
+                            'text': 'Encounters'
+                        },
+                        'alignTicks': false
+                    }, {
+                        'title': {
+                            'text': 'Histogram'
+                        },
+                        'alignTicks': false,
+                        'opposite': true
+                    }],
+                    'yAxis': [
+                        { // Primary Axis
+                            'title': {
+                                'text': 'Encounters'
+                            },
+                        },
+                        {
+                            'title': {
+                                'text': 'Histogram'
+                            },
+                            'opposite': true
+                        }
+                    ],
+                    'series': [
+                        {
+                            'type': 'histogram',
+                            'name': 'Encounters',
+                            'xAxis': 1, 
+                            'yAxis': 1,
+                            'baseSeries': 's1',
+                            'color': 'rgba(0, 156, 173, 0.45)',
+                            'data': safariWeek2023Encounters
+                        }
+                    ]
+                    // 'drilldown': {
+                    //     'drillUpButton': {
+                    //         'theme': {
+                    //             'fill': 'white',
+                    //             'stroke-width': 1,
+                    //             'stroke': 'silver',
+                    //             'r': 0
+                    //         }
+                    //     },
+                    //     'series': totalTeamHeroes
+                    // }
+                });
+            }
+
+            function ajaxCalls() {
+                return [
+                    $.ajax({
+                        url: safariWeek2023Link,
+                        dataType: 'json'
+                    })
+                ];
+            }
+
+            $.when.apply($, ajaxCalls()).then(createHighchart);
+        </script>
+    </body>
+</html>
