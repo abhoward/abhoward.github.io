@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
         <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
         <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js"></script>
         <script type="text/javascript" src="https://code.highcharts.com/modules/drilldown.js"></script>
@@ -10,10 +10,10 @@
     <body style="margin:0;padding:0;height:100vh">
         <div id="container" style="width:100%;height:100%">Loading....</div>
         <script>
-            var safariWeek2023Link = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/safari_week_2023_data.json';
+            var safariWeek2023EncountersLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/safari_week_2023_encounters.json';
 
             function createHighchart(data1) {
-                var safariWeek2023 = data1[0];
+                var safariWeek2023Encounters = data1['data'];
 
                 Highcharts.chart('container', {
                     'chart': {
@@ -39,20 +39,6 @@
                     },
                     'tooltip': {
                         'shared': true,
-                        // 'pointFormatter': function() {
-                        //     var value;
-                        //     if (this.series.name.includes("Win Rate")) {
-                        //         value = this.y*100;
-                        //         value = value.toFixed(2) + '%'
-                        //     } else {
-                        //         value = this.y.toLocaleString(undefined, {'minimumFractionDigits':0, 'maximumFractionDigits':0});
-                        //     }
-                        //     if (typeof this.zone.color != "undefined") {
-                        //         return '<span style="color:' + this.zone.color + '">' + this.series.name + '</span>: <b>' + value + '</b><br />';
-                        //     } else {
-                        //         return '<span style="color:' + this.series.color + '">' + this.series.name + '</span>: <b>' + value + '</b><br />';
-                        //     }
-                        // },
                         'headerFormat': '<b>{point.key}</b><br>'
                     },
                     'xAxis': [{
@@ -83,33 +69,30 @@
                     'series': [
                         {
                             'type': 'histogram',
-                            'name': 'Encounters',
+                            'name': 'Histogram',
                             'xAxis': 1, 
                             'yAxis': 1,
                             'baseSeries': 's1',
                             'color': 'rgba(0, 156, 173, 0.45)',
-                            'data': safariWeek2023Encounters
+                            'zIndex': -1
+                        }, {
+                            'name': 'Encounters',
+                            'type': 'scatter',
+                            'data': [1, 2, 3, 4, 5],
+                            'id': 's1',
+                            'marker': {
+                                'radius': 1.5
+                            }
                         }
                     ]
-                    // 'drilldown': {
-                    //     'drillUpButton': {
-                    //         'theme': {
-                    //             'fill': 'white',
-                    //             'stroke-width': 1,
-                    //             'stroke': 'silver',
-                    //             'r': 0
-                    //         }
-                    //     },
-                    //     'series': totalTeamHeroes
-                    // }
                 });
             }
 
             function ajaxCalls() {
                 return [
                     $.ajax({
-                        url: safariWeek2023Link,
-                        dataType: 'json'
+                        url: safariWeek2023EncountersLink
+                        // dataType: 'json'
                     })
                 ];
             }
