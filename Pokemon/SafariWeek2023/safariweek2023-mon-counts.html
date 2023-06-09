@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/drilldown.js"></script>
+    </head>
+    <body style="margin:0;padding:0;height:100vh">
+        <div id="container" style="width:100%;height:100%">Loading....</div>
+        <script>
+            var monCountsLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/safari_week_2023_mon_counts.json';
+            var monEncountersLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/DPC1S2/DPC/Animajor/safari_week_2023_mon_encounters.json';
+
+            function createHighchart(data1, data2) {
+                var monCounts = data1[0];
+                var monEncounters = data2[0];
+
+                Highcharts.chart('container', {
+                    'chart': {
+                        'type': 'column'
+                    },
+                    'title': {
+                        'text': '<b>Safari Week 2023</b></br>Pokemon Encountered'
+                    },
+                    'subtitle': {
+                        'text': 'Click the bars or Pokemon names to drill down to individual encounters and their corresponding tweets. Source: twitter.com.<br><i>Only includes tweets that contain the hashtag #safariweek2023.</i>'
+                    },
+                    'legend': {
+                        'verticalAlign': 'top'
+                    },
+                    // 'plotOptions': {
+                    //     'series': {
+                    //         'stacking': 'normal'
+                    //     }
+                    // },
+                    'tooltip': {
+                        'shared': true,
+                        'pointFormatter': function() {
+                            return '<span style="color:' + this.series.color + '">' + this.series.name + '</span>: <b>' + this.y + '</b></br>';
+                        },
+                        'headerFormat': '<b>{point.key}</b><br>'
+                    },
+                    'xAxis': {
+                        'type': 'category',
+                        'title': {
+                            'text': 'Pokemon'
+                        }
+                    },
+                    'yAxis': {
+                        'min': 0,
+                        'title': {
+                            'text': 'Number Seen'
+                        },
+                        'plotLines': [
+                            {
+                                'id': 'Total Pokemon Seen',
+                                'color': '#2a9cd1',
+                                'width': 2, 
+                                'value': 100,
+                                'dashStyle': 'dash',
+                                'zIndex': 2, 
+                                'label': {
+                                    'text': 'Total Pokemon Seen',
+                                    'x': 0,
+                                    'y': -10
+                                }
+                            }
+                        ]
+                    },
+                    'series': [
+                        {
+                            'name': 'Pokemon Seen',
+                            'color': 'rgba(0, 156, 173, 0.75)',
+                            'dataSorting': {
+                                'enabled': true,
+                                'sortKey': 'this.point.stackTotal'
+                            },
+                            'data': monCounts
+                        } 
+                    ],
+                    'drilldown': {
+                        'drillUpButton': {
+                            'theme': {
+                                'fill': 'white',
+                                'stroke-width': 1,
+                                'stroke': 'silver',
+                                'r': 0
+                            }
+                        },
+                        'series': monEncounters,
+                    }
+                })
+            }
+
+            function ajaxCalls() {
+                return [
+                    $.ajax({
+                        url: monCountsLink,
+                        dataType: 'json'
+                    }),
+                    $.ajax({
+                        url: monEncountersLink,
+                        dataType: 'json'
+                    })
+                ];
+            }
+
+            $.when.apply($, ajaxCalls()).then(createHighchart);
+        </script>
+    </body>
+</html>
