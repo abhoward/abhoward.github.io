@@ -19,28 +19,63 @@
 
                 Highcharts.chart('container', {
                     'chart': {
-                        'type': 'column'
+                        'type': 'column',
+                        'events': {
+                            'drilldown': function(options) {
+                                // console.log(options);
+                                options.seriesOptions.point = {
+                                    'events': {
+                                        'click': function(){
+                                            window.open(this.name, '_blank');
+                                        }
+                                    }
+                                };
+
+                                options.seriesOptions.cursor = 'pointer';
+
+                                options.seriesOptions.dataLabels = false;
+
+                                // totalText.destroy();
+
+                            }
+                            // 'load': function() {
+                            //     let series = this.series
+                            //     let sum = 0
+                            //     for(let i = 0; i < series.length; i++) {
+                            //         if(series[i].visible){
+                            //         for(let j = 0; j < series[i].data.length; j++) {
+                            //             sum += series[i].data[j].y
+                            //         }
+                            //       }
+                            //     }
+                            //    totalText = this.renderer.text("Total Shiny Pokemon Seen: " + Highcharts.numberFormat(sum, 0,","," "), 100, 100).add();
+                            // }
+                        }
                     },
                     'title': {
                         'text': '<b>Safari Week 2023</b></br>Pokemon Encountered'
+                    },
+                    'plotOptions': {
+                        'series': {
+                            'dataLabels': {
+                                'enabled': true,
+                                'inside': true,
+                                'useHTML': true,
+                                'align': 'center',
+                                'formatter': function () {
+                                    var str = this.point.name.toLowerCase().replace(" ", "-");
+
+                                    return '<div style="width: 40px; height: 40px; position: relative;">' +  
+                                        '<img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/' + str + '.png" style="width: 100%; height: 100%"></div>'
+                                }
+                            }
+                        }
                     },
                     'subtitle': {
                         'text': 'Click the bars or Pokemon names to drill down to individual encounters and their corresponding tweets. Source: twitter.com.<br><i>Only includes tweets that contain the hashtag #safariweek2023.</i>'
                     },
                     'legend': {
                         'verticalAlign': 'top'
-                    },
-                    'plotOptions': {
-                        'drilldown': {
-                            'cursor': 'pointer',
-                            'point': {
-                                'events': {
-                                    'click': function(){
-                                        location.href = this.options.key;
-                                    }
-                                }
-                            }
-                        }
                     },
                     'tooltip': {
                         'shared': true,
@@ -53,32 +88,18 @@
                         'type': 'category',
                         'title': {
                             'text': 'Pokemon'
-                        }
+                        },
+                        'labels': {'enabled': false}
                     },
                     'yAxis': {
                         'min': 0,
                         'title': {
                             'text': 'Number Seen'
-                        },
-                        'plotLines': [
-                            {
-                                'id': 'Total Pokemon Seen',
-                                'color': '#2a9cd1',
-                                'width': 2, 
-                                'value': 100,
-                                'dashStyle': 'dash',
-                                'zIndex': 2, 
-                                'label': {
-                                    'text': 'Total Pokemon Seen',
-                                    'x': 0,
-                                    'y': -10
-                                }
-                            }
-                        ]
+                        }
                     },
                     'series': [
                         {
-                            'name': 'Pokemon Seen',
+                            'name': 'Total Seen',
                             'color': 'rgba(0, 156, 173, 0.75)',
                             'dataSorting': {
                                 'enabled': true,
@@ -88,15 +109,7 @@
                         } 
                     ],
                     'drilldown': {
-                        'drillUpButton': {
-                            'theme': {
-                                'fill': 'white',
-                                'stroke-width': 1,
-                                'stroke': 'silver',
-                                'r': 0
-                            }
-                        },
-                        'series': monEncounters,
+                        'series': monEncounters
                     }
                 })
             }
