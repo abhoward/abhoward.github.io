@@ -19,7 +19,21 @@
 
                 Highcharts.chart('container', {
                     'chart': {
-                        'type': 'histogram'
+                        'type': 'histogram',
+                        'events': {
+                            'load': function() {
+                                let series = this.series;
+                                let sum = 0
+                                for(let i = 0; i < series.length; i++) {
+                                    if(series[i].visible){
+                                        for(let j = 0; j < series[i].data.length; j++) {
+                                            sum += series[i].data[j].y
+                                    }
+                                  }
+                                }
+                                this.setTitle({text: '<b>Safari Week 2023</b></br>Encounter Histogram</br>Total Number of Encounters: ' + Highcharts.numberFormat(sum, 0, " ", ",")}, false, false);
+                            }
+                        }
                     },
                     'title': {
                         'text': '<b>Safari Week 2023</b></br>Encounter Histogram'

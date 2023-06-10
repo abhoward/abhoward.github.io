@@ -6,6 +6,7 @@
         <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
         <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js"></script>
         <script type="text/javascript" src="https://code.highcharts.com/modules/drilldown.js"></script>
+        <script src="https://code.highcharts.com/modules/annotations.js"></script>
     </head>
     <body style="margin:0;padding:0;height:100vh">
         <div id="container" style="width:100%;height:100%">Loading....</div>
@@ -17,12 +18,13 @@
                 var monCounts = data1[0];
                 var monEncounters = data2[0];
 
+                var titleText = 'Shiny Pokemon Encountered: '
+
                 Highcharts.chart('container', {
                     'chart': {
                         'type': 'column',
                         'events': {
                             'drilldown': function(options) {
-                                console.log(options)
                                 options.seriesOptions.point = {
                                     'events': {
                                         'click': function(){
@@ -31,8 +33,6 @@
                                     }
                                 };
 
-                                options.seriesOptions.dataSorting = {'enabled': true};
-
                                 options.seriesOptions.cursor = 'pointer';
 
                                 options.seriesOptions.dataLabels = {'enabled': false};
@@ -40,15 +40,46 @@
                                 this.xAxis[0].setTitle({'text': 'Individual Encounters'});
                                 this.yAxis[0].setTitle({'text': 'Number of Encounters'});
 
+                                // console.log(this)
+                                titleText = 'Number of Encounters for this Pokemon: '
                             },
                             'drillup': function() {
                                 this.xAxis[0].setTitle({'text': 'Pokemon'});
                                 this.yAxis[0].setTitle({'text': 'Shinies Seen'});
+
+                                titleText = 'Shiny Pokemon Encountered: '
+                            },
+                            'render': function() {
+                                let series = this.series;
+                                let sum = 0
+                                for(let i = 0; i < series.length; i++) {
+                                    if(series[i].visible){
+                                        for(let j = 0; j < series[i].data.length; j++) {
+                                            sum += series[i].data[j].y
+                                    }
+                                  }
+                                }
+
+                                drilldownSeries = this.options.drilldown.series;
+                                let drilldownSum = 0
+                                for(let i = 0; i < drilldownSeries.length; i++) {
+                                    // if(drilldownSeries[i].visible){
+                                    for(let j = 0; j < drilldownSeries[i].data.length; j++) {
+                                        drilldownSum += drilldownSeries[i].data[j][1]
+                                    }
+                                  // }
+                                }
+
+                                this.setTitle({text: '<b>Safari Week 2023</b></br>' + titleText + Highcharts.numberFormat(sum, 0, " ", ",") 
+                                    + '</br>Total Number of Encounters: ' + Highcharts.numberFormat(drilldownSum, 0, " ",",")}, false, false);
+                                // console.log(this.series);
+                                // console.log(drilldownSum);
+                                // console.log(drilldownSeries[0].data[1][1]);
                             }
                         }
                     },
                     'title': {
-                        'text': '<b>Safari Week 2023</b></br>Pokemon Encountered'
+                        'text': '<b>Safari Week 2023</b></br>' + titleText
                     },
                     'plotOptions': {
                         'series': {
@@ -73,7 +104,7 @@
                         }
                     },
                     'subtitle': {
-                        'text': 'Click the bars or Pokemon names to drill down to individual encounters and their corresponding tweets. Source: twitter.com.<br><i>Only includes tweets that contain the hashtag #safariweek2023.</i>'
+                        'text': 'Click the bars to drill down to each Pokemons individual encounters and their corresponding tweets. Source: twitter.com.<br><i>Only includes tweets that contain the hashtag #safariweek2023.</i>'
                     },
                     'legend': {
                         'verticalAlign': 'top'
@@ -100,14 +131,13 @@
                     },
                     'series': [
                         {
-                            'name': 'Total Seen',
+                            'name': 'Shinies Seen',
                             'color': 'rgba(0, 156, 173, 0.75)',
                             'dataSorting': {
                                 'enabled': true
-                                // 'sortKey': 'this.point.stackTotal'
                             },
                             'data': monCounts
-                        } 
+                        }
                     ],
                     'drilldown': {
                         'series': monEncounters
