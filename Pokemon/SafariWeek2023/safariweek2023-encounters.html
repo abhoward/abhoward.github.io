@@ -22,10 +22,11 @@
                         'type': 'histogram',
                         'events': {
                             'load': function() {
+                                console.log(this.series[1].name)
                                 let series = this.series;
                                 let sum = 0
                                 for(let i = 0; i < series.length; i++) {
-                                    if(series[i].visible){
+                                    if(series[i].visible && series[i].name === 'Encounters'){
                                         for(let j = 0; j < series[i].data.length; j++) {
                                             sum += series[i].data[j].y
                                     }

@@ -10,13 +10,17 @@ Below you can find various visualizations based on data and statistics from pro-
 
 - ### [Other Various Charts](Various)
 
-# Shiny Pokémon 
+# Shiny Pokemon 
 
-For those interested in hunting shiny Pokémon, you can use the counter below to track your hunts.
+Down here you can see stats for the Safari Week 2023 community event, in which shiny Pokemon hunters hunt Pokemon exclusively in the games' Safari Zones. All data for this event was sourced from [Twitter](https://www.twitter.com) and visualized with [Highcharts](https://www.highcharts.com/). Furthermore, [OpenAI's](https://openai.com/) AI language model Davinci was used to assist in extracting data from tweets (after fine-tuning it across ~250 tweets).
+
+- ### [Safari Week 2023](Pokemon/SafariWeek2023.html)
+
+For those interested in hunting shiny Pokémon, you can use the counter below to track your hunts (still a work in progress!).
 
 - ### [Counter](Counter/shiny_pokemon_counter.html "Click to view counter in full"){:target="_blank"}
 
 # Resume
 
-If for some reason you're interested in reading about my professional experience, you can find my resume below
+If for some reason you're interested in reading about my professional experience, you can find my resume below.
 - ### [Resume](Resume/resume.md){:target="_blank"}
