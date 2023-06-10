@@ -19,9 +19,9 @@
 ### Experience
 **NZXT \| Remote \| April 2019 - Present**
 
-*Data Scientist*
+*Lead Analytics Engineer*
 
-- Partnered with business leaders spanning multiple departments such as Finance, Software, and Community to help build essential reporting using Mode Analytics on top of Snowflake and Python. These dashboards must communicate complex analytics in simplistic details, sometimes in the form of interactive charts, other times in the form of data tables with multiple functionalities. Also performed ad-hoc data engineering using Python and ETL tools in order to automate previously manual tasks. Recently have overseen transition of data stack from Redshift to Snowflake  dbt. 
+- Partnered with business leaders spanning multiple departments such as Planning, Finance, Software, and Community to help build essential reporting using Mode Analytics on top of Snowflake and Python. These dashboards must communicate complex analytics in simplistic details, sometimes in the form of interactive charts, other times in the form of data tables with multiple functionalities. Also performed ad-hoc data engineering using Python and ETL tools in order to automate previously manual tasks. Recently have overseen transition of data stack from Redshift to Snowflake  dbt. 
 
 - Used Mode Analytics to build company-wide insights from scratch, such as competitor performance within specific product categories, inventory warehouse management, and more. 
 

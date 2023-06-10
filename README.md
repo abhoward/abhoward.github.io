@@ -14,7 +14,7 @@ Below you can find various visualizations based on data and statistics from pro-
 
 Down here you can see stats for the Safari Week 2023 community event, in which shiny Pokemon hunters hunt Pokemon exclusively in the games' Safari Zones. All data for this event was sourced from [Twitter](https://www.twitter.com) and visualized with [Highcharts](https://www.highcharts.com/). Furthermore, [OpenAI's](https://openai.com/) AI language model Davinci was used to assist in extracting data from tweets (after fine-tuning it across ~250 tweets).
 
-- ### [Safari Week 2023](Pokemon/SafariWeek2023.html)
+- ### [Safari Week 2023](Pokemon/SafariWeek2023)
 
 For those interested in hunting shiny Pokémon, you can use the counter below to track your hunts (still a work in progress!).
 

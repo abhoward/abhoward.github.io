@@ -8,7 +8,6 @@
 </div>
 
 ## **[Encounter Histogram](safariweek2023-encounters.html "Click to view graph in full"){:target="_blank"}**
-##### Features Drilldowns
 
 ### Preview:
 <div class="iframe-container">
