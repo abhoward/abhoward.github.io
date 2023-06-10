@@ -6,7 +6,7 @@
         <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
         <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js"></script>
         <script type="text/javascript" src="https://code.highcharts.com/modules/drilldown.js"></script>
-        <script src="https://code.highcharts.com/modules/annotations.js"></script>
+        <script src="https://code.highcharts.com/modules/mouse-wheel-zoom.js"></script>
     </head>
     <body style="margin:0;padding:0;height:100vh">
         <div id="container" style="width:100%;height:100%">Loading....</div>
@@ -18,11 +18,21 @@
                 var monCounts = data1[0];
                 var monEncounters = data2[0];
 
-                var titleText = 'Shiny Pokemon Encountered: '
+                var titleText = 'Total Shiny Pokemon Encountered: '
 
                 Highcharts.chart('container', {
                     'chart': {
                         'type': 'column',
+                        'zooming': {
+                            'mouseWheel': true,
+                            'resetButton': {
+                                'position': {
+                                    'x': 0,
+                                    'y': 0
+                                }
+                            }
+                        },
+                        'panning': true,
                         'events': {
                             'drilldown': function(options) {
                                 options.seriesOptions.point = {
@@ -35,19 +45,32 @@
 
                                 options.seriesOptions.cursor = 'pointer';
 
-                                options.seriesOptions.dataLabels = {'enabled': false};
+                                options.seriesOptions.dataLabels = {
+                                    'enabled': true, 
+                                    'useHTML': true,
+                                    'formatter': function () {
+                                        var str = options.seriesOptions.name.toLowerCase().replace(" ", "-");
+                                        var shiny_str = '/shiny/';
+
+                                        if (str == 'unknown') {
+                                            shiny_str = '';
+                                        }
+
+                                        return '<div style="width: 100px; height: 100px; position: relative;">' +  
+                                            '<img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/' + shiny_str + str + '.png" style="width: 100%; height: 100%"></div>'
+                                    }
+                                };
 
                                 this.xAxis[0].setTitle({'text': 'Individual Encounters'});
                                 this.yAxis[0].setTitle({'text': 'Number of Encounters'});
 
-                                // console.log(this)
-                                titleText = 'Number of Encounters for this Pokemon: '
+                                titleText = 'Total Number of Encounters for ' + options.seriesOptions.name + ': '
                             },
                             'drillup': function() {
                                 this.xAxis[0].setTitle({'text': 'Pokemon'});
                                 this.yAxis[0].setTitle({'text': 'Shinies Seen'});
 
-                                titleText = 'Shiny Pokemon Encountered: '
+                                titleText = 'Total Shiny Pokemon Encountered: '
                             },
                             'render': function() {
                                 let series = this.series;
@@ -71,7 +94,7 @@
                                 }
 
                                 this.setTitle({text: '<b>Safari Week 2023</b></br>' + titleText + Highcharts.numberFormat(sum, 0, " ", ",") 
-                                    + '</br>Total Number of Encounters: ' + Highcharts.numberFormat(drilldownSum, 0, " ",",")}, false, false);
+                                    + '</br>Grand Total Number of Encounters: ' + Highcharts.numberFormat(drilldownSum, 0, " ",",")}, false, false);
                                 // console.log(this.series);
                                 // console.log(drilldownSum);
                                 // console.log(drilldownSeries[0].data[1][1]);
@@ -107,7 +130,7 @@
                         }
                     },
                     'subtitle': {
-                        'text': 'Click the bars to drill down to each Pokemons individual encounters and their corresponding tweets. Source: twitter.com.<br><i>Only includes tweets that contain the hashtag #safariweek2023.</i>'
+                        'text': 'Click the bars to drill down to each Pokemons individual encounters and their corresponding tweets.<br>Use the mouse wheel (or pinch if on mobile) to zoom into the chart, and click + drag to pan. Source: twitter.com.<br><i>Only includes tweets that contain the hashtag #safariweek2023.</i>'
                     },
                     'legend': {
                         'verticalAlign': 'top'
@@ -139,7 +162,9 @@
                             'dataSorting': {
                                 'enabled': true
                             },
-                            'data': monCounts
+                            'data': monCounts,
+                            // 'zonesAxis': 'y',
+                            // 'zones': [{'value': 5000, 'color': 'yellow'}, {'value': 10000, 'color': 'red'}]
                         }
                     ],
                     'drilldown': {

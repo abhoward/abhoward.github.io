@@ -16,7 +16,7 @@ Down here you can see stats for the Safari Week 2023 community event, in which s
 
 - ### [Safari Week 2023](Pokemon/SafariWeek2023)
 
-For those interested in hunting shiny Pokémon, you can use the counter below to track your hunts (still a work in progress!).
+For those interested in hunting shiny Pokemon, you can use the counter below to track your hunts (still a work in progress!).
 
 - ### [Counter](Counter/shiny_pokemon_counter.html "Click to view counter in full"){:target="_blank"}
 
