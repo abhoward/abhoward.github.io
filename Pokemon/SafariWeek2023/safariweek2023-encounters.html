@@ -13,20 +13,9 @@
         <div id="container" style="width:100%;height:100%">Loading....</div>
         <script>
             var encountersLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/safari_week_2023_encounters.json';
-            var monEncountersLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/safari_week_2023_mon_encounters.json';
 
-            function createHighchart(data1, data2) {
-                // console.log(data1[0]['data'])
-                var encounters = data1[0]['data'];
-                const monEncounters = [];
-
-                // console.log(data2[0])
-
-                for(let i = 0; i < data2[0].length; i++) {
-                    for(let j = 0; j < data2[0][i]['data'].length; j++) {
-                        monEncounters.push(data2[0][i]['data'][j]);
-                    }
-                }
+            function createHighchart(data1) {
+                var encounters = data1['data'];
 
                 Highcharts.chart('container', {
                     'chart': {
@@ -43,17 +32,8 @@
                         'panning': true,
                         'events': {
                             'load': function() {
-                                // console.log(this.series[1].name)
-                                let series = this.series;
-                                let sum = 0
-                                for(let i = 0; i < series.length; i++) {
-                                    if(series[i].visible && series[i].name === 'Encounters'){
-                                        for(let j = 0; j < series[i].data.length; j++) {
-                                            sum += series[i].data[j].y
-                                    }
-                                  }
-                                }
-                                this.setTitle({text: '<b>Safari Week 2023</b></br>Encounter Histogram</br>Total Number of Encounters: ' + Highcharts.numberFormat(sum, 0, " ", ",")}, false, false);
+                                var avg = encounters.reduce((a, b) => a + b) / encounters.length;
+                                this.setTitle({text: '<b>Safari Week 2023</b></br>Encounter Histogram</br>Average Encounters Per Pokemon: ' + Highcharts.numberFormat(avg, 0, " ", ",")}, false, false);
                             }
                         }
                     },
@@ -131,10 +111,6 @@
                 return [
                     $.ajax({
                         url: encountersLink,
-                        dataType: 'json'
-                    }),
-                    $.ajax({
-                        url: monEncountersLink,
                         dataType: 'json'
                     })
                 ];
