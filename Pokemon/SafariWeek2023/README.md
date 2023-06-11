@@ -22,14 +22,20 @@ As a long-time shiny Pokemon hunter and full-time Analytics Engineer, I've alway
 
 Once I had extracted these tweets, I looked through them and realized that the people within the shiny hunting community have _VERY_ different ways of tweeting about their shinies! Some people include the Pokemon name and number of encounters, but a lot of people don't include either piece (or even both pieces) of information. Therefore, instead of creating a harad coded text extraction program, I decided to utilize [OpenAI's text model Davinci](https://platform.openai.com/docs/models/gpt-3-5) to extract the information I wanted out of these tweets. After performing some initial extractions, I quickly realized the model was too generalized to do a good job with this hyper-specific use-case. Thus I used [fine-tuning](https://platform.openai.com/docs/guides/fine-tuning) to further train the model; by giving it a [dataset](https://github.com/abhoward/abhoward.github.io/blob/main/data/Pokemon/davinci_training_data_prepared.jsonl) that I had manually classified, thereby "teaching" the model what exactly I wanted it to do. You can see some examples of the model's extraction efforts below:
 
-- https://twitter.com/AmpsDark/status/1666866526631366657 &rarr; "Rhyhorn: 20884" 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Shiny Rhyhorn in LeafGreen after 20,884 RE&#39;s! Caught after 1 ball! My 2nd shiny of safari week.<a href="https://twitter.com/hashtag/SafariWeek2023?src=hash&amp;ref_src=twsrc%5Etfw">#SafariWeek2023</a> <a href="https://twitter.com/hashtag/SafariWeek?src=hash&amp;ref_src=twsrc%5Etfw">#SafariWeek</a> <a href="https://t.co/1zg4pv58R2">pic.twitter.com/1zg4pv58R2</a></p>&mdash; Dark Amps (@AmpsDark) <a href="https://twitter.com/AmpsDark/status/1666866526631366657?ref_src=twsrc%5Etfw">June 8, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+&rarr; "Rhyhorn: 20884" 
   - Correct! 
-- https://twitter.com/Canned_Wolfmeat/status/1666881224567029785 &rarr; "No Pokemon found"
+
+- [https://twitter.com/Canned_Wolfmeat/status/1666881224567029785](https://twitter.com/Canned_Wolfmeat/status/1666881224567029785) &rarr; "No Pokemon found"
   - Correct given the text doesn't mention any specific Pokemon or encounters
-- https://twitter.com/Joesby07/status/1666896353731960859 &rarr; "Magneton: 0"
+- [https://twitter.com/Joesby07/status/1666896353731960859](https://twitter.com/Joesby07/status/1666896353731960859) &rarr; "Magneton: 0"
   - Correct! Pokemon name was found but no encounters were given
-- https://twitter.com/Sentyal/status/1664869189193195521/photo/1 &rarr; "Lapras: 0 and Abra: 0"
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">SAFARI WEEK BB! 1hr in and I caught a Shiny Lapras and Fail a Shiny Abra! What is my luck tonight!!!<a href="https://twitter.com/hashtag/safariweek2023?src=hash&amp;ref_src=twsrc%5Etfw">#safariweek2023</a> &amp; <a href="https://twitter.com/pkmnpride?ref_src=twsrc%5Etfw">@pkmnpride</a><a href="https://t.co/YHUTv3vU2A">https://t.co/YHUTv3vU2A</a> <a href="https://t.co/TF3r98MLUA">pic.twitter.com/TF3r98MLUA</a></p>&mdash; Sentyal | PokéTuber (@Sentyal) <a href="https://twitter.com/Sentyal/status/1664869189193195521?ref_src=twsrc%5Etfw">June 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+&rarr; "Lapras: 0 and Abra: 0"
   - Correct! The model successfully extracted two Pokemon from one tweet!
+
+
 - https://twitter.com/gr3atscotty/status/1667624161915863040 &rarr; "Riolu: 6224"
   - Correct! Somehow the model did not get confused by the 12626 encounter number, instead opting for the correct number 6224
 - https://twitter.com/TheDailySpinda/status/1666444624611647489 &rarr; "Spinda: 0"
