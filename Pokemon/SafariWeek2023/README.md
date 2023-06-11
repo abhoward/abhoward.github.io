@@ -21,8 +21,11 @@ My initial theory was that I could just simply send the text of the tweet to Cha
 As you can see, the model works surprisingly well! It still isn't perfect but I'm confident that it can get better as I give it more and more data to fine-tune it. If you're reading this and you're a shiny hunter, please consider formatting your tweets similarly to the first tweet listed above! It'll help raise the model extract data from your tweets more accurately!
 
 ### **Credits**
-- [Matt Brandl](https://twitter.com/TheAbsol) for organizing Safari Week 
-- [Msikma](https://msikma.github.io/pokesprite/) for the Pokemon icons used in the chart below
+- [Matt Brandl](https://twitter.com/TheAbsol) for organizing and coordinating Safari Week 
+- [Msikma](https://msikma.github.io/pokesprite/) for the shiny Pokemon icons used in the chart below
+- [Tweepy](https://www.tweepy.org/) for making a great, easy to use Tweet scraper for Python
+- [OpenAI](https://openai.com/) for creating our AI overlords
+- [Highcharts](https://www.highcharts.com/) for their super pretty visualizations
 
 ## **[Shiny Pokemon Encounters](safariweek2023-mon-counts.html "Click to view graph in full"){:target="_blank"}**
 ##### Features Drilldowns
