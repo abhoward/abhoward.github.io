@@ -48,7 +48,6 @@
                                 options.seriesOptions.dataLabels = {
                                     'enabled': true, 
                                     'useHTML': true,
-                                    'align': 'center',
                                     'formatter': function () {
                                         var str = options.seriesOptions.name.toLowerCase().replace(" ", "-");
                                         var shiny_str = '/shiny/';
@@ -108,6 +107,7 @@
                                 'inside': true,
                                 'useHTML': true,
                                 'align': 'center',
+                                'verticalAlign': 'bottom',
                                 'allowOverlap': true,
                                 'formatter': function () {
                                     var str = this.point.name.toLowerCase().replace(" ", "-");
@@ -124,16 +124,16 @@
                         }
                     },
                     'subtitle': {
-                        'text': 'Click the bars to drill down to each Pokemons individual encounters and their corresponding tweets.<br>Use the mouse wheel (or pinch if on mobile) to zoom into the chart, and click + drag to pan. Source: twitter.com.<br><i>Only includes tweets that contain the hashtag #safariweek2023.</i>'
+                        'text': "Click the bars to drill down to each Pokemon's individual encounters and their corresponding tweets.<br>Use the mouse wheel (or pinch if on mobile) to zoom into the chart, and click + drag to pan.<br><i>Only includes tweets that contain the hashtag #safariweek or #safariweek2023. Sorted alphabetically.</i>"
                     },
                     'legend': {
                         'verticalAlign': 'top'
                     },
                     'tooltip': {
-                        'shared': true,
+                        // 'shared': true,
                         'outside': true,
                         'pointFormatter': function() {
-                            return '<span style="color:' + this.series.color + '">' + this.series.name + '</span>: <b>' + this.total + '</b></br>';
+                            return '<span style="color:' + this.series.color + '">' + this.series.name + '</span>: <b>' + this.y;
                         },
                         'headerFormat': '<b>{point.key}</b><br>'
                     },
@@ -142,21 +142,22 @@
                         'title': {
                             'text': 'Pokemon'
                         },
-                        'labels': {'enabled': false}
+                        'labels': {'enabled': false},
+                        'reversed': true
                     },
                     'yAxis': {
                         'min': 0,
                         'title': {
                             'text': 'Shinies Seen'
-                        },
-                        'reversedStacks': false
+                        }
                     },
                     'series': [
                         {
                             'name': 'Shinies Seen',
                             'color': 'rgba(0, 156, 173, 0.75)',
                             'dataSorting': {
-                                'enabled': true
+                                'enabled': true,
+                                'sortKey': 'name'
                             },
                             'data': monCounts
                         }
