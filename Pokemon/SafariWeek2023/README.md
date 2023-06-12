@@ -5,7 +5,7 @@
 
 ### Preview:
 <div class="iframe-container">
-  <iframe src="safariweek2023-mon-counts.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Shiny Pokemon Encounters" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+  <iframe src="safariweek2023-explorer.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Shiny Pokemon Encounters" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
   <br>
 </div>
 
@@ -13,7 +13,7 @@
 
 ### Preview:
 <div class="iframe-container">
-  <iframe src="safariweek2023-encounters.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Encounter Histogram" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+  <iframe src="safariweek2023-histogram.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Encounter Histogram" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
   <br>
 </div>
 
