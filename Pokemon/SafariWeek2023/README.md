@@ -1,6 +1,6 @@
 # Safari Week 2023
 
-## **[Shiny Pokemon Encounters](safariweek2023-mon-counts.html "Click to view graph in full"){:target="_blank"}**
+## **[Shiny Pokemon Encounters](safariweek2023-explorer.html "Click to view graph in full"){:target="_blank"}**
 ##### Features Drilldowns
 
 ### Preview:
@@ -9,7 +9,7 @@
   <br>
 </div>
 
-## **[Encounter Histogram](safariweek2023-encounters.html "Click to view graph in full"){:target="_blank"}**
+## **[Encounter Histogram](safariweek2023-histogram.html "Click to view graph in full"){:target="_blank"}**
 
 ### Preview:
 <div class="iframe-container">
