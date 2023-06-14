@@ -10,26 +10,24 @@
     <body style="margin:0;padding:0">
         <div id="container" style="width:100%;height:100%">Loading....</div>
         <script>
-            var monCountsLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/safari_week_2023_mon_counts.json';
-            var monEncountersLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/safari_week_2023_mon_encounters.json';
+            var rareMons = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/safari_week_2023_rare_mon_encounters.json';
 
             var dragonairSVGLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/svg_paths/dragonair.txt'
             var kangaskhanSVGLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/svg_paths/kangaskhan.txt'
             var chanseySVGLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/svg_paths/chansey.txt'
-            var taurosSVGLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/svg_paths/beldum.txt'
+            var taurosSVGLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/svg_paths/tauros.txt'
             var scytherSVGLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/svg_paths/scyther.txt'
-            var metangSVGLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/svg_paths/gastly.txt'
+            var metangSVGLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/svg_paths/metang.txt'
 
-            function createHighchart(data1, data2, data3, data4, data5, data6, data7, data8) {
-                var monCounts = data1[0];
-                var monEncounters = data2[0];
+            function createHighchart(data1, data2, data3, data4, data5, data6, data7) {
+                var rareMonsLink = data1[0];
 
+                var metangSVG = data2[0];
                 var dragonairSVG = data3[0];
                 var kangaskhanSVG = data4[0];
                 var chanseySVG = data5[0];
                 var taurosSVG = data6[0];
                 var scytherSVG = data7[0];
-                var metangSVG = data8[0];
 
                 Highcharts.chart('container', {
                     'chart': {
@@ -56,13 +54,13 @@
                             'paths': [{
                                 'definition': dragonairSVG
                             }, {
-                                'definition': kangaskhanSVG
-                            }, {
                                 'definition': chanseySVG
+                            }, {
+                                'definition': scytherSVG
+                            },{
+                                'definition': kangaskhanSVG
                             },{
                                 'definition': taurosSVG
-                            },{
-                                'definition': scytherSVG
                             },{
                                 'definition': metangSVG
                             }]
@@ -82,7 +80,7 @@
                         'headerformat': '<b>' + this.id + '</b><br>'
                     },
                     'xAxis': {
-                        'categories': ['Dragonair', 'Kangaskhan', 'Chansey', 'Tauros', 'Scyther', 'Metang'],
+                        'categories': ['Dragonair', 'Chansey', 'Scyther', 'Kangaskhan', 'Tauros', 'Metang'],
                         'visible': true,
                         'opposite': true
                     },
@@ -92,67 +90,14 @@
                             'enabled': true
                         }
                     },
-                    'series': [
-                        {
-                            'name': 'Encounters',
-                            'keys': ['name', 'y', 'id', 'color'],
-                            'data': [
-                                ['Dragonair', 132931, 'https://twitter.com/twitter/status/1667492253873455107', 'rgba(208,62,203,0.9)'],
-                                ['Kangaskhan', 56690, 'https://twitter.com/twitter/status/1667287777594036224', 'rgb(216,212,177)'],
-                                ['Chansey', 38545, 'https://twitter.com/twitter/status/1666591299317686272', 'rgb(254,230,156)'],
-                                ['Tauros', 38256, 'https://twitter.com/twitter/status/1667367034005364736', 'rgb(88,200,242)'],
-                                ['Scyther', 36900, 'https://twitter.com/twitter/status/1668411866815627264', 'rgb(147,237,51)'],
-                                ['Metang', 22396, 'https://twitter.com/twitter/status/1668411866815627264', 'rgb(147,237,51)']
-                            ]
-                        },
-                        {
-                            'name': 'Encounters',
-                            'keys': ['name', 'y', 'id', 'color'],
-                            'data': [
-                                ['Dragonair', 20192, 'https://twitter.com/twitter/status/1667492253873455107', 'rgba(208,62,204,0.7)'],
-                                ['Kangaskhan', 7, 'https://twitter.com/twitter/status/1667287777594036224', 'rgb(216,212,178)'],
-                                ['Chansey', 19028, 'https://twitter.com/twitter/status/1666591299317686272', 'rgb(254,230,155)'],
-                                ['Tauros', 78218, 'https://twitter.com/twitter/status/1667367034005364736', 'rgb(88,200,241)'],
-                                ['Scyther', 921, 'https://twitter.com/twitter/status/1668411866815627264', 'rgb(147,237,50)'],
-                                ['Metang', 26172, 'https://twitter.com/twitter/status/1668411866815627264', 'rgb(147,237,50)']
-                            ]
-                        }
-                    // {
-                    //     'name': 'Encounters',
-                    //     'data': [[132931, 20192], [38545, 19028], [36900, 78218], [38256, 921], [56690, 7], [22396, 26172]]
-                    // }
-                    // {
-                    //     'name': 'Chansey',
-                    //     'data': [38545, 19028]
-                    // },
-                    // {
-                    //     'name': 'Scyther',
-                    //     'data': [36900, 78218]
-                    // },
-                    // {
-                    //     'name': 'Tauros',
-                    //     'data': [38256, 921]
-                    // },
-                    // {
-                    //     'name': 'Kangaskhan',
-                    //     'data': [56690, 7]
-                    // },
-                    // {
-                    //     'name': 'Metang',
-                    //     'data': [22396, 26172]
-                    // }
-                    ]
+                    'series': rareMons
                 })
             }
 
             function ajaxCalls() {
                 return [
                     $.ajax({
-                        url: monCountsLink,
-                        dataType: 'json'
-                    }),
-                    $.ajax({
-                        url: monEncountersLink,
+                        url: rareMonsLink,
                         dataType: 'json'
                     }),
                     $.ajax({
