@@ -74,10 +74,11 @@
                     },
                     'tooltip': {
                         'pointFormatter': function() {
-                            return '<span style="color:' + this.color + ';font-weight: bold;">' + this.name + '</span>: ' + Highcharts.numberFormat(this.y, 0, " ",",");
+                            return '<b>' + this.id + '</b></br><span style="color:' + this.color + ';font-weight: bold;">' + this.name + '</span>: ' + Highcharts.numberFormat(this.y, 0, " ",",");
                         },
                         'outside': true,
-                        'headerformat': '<b>' + this.id + '</b><br>'
+                        'headerFormat': ''
+
                     },
                     'xAxis': {
                         'categories': ['Dragonair', 'Chansey', 'Scyther', 'Kangaskhan', 'Tauros', 'Metang'],
