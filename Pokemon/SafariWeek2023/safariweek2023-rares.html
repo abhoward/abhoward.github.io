@@ -10,7 +10,7 @@
     <body style="margin:0;padding:0">
         <div id="container" style="width:100%;height:100%">Loading....</div>
         <script>
-            var rareMons = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/safari_week_2023_rare_mon_encounters.json';
+            var rareMonsLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/safari_week_2023_rare_mon_encounters.json';
 
             var dragonairSVGLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/svg_paths/dragonair.txt'
             var kangaskhanSVGLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/svg_paths/kangaskhan.txt'
@@ -20,7 +20,7 @@
             var metangSVGLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/svg_paths/metang.txt'
 
             function createHighchart(data1, data2, data3, data4, data5, data6, data7) {
-                var rareMonsLink = data1[0];
+                var rareMons = data1[0];
 
                 var metangSVG = data2[0];
                 var dragonairSVG = data3[0];
@@ -100,6 +100,11 @@
                         url: rareMonsLink,
                         dataType: 'json'
                     }),
+
+                    $.ajax({
+                        url: metangSVGLink,
+                        dataType: 'text'
+                    }),
                     $.ajax({
                         url: dragonairSVGLink,
                         dataType: 'text'
@@ -118,10 +123,6 @@
                     }),
                     $.ajax({
                         url: scytherSVGLink,
-                        dataType: 'text'
-                    }),
-                    $.ajax({
-                        url: metangSVGLink,
                         dataType: 'text'
                     })
                 ];
