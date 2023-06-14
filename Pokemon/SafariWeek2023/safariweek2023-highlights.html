@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js"></script>
+        <script src="https://code.highcharts.com/modules/pictorial.js"></script>
+    </head>
+    <body style="margin:0;padding:0;height:75vh">
+        <div id="container" style="width:100%;height:100%">Loading....</div>
+        <script>
+            var monCountsLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/safari_week_2023_mon_counts.json';
+            var monEncountersLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/safari_week_2023_mon_encounters.json';
+
+            var safariZoneSVGLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/assets/pokemon/svg_paths/safari_zone.txt'
+
+            function createHighchart(data1, data2, data3) {
+                var monCounts = data1[0];
+                var monEncounters = data2[0];
+                var safariZoneSVG = data3[0];
+
+                Highcharts.chart('container', {
+                    'chart': {
+                        'type': 'pictorial'
+                    },
+                    'title': {
+                        'text': '<b>Safari Week 2023</b></br>Highlighted Hunts'
+                    },
+                    'colors': 
+                        [
+                            'rgb(208,62,203)', 'rgb(216,212,177)', 'rgb(54,220,0)', 'rgb(116,73,215)', 'rgb(79,73,97)', 
+                            'rgb(4,18,190)', 'rgb(129,164,237)', 'rgb(254,230,156)', 'rgb(88,200,242)', 'rgb(147,237,51)'
+                        ],
+                    'plotOptions': {
+                        'series': {
+                            'stacking': 'percent',
+                            'pointPadding': 0,
+                            'groupPadding': 0,
+                            'borderWidth': 0,
+                            'dataLabels': {
+                                'enabled': true,
+                                'inside': true,
+                                'align': 'center',
+                                'allowOverlap': true,
+                                'verticalAlign': 'bottom',
+                                'useHTML': true,
+                                'formatter': function () {
+                                    var str = this.series.name.toLowerCase().replace(" ", "-");
+                                    
+                                    return '<div style="width: 100px; height: 100px; position: relative;">' +  
+                                        '<img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/' + str + '.png" style="width: 100%; height: 100%"></div>'
+                                }
+                            },
+                            'cursor': 'pointer',
+                            'events': {
+                                'click': function(e) {
+                                    window.open(e.point.series.options.id, '_blank');
+                                }
+                            },
+                            'paths': [{
+                                'definition': safariZoneSVG
+                            }]
+                        }
+                    },
+                    'subtitle': {
+                        'text': "Click the hunts below to open the corresponding tweet in a new tab.<br><i>Only includes tweets that contain the hashtag #safariweek or #safariweek2023. Sorted by encounters.</i>"
+                    },
+                    'legend': {
+                        'enabled': false
+                    },
+                    'tooltip': {
+                        'pointFormatter': function() {
+                            return '<span style="color:' + this.series.color + ';font-weight: bold;">' + this.series.name + '</span>: ' + Highcharts.numberFormat(this.y, 0, " ",",");
+                        },
+                        'outside': true
+                    },
+                    'xAxis': {
+                        'visible': false
+                    },
+                    'yAxis': {
+                        'visible': false,
+                        'stackShadow': {
+                            'enabled': true
+                        }
+                    },
+                    'series': [
+                        {
+                            'name': 'Dragonair',
+                            'data': [123931],
+                            'id': 'https://twitter.com/twitter/status/1667492253873455107',
+                            'tooltip': {
+                                'headerFormat': '<b>@Oliver_MKP</b><br>'
+                            }
+                        },
+                        {
+                            'name': 'Kangaskhan',
+                            'data': [56690],
+                            'id': 'https://twitter.com/twitter/status/1667287777594036224',
+                            'tooltip': {
+                                'headerFormat': '<b>@Fubuki990YT</b><br>'
+                            }
+                        },
+                        {
+                            'name': 'Tangela',
+                            'data': [52116],
+                            'id': 'https://twitter.com/twitter/status/1667916469445722113',
+                            'tooltip': {
+                                'headerFormat': '<b>@HeyItsTek</b><br>'
+                            }
+                        },
+                        {
+                            'name': 'Lapras',
+                            'data': [48122],
+                            'id': 'https://twitter.com/twitter/status/1667940768969900038',
+                            'tooltip': {
+                                'headerFormat': '<b>@BinkyBeetle</b><br>'
+                            }
+                        },
+                        {
+                            'name': 'Manectric',
+                            'data': [42186],
+                            'id': 'https://twitter.com/twitter/status/1668247118941769729',
+                            'tooltip': {
+                                'headerFormat': '<b>@Jochoa92</b><br>'
+                            }
+                        },
+                        {
+                            'name': 'Voltorb',
+                            'data': [41076],
+                            'id': 'https://twitter.com/twitter/status/1666463331790782464',
+                            'tooltip': {
+                                'headerFormat': '<b>@norainthefuture</b><br>'
+                            }
+                        },
+                        {
+                            'name': 'Nidorino',
+                            'data': [39955],
+                            'id': 'https://twitter.com/twitter/status/1667345912375676929',
+                            'tooltip': {
+                                'headerFormat': '<b>@joker_Shinepoke</b><br>'
+                            }
+                        },
+                        {
+                            'name': 'Chansey',
+                            'data': [38545],
+                            'id': 'https://twitter.com/twitter/status/1666591299317686272',
+                            'tooltip': {
+                                'headerFormat': '<b>@Ushiou_</b><br>'
+                            }
+                        },
+                        {
+                            'name': 'Gastly',
+                            'data': [38256],
+                            'id': 'https://twitter.com/twitter/status/1667367034005364736',
+                            'tooltip': {
+                                'headerFormat': '<b>@Kwikpanik</b><br>'
+                            }
+                        },
+                        {
+                            'name': 'Teddiursa',
+                            'data': [36900],
+                            'id': 'https://twitter.com/twitter/status/1668411866815627264',
+                            'tooltip': {
+                                'headerFormat': '<b>@Ronk475</b><br>'
+                            }
+                        }
+                    ]
+                })
+            }
+
+            function ajaxCalls() {
+                return [
+                    $.ajax({
+                        url: monCountsLink,
+                        dataType: 'json'
+                    }),
+                    $.ajax({
+                        url: monEncountersLink,
+                        dataType: 'json'
+                    }),
+                    $.ajax({
+                        url: safariZoneSVGLink,
+                        dataType: 'text'
+                    })
+                ];
+            }
+
+            $.when.apply($, ajaxCalls()).then(createHighchart);
+        </script>
+    </body>
+</html>

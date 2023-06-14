@@ -1,11 +1,11 @@
 # Safari Week 2023
 
-## **[Shiny Pokemon Encounters](safariweek2023-explorer.html "Click to view graph in full"){:target="_blank"}**
+## **[Shiny Pokemon Explorer](safariweek2023-explorer.html "Click to view graph in full"){:target="_blank"}**
 ##### Features Drilldowns
 
 ### Preview:
 <div class="iframe-container">
-  <iframe src="safariweek2023-explorer.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Shiny Pokemon Encounters" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+  <iframe src="safariweek2023-explorer.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Shiny Pokemon Explorer" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
   <br>
 </div>
 
@@ -14,6 +14,14 @@
 ### Preview:
 <div class="iframe-container">
   <iframe src="safariweek2023-histogram.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Encounter Histogram" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+  <br>
+</div>
+
+## **[Highlighted Hunts](safariweek2023-highlights.html "Click to view graph in full"){:target="_blank"}**
+
+### Preview:
+<div class="iframe-container">
+  <iframe src="safariweek2023-highlights.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Highlighted Hunts" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
   <br>
 </div>
 
