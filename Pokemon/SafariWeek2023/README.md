@@ -17,6 +17,14 @@
   <br>
 </div>
 
+## **[Rare Encounters](safariweek2023-rares.html "Click to view graph in full"){:target="_blank"}**
+
+### Preview:
+<div class="iframe-container">
+  <iframe src="safariweek2023-rares.html" width="100%" frameborder="0" loading="lazy" scrolling="no" title="Rare Encounters" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+  <br>
+</div>
+
 ## **[Highlighted Hunts](safariweek2023-highlights.html "Click to view graph in full"){:target="_blank"}**
 
 ### Preview:
