@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js"></script>
+        <script src="https://code.highcharts.com/modules/histogram-bellcurve.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/drilldown.js"></script>
+    </head>
+    <body style="margin:0;padding:0;height:100vh">
+        <div id="container" style="width:100%;height:100%">Loading....</div>
+        <script>
+            var encountersLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/fossil_week_2023_encounters.json';
+
+            function createHighchart(data1) {
+                var encounters = data1['data'];
+
+                Highcharts.chart('container', {
+                    'chart': {
+                        'type': 'histogram',
+                        'panning': true,
+                        'events': {
+                            'load': function() {
+                                var avg = encounters.reduce((a, b) => a + b) / encounters.length;
+                                this.setTitle({text: '<b>fossil Week 2023</b></br>Encounter Histogram</br>Average Encounters Per Pokemon: ' + Highcharts.numberFormat(avg, 0, " ", ",")}, false, false);
+                            }
+                        }
+                    },
+                    'title': {
+                        'text': '<b>fossil Week 2023</b></br>Encounter Histogram'
+                    },
+                    'subtitle': {
+                        'text': 'A visualization of the distribution of encounters during fossil Week 2023.<br><i>Only includes tweets that contain the hashtag #fossilweek or #fossilweek2023.</i>'
+                    },
+                    'legend': {
+                        'verticalAlign': 'top'
+                    },
+                    'plotOptions': {
+                        'histogram': {
+                            'accessibility': {
+                                'point': {
+                                    'valueDescriptionFormat': '{index}. {point.x:.3f} to {point.x2:.3f}, {point.y}.'
+                                }
+                            },
+                            'binWidth': 1000
+                        }
+                    },
+                    'tooltip': {
+                        'shared': true,
+                        'headerFormat': '<b>{point.key}</b><br>'
+                    },
+                    'xAxis': [{
+                        'title': {
+                            'text': 'Encounters'
+                        },
+                        'alignTicks': false
+                    }, {
+                        'title': {
+                            'text': 'Histogram'
+                        },
+                        'alignTicks': false,
+                        'opposite': true
+                    }],
+                    'yAxis': [
+                        { 
+                            'title': {
+                                'text': 'Encounters'
+                            },
+                        },
+                        {
+                            'title': {
+                                'text': 'Histogram'
+                            },
+                            'opposite': true
+                        }
+                    ],
+                    'series': [{
+                            'name': 'Encounters',
+                            'type': 'scatter',
+                            'data': encounters,
+                            'color': 'rgba(0, 156, 173, 0.9)',
+                            'id': 's1',
+                            'marker': {
+                                'radius': 1.5
+                            }
+                        },{
+                            'type': 'histogram',
+                            'name': 'Histogram',
+                            'xAxis': 1, 
+                            'yAxis': 1,
+                            'baseSeries': 's1',
+                            'color': 'rgba(0, 156, 173, 0.45)',
+                            'zIndex': -1
+                        }
+                    ]
+                });
+            }
+
+            function ajaxCalls() {
+                return [
+                    $.ajax({
+                        url: encountersLink,
+                        dataType: 'json'
+                    })
+                ];
+            }
+
+            $.when.apply($, ajaxCalls()).then(createHighchart);
+        </script>
+    </body>
+</html>

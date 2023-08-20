@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/drilldown.js"></script>
+        <script src="https://code.highcharts.com/modules/mouse-wheel-zoom.js"></script>
+    </head>
+    <body style="margin:0;padding:0;height:100vh">
+        <div id="container" style="width:100%;height:100%">Loading....</div>
+        <script>
+            var monCountsLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/fossil_week_2023_mon_counts.json';
+            var monEncountersLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/fossil_week_2023_mon_encounters.json';
+
+            function createHighchart(data1, data2) {
+                var monCounts = data1[0];
+                var monEncounters = data2[0];
+
+                var titleText = 'Total Shiny Pokemon Encountered: '
+
+                Highcharts.chart('container', {
+                    'chart': {
+                        'type': 'column',
+                        'zooming': {
+                            'mouseWheel': true,
+                            'resetButton': {
+                                'position': {
+                                    'x': 0,
+                                    'y': 0
+                                }
+                            }
+                        },
+                        'panning': true,
+                        'events': {
+                            'drilldown': function(options) {
+                                options.seriesOptions.point = {
+                                    'events': {
+                                        'click': function(){
+                                            window.open(this.name, '_blank');
+                                        }
+                                    }
+                                };
+
+                                options.seriesOptions.cursor = 'pointer';
+
+                                options.seriesOptions.dataLabels = {
+                                    'enabled': true, 
+                                    'useHTML': true,
+                                    'formatter': function () {
+                                        var str = options.seriesOptions.name.toLowerCase().replace(" ", "-");
+                                        var shiny_str = '/shiny/';
+
+                                        if (str == 'unknown') {
+                                            shiny_str = '';
+                                        }
+
+                                        return '<div style="width: 75px; height: 75px; position: relative;">' +  
+                                            '<img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/' + shiny_str + str + '.png" style="width: 100%; height: 100%"></div>'
+                                    }
+                                };
+
+                                this.xAxis[0].setTitle({'text': 'Tweets'});
+                                this.yAxis[0].setTitle({'text': 'Number of Encounters'});
+
+                                titleText = 'Total Number of Encounters for ' + options.seriesOptions.name + ': '
+                            },
+                            'drillup': function() {
+                                this.xAxis[0].setTitle({'text': 'Pokemon'});
+                                this.yAxis[0].setTitle({'text': 'Shinies Seen'});
+
+                                titleText = 'Total Shiny Pokemon Encountered: '
+                            },
+                            'render': function() {
+                                let series = this.series;
+                                let sum = 0
+                                for(let i = 0; i < series.length; i++) {
+                                    if(series[i].visible){
+                                        for(let j = 0; j < series[i].data.length; j++) {
+                                            sum += series[i].data[j].y
+                                    }
+                                  }
+                                }
+
+                                drilldownSeries = this.options.drilldown.series;
+                                let drilldownSum = 0
+                                for(let i = 0; i < drilldownSeries.length; i++) {
+                                    for(let j = 0; j < drilldownSeries[i].data.length; j++) {
+                                        drilldownSum += drilldownSeries[i].data[j][1]
+                                    }
+                                }
+
+                                this.setTitle({text: '<b>fossil Week 2023</b></br>' + titleText + Highcharts.numberFormat(sum, 0, " ", ",") 
+                                    + '</br>Grand Total Number of Encounters: ' + Highcharts.numberFormat(drilldownSum, 0, " ",",")}, false, false);
+                            }
+                        }
+                    },
+                    'title': {
+                        'text': '<b>fossil Week 2023</b></br>' + titleText
+                    },
+                    'plotOptions': {
+                        'series': {
+                            'stacking': 'normal',
+                            'dataLabels': {
+                                'enabled': true,
+                                'inside': true,
+                                'useHTML': true,
+                                'align': 'center',
+                                'verticalAlign': 'bottom',
+                                'allowOverlap': true,
+                                'formatter': function () {
+                                    var str = this.point.name.toLowerCase().replace(" ", "-");
+                                    var shiny_str = '/shiny/';
+
+                                    if (str == 'unknown') {
+                                        shiny_str = '';
+                                    }
+
+                                    return '<div style="width: 50px; height: 50px; position: relative;">' +  
+                                        '<img src="https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/' + shiny_str + str + '.png" style="width: 100%; height: 100%"></div>'
+                                }
+                            }
+                        }
+                    },
+                    'subtitle': {
+                        'text': "Click the bars to drill down to each Pokemon's individual encounters and their corresponding tweets.<br>Use the mouse wheel (or pinch if on mobile) to zoom into the chart, and click + drag to pan.<br><i>Only includes tweets that contain the hashtag #fossilweek or #fossilweek2023. Sorted alphabetically.</i>"
+                    },
+                    'legend': {
+                        'verticalAlign': 'top'
+                    },
+                    'tooltip': {
+                        // 'shared': true,
+                        'outside': true,
+                        'pointFormatter': function() {
+                            return '<span style="color:' + this.series.color + '">' + this.series.name + '</span>: <b>' + this.y;
+                        },
+                        'headerFormat': '<b>{point.key}</b><br>'
+                    },
+                    'xAxis': {
+                        'type': 'category',
+                        'title': {
+                            'text': 'Pokemon'
+                        },
+                        'labels': {'enabled': false},
+                        'reversed': true
+                    },
+                    'yAxis': {
+                        'min': 0,
+                        'title': {
+                            'text': 'Shinies Seen'
+                        }
+                    },
+                    'series': [
+                        {
+                            'name': 'Shinies Seen',
+                            'color': 'rgba(0, 156, 173, 0.75)',
+                            'dataSorting': {
+                                'enabled': true,
+                                'sortKey': 'name'
+                            },
+                            'data': monCounts
+                        }
+                    ],
+                    'drilldown': {
+                        'series': monEncounters
+                    }
+                })
+            }
+
+            function ajaxCalls() {
+                return [
+                    $.ajax({
+                        url: monCountsLink,
+                        dataType: 'json'
+                    }),
+                    $.ajax({
+                        url: monEncountersLink,
+                        dataType: 'json'
+                    })
+                ];
+            }
+
+            $.when.apply($, ajaxCalls()).then(createHighchart);
+        </script>
+    </body>
+</html>

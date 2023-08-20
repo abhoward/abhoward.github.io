@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/highcharts-more.js"></script>
+        <script src="https://code.highcharts.com/modules/histogram-bellcurve.js"></script>
+        <script type="text/javascript" src="https://code.highcharts.com/modules/drilldown.js"></script>
+        <script src="https://code.highcharts.com/modules/mouse-wheel-zoom.js"></script>
+    </head>
+    <body style="margin:0;padding:0;height:100vh">
+        <div id="container" style="width:100%;height:100%">Loading....</div>
+        <script>
+            var encountersLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/fossil_week_2023_encounters.json';
+            var monEncountersLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/fossil_week_2023_mon_encounters.json';
+
+            function createHighchart(data1, data2) {
+                var encounters = data1['data'];
+                var monEncounters = data2[0];
+
+                // console.log(data2[0])
+
+                for(let i = 0; i < monEncounters.length; i++) {
+                    // console.log(typeof monEncounters[i]);
+                    monEncounters[i]['marker'] = {
+                        'symbol': 'url(https://raw.githubusercontent.com/msikma/pokesprite/master/pokemon-gen8/shiny/' + monEncounters[i]['name'].toLowerCase().replace(" ", "-") + '.png)'
+                    }
+                }
+
+                Highcharts.chart('container', {
+                    'chart': {
+                        'type': 'scatter',
+                        'inverted': true,
+                        'zooming': {
+                            'mouseWheel': true
+                        },
+                        'panning': true,
+                        'events': {
+                            'load': function(options) {
+                                // console.log(this.series[1].name)
+                                let series = this.series;
+                                let sum = 0
+                                for(let i = 0; i < series.length; i++) {
+                                    if(series[i].visible && series[i].name === 'Encounters'){
+                                        for(let j = 0; j < series[i].data.length; j++) {
+                                            sum += series[i].data[j].y
+                                    }
+                                  }
+                                }
+                            }
+                        }
+                    },
+                    'title': {
+                        'text': '<b>fossil Week 2023</b></br>Encounter Histogram'
+                    },
+                    'subtitle': {
+                        'text': 'A visualization of all encounters during fossil Week 2023. Source: twitter.com.<br><i>Only includes tweets that contain the hashtag #fossilweek2023 or #fossilweek.</i>'
+                    },
+                    'legend': {
+                        'verticalAlign': 'top'
+                    },
+                    'plotOptions': {
+                        'series': {
+                            'pointStart': 0,
+                            'cursor': 'pointer',
+                            'events': {
+                                'click': function() {
+                                    console.log(this);
+                                    console.log(this.point);
+                                    // window.open(this.name, '_blank');
+                                }
+                            }
+                        }
+                    },
+                    'tooltip': {
+                        'shared': true,
+                        'headerFormat': '<b>{point.key}</b><br>'
+                    },
+                    'xAxis': {
+                        'title': {
+                            'text': 'Encounters'
+                        },
+                        'alignTicks': false
+                    },
+                    'yAxis': { 
+                        'title': {
+                            'text': 'Encounters'
+                        },
+                    },
+                    'series': monEncounters
+                });
+            }
+
+            function ajaxCalls() {
+                return [
+                    $.ajax({
+                        url: encountersLink,
+                        dataType: 'json'
+                    }),
+                    $.ajax({
+                        url: monEncountersLink,
+                        dataType: 'json'
+                    })
+                ];
+            }
+
+            $.when.apply($, ajaxCalls()).then(createHighchart);
+        </script>
+    </body>
+</html>
