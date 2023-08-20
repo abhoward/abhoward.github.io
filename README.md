@@ -16,6 +16,10 @@ Down here you can see stats for the Safari Week 2023 community event, in which s
 
 - ### [Safari Week 2023](Pokemon/SafariWeek2023)
 
+Below, stats for the Fossil Week 2023 community event can be found. This event (held August 13th - 20th) featured shiny hunts for "fossil" Pokemon, i.e. Pokemon that were originally only encountered through reviving fossil items. All data for this event was sourced from [Twitter](https://www.twitter.com) and visualized with [Highcharts](https://www.highcharts.com/). Furthermore, [OpenAI's](https://openai.com/) AI language model Davinci was used to assist in extracting data from tweets (after fine-tuning it across ~250 tweets).
+
+- ### [Fossil Week 2023](Pokemon/FossilWeek2023)
+
 For those interested in hunting shiny Pokemon, you can use the counter below to track your hunts (still a work in progress!).
 
 - ### [Counter](Counter/shiny_pokemon_counter.html "Click to view counter in full"){:target="_blank"}
