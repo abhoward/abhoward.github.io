@@ -23,7 +23,7 @@
                         'events': {
                             'load': function() {
                                 var avg = encounters.reduce((a, b) => a + b) / encounters.length;
-                                this.setTitle({text: '<b>fossil Week 2023</b></br>Encounter Histogram</br>Average Encounters Per Pokemon: ' + Highcharts.numberFormat(avg, 0, " ", ",")}, false, false);
+                                this.setTitle({text: '<b>Fossil Week 2023</b></br>Encounter Histogram</br>Average Encounters Per Pokemon: ' + Highcharts.numberFormat(avg, 0, " ", ",")}, false, false);
                             }
                         }
                     },
@@ -31,7 +31,7 @@
                         'text': '<b>Fossil Week 2023</b></br>Encounter Histogram'
                     },
                     'subtitle': {
-                        'text': 'A visualization of the distribution of encounters during fossil Week 2023.<br><i>Only includes tweets that contain the hashtag #fossilweek or #fossilweek2023.</i>'
+                        'text': 'A visualization of the distribution of encounters during Fossil Week 2023.<br><i>Only includes tweets that contain the hashtag #fossilweek or #fossilweek2023.</i>'
                     },
                     'legend': {
                         'verticalAlign': 'top'
