@@ -1,10 +1,14 @@
 # About Me
 
-![Alec in Osaka Japan](./assets/pictures/alec_in_japan.png)
+<p align="center">
+  <img src="./assets/pictures/alec_in_japan.png" />
+</p>
 
-Hello! I'm Alec Howard, a passionate and versatile professional with a deep love for data, technology, and creative problem-solving. I created this website to showcase how I combine my diverse interests, including data analysis, and Pokemon, into engaging projects. As an avid enthusiast, I enjoy bringing my passions to life through data visualization, which you’ll see in the charts below. I'm currently seeking new career opportunities where I can apply my skills to tackle unique challenges. If you or someone in your network is looking for a data-driven, creative thinker who can bring both expertise and enthusiasm to the table, I’d love to connect. Feel free to reach out through my socials, located in the top-right corner of this page. Thank you for visiting – I hope you find these projects as exciting as I did creating them!
+Hello! I'm Alec Howard, a passionate and versatile professional with a deep love for data, technology, and creative problem-solving. I created this website to showcase how I combine my diverse interests, including data analysis and Pokemon, into engaging projects. As an avid enthusiast, I enjoy bringing my passions to life through data visualization, which you’ll see in the charts below. I'm currently seeking new career opportunities where I can apply my skills to tackle unique challenges. If you or someone in your network is looking for a data-driven, creative thinker who can bring both expertise and enthusiasm to the table, I’d love to connect. Feel free to reach out through my socials, located in the top-right corner of this page. Thank you for visiting – I hope you find these projects as exciting as I did creating them!
 
-![Alec in New York posing with an icon](./assets/pictures/alec_and_pikachu.png)
+<p align="center">
+  <img src="./assets/pictures/alec_and_pikachu.png" />
+</p>
 
 # Shiny Pokemon 
 
@@ -18,7 +22,7 @@ Stats for the Fossil Week 2023 community event can be found below. This event (h
 
 For those interested in hunting shiny Pokemon, you can use the counter below to track your hunts (still a work in progress!).
 
-- ### [Counter](Counter/shiny_pokemon_counter.html "Click to view counter in full"){:target="_blank"}
+- ### [Counter](Counter/shiny_pokemon_counter.html "Click to view counter in full")
 
 # Pro Dota 2 Graphs & Stats
 
@@ -33,4 +37,4 @@ Below you can find various visualizations based on data and statistics from pro-
 # Resume
 
 If you're interested in reading about my professional experience, you can find my resume below.
-- ### [Resume](Resume/resume.md){:target="_blank"}
+- ### [Resume](Resume/resume.md)
