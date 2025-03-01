@@ -10,24 +10,40 @@
 ### Technologies & Skills
 - **Languages:** Python, SQL, git, bash, HTML, CSS, Javascript
 
-- **Data Visualization:** Highcharts, Mode Analytics, Seaborn, Matplotlib, Tableau
+- **Data Visualization:** Tableau, Highcharts, Mode Analytics, Seaborn, Matplotlib
 
-- **Big Data Platforms:** AWS, Snowflake
+- **Big Data Platforms:** Snowflake, Fivetran, Hevo, AWS, Redshift
 
-- **Development Environments:** SQL, dbt, Django, Selenium
+- **Development Environments:** dbt, Django, Selenium
 
 ### Experience
-**NZXT \| Remote \| April 2019 - Present**
+**NZXT \| Remote \| April 2019 - February 2025**
 
-*Lead Analytics Engineer*
+*Lead Analytics Engineer (April 2022 - February 2025)*
 
-- Partnered with business leaders spanning multiple departments such as Planning, Finance, Software, and Community to help build essential reporting using Mode Analytics on top of Snowflake and Python. These dashboards must communicate complex analytics in simplistic details, sometimes in the form of interactive charts, other times in the form of data tables with multiple functionalities. Also performed ad-hoc data engineering using Python and ETL tools in order to automate previously manual tasks. Recently have overseen transition of data stack from Redshift to Snowflake  dbt. 
+- Led migration to Tableau, establishing it as the company’s primary business intelligence platform and ensuring seamless reporting across all departments.
 
-- Used Mode Analytics to build company-wide insights from scratch, such as competitor performance within specific product categories, inventory warehouse management, and more. 
+- Owned all Tableau administration, reporting, designing and maintaining dashboards that provided key insights into finance, product, sales, and planning.
 
-- Automated the company's rewards system in which the members can receive swag and other goodies for interacting with NZXT's community. 
+- Spearheaded the implementation of DBT at NZXT, transforming data transformation workflows and improving data model efficiency.
 
-**Beyond the Summit \| Los Angeles, California \| July 2018 - July 2020 (Contractor)**
+- Designed and built core DBT models used for downstream analytics, ensuring reliable, scalable, and well-structured data for reporting and business intelligence tools.
+
+- Partnered with the data engineering team to optimize data pipelines, improve ETL processes, and enhance overall data infrastructure.
+
+*Data Scientist (January 2020 - April 2022):*
+
+- Supported both B2B and DTC business segments by delivering executive-level insights on key performance indicators (KPIs) and future business trends.
+
+- Collaborated with cross-functional teams to drive strategic initiatives, streamline data processes, and enhance overall business intelligence infrastructure.
+
+*Business Intelligence Specialist (April 2019 - January 2020):*
+
+- Piloted movement to automate several key processes to improve efficiency across the entire business
+
+- Introduced and administered interactive Highchart visualizations to give business users more insightful data exploration capabilities
+
+**Beyond the Summit \| Los Angeles, California \| July 2018 - July 2020**
 
 *Data Engineer & Data Analyst*
 
@@ -37,12 +53,13 @@
 
 **Genentech \| South San Francisco, California \| February 2017 - March 2018**
 
-*Business System Analyst*
+*Business Systems Analyst*
 
 - Managed company’s Master Data Management system, analyzing data with SQL and Python and improving data quality with Informatica.
 
 - Built pipelines to help improve company efficiency, such as a Python script that automates extracting and importing data to
 Google Sheets.
+
 - Helped create and manage team’s Github page, helping to document and preserve SQL and Python code.
 
 **Hearthlytics \| San Francisco, California \| July 2015 - June 2016**

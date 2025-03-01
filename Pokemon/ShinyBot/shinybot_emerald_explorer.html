@@ -11,7 +11,7 @@
     <body style="margin:0;padding:0;height:100vh">
         <div id="container" style="width:100%;height:100%">Loading....</div>
         <script>
-            var encountersLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/shiny_bot_emerald_encounters/shiny_encounters.json';
+            var encountersLink = 'https://raw.githubusercontent.com/abhoward/abhoward.github.io/main/data/Pokemon/shiny_bot_emerald_encounters/running_total.json';
 
             function createHighchart(data1) {
                 var encounters = data1;
@@ -53,6 +53,11 @@
                         'min': 0,
                         'title': {
                             'text': 'Encounters'
+                        }
+                    },
+                    'plotOptions': {
+                        'series': {
+                            'turboThreshold': 10000000
                         }
                     },
                     'legend': {
