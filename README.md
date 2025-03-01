@@ -1,7 +1,7 @@
 # About Me
 
 <p align="center">
-  <img src="./assets/pictures/alec_in_japan.png" />
+  <img src="./assets/pictures/alec_in_japan.png" width="50%" height="50%" />
 </p>
 
 Hello! I'm Alec Howard, a passionate and versatile professional with a deep love for data, technology, and creative problem-solving. I created this website to showcase how I combine my diverse interests, including data analysis and Pokemon, into engaging projects. As an avid enthusiast, I enjoy bringing my passions to life through data visualization, which you’ll see in the charts below. I'm currently seeking new career opportunities where I can apply my skills to tackle unique challenges. If you or someone in your network is looking for a data-driven, creative thinker who can bring both expertise and enthusiasm to the table, I’d love to connect. Feel free to reach out through my socials, located in the top-right corner of this page. Thank you for visiting – I hope you find these projects as exciting as I did creating them!
